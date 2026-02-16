@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[EHR (Electronic Health Record) Intern](https://jobright.ai/jobs/info/6993660081476f6176ab05e5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[Dürr](http://www.durr.com/en/)** | **[Internship - Analytics (Service)](https://jobright.ai/jobs/info/699023fa0cc8ea15f1dacb6d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
 | **[Chewy](https://www.chewy.com)** | **[Research Scientist II Intern](https://jobright.ai/jobs/info/699152d90cc8ea15f1dbef7a?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 16 |
+| **[PANTHERx Rare Pharmacy](https://www.pantherxrare.com/)** | **[Intern, Data Science](https://jobright.ai/jobs/info/699365d4ce78e77b4fd73ac4?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, US | Hybrid | Feb 16 |
 | **[FetchJobs.co](https://www.fetchjobs.co)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6993410781476f6176aadca3?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 16 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 16 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6974334e37785856350e2cdf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/69903d360cc8ea15f1dafddb?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/699038006ea51a7610f2c2bd?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Feb 14 |
-| **[Dürr](http://www.durr.com/en/)** | **[Internship - Analytics (Service)](https://jobright.ai/jobs/info/699023fa0cc8ea15f1dacb6d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/698fcaa40cc8ea15f1da67a8?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Internship Program - Claims Encounters Analyst - R10722](https://jobright.ai/jobs/info/69900c9e6ea51a7610f27918?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Data & Analytics](https://jobright.ai/jobs/info/698fef5f0f6f7e7a2cec3441?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
@@ -125,11 +127,11 @@ For a complete list, click the following sortable link below:
 | **[Infinite Legacy](infinitelegacy.org)** | **[Data Intern](https://jobright.ai/jobs/info/698fea096ea51a7610f24d9d?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Data Intern](https://jobright.ai/jobs/info/698ffbb30cc8ea15f1da93f2?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
 | **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698ffb6f0f6f7e7a2cec416c?utm_campaign=1066&utm_source=git)** | Remote, PA, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698ff5916ea51a7610f25849?utm_campaign=1066&utm_source=git)** | US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe42a6ea51a7610f2493a?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe8000f6f7e7a2cec2d3d?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe0970f6f7e7a2cec26b9?utm_campaign=1066&utm_source=git)** | Remote, IL, US | Remote | Feb 13 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fdb190cc8ea15f1da71be?utm_campaign=1066&utm_source=git)** | Remote, IN, US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe8000f6f7e7a2cec2d3d?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe42a6ea51a7610f2493a?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698ff5916ea51a7610f25849?utm_campaign=1066&utm_source=git)** | US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe0970f6f7e7a2cec26b9?utm_campaign=1066&utm_source=git)** | Remote, IL, US | Remote | Feb 13 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe7d40cc8ea15f1da809e?utm_campaign=1066&utm_source=git)** | Remote, NY, US | Remote | Feb 13 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors/Masters - Transportation Data Intern (Summer 2026!)](https://jobright.ai/jobs/info/698fe33d0f6f7e7a2cec2912?utm_campaign=1066&utm_source=git)** | Tennessee - Knoxville | Hybrid | Feb 13 |
 | ↳ | **[Bachelors/Masters - Transportation Data Intern (Summer 2026!)](https://jobright.ai/jobs/info/698fd72d0cc8ea15f1da6f8b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Spatial Data Scientist](https://jobright.ai/jobs/info/698fce1a6ea51a7610f23916?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 13 |
 | ↳ | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/698fd1880f6f7e7a2cec1c34?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 13 |
 | ↳ | **[Graduate Intern, R&D Analyst](https://jobright.ai/jobs/info/698fc5e90f6f7e7a2cec1446?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 13 |
-| **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - Data & Analytics](https://jobright.ai/jobs/info/698fb4ac0f6f7e7a2cec00e3?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Feb 13 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698fb9100f6f7e7a2cec04e3?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
