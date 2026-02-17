@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Data Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945825e0bddb6acac2bf08?utm_campaign=1066&utm_source=git)** | Glendale, CA | On Site | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697f84df7f40342e15d83f5e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Customer Data Analytics](https://jobright.ai/jobs/info/6977c586fdeb8243a27ab1c9?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[D&I Summer Intern](https://jobright.ai/jobs/info/6977fcbc88e2b47213bc098a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/698ffb390f6f7e7a2cec412a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fd3cf6ea51a7610f23bfd?utm_campaign=1066&utm_source=git)** | Remote, CA, US | Remote | Feb 13 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fd3c36ea51a7610f23bf1?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Feb 13 |
-| ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fd2c00f6f7e7a2cec1d26?utm_campaign=1066&utm_source=git)** | Spring House, PA | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
