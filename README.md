@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Integrity Risk Management (IRM) Data and Knowledge Intern](https://jobright.ai/jobs/info/69942509ce78e77b4fd819d4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
+| **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Green Advisory & Market Creation: Data Analytics Intern](https://jobright.ai/jobs/info/69942e47ce78e77b4fd8226c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Visa Master Data Intern](https://jobright.ai/jobs/info/69942d82ce78e77b4fd821c6?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Data Collection and Analysis for Disaster and Climate Risk Portfolio Monitoring Internship](https://jobright.ai/jobs/info/69942cdee0bddb6acac292f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Productivity and Performance of Cities Support Intern](https://jobright.ai/jobs/info/69942933ce78e77b4fd81dfc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Global Partnerships Data Analyst Support Intern](https://jobright.ai/jobs/info/699428c8e0bddb6acac28ed4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. AI-Enabled Geospatial Analysis for Digital Infrastructure and Connectivity Intern](https://jobright.ai/jobs/info/699426edce78e77b4fd81bde?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[Economic Research Intern Using New Data Tools in the Caribbean](https://jobright.ai/jobs/info/699426c6ce78e77b4fd81bba?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
+| ↳ | **[IDB. Integrity Risk Management (IRM) Data and Knowledge Intern](https://jobright.ai/jobs/info/69942509ce78e77b4fd819d4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Data Analyst Intern](https://jobright.ai/jobs/info/69941dd381476f6176abda23?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | ↳ | **[IDB. Disaster Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69941b0281476f6176abd759?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | ↳ | **[IDB. Systemic Risk Research Internship - Risk Management](https://jobright.ai/jobs/info/69941a6e81476f6176abd6b1?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
+| ↳ | **[IDB. Intern to Develop a Methodology for Assessing and Valuing Identification Data Assets](https://jobright.ai/jobs/info/6994309de0bddb6acac296d3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6924f01bc0cefa13343e4700?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 16 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/6993dcf281476f6176ab776a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 16 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fcd130f6f7e7a2cec1931?utm_campaign=1066&utm_source=git)** | New Brunswick, NJ | Remote | Feb 13 |
 | **[Meketa Investment Group](http://www.meketa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6984073101214b4cdacc6202?utm_campaign=1066&utm_source=git)** | Westwood, MA | On Site | Feb 13 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Feb 13 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fc68d6ea51a7610f23447?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Remote | Feb 13 |
-| ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fc4126ea51a7610f230ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Feb 13 |
-| **[California Association of Food Banks](https://www.cafoodbanks.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6983d57b01214b4cdacbe759?utm_campaign=1066&utm_source=git)** | Oakland (Hybrid Position) | Hybrid | Feb 13 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698fe87e0f6f7e7a2cec2d97?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/698fbea56ea51a7610f2299d?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
-| **[Infinite Legacy](infinitelegacy.org)** | **[Data Intern](https://jobright.ai/jobs/info/698fea096ea51a7610f24d9d?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
-| **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Data Intern](https://jobright.ai/jobs/info/698ffbb30cc8ea15f1da93f2?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
-| **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe0970f6f7e7a2cec26b9?utm_campaign=1066&utm_source=git)** | Remote, IL, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe8000f6f7e7a2cec2d3d?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe42a6ea51a7610f2493a?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
