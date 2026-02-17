@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/6994916ece78e77b4fd89364?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Feb 17 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Feb 17 |
+| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Market & Business Data Analyst](https://jobright.ai/jobs/info/6977ff8252f3c27ec6443865?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Feb 17 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 17 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/697827a0fdeb8243a27b1c9a?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6993dbf781476f6176ab7686?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
+| **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Intelligence Developer – Intern](https://jobright.ai/jobs/info/6977ee2ffdeb8243a27ae779?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6977e08988e2b47213bbde3d?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Feb 17 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[NV5](http://www.nv5.com)** | **[Geospatial Technician - Intern](https://jobright.ai/jobs/info/6993cd5681476f6176ab691c?utm_campaign=1066&utm_source=git)** | Dulles, VA, US | On Site | Feb 16 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer High School Intern - Information Technology](https://jobright.ai/jobs/info/6993e86e81476f6176ab8718?utm_campaign=1066&utm_source=git)** | Morton, IL | On Site | Feb 16 |
 | **[NV5](http://www.nv5.com)** | **[Geospatial Technician - Intern](https://jobright.ai/jobs/info/6993f4a8e0bddb6acac2432c?utm_campaign=1066&utm_source=git)** | US-VA-Dulles | On Site | Feb 16 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6993edf5e0bddb6acac2372a?utm_campaign=1066&utm_source=git)** | Washington - Pullman | On Site | Feb 16 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research Intern / Silicon Valley AI Startup (H1-26)](https://jobright.ai/jobs/info/6993e0a1e0bddb6acac227f0?utm_campaign=1066&utm_source=git)** | San Mateo, United States | Remote | Feb 16 |
 | **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/697a6e269d60e431a16bec9f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 16 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Pharmacy Data Analyst Asst (Student Position)](https://jobright.ai/jobs/info/6993af40ce78e77b4fd78384?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/698fcaa40cc8ea15f1da67a8?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Internship Program - Claims Encounters Analyst - R10722](https://jobright.ai/jobs/info/69900c9e6ea51a7610f27918?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Data & Analytics](https://jobright.ai/jobs/info/698fef5f0f6f7e7a2cec3441?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| ↳ | **[CDS Intern - IT Sustainability’s Data Team](https://jobright.ai/jobs/info/698fe16c0f6f7e7a2cec2773?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/6990079c0f6f7e7a2cec59ef?utm_campaign=1066&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Feb 13 |
-| **[NewAge Industries, Inc.](http://newageindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698fdaee0cc8ea15f1da7186?utm_campaign=1066&utm_source=git)** | Southampton,PA,US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
