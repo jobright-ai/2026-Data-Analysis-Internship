@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 17 |
+| **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/697827a0fdeb8243a27b1c9a?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6993dbf781476f6176ab7686?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Intelligence Developer – Intern](https://jobright.ai/jobs/info/6977ee2ffdeb8243a27ae779?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer High School Intern - Information Technology](https://jobright.ai/jobs/info/6993e86e81476f6176ab8718?utm_campaign=1066&utm_source=git)** | Morton, IL | On Site | Feb 16 |
 | **[NV5](http://www.nv5.com)** | **[Geospatial Technician - Intern](https://jobright.ai/jobs/info/6993f4a8e0bddb6acac2432c?utm_campaign=1066&utm_source=git)** | US-VA-Dulles | On Site | Feb 16 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6993edf5e0bddb6acac2372a?utm_campaign=1066&utm_source=git)** | Washington - Pullman | On Site | Feb 16 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Analytics Developer](https://jobright.ai/jobs/info/6993ebb6e0bddb6acac2335b?utm_campaign=1066&utm_source=git)** | Newport News, Virginia, United States | On Site | Feb 16 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research Intern / Silicon Valley AI Startup (H1-26)](https://jobright.ai/jobs/info/6993e0a1e0bddb6acac227f0?utm_campaign=1066&utm_source=git)** | San Mateo, United States | Remote | Feb 16 |
 | **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/697a6e269d60e431a16bec9f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 16 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Pharmacy Data Analyst Asst (Student Position)](https://jobright.ai/jobs/info/6993af40ce78e77b4fd78384?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Feb 16 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6992d58881476f6176aa6b83?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Data Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992f048e0bddb6acac12ddd?utm_campaign=1066&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
-| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Analytics Developer](https://jobright.ai/jobs/info/6993f9e681476f6176aba06f?utm_campaign=1066&utm_source=git)** | Newport News, VA | On Site | Feb 15 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69926dbf0cc8ea15f1dcc55b?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | Feb 15 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/6991ffb56ea51a7610f43fe2?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 15 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6991eb9b6ea51a7610f436e3?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 15 |
