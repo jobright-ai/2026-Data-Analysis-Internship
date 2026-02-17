@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6993dbf781476f6176ab7686?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Intelligence Developer – Intern](https://jobright.ai/jobs/info/6977ee2ffdeb8243a27ae779?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
 | **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6977e08988e2b47213bbde3d?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CDS Intern - IT Sustainability’s Data Team](https://jobright.ai/jobs/info/698fe16c0f6f7e7a2cec2773?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/6990079c0f6f7e7a2cec59ef?utm_campaign=1066&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Feb 13 |
 | **[NewAge Industries, Inc.](http://newageindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698fdaee0cc8ea15f1da7186?utm_campaign=1066&utm_source=git)** | Southampton,PA,US | On Site | Feb 13 |
-| **[M13](http://m13.co)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/699023cb0cc8ea15f1dacb1d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
