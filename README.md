@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Business Intelligence Developer – Intern](https://jobright.ai/jobs/info/6977ee2ffdeb8243a27ae779?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 17 |
+| **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6977e08988e2b47213bbde3d?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Feb 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Data Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945825e0bddb6acac2bf08?utm_campaign=1066&utm_source=git)** | Glendale, CA | On Site | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697f84df7f40342e15d83f5e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Customer Data Analytics](https://jobright.ai/jobs/info/6977c586fdeb8243a27ab1c9?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/6990079c0f6f7e7a2cec59ef?utm_campaign=1066&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Feb 13 |
 | **[NewAge Industries, Inc.](http://newageindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698fdaee0cc8ea15f1da7186?utm_campaign=1066&utm_source=git)** | Southampton,PA,US | On Site | Feb 13 |
 | **[M13](http://m13.co)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/699023cb0cc8ea15f1dacb1d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fd4e06ea51a7610f23cfb?utm_campaign=1066&utm_source=git)** | Remote, WI, US | Remote | Feb 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/698ffb390f6f7e7a2cec412a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fd3cf6ea51a7610f23bfd?utm_campaign=1066&utm_source=git)** | Remote, CA, US | Remote | Feb 13 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fd3c36ea51a7610f23bf1?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
