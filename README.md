@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Feb 17 |
 | **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Green Advisory & Market Creation: Data Analytics Intern](https://jobright.ai/jobs/info/69942e47ce78e77b4fd8226c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6974334e37785856350e2cdf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Feb 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/69903d360cc8ea15f1dafddb?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Intern - Year Round (Data Analytics)](https://jobright.ai/jobs/info/699038006ea51a7610f2c2bd?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Feb 14 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Data Visualization and Database Management Intern Job ID : 271985](https://jobright.ai/jobs/info/69943ac781476f6176abf457?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Feb 14 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/698fcaa40cc8ea15f1da67a8?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Internship Program - Claims Encounters Analyst - R10722](https://jobright.ai/jobs/info/69900c9e6ea51a7610f27918?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Data & Analytics](https://jobright.ai/jobs/info/698fef5f0f6f7e7a2cec3441?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Computational Biology Data Analyst Intern](https://jobright.ai/jobs/info/698fcd9c0cc8ea15f1da699b?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Feb 13 |
 | ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fcd130f6f7e7a2cec1931?utm_campaign=1066&utm_source=git)** | New Brunswick, NJ | Remote | Feb 13 |
-| **[Meketa Investment Group](http://www.meketa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6984073101214b4cdacc6202?utm_campaign=1066&utm_source=git)** | Westwood, MA | On Site | Feb 13 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
