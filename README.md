@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6992d58881476f6176aa6b83?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Data Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992f048e0bddb6acac12ddd?utm_campaign=1066&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
+| **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Analytics Developer](https://jobright.ai/jobs/info/6993f9e681476f6176aba06f?utm_campaign=1066&utm_source=git)** | Newport News, VA | On Site | Feb 15 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69926dbf0cc8ea15f1dcc55b?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | Feb 15 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/6991ffb56ea51a7610f43fe2?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 15 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6991eb9b6ea51a7610f436e3?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 15 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/698fbea56ea51a7610f2299d?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Feb 13 |
 | **[Infinite Legacy](infinitelegacy.org)** | **[Data Intern](https://jobright.ai/jobs/info/698fea096ea51a7610f24d9d?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
 | **[The Living Legacy Foundation of Maryland](http://www.thellf.org/)** | **[Data Intern](https://jobright.ai/jobs/info/698ffbb30cc8ea15f1da93f2?utm_campaign=1066&utm_source=git)** | Baltimore, Baltimore, MD, US | On Site | Feb 13 |
-| **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe42a6ea51a7610f2493a?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe8000f6f7e7a2cec2d3d?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Feb 13 |
+| **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe8000f6f7e7a2cec2d3d?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe7d40cc8ea15f1da809e?utm_campaign=1066&utm_source=git)** | Remote, NY, US | Remote | Feb 13 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fdb190cc8ea15f1da71be?utm_campaign=1066&utm_source=git)** | Remote, IN, US | Remote | Feb 13 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698ffb6f0f6f7e7a2cec416c?utm_campaign=1066&utm_source=git)** | Remote, PA, US | Remote | Feb 13 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698ff5916ea51a7610f25849?utm_campaign=1066&utm_source=git)** | US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe7d40cc8ea15f1da809e?utm_campaign=1066&utm_source=git)** | Remote, NY, US | Remote | Feb 13 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fe0970f6f7e7a2cec26b9?utm_campaign=1066&utm_source=git)** | Remote, IL, US | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
