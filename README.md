@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Data Scientist Intern, NA](https://jobright.ai/jobs/info/6994d40fce78e77b4fd8e2eb?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Feb 17 |
 | **[Meketa Investment Group](http://www.meketa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6984073101214b4cdacc6202?utm_campaign=1066&utm_source=git)** | Westwood, MA | On Site | Feb 17 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6994c720e0bddb6acac3413a?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Feb 17 |
 | ↳ | **[Biostatistics Intern](https://jobright.ai/jobs/info/6994c5c5e0bddb6acac33e73?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 17 |
 | **[Incyte](http://www.incyte.com)** | **[Intern Data Science & Advanced Analytics](https://jobright.ai/jobs/info/6994c125ce78e77b4fd8c571?utm_campaign=1066&utm_source=git)** | Chadds Ford, PA | On Site | Feb 17 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Demand Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6994c08e81476f6176ac8908?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Feb 17 |
 | **[Incyte](http://www.incyte.com)** | **[Intern Biometrics](https://jobright.ai/jobs/info/6994c02ace78e77b4fd8c37e?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Feb 17 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Data Analysis Intern to Support the Education Division](https://jobright.ai/jobs/info/6994da07ce78e77b4fd8ea02?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - Business Intelligence](https://jobright.ai/jobs/info/6994bb7a81476f6176ac7fbd?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977a8de52f3c27ec643be7a?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Feb 17 |
+| **[The Mutual Group](https://www.themutualgroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6994d69781476f6176aca94e?utm_campaign=1066&utm_source=git)** | Des Moines Metro | Hybrid | Feb 17 |
+| **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6994d215e0bddb6acac34f76?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
 | **[Brother USA](https://brother-usa.com)** | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 17 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Enterprise Analytics Intern - Business Data & Analytics](https://jobright.ai/jobs/info/6994ccffe0bddb6acac34ba4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 17 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IgniteU Intern](https://jobright.ai/jobs/info/6994a85c81476f6176ac6bb4?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Feb 17 |
 | **[Sasser, Inc.](https://www.sasser.com/)** | **[AI & Data Analytics Intern](https://jobright.ai/jobs/info/6994a7bce0bddb6acac31908?utm_campaign=1066&utm_source=git)** | Oak Brook, IL | Hybrid | Feb 17 |
+| **[America's Poison Centers](https://aapcc.org)** | **[National Data Services Intern](https://jobright.ai/jobs/info/6994d539ce78e77b4fd8e44a?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 17 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6994a3f2ce78e77b4fd8a2da?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 17 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/697ee805abff4c399a9d9813?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Feb 17 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Enterprise Analytics Intern - Business Data & Analytics](https://jobright.ai/jobs/info/6994be1b81476f6176ac844b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Feb 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 15 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Data & Analytics](https://jobright.ai/jobs/info/69915fef6ea51a7610f3c09a?utm_campaign=1066&utm_source=git)** | Lake Spring, MO | On Site | Feb 14 |
 | **[Headway Technologies](https://headway.com/)** | **[Fab Operation Data Analyst Intern (49467)](https://jobright.ai/jobs/info/6990ded10cc8ea15f1db833d?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 14 |
-| **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6974e8ea206da320f49f104a?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 14 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69745bd0206da320f49e9bc8?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management and Data Analytic Bachelor's Intern](https://jobright.ai/jobs/info/6990bc480cc8ea15f1db76e1?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
-| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/697992e70791bc1d72304342?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Feb 14 |
-| **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
