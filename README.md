@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697f84df7f40342e15d83f5e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Customer Data Analytics](https://jobright.ai/jobs/info/6977c586fdeb8243a27ab1c9?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[D&I Summer Intern](https://jobright.ai/jobs/info/6977fcbc88e2b47213bc098a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Feb 17 |
 | **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clinician Nexus](http://cliniciannexus.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698fd3cf6ea51a7610f23bfd?utm_campaign=1066&utm_source=git)** | Remote, CA, US | Remote | Feb 13 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fd3c36ea51a7610f23bf1?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Feb 13 |
 | ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fd2c00f6f7e7a2cec1d26?utm_campaign=1066&utm_source=git)** | Spring House, PA | Remote | Feb 13 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Computational Biology Data Analyst Intern](https://jobright.ai/jobs/info/698fcd9c0cc8ea15f1da699b?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Feb 13 |
-| ↳ | **[R&D DSDH Integrated Data Products Intern](https://jobright.ai/jobs/info/698fcd130f6f7e7a2cec1931?utm_campaign=1066&utm_source=git)** | New Brunswick, NJ | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
