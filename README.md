@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69951c94e0bddb6acac3a509?utm_campaign=1066&utm_source=git)** | Nationwide, UNAVAILABLE, US | Remote | Feb 17 |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69952d8481476f6176ad0c13?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
+| ↳ | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69951c94e0bddb6acac3a509?utm_campaign=1066&utm_source=git)** | Nationwide, UNAVAILABLE, US | Remote | Feb 17 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69951673e0bddb6acac3a12a?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Data Science Intern](https://jobright.ai/jobs/info/6978337452f3c27ec6446270?utm_campaign=1066&utm_source=git)** | Northbrook, IL | On Site | Feb 17 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Talent Insights](https://jobright.ai/jobs/info/69952e4fe0bddb6acac3b62b?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 17 |
+| **[Watkins Wellness](https://www.watkinsmfg.com/)** | **[Intern - BI Data Analyst](https://jobright.ai/jobs/info/6995239b81476f6176ad012a?utm_campaign=1066&utm_source=git)** | Vista, CA | On Site | Feb 17 |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69952c7a81476f6176ad0a3e?utm_campaign=1066&utm_source=git)** | US-Nationwide | Remote | Feb 17 |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Data Science Internship, Summer 2026](https://jobright.ai/jobs/info/6995263e81476f6176ad03e7?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Feb 17 |
 | **[Alberta Securities Commission](https://www.asc.ca/)** | **[Summer Student, Data & Analytics](https://jobright.ai/jobs/info/6994f063e0bddb6acac37310?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 17 |
-| **[S&T Bank](https://www.stbank.com/)** | **[Intern-Analytics](https://jobright.ai/jobs/info/6974491d37785856350e407a?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
-| ↳ | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
+| **[S&T Bank](https://www.stbank.com/)** | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
+| ↳ | **[Intern-Analytics](https://jobright.ai/jobs/info/6974491d37785856350e407a?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
 | **[iMETALX Inc.](http://imetalx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6995141381476f6176acf30a?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Feb 17 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Data Intern](https://jobright.ai/jobs/info/699512d1e0bddb6acac39c74?utm_campaign=1066&utm_source=git)** | Oklahoma County, OK | On Site | Feb 17 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, BI & Data Analytics - Strategy](https://jobright.ai/jobs/info/6994ea39ce78e77b4fd8fcec?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
@@ -104,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Enterprise Analytics Intern - Business Data & Analytics](https://jobright.ai/jobs/info/6994be1b81476f6176ac844b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Feb 17 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Omnichannel Data Science Intern ](https://jobright.ai/jobs/info/6994c72881476f6176ac9618?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 17 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/69949cd9e0bddb6acac30e2c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 17 |
-| ↳ | **[Analyst Development Internship Program - Boston, MA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/6994988ee0bddb6acac309f2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
 | **[Blueprint Medicines](http://www.blueprintmedicines.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6994b191e0bddb6acac322ab?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Feb 17 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Feb 17 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Market & Business Data Analyst](https://jobright.ai/jobs/info/6977ff8252f3c27ec6443865?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Feb 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Business Intelligence Reporting Internship](https://jobright.ai/jobs/info/6993e7ff81476f6176ab86b5?utm_campaign=1066&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Geospatial Intern - Summer 2026](https://jobright.ai/jobs/info/6993923881476f6176ab2494?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Feb 16 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research Intern / Silicon Valley AI Startup (H1-26)](https://jobright.ai/jobs/info/6993bc9981476f6176ab5a9b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 16 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/6993b194e0bddb6acac1f964?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Feb 16 |
-| **[PANTHERx Rare Pharmacy](https://www.pantherxrare.com/)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6993a770e0bddb6acac1ee63?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 16 |
-| **[XiFin, Inc.](http://www.xifin.com)** | **[RCM Analytics Intern](https://jobright.ai/jobs/info/6993b994ce78e77b4fd78f82?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Feb 16 |
-| **[Edmentum](http://www.edmentum.com)** | **[Research Psychometric Summer Intern](https://jobright.ai/jobs/info/6993997c81476f6176ab2ce2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Remote | Feb 16 |
-| **[Trilliant Health](https://www.trillianthealth.com/)** | **[Research Intern](https://jobright.ai/jobs/info/699378aece78e77b4fd748e0?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
