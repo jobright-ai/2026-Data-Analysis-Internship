@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alberta Securities Commission](https://www.asc.ca/)** | **[Summer Student, Data & Analytics](https://jobright.ai/jobs/info/6994f063e0bddb6acac37310?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 17 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, BI & Data Analytics - Strategy](https://jobright.ai/jobs/info/6994ea39ce78e77b4fd8fcec?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Data Analytics/CMMS Intern](https://jobright.ai/jobs/info/6994e805e0bddb6acac369a0?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Feb 17 |
 | **[Velera](https://www.velera.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6994e425ce78e77b4fd8f51c?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Omnichannel Data Science Intern](https://jobright.ai/jobs/info/6994dfacce78e77b4fd8ef52?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 17 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6994df3ee0bddb6acac35e51?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Feb 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Data Scientist Intern, NA](https://jobright.ai/jobs/info/6994d40fce78e77b4fd8e2eb?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Feb 17 |
+| **[Sectra](http://www.sectra.com)** | **[Summer Internship Program - Data Analytics](https://jobright.ai/jobs/info/6994f77de0bddb6acac37cb9?utm_campaign=1066&utm_source=git)** | Shelton, CT | On Site | Feb 17 |
 | **[Meketa Investment Group](http://www.meketa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6984073101214b4cdacc6202?utm_campaign=1066&utm_source=git)** | Westwood, MA | On Site | Feb 17 |
 | **[Fresh Mark Inc.](http://freshmark.com)** | **[Data Analytics Intern – Resource Management](https://jobright.ai/jobs/info/6994e6ebe0bddb6acac36831?utm_campaign=1066&utm_source=git)** | Massillon, OH | On Site | Feb 17 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6994c720e0bddb6acac3413a?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6975f4dfbc8e722e7b1ab8cc?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Feb 16 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 16 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6992d58881476f6176aa6b83?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 16 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Owned TV Stations Data Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992f048e0bddb6acac12ddd?utm_campaign=1066&utm_source=git)** | Glendale, CA, USA | On Site | Feb 16 |
-| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69926dbf0cc8ea15f1dcc55b?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
