@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Procurement Data Analysis Intern (Req #: 1304)](https://jobright.ai/jobs/info/69959634ce78e77b4fd9b9ed?utm_campaign=1066&utm_source=git)** | Hudson Falls, NY | On Site | Feb 18 |
+| **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69959710e0bddb6acac42657?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69954f36ce78e77b4fd96c5b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 17 |
 | ↳ | **[Graduate Intern, Spatial Data Scientist](https://jobright.ai/jobs/info/69954beb81476f6176ad2e58?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 17 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Information Technology (Data Analysis)](https://jobright.ai/jobs/info/6995321f81476f6176ad1192?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economic Research Intern Using New Data Tools in the Caribbean](https://jobright.ai/jobs/info/699426c6ce78e77b4fd81bba?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | ↳ | **[IDB. Integrity Risk Management (IRM) Data and Knowledge Intern](https://jobright.ai/jobs/info/69942509ce78e77b4fd819d4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Data Analyst Intern](https://jobright.ai/jobs/info/69941dd381476f6176abda23?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
-| ↳ | **[IDB. Disaster Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69941b0281476f6176abd759?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
-| ↳ | **[IDB. Systemic Risk Research Internship - Risk Management](https://jobright.ai/jobs/info/69941a6e81476f6176abd6b1?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
-| ↳ | **[IDB. Intern to Develop a Methodology for Assessing and Valuing Identification Data Assets](https://jobright.ai/jobs/info/6994309de0bddb6acac296d3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
