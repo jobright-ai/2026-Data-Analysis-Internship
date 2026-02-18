@@ -62,6 +62,8 @@ For a complete list, click the following sortable link below:
 | **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69959710e0bddb6acac42657?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69954f36ce78e77b4fd96c5b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 17 |
 | ↳ | **[Graduate Intern, Spatial Data Scientist](https://jobright.ai/jobs/info/69954beb81476f6176ad2e58?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 17 |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Technology and Data Internship – T. Rowe Price](https://jobright.ai/jobs/info/6995b847ce78e77b4fd9cba3?utm_campaign=1066&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 17 |
+| ↳ | **[2026 Technology and Data Internship – T. Rowe Price](https://jobright.ai/jobs/info/6995b3c7e0bddb6acac4367d?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Feb 17 |
 | **[WD](https://www.westerndigital.com)** | **[Summer 2026 Intern - Information Technology (Data Analysis)](https://jobright.ai/jobs/info/6995321f81476f6176ad1192?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Feb 17 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst](https://jobright.ai/jobs/info/69956849ce78e77b4fd9932e?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 17 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Data Science Internship, Summer 2026](https://jobright.ai/jobs/info/69953cd4ce78e77b4fd958c7?utm_campaign=1066&utm_source=git)** | USA - California – Irvine | On Site | Feb 17 |
 | ↳ | **[Data Science Internship, Summer 2026](https://jobright.ai/jobs/info/6995263e81476f6176ad03e7?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Feb 17 |
 | **[Alberta Securities Commission](https://www.asc.ca/)** | **[Summer Student, Data & Analytics](https://jobright.ai/jobs/info/6994f063e0bddb6acac37310?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 17 |
-| **[S&T Bank](https://www.stbank.com/)** | **[Intern-Analytics](https://jobright.ai/jobs/info/6974491d37785856350e407a?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
-| ↳ | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
+| **[S&T Bank](https://www.stbank.com/)** | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
+| ↳ | **[Intern-Analytics](https://jobright.ai/jobs/info/6974491d37785856350e407a?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
 | **[iMETALX Inc.](http://imetalx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6995141381476f6176acf30a?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Feb 17 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Data Intern](https://jobright.ai/jobs/info/699512d1e0bddb6acac39c74?utm_campaign=1066&utm_source=git)** | Oklahoma County, OK | On Site | Feb 17 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, BI & Data Analytics - Strategy](https://jobright.ai/jobs/info/6994ea39ce78e77b4fd8fcec?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IDB. Productivity and Performance of Cities Support Intern](https://jobright.ai/jobs/info/69942933ce78e77b4fd81dfc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | ↳ | **[IDB. Global Partnerships Data Analyst Support Intern](https://jobright.ai/jobs/info/699428c8e0bddb6acac28ed4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | ↳ | **[IDB. AI-Enabled Geospatial Analysis for Digital Infrastructure and Connectivity Intern](https://jobright.ai/jobs/info/699426edce78e77b4fd81bde?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[Economic Research Intern Using New Data Tools in the Caribbean](https://jobright.ai/jobs/info/699426c6ce78e77b4fd81bba?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. Integrity Risk Management (IRM) Data and Knowledge Intern](https://jobright.ai/jobs/info/69942509ce78e77b4fd819d4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
