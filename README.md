@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GM Performance Power Units](https://gmppu.com)** | **[ERS Performance Modeling Intern](https://jobright.ai/jobs/info/695d94ccfbd62a0a65664808?utm_campaign=1066&utm_source=git)** | Concord, NC | On Site | Feb 18 |
+| **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- Biostatistics](https://jobright.ai/jobs/info/69792b6d88e2b47213bd4920?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Feb 18 |
+| **[GTI Fabrication](https://www.gtifabrication.com)** | **[Computer Science / Data Science Intern](https://jobright.ai/jobs/info/6941dea614ee092a69ffef96?utm_campaign=1066&utm_source=git)** | Goodyear, AZ | On Site | Feb 18 |
+| **[Axtria - Ingenious Insights](http://axtria.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/69893cda0f6f7e7a2ce44694?utm_campaign=1066&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 18 |
+| **[Sloan](https://www.sloan.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970980791bc1d72301936?utm_campaign=1066&utm_source=git)** | Franklin Park, IL | On Site | Feb 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data science intern](https://jobright.ai/jobs/info/6995c6b581476f6176ad96c2?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Hybrid | Feb 18 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Business Insights](https://jobright.ai/jobs/info/6979344f88e2b47213bd5576?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
+| **[Texas Instruments](http://www.ti.com)** | **[Smart Manufacturing & Automation Data Science Intern](https://jobright.ai/jobs/info/6979362439f7f96cc6d19ee0?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Feb 18 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 18 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Procurement Data Analysis Intern (Req #: 1304)](https://jobright.ai/jobs/info/69959634ce78e77b4fd9b9ed?utm_campaign=1066&utm_source=git)** | Hudson Falls, NY | On Site | Feb 18 |
 | **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69959710e0bddb6acac42657?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69954f36ce78e77b4fd96c5b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 17 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Customer Data Analytics](https://jobright.ai/jobs/info/6977c586fdeb8243a27ab1c9?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[D&I Summer Intern](https://jobright.ai/jobs/info/6977fcbc88e2b47213bc098a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Feb 17 |
-| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 17 |
-| **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Green Advisory & Market Creation: Data Analytics Intern](https://jobright.ai/jobs/info/69942e47ce78e77b4fd8226c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. Visa Master Data Intern](https://jobright.ai/jobs/info/69942d82ce78e77b4fd821c6?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. Data Collection and Analysis for Disaster and Climate Risk Portfolio Monitoring Internship](https://jobright.ai/jobs/info/69942cdee0bddb6acac292f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. Productivity and Performance of Cities Support Intern](https://jobright.ai/jobs/info/69942933ce78e77b4fd81dfc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. Global Partnerships Data Analyst Support Intern](https://jobright.ai/jobs/info/699428c8e0bddb6acac28ed4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
-| ↳ | **[IDB. AI-Enabled Geospatial Analysis for Digital Infrastructure and Connectivity Intern](https://jobright.ai/jobs/info/699426edce78e77b4fd81bde?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
