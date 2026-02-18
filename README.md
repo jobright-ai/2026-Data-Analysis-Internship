@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69951c94e0bddb6acac3a509?utm_campaign=1066&utm_source=git)** | Nationwide, UNAVAILABLE, US | Remote | Feb 17 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69951673e0bddb6acac3a12a?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
 | **[Alberta Securities Commission](https://www.asc.ca/)** | **[Summer Student, Data & Analytics](https://jobright.ai/jobs/info/6994f063e0bddb6acac37310?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 17 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern-Analytics](https://jobright.ai/jobs/info/6974491d37785856350e407a?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
+| ↳ | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Feb 17 |
 | **[iMETALX Inc.](http://imetalx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6995141381476f6176acf30a?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Feb 17 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Data Intern](https://jobright.ai/jobs/info/699512d1e0bddb6acac39c74?utm_campaign=1066&utm_source=git)** | Oklahoma County, OK | On Site | Feb 17 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern, BI & Data Analytics - Strategy](https://jobright.ai/jobs/info/6994ea39ce78e77b4fd8fcec?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Spring Venture Group](https://springventuregroup.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6993cfadce78e77b4fd7a3b9?utm_campaign=1066&utm_source=git)** | Kansas City, MO, USA | Hybrid | Feb 16 |
 | **[NV5](http://www.nv5.com)** | **[Geospatial Technician - Intern](https://jobright.ai/jobs/info/6993cd5681476f6176ab691c?utm_campaign=1066&utm_source=git)** | Dulles, VA, US | On Site | Feb 16 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer High School Intern - Information Technology](https://jobright.ai/jobs/info/6993e86e81476f6176ab8718?utm_campaign=1066&utm_source=git)** | Morton, IL | On Site | Feb 16 |
+| **[Patriot Group International Inc.](https://patgroupi.com/)** | **[Data Automation Analyst (INTERNSHIP)](https://jobright.ai/jobs/info/69951aa3e0bddb6acac3a3ae?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Feb 16 |
 | **[NV5](http://www.nv5.com)** | **[Geospatial Technician - Intern](https://jobright.ai/jobs/info/6993f4a8e0bddb6acac2432c?utm_campaign=1066&utm_source=git)** | US-VA-Dulles | On Site | Feb 16 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research Intern / Silicon Valley AI Startup (H1-26)](https://jobright.ai/jobs/info/6993e0a1e0bddb6acac227f0?utm_campaign=1066&utm_source=git)** | San Mateo, United States | Remote | Feb 16 |
 | **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/697a6e269d60e431a16bec9f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[XiFin, Inc.](http://www.xifin.com)** | **[RCM Analytics Intern](https://jobright.ai/jobs/info/6993b994ce78e77b4fd78f82?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Feb 16 |
 | **[Edmentum](http://www.edmentum.com)** | **[Research Psychometric Summer Intern](https://jobright.ai/jobs/info/6993997c81476f6176ab2ce2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Remote | Feb 16 |
 | **[Trilliant Health](https://www.trillianthealth.com/)** | **[Research Intern](https://jobright.ai/jobs/info/699378aece78e77b4fd748e0?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Feb 16 |
-| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer High School Intern - Information Technology](https://jobright.ai/jobs/info/69939d11e0bddb6acac1e46b?utm_campaign=1066&utm_source=git)** | Morton, Illinois | On Site | Feb 16 |
-| **[Green Mountain Power](https://greenmountainpower.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69939f9cce78e77b4fd772b9?utm_campaign=1066&utm_source=git)** | Rutland, VT | On Site | Feb 16 |
-| **[Dürr](http://www.durr.com/en/)** | **[Internship - Analytics (Service)](https://jobright.ai/jobs/info/699023fa0cc8ea15f1dacb6d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
