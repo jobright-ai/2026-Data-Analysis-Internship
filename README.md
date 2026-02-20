@@ -58,10 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nickerson and Associates LLC](https://www.nickersonassociates.com)** | **[Research Intern](https://jobright.ai/jobs/info/699792f781476f6176afaa68?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 19 |
+| **[Alkermes](http://www.alkermes.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6997b515ce78e77b4fdc0f13?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | Hybrid | Feb 19 |
 | **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Geospatial Analyst Intern](https://jobright.ai/jobs/info/6997a8a8e0bddb6acac66036?utm_campaign=1066&utm_source=git)** | Willow Grove, PA | Remote | Feb 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69977e67ce78e77b4fdbd317?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/6997a80181476f6176afc788?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Feb 19 |
 | **[PANTHERx Rare Pharmacy](https://www.pantherxrare.com/)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6993a770e0bddb6acac1ee63?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 19 |
+| **[The Miller Group](https://www.millergroup.ca)** | **[Data Analyst, Student (4 Months)](https://jobright.ai/jobs/info/6997ae73ce78e77b4fdc0b00?utm_campaign=1066&utm_source=git)** | Berry Mills, New Brunswick, Canada | On Site | Feb 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6997926681476f6176afa9b3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[UMB Bank](https://www.umb.com/)** | **[Intern](https://jobright.ai/jobs/info/6997a312ce78e77b4fdbf959?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 19 |
 | **[SAIC](http://www.saic.com)** | **[Data Scientist Technical Intern](https://jobright.ai/jobs/info/6997a41581476f6176afc1a2?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Feb 19 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6996b7fce0bddb6acac55ac9?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Feb 18 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Data Science PhD Level Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/6996af91e0bddb6acac548c9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Feb 18 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[RCM Analytics Intern](https://jobright.ai/jobs/info/6996a9c2e0bddb6acac540d2?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Feb 18 |
-| **[LMI](http://www.lmi.org)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6996e462ce78e77b4fdb1588?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Feb 18 |
-| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6996cc1d81476f6176aecb82?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Feb 18 |
+| **[LMI](http://www.lmi.org)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6996cc1d81476f6176aecb82?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Feb 18 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6996e462ce78e77b4fdb1588?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Feb 18 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6996a93d81476f6176ae9d20?utm_campaign=1066&utm_source=git)** | Redmond, WA | Remote | Feb 18 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analyst Intern, Program Integrity - R10690](https://jobright.ai/jobs/info/699698f1e0bddb6acac51ec6?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 18 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6996988ce0bddb6acac51e53?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Remote | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69963f9ece78e77b4fda380d?utm_campaign=1066&utm_source=git)** | Tennessee, United States | On Site | Feb 18 |
 | **[Viasat](http://www.viasat.com)** | **[Data Science Intern, Viasat Government](https://jobright.ai/jobs/info/69963c04ce78e77b4fda32bf?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 18 |
 | **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – Data Governance](https://jobright.ai/jobs/info/69967669ce78e77b4fda8473?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Feb 18 |
-| **[Physics World](https://physicsworld.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026](https://jobright.ai/jobs/info/69963b4ece78e77b4fda31b8?utm_campaign=1066&utm_source=git)** | Philadelphia, NY | On Site | Feb 18 |
-| **[Aypa Power](https://www.aypa.com)** | **[Technology and Data Intern](https://jobright.ai/jobs/info/699671efe0bddb6acac4e997?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
