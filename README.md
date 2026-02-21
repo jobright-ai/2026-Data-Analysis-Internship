@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[2026 Data Analyst Intern Opportunities](https://jobright.ai/jobs/info/69999a61ce78e77b4fde8584?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69998ea081476f6176b251f3?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles River Laboratories](http://www.criver.com)** | **[Data Science Intern - Biosciences R&D (Charleston, SC)](https://jobright.ai/jobs/info/69981a75e0bddb6acac720d8?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Feb 20 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6999715481476f6176b22ae3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f661e0bddb6acac6eaef?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Feb 19 |
-| ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f49fe0bddb6acac6e388?utm_campaign=1066&utm_source=git)** | Horsham, PA | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
