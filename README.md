@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vexra Engineering](vexraengineering.us)** | **[Data Analytics and Automation Intern - Summer 2026](https://jobright.ai/jobs/info/6999f88181476f6176b2a96c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 21 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/6999f3ffe0bddb6acac92a84?utm_campaign=1066&utm_source=git)** | St. Louis City County, MO | On Site | Feb 21 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analyst/Programmer Master's Intern](https://jobright.ai/jobs/info/6999f31bce78e77b4fded16d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/6986c5d18ca8121a3a6939fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/695949c8f1f8465b79efe1e4?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6999ba79ce78e77b4fdeaa2a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 21 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Feb 21 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science R&D Digital Intern](https://jobright.ai/jobs/info/697d3723727747250d5805fa?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Feb 21 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[2026 Data Analyst Intern Opportunities](https://jobright.ai/jobs/info/69999a61ce78e77b4fde8584?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69998ea081476f6176b251f3?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Feb 21 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/69996b0bce78e77b4fde4b19?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 21 |
 | **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/69996a90ce78e77b4fde4a6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 20 |
-| **[METRO Regional Transit Authority](http://www.yourmetrobus.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69996106ce78e77b4fde397c?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 20 |
 | **[Flex](https://flex.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69995dbfce78e77b4fde3165?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/699958e1ce78e77b4fde2753?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6999358ce0bddb6acac84581?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/69693f0b639b452fb57f09a1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Feb 20 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69881c368ca8121a3a6aa817?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 20 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/697fbd55ce48107c0543c029?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 20 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/695ddd54924bd9135dd46c6a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
