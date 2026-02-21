@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6999ba79ce78e77b4fdeaa2a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 21 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
+| **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Feb 21 |
+| **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science R&D Digital Intern](https://jobright.ai/jobs/info/697d3723727747250d5805fa?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Feb 21 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[2026 Data Analyst Intern Opportunities](https://jobright.ai/jobs/info/69999a61ce78e77b4fde8584?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69998ea081476f6176b251f3?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/695ddd54924bd9135dd46c6a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 20 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[GIS Internship](https://jobright.ai/jobs/info/697be4771136d179eeef7f84?utm_campaign=1066&utm_source=git)** | Minnetonka, MN | On Site | Feb 20 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Data Scientist Intern - Equipment Intelligence - Summer/Fall 2026](https://jobright.ai/jobs/info/697c302d1423772304ec9568?utm_campaign=1066&utm_source=git)** | Tualatin, OR | Hybrid | Feb 20 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69092361bcccf20de59d7c0a?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Feb 20 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[Data Science Intern - Biosciences R&D (Charleston, SC)](https://jobright.ai/jobs/info/69981a75e0bddb6acac720d8?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Feb 20 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6999715481476f6176b22ae3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f661e0bddb6acac6eaef?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
