@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Co-op 2026 – Advanced Analytics – Financial Services](https://jobright.ai/jobs/info/6999778be0bddb6acac8b6a7?utm_campaign=1066&utm_source=git)** | University Park, TX | Hybrid | Feb 21 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/69996b0bce78e77b4fde4b19?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 21 |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/69996a90ce78e77b4fde4a6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
+| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 20 |
+| **[METRO Regional Transit Authority](http://www.yourmetrobus.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69996106ce78e77b4fde397c?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 20 |
 | **[Flex](https://flex.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69995dbfce78e77b4fde3165?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/699958e1ce78e77b4fde2753?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6999358ce0bddb6acac84581?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
@@ -138,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Lam Research](http://www.lamresearch.com)** | **[Data Scientist Intern - Equipment Intelligence - Summer/Fall 2026](https://jobright.ai/jobs/info/697c302d1423772304ec9568?utm_campaign=1066&utm_source=git)** | Tualatin, OR | Hybrid | Feb 20 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69092361bcccf20de59d7c0a?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Feb 20 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Data Science Intern - Biosciences R&D (Charleston, SC)](https://jobright.ai/jobs/info/69981a75e0bddb6acac720d8?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Feb 20 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6999715481476f6176b22ae3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Feb 19 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f661e0bddb6acac6eaef?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Feb 19 |
 | ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f49fe0bddb6acac6e388?utm_campaign=1066&utm_source=git)** | Horsham, PA | Hybrid | Feb 19 |
 | ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997ee7ae0bddb6acac6d4dc?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Hybrid | Feb 19 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[Alkermes](http://www.alkermes.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6997c383e0bddb6acac68755?utm_campaign=1066&utm_source=git)** | Greater Boston | Hybrid | Feb 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f75381476f6176b053eb?utm_campaign=1066&utm_source=git)** | Horsham, Pennsylvania, United States of America | Hybrid | Feb 19 |
-| ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f579ce78e77b4fdc8823?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 19 |
 | ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f681e0bddb6acac6eb41?utm_campaign=1066&utm_source=git)** | Raritan, New Jersey, United States of America | Hybrid | Feb 19 |
-| **[PlanetArt](http://www.planetart.com)** | **[Data Analyst Associate Intern - Summer 2026](https://jobright.ai/jobs/info/6997f5bb81476f6176b04e80?utm_campaign=1066&utm_source=git)** | Calabasas, California, United States | Hybrid | Feb 19 |
-| **[C1](http://www.spanlink.com)** | **[Research and Forecasting Intern](https://jobright.ai/jobs/info/6997c011ce78e77b4fdc2265?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 19 |
-| **[PlanetArt](http://www.planetart.com)** | **[Data Analyst Associate Intern - Summer 2026](https://jobright.ai/jobs/info/6997f87481476f6176b05960?utm_campaign=1066&utm_source=git)** | Calabasas, California, United States | Hybrid | Feb 19 |
-| **[ConstructConnect](https://ref.constructconnect.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69854dde0f6f7e7a2cdff49c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
-| **[Alkermes](http://www.alkermes.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6997d43781476f6176b007fc?utm_campaign=1066&utm_source=git)** | Greater Boston | Hybrid | Feb 19 |
-| **[C1](http://www.spanlink.com)** | **[Research and Forecasting Intern](https://jobright.ai/jobs/info/6997dbfd81476f6176b01530?utm_campaign=1066&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 19 |
+| ↳ | **[Epidemiology Summer Intern](https://jobright.ai/jobs/info/6997f579ce78e77b4fdc8823?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
