@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/6986c5d18ca8121a3a6939fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/695949c8f1f8465b79efe1e4?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6999ba79ce78e77b4fdeaa2a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 21 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69881c368ca8121a3a6aa817?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 20 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/697fbd55ce48107c0543c029?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/695ddd54924bd9135dd46c6a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
