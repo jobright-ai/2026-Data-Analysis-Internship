@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Fellow - Professor Karen Snedker](https://jobright.ai/jobs/info/699b4adf81476f6176b3c397?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Feb 22 |
 | **[Wasatch Front Regional Council](http://wfrc.org)** | **[GIS/Data Scientist Intern](https://jobright.ai/jobs/info/699b40e381476f6176b3c287?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 22 |
 | **[Prolaio](https://prolaio.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/699b36f081476f6176b3c182?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Brixenta](brixenta.us)** | **[Commercial Insights Analyst Intern](https://jobright.ai/jobs/info/699b183581476f6176b3a5a5?utm_campaign=1066&utm_source=git)** | Mount Vernon, NY | On Site | Feb 22 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science - San Diego, CA](https://jobright.ai/jobs/info/699ad125e0bddb6acac9e6e8?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 21 |
-| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Data Analytics and Automation Intern - Summer 2026](https://jobright.ai/jobs/info/699a869481476f6176b31759?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 21 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analyst/Programmer Master's Intern](https://jobright.ai/jobs/info/6999f31bce78e77b4fded16d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
