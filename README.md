@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697cdf30727747250d578ce7?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 21 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Co-op 2026 – Advanced Analytics – Financial Services](https://jobright.ai/jobs/info/6999778be0bddb6acac8b6a7?utm_campaign=1066&utm_source=git)** | University Park, TX | Hybrid | Feb 21 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 21 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/69996b0bce78e77b4fde4b19?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 20 |
 | **[Flex](https://flex.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69995dbfce78e77b4fde3165?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/699958e1ce78e77b4fde2753?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Intern, Rev Ops Business Intelligence](https://jobright.ai/jobs/info/69993b50e0bddb6acac84f80?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Feb 20 |
 | **[Colliers](http://www.colliers.com)** | **[Summer 2026 - GIS Intern](https://jobright.ai/jobs/info/6998e78281476f6176b14c66?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 20 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6998e4b2ce78e77b4fdd7255?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 20 |
-| ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6998ffd8e0bddb6acac7f50e?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Feb 20 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/69990c21e0bddb6acac803f2?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | Hybrid | Feb 20 |
+| ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6998ffd8e0bddb6acac7f50e?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Feb 20 |
 | ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/69990d0ee0bddb6acac804a8?utm_campaign=1066&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 20 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69794b6288e2b47213bd82b7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Feb 20 |
 | **[Avant](https://www.avant.com)** | **[Data & Analytics Platform Summer Internship](https://jobright.ai/jobs/info/69990633e0bddb6acac7fcb7?utm_campaign=1066&utm_source=git)** | Chicago HQ | Hybrid | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69993e6ee0bddb6acac85520?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Feb 20 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Feb 20 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/697bc4f01136d179eeef4a03?utm_campaign=1066&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
+| **[MassMutual Ascend](https://massmutualascend.com)** | **[Data Analytics Intern - Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69603b07a112b402660f0974?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
