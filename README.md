@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/699ae7c2ce78e77b4fdfacd5?utm_campaign=1066&utm_source=git)** | St. Louis County, MO | Remote | Feb 22 |
+| **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/698a557db708d23f366c08a0?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
+| **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/695a070d9f1b381eb272b155?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb0dfce48107c0542d2b7?utm_campaign=1066&utm_source=git)** | Meridian, ID | Hybrid | Feb 22 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science - San Diego, CA](https://jobright.ai/jobs/info/699ad125e0bddb6acac9e6e8?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 22 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 21 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Data Analytics and Automation Intern - Summer 2026](https://jobright.ai/jobs/info/699a869481476f6176b31759?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 21 |
@@ -65,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analyst/Programmer Master's Intern](https://jobright.ai/jobs/info/6999f31bce78e77b4fded16d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/6986c5d18ca8121a3a6939fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/695949c8f1f8465b79efe1e4?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Feb 21 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6999ba79ce78e77b4fdeaa2a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 21 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69993e6ee0bddb6acac85520?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Feb 20 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Feb 20 |
 | **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/697bc4f01136d179eeef4a03?utm_campaign=1066&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
-| **[MassMutual Ascend](https://massmutualascend.com)** | **[Data Analytics Intern - Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69603b07a112b402660f0974?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Text Data Research (PhD)](https://jobright.ai/jobs/info/694517e5d1953b5d11be0f3b?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Feb 20 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 20 |
-| **[KLA](https://www.kla.com)** | **[Analytics Actuarial Intern](https://jobright.ai/jobs/info/696953bcf25a38006697e651?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
