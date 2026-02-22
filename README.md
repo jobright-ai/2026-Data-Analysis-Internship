@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Data Analyst/Programmer Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699a9ce181476f6176b33f04?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 21 |
 | **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Data Analytics and Automation Intern - Summer 2026](https://jobright.ai/jobs/info/699a869481476f6176b31759?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 21 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 21 |
