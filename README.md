@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 21 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Data Analytics and Automation Intern - Summer 2026](https://jobright.ai/jobs/info/6999f88181476f6176b2a96c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analyst/Programmer Master's Intern](https://jobright.ai/jobs/info/6999f31bce78e77b4fded16d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 21 |
 | **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/6986c5d18ca8121a3a6939fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Co-op 2026 – Advanced Analytics – Financial Services](https://jobright.ai/jobs/info/6999778be0bddb6acac8b6a7?utm_campaign=1066&utm_source=git)** | University Park, TX | Hybrid | Feb 21 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 21 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/69996b0bce78e77b4fde4b19?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Feb 21 |
-| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/69996a90ce78e77b4fde4a6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 20 |
 | **[Flex](https://flex.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69995dbfce78e77b4fde3165?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/699958e1ce78e77b4fde2753?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern (Quality) Summer 2026](https://jobright.ai/jobs/info/6998cb0181476f6176b13558?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 20 |
 | ↳ | **[Data Analyst Intern (Quality) Fall 2026](https://jobright.ai/jobs/info/6998c64bce78e77b4fdd5867?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 20 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6998eb5de0bddb6acac7d66b?utm_campaign=1066&utm_source=git)** | Paramus, NJ | Hybrid | Feb 20 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6998e76081476f6176b14c29?utm_campaign=1066&utm_source=git)** | SSC Irving TX | On Site | Feb 20 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6998e940e0bddb6acac7d346?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69994775ce78e77b4fde0b73?utm_campaign=1066&utm_source=git)** | Simsbury, CT | Hybrid | Feb 20 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 20 |
