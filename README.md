@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Wasatch Front Regional Council](http://wfrc.org)** | **[GIS/Data Scientist Intern](https://jobright.ai/jobs/info/699b40e381476f6176b3c287?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 22 |
 | **[Prolaio](https://prolaio.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/699b36f081476f6176b3c182?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/699b0b1f81476f6176b3a3bc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/699bedfece78e77b4fe08549?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/698a557db708d23f366c08a0?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/695a070d9f1b381eb272b155?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb0dfce48107c0542d2b7?utm_campaign=1066&utm_source=git)** | Meridian, ID | Hybrid | Feb 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMEIC](https://www.tmeic.com/)** | **[Intern - Data and Analytics (ET25178)](https://jobright.ai/jobs/info/69989be381476f6176b0fecc?utm_campaign=1066&utm_source=git)** | Greater Roanoke Area | On Site | Feb 20 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Feb 20 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Feb 20 |
-| **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Data Science Internship Summer 2027](https://jobright.ai/jobs/info/69987484ce78e77b4fdd121f?utm_campaign=1066&utm_source=git)** | West Mifflin, PA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
