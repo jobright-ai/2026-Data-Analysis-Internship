@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 23 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/699c3451e0bddb6acacb20d5?utm_campaign=1066&utm_source=git)** | St. Louis City County, MO | Remote | Feb 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 23 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/697bcae90b88cc7d64229888?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Feb 20 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c08760b88cc7d6422f5cd?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Feb 20 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Feb 20 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c06af1136d179eeefaa2a?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
