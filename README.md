@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 23 |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Music Analytics & Insights Intern](https://jobright.ai/jobs/info/699c565081476f6176b4dd82?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 23 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/699c3451e0bddb6acacb20d5?utm_campaign=1066&utm_source=git)** | St. Louis City County, MO | Remote | Feb 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 23 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 23 |
 | **[Asplundh Tree Expert, LLC](http://www.asplundh.com/)** | **[Operations Data Insights Intern](https://jobright.ai/jobs/info/699bc05ae0bddb6acaca8f55?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 22 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Feb 21 |
 | **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Feb 21 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science R&D Digital Intern](https://jobright.ai/jobs/info/697d3723727747250d5805fa?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Feb 21 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/699a79e8ce78e77b4fdf3486?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Feb 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69998ea081476f6176b251f3?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 21 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Feb 21 |
