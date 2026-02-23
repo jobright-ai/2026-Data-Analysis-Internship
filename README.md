@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Wasatch Front Regional Council](http://wfrc.org)** | **[GIS/Data Scientist Intern](https://jobright.ai/jobs/info/699b40e381476f6176b3c287?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 22 |
 | **[Prolaio](https://prolaio.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/699b36f081476f6176b3c182?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/699b0b1f81476f6176b3a3bc?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 22 |
-| **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/699bedfece78e77b4fe08549?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/698a557db708d23f366c08a0?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/695a070d9f1b381eb272b155?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Feb 22 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb0dfce48107c0542d2b7?utm_campaign=1066&utm_source=git)** | Meridian, ID | Hybrid | Feb 22 |
@@ -101,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 20 |
 | **[Flex](https://flex.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69995dbfce78e77b4fde3165?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 20 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/699958e1ce78e77b4fde2753?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 20 |
+| **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge) with Security Clearance](https://jobright.ai/jobs/info/699c0b8981476f6176b46964?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Feb 20 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6999358ce0bddb6acac84581?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/699934d7ce78e77b4fddee1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
