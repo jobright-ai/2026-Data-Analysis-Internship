@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
+| **[Intuitive Machines](https://intuitivemachines.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/699f43bdce78e77b4fe515fe?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 25 |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/699f3e7a81476f6176b8e47f?utm_campaign=1066&utm_source=git)** | US-CA-REMOTE | Remote | Feb 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/692f5eb54c474121999de3be?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
+| **[Intuitive Machines](https://intuitivemachines.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/699f3c32ce78e77b4fe51149?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 25 |
+| **[RTX](http://www.raytheon.com)** | **[2026 - GEC Risk Monitoring & Analytics Intern - Remote](https://jobright.ai/jobs/info/699f32bb81476f6176b8cf1c?utm_campaign=1066&utm_source=git)** | US-FL-REMOTE | Remote | Feb 25 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[INFINITI Data Analytics and Insights Intern – September 2026 – 12 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/699f307381476f6176b8c7e8?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Feb 25 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Business Intelligence Intern - Information Systems Department](https://jobright.ai/jobs/info/69825155348f733a5c351eed?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
+| **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern (Summer/May 2026, 4-8 Months)](https://jobright.ai/jobs/info/699f2e8e81476f6176b8c2df?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia - USA | Hybrid | Feb 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/6979802d0791bc1d723027d6?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
+| **[Leidos](https://www.leidos.com)** | **[External Technology Analyst Intern](https://jobright.ai/jobs/info/699f2de694ef206f184e4dc0?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Feb 25 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/699f2a4981476f6176b8bfda?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 25 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/699f269694ef206f184e49d5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Feb 25 |
 | **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Quantitative Analytics Associate Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/699f1f1594ef206f184e464d?utm_campaign=1066&utm_source=git)** | 745 7th Avenue, New York | On Site | Feb 25 |
@@ -68,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf045a846f0b04af67ea89?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 25 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Analyst Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/698230f0a314e76369059148?utm_campaign=1066&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 25 |
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6982ec050f6f7e7a2cdc666a?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Feb 25 |
+| **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/69828ab7348f733a5c3573e3?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Feb 25 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 25 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/698452400f6f7e7a2cdeaa57?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 25 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[EHR (Electronic Health Record) Intern](https://jobright.ai/jobs/info/699deca181476f6176b6db82?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
 | **[Weisiger Group](https://www.weisigergroup.com/)** | **[Data Analyst Intern- Summer 2026- Onsite in Charlotte, NC](https://jobright.ai/jobs/info/699e14a6e0bddb6acacd75b8?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina | On Site | Feb 24 |
 | **[Bernatello's Foods](http://www.bernatellos.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699e14fb81476f6176b6fc99?utm_campaign=1066&utm_source=git)** | Kaukauna, Wisconsin, United States | On Site | Feb 24 |
-| **[CUES Inc.](http://cuesinc.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/699e263de0bddb6acacd8212?utm_campaign=1066&utm_source=git)** | Elk Grove Village, Illinois (IL), US | On Site | Feb 24 |
-| **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de731ce78e77b4fe2fc65?utm_campaign=1066&utm_source=git)** | Remote - Indiana (Central) | Remote | Feb 24 |
-| **[OCLC](http://www.oclc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/699de6a6ce78e77b4fe2faff?utm_campaign=1066&utm_source=git)** | Dublin, OH | Hybrid | Feb 24 |
-| **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de69481476f6176b6cbc7?utm_campaign=1066&utm_source=git)** | Remote - Kansas | Remote | Feb 24 |
-| ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de65e81476f6176b6cb0e?utm_campaign=1066&utm_source=git)** | Remote - Tennessee | Remote | Feb 24 |
-| **[MHI Canada Aerospace, Inc.](https://www.mhi.com/)** | **[Analyst - Support Reliability and Cost Analysis Intern](https://jobright.ai/jobs/info/699de659e0bddb6acacd430a?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 24 |
-| **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de60481476f6176b6ca57?utm_campaign=1066&utm_source=git)** | Remote - Delaware | Remote | Feb 24 |
-| **[Carolina Cat](https://carolinacat.com/)** | **[Data Analyst Intern- Summer 2026- Onsite in Charlotte, NC](https://jobright.ai/jobs/info/699de5a6ce78e77b4fe2f8a1?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Feb 24 |
-| **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de4cace78e77b4fe2f616?utm_campaign=1066&utm_source=git)** | Remote - Montana | Remote | Feb 24 |
-| ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de4c081476f6176b6c6a0?utm_campaign=1066&utm_source=git)** | Remote - Ohio | Remote | Feb 24 |
-| ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de44381476f6176b6c585?utm_campaign=1066&utm_source=git)** | Remote - Louisiana | Remote | Feb 24 |
-| ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de41c81476f6176b6c518?utm_campaign=1066&utm_source=git)** | Remote - Mississippi | Remote | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
