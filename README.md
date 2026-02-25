@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Research Analyst Intern - Fuels, Chemicals & Resource Solutions (Early Career) - S&P Global](https://jobright.ai/jobs/info/699f1da794ef206f184e450e?utm_campaign=1066&utm_source=git)** | Greater Houston | On Site | Feb 25 |
+| **[CAE](http://www.cae.com)** | **[Data Analyst Co-op/Intern-EN](https://jobright.ai/jobs/info/699f1c5894ef206f184e4416?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/699f0f33ce78e77b4fe4c44e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 25 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf045a846f0b04af67ea89?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 25 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 25 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/698452400f6f7e7a2cdeaa57?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 25 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a6459187e565c6bfa5ced?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Feb 25 |
 | **[Lam Research](http://www.lamresearch.com)** | **[Predictive Data Analytics Intern](https://jobright.ai/jobs/info/699ee31cce78e77b4fe48b05?utm_campaign=1066&utm_source=git)** | Tualatin, OR | Hybrid | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/699de35a81476f6176b6c32f?utm_campaign=1066&utm_source=git)** | Boise, ID | Remote | Feb 24 |
 | ↳ | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/699de2c781476f6176b6c1c8?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | Feb 24 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de2c681476f6176b6c1c4?utm_campaign=1066&utm_source=git)** | Remote - Florida | Remote | Feb 24 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/699de19381476f6176b6c0f8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 24 |
-| **[Milliman](http://www.milliman.com)** | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/699de11481476f6176b6c0b6?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Feb 24 |
-| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6965822e5ad3a93f8230ca80?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
