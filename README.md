@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/699f2a4981476f6176b8bfda?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 25 |
+| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/699f269694ef206f184e49d5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Feb 25 |
+| **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Quantitative Analytics Associate Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/699f1f1594ef206f184e464d?utm_campaign=1066&utm_source=git)** | 745 7th Avenue, New York | On Site | Feb 25 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Research Analyst Intern - Fuels, Chemicals & Resource Solutions (Early Career) - S&P Global](https://jobright.ai/jobs/info/699f1da794ef206f184e450e?utm_campaign=1066&utm_source=git)** | Greater Houston | On Site | Feb 25 |
-| **[CAE](http://www.cae.com)** | **[Data Analyst Co-op/Intern-EN](https://jobright.ai/jobs/info/699f1c5894ef206f184e4416?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/699f0f33ce78e77b4fe4c44e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/6967f65b1703f05405a9924c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 25 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 25 |
+| **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/699541edce78e77b4fd95f0c?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Feb 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/692f88cefa28370be26ab3f2?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf045a846f0b04af67ea89?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 25 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Analyst Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/698230f0a314e76369059148?utm_campaign=1066&utm_source=git)** | Windsor, Ontario, Canada | On Site | Feb 25 |
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6982ec050f6f7e7a2cdc666a?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Feb 25 |
-| **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6985590d0f6f7e7a2ce008d1?utm_campaign=1066&utm_source=git)** | Cranbury, NJ | On Site | Feb 25 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 25 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/698452400f6f7e7a2cdeaa57?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de4c081476f6176b6c6a0?utm_campaign=1066&utm_source=git)** | Remote - Ohio | Remote | Feb 24 |
 | ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de44381476f6176b6c585?utm_campaign=1066&utm_source=git)** | Remote - Louisiana | Remote | Feb 24 |
 | ↳ | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de41c81476f6176b6c518?utm_campaign=1066&utm_source=git)** | Remote - Mississippi | Remote | Feb 24 |
-| **[Milliman](http://www.milliman.com)** | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/699de35a81476f6176b6c32f?utm_campaign=1066&utm_source=git)** | Boise, ID | Remote | Feb 24 |
-| ↳ | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/699de2c781476f6176b6c1c8?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | Feb 24 |
-| **[Ensora Health](https://www.therapybrands.com/)** | **[RCM Data Analyst Intern](https://jobright.ai/jobs/info/699de2c681476f6176b6c1c4?utm_campaign=1066&utm_source=git)** | Remote - Florida | Remote | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
