@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carolina Public Humanities](http://humanities.unc.edu)** | **[Research Data Support Intern for HEAL](https://jobright.ai/jobs/info/699f4fb3ce78e77b4fe51d2d?utm_campaign=1066&utm_source=git)** | North Carolina, US | On Site | Feb 25 |
+| **[WITF, Inc.](http://www.witf.org/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/699f4e68ce78e77b4fe51c2e?utm_campaign=1066&utm_source=git)** | Harrisburg,PA,US | On Site | Feb 25 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[IT / Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/699f4dfa94ef206f184e7872?utm_campaign=1066&utm_source=git)** | US-MA-Waltham | On Site | Feb 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/699f43bdce78e77b4fe515fe?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 25 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/699f3e7a81476f6176b8e47f?utm_campaign=1066&utm_source=git)** | US-CA-REMOTE | Remote | Feb 25 |
@@ -97,14 +100,11 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6965a59a2cbf4e44756f50e5?utm_campaign=1066&utm_source=git)** | Missoula, MT | On Site | Feb 25 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/694a3fe03019f50a4fe568ed?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
-| **[Veltrana Group](veltranagroup.us)** | **[Procurement & Data Management Intern - Summer 2026](https://jobright.ai/jobs/info/699f03eece78e77b4fe4b7d2?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 25 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Biostatistics (PhD Student)](https://jobright.ai/jobs/info/699ec98be0bddb6acacebb4b?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 25 |
-| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Data Management](https://jobright.ai/jobs/info/699eeb6c81476f6176b862ad?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Feb 25 |
 | **[Naval Nuclear Laboratory (FMP)](https://navalnuclearlab.energy.gov/)** | **[Data Science Internship Summer 2027](https://jobright.ai/jobs/info/69987484ce78e77b4fdd121f?utm_campaign=1066&utm_source=git)** | West Mifflin, PA | On Site | Feb 25 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/699ef098ce78e77b4fe4a840?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Insights & Evidence Gathering](https://jobright.ai/jobs/info/699eb2a8e0bddb6acacea580?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Insights & Evidence Gathering](https://jobright.ai/jobs/info/699ef47694ef206f184e0798?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Feb 24 |
-| **[Eikon Therapeutics](http://www.eikontx.com)** | **[Intern, Clinical Data Management](https://jobright.ai/jobs/info/699e9da0e0bddb6acace6441?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Feb 24 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/699e956381476f6176b7d970?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Remote | Feb 24 |
 | **[Aday](http://www.thisisaday.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/699e8086e0bddb6acace2584?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Feb 24 |
 | **[MP&F Strategic Communications](http://mpf.com)** | **[Data Analytics Intern: Fall 2026](https://jobright.ai/jobs/info/699ea95c81476f6176b80932?utm_campaign=1066&utm_source=git)** | MP&amp;F Nashville Office - Nashville, TN 37203 | On Site | Feb 24 |
@@ -120,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Data Analyst, Business Banking, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699e412de0bddb6acacda2c4?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Power), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699e82fde0bddb6acace2bb5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | ↳ | **[Data Science Maintenance Support, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699e8474ce78e77b4fe3e393?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Feb 24 |
+| **[Ready.net](https://ready.net/)** | **[Data Intern](https://jobright.ai/jobs/info/699f4e05ce78e77b4fe51bcb?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Hoya Vision Care](http://www.hoyavision.com)** | **[Intern Business Intelligence (Lewisville, TX May 26-July 31, 2026)](https://jobright.ai/jobs/info/699e3564e0bddb6acacd8fdd?utm_campaign=1066&utm_source=git)** | Lewisville, TX | On Site | Feb 24 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst, Business Banking, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/699e7638e0bddb6acace11d4?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 24 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/699e812bce78e77b4fe3de1f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/699e1d8b81476f6176b7022f?utm_campaign=1066&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 24 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[EHR (Electronic Health Record) Intern](https://jobright.ai/jobs/info/699deca181476f6176b6db82?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
 | **[Weisiger Group](https://www.weisigergroup.com/)** | **[Data Analyst Intern- Summer 2026- Onsite in Charlotte, NC](https://jobright.ai/jobs/info/699e14a6e0bddb6acacd75b8?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina | On Site | Feb 24 |
-| **[Bernatello's Foods](http://www.bernatellos.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699e14fb81476f6176b6fc99?utm_campaign=1066&utm_source=git)** | Kaukauna, Wisconsin, United States | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
