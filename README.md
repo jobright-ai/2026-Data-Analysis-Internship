@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - DT Applications Intern](https://jobright.ai/jobs/info/69a07d1b0836fe79d8617893?utm_campaign=1066&utm_source=git)** | US-CT-EAST HARTFORD-RTRC J ~ 411 Silver Ln ~ RTRC J | Hybrid | Feb 26 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/696a1e0cdb26b618950d4d7e?utm_campaign=1066&utm_source=git)** | Shanghai, VA | On Site | Feb 26 |
+| **[Schnuck Markets, Inc.](http://www.schnucks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69a074b60836fe79d8617160?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Feb 26 |
 | **[Paycor](http://www.paycor.com)** | **[Customer Insights & Analytics Intern](https://jobright.ai/jobs/info/69a0644781476f6176ba9ee2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/699fcd44ce78e77b4fe5b727?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 26 |
 | ↳ | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/699fc6e381476f6176b9820b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 26 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69844a2e0f6f7e7a2cdea353?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 26 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/698c276491fdda424d58f84d?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Feb 26 |
+| **[Aristocrat](http://www.aristocrat.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a0789881476f6176bab793?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 26 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Data Administrative Analyst - Intern](https://jobright.ai/jobs/info/6983c5d801214b4cdacbbef5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69a047a681476f6176ba7520?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 26 |
 | **[UNICO Group](http://unicogroup.com)** | **[Data & Business Analytics Intern](https://jobright.ai/jobs/info/6968b7af1703f05405aa8e1d?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Feb 26 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GSI & Alliances Business Intelligence Intern- West Coast](https://jobright.ai/jobs/info/699f692d81476f6176b90033?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/6983cbeb348f733a5c372bec?utm_campaign=1066&utm_source=git)** | Montvale, NJ | On Site | Feb 25 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Biostatistics Intern - (PhD level)](https://jobright.ai/jobs/info/699f66dc23374b3b6e6b3f95?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 25 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern Data Science , Computer Vision](https://jobright.ai/jobs/info/699f9e56ce78e77b4fe58472?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Feb 25 |
-| ↳ | **[Intern Data Science , Computer Vision](https://jobright.ai/jobs/info/699f864dce78e77b4fe55072?utm_campaign=1066&utm_source=git)** | Brisbane, California, United States of America | Hybrid | Feb 25 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern Data Science , Computer Vision](https://jobright.ai/jobs/info/699f864dce78e77b4fe55072?utm_campaign=1066&utm_source=git)** | Brisbane, California, United States of America | Hybrid | Feb 25 |
+| ↳ | **[Intern Data Science , Computer Vision](https://jobright.ai/jobs/info/699f9e56ce78e77b4fe58472?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Feb 25 |
 | **[J.M. Huber Corporation](http://www.huber.com)** | **[Sustainability Analytics Intern](https://jobright.ai/jobs/info/699f637dce78e77b4fe52a6e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 25 |
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/699fab14d643757b0e452795?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 25 |
 | **[Ready.net](https://ready.net/)** | **[Data Intern](https://jobright.ai/jobs/info/69a009b1ce78e77b4fe62f3f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Feb 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT / Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/699febf181476f6176b9c05c?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Enterprise Cybersecurity Data and Business Intelligence Intern](https://jobright.ai/jobs/info/699f6b3723374b3b6e6b4243?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Feb 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/699f7d9b81476f6176b913a3?utm_campaign=1066&utm_source=git)** | Boise, ID - North Office | On Site | Feb 25 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 25 |
-| **[Intuitive Machines](https://intuitivemachines.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/699f43bdce78e77b4fe515fe?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 25 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/699faaf2ce78e77b4fe58f76?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Feb 25 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/699f3e7a81476f6176b8e47f?utm_campaign=1066&utm_source=git)** | US-CA-REMOTE | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
