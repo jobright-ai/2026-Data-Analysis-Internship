@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0a3735218a8167671d0b4?utm_campaign=1066&utm_source=git)** | Pontiac, Michigan, United States | Hybrid | Feb 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Domestic Network Analysis (Summer 2026)](https://jobright.ai/jobs/info/69a09e925218a8167671ccfa?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Labor Systems Data Analytics & Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699d93a681476f6176b6708e?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 26 |
 | **[Deluxe](http://www.deluxe.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/69a098c00836fe79d8619e0e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Feb 26 |
@@ -74,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Clinical Pharmacology AI ML Intern](https://jobright.ai/jobs/info/69a08f450836fe79d86190e2?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Feb 26 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a08c3981476f6176bad50b?utm_campaign=1066&utm_source=git)** | Manchester, NH | On Site | Feb 26 |
 | **[Cisco](http://www.cisco.com)** | **[Internet Measurement Researcher PhD (Intern) - United States](https://jobright.ai/jobs/info/69a08ea60836fe79d8618fbd?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Remote | Feb 26 |
+| ↳ | **[Internet Measurement Researcher PhD (Intern) - United States](https://jobright.ai/jobs/info/69a08ba15218a8167671b2de?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Remote | Feb 26 |
 | ↳ | **[Internet Measurement Researcher PhD (Intern) - United States](https://jobright.ai/jobs/info/69a08d5b81476f6176bad7a8?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Remote | Feb 26 |
 | ↳ | **[Internet Measurement Researcher PhD (Intern) - United States](https://jobright.ai/jobs/info/69a0907f0836fe79d8619386?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, US | Remote | Feb 26 |
-| ↳ | **[Internet Measurement Researcher PhD (Intern) - United States](https://jobright.ai/jobs/info/69a08ba15218a8167671b2de?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Remote | Feb 26 |
 | **[Paycor](http://www.paycor.com)** | **[Customer Insights & Analytics Intern](https://jobright.ai/jobs/info/69a0644781476f6176ba9ee2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/699fcd44ce78e77b4fe5b727?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 26 |
 | ↳ | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/699fc6e381476f6176b9820b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/699fab14d643757b0e452795?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | Feb 25 |
 | **[Ready.net](https://ready.net/)** | **[Data Intern](https://jobright.ai/jobs/info/69a009b1ce78e77b4fe62f3f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Feb 25 |
 | **[Barclays](https://home.barclays)** | **[Quantitative Analytics Associate Summer Internship Program 2026 New York](https://jobright.ai/jobs/info/699febf0ce78e77b4fe5e759?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 25 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern (Bachelor degree level) On-site](https://jobright.ai/jobs/info/699f7b5523374b3b6e6b4c46?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
