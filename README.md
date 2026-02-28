@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a315b20da45516f16c686a?utm_campaign=1066&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
+| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/698635b10f6f7e7a2ce1182d?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 28 |
+| **[Arvento A](arventoa.com)** | **[Procurement & Data Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a319890da45516f16c6b29?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Feb 28 |
+| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 28 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a314cab600907a96296c5e?utm_campaign=1066&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696ad000db26b618950e1f85?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a26618359fe034b1cda470?utm_campaign=1066&utm_source=git)** | Troy, Michigan | Hybrid | Feb 27 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a265480da45516f16bab58?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
 | **[Ambarella Inc](http://ambarella.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a24f9c359fe034b1cd8a2b?utm_campaign=1066&utm_source=git)** | US Headquarters | On Site | Feb 27 |
@@ -133,12 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Data Science, Intern - Summer 2026, Austin, TX](https://jobright.ai/jobs/info/69a20291359fe034b1cd414a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[Nokia](http://www.nokia.com)** | **[Care Data Analytics & AI Intern](https://jobright.ai/jobs/info/69a22cd7359fe034b1cd6a54?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Feb 27 |
 | **[Ormat Technologies, Inc.](http://www.ormat.com)** | **[Intern - Data Intelligence](https://jobright.ai/jobs/info/69a1fdd5359fe034b1cd3cd5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22aea359fe034b1cd685f?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a235de0da45516f16b7e59?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a235de0da45516f16b7e59?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a222d3359fe034b1cd602c?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22aea359fe034b1cd685f?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
 | **[RELX](https://www.relx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a217bab600907a9628650a?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22d510da45516f16b75f5?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a220fc359fe034b1cd5e60?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22d510da45516f16b75f5?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a2309e359fe034b1cd6e52?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a21f14359fe034b1cd5c5d?utm_campaign=1066&utm_source=git)** | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Hybrid | Feb 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a1f8b3b600907a962846c5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
 | ↳ | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
 | **[Mastercard](http://www.mastercard.com)** | **[Data Management Intern, Summer 2026 - Purchase, NY](https://jobright.ai/jobs/info/69a1e1370da45516f16b32f5?utm_campaign=1066&utm_source=git)** | Purchase, New York | On Site | Feb 27 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis (Genomics & Next‑Generation Proteomics Platforms)](https://jobright.ai/jobs/info/69a21164b600907a96285f55?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
