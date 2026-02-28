@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 28 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b4230da45516f16c19af?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
+| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b2e0359fe034b1ce0df5?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Feb 28 |
+| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b148359fe034b1ce0c4d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
+| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Quantitative Analytics](https://jobright.ai/jobs/info/69a2a9bdb600907a96290ec7?utm_campaign=1066&utm_source=git)** | Durham, CA | Hybrid | Feb 28 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2a916b600907a96290e0e?utm_campaign=1066&utm_source=git)** | Santa Isabel, CO | Hybrid | Feb 28 |
+| **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a2a2880da45516f16bfe83?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Feb 28 |
 | **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a2a0be0da45516f16bfb14?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Feb 28 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a294700da45516f16be9de?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a288fd0da45516f16bdf4a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 27 |
@@ -68,19 +75,18 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[Business System Analyst Intern](https://jobright.ai/jobs/info/69a264b4359fe034b1cda1d7?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Feb 27 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[WelbeHealth Intern](https://jobright.ai/jobs/info/69a260ecb600907a9628aa8b?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Feb 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Quantitative Analytics](https://jobright.ai/jobs/info/69a26318359fe034b1cd9f35?utm_campaign=1066&utm_source=git)** | Durham, CA | Hybrid | Feb 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Summer 2026)](https://jobright.ai/jobs/info/69a25cf40da45516f16ba177?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a235b6359fe034b1cd728b?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a26618359fe034b1cda470?utm_campaign=1066&utm_source=git)** | Troy, Michigan | Hybrid | Feb 27 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a265480da45516f16bab58?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
 | **[Ambarella Inc](http://ambarella.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a24f9c359fe034b1cd8a2b?utm_campaign=1066&utm_source=git)** | US Headquarters | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a24df3b600907a962897a3?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a2489d0da45516f16b8f11?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
@@ -101,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Care Data Analytics & AI Intern](https://jobright.ai/jobs/info/69a22cd7359fe034b1cd6a54?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Feb 27 |
 | **[Ormat Technologies, Inc.](http://www.ormat.com)** | **[Intern - Data Intelligence](https://jobright.ai/jobs/info/69a1fdd5359fe034b1cd3cd5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a235de0da45516f16b7e59?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a222d3359fe034b1cd602c?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22aea359fe034b1cd685f?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
-| **[RELX](https://www.relx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22d510da45516f16b75f5?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a220fc359fe034b1cd5e60?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a217bab600907a9628650a?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a222d3359fe034b1cd602c?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
+| **[RELX](https://www.relx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a220fc359fe034b1cd5e60?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a2309e359fe034b1cd6e52?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a217bab600907a9628650a?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22d510da45516f16b75f5?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a21f14359fe034b1cd5c5d?utm_campaign=1066&utm_source=git)** | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Hybrid | Feb 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a1f8b3b600907a962846c5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/699d21d3ce78e77b4fe1f8da?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 27 |
@@ -152,10 +158,4 @@ US | Hybrid | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2026 - DT Applications Intern](https://jobright.ai/jobs/info/69a1b0cc359fe034b1cd07d1?utm_campaign=1066&utm_source=git)** | East Hartford, CT | Hybrid | Feb 27 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Transit Asset Mgmt](https://jobright.ai/jobs/info/69a1ad200da45516f16b0ef7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern, Health & Risk Solutions - Summer 2026](https://jobright.ai/jobs/info/69a247ed0da45516f16b8e8b?utm_campaign=1066&utm_source=git)** | Wellesley, MA | Hybrid | Feb 27 |
-| **[Bunge](http://www.bunge.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a1a303b600907a962809ee?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Feb 27 |
-| **[Doctor Anywhere](https://www.doctoranywhere.com)** | **[[TH] Intern, Data Analyst](https://jobright.ai/jobs/info/69a1a0d0359fe034b1ccf9a5?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 27 |
-| ↳ | **[[ID] Intern, Data Analyst](https://jobright.ai/jobs/info/69a1a0bf0da45516f16b038a?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 27 |
-| **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 27 |
-| **[Doctor Anywhere](https://www.doctoranywhere.com)** | **[[PH] Intern, Data Analyst](https://jobright.ai/jobs/info/69a1aec80da45516f16b1082?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 27 |
-| ↳ | **[[VN] Intern, Data Analyst](https://jobright.ai/jobs/info/69a1a44c359fe034b1ccfcce?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
