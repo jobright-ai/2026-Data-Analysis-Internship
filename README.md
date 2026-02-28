@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696aa7365fc8624185399f4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a2e1970da45516f16c401e?utm_campaign=1066&utm_source=git)** | Shelton, CT | On Site | Feb 28 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69a2d5a3359fe034b1ce3167?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: R&D Quality Data Insights Intern (Remote)](https://jobright.ai/jobs/info/6986a0518da7a61204617c76?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 28 |
@@ -82,14 +83,14 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Summer 2026)](https://jobright.ai/jobs/info/69a25cf40da45516f16ba177?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a235b6359fe034b1cd728b?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a26618359fe034b1cda470?utm_campaign=1066&utm_source=git)** | Troy, Michigan | Hybrid | Feb 27 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a265480da45516f16bab58?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Feb 27 |
 | **[Ambarella Inc](http://ambarella.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a24f9c359fe034b1cd8a2b?utm_campaign=1066&utm_source=git)** | US Headquarters | On Site | Feb 27 |
@@ -114,10 +115,10 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a235de0da45516f16b7e59?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a222d3359fe034b1cd602c?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22aea359fe034b1cd685f?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
-| **[RELX](https://www.relx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a2309e359fe034b1cd6e52?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
+| **[RELX](https://www.relx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a220fc359fe034b1cd5e60?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a217bab600907a9628650a?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a2309e359fe034b1cd6e52?utm_campaign=1066&utm_source=git)** | New York | Remote | Feb 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a22d510da45516f16b75f5?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Feb 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a220fc359fe034b1cd5e60?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Feb 27 |
 | **[RTX](http://www.raytheon.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a21f14359fe034b1cd5c5d?utm_campaign=1066&utm_source=git)** | US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1 | Hybrid | Feb 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a1f8b3b600907a962846c5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/699d21d3ce78e77b4fe1f8da?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 27 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 US | Hybrid | Feb 27 |
 | ↳ | **[Summer Intern/Data Analysis (Genomics & Next‑Generation Proteomics Platforms)](https://jobright.ai/jobs/info/69a21164b600907a96285f55?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Feb 27 |
 | **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69a1df6d0da45516f16b31cc?utm_campaign=1066&utm_source=git)** | New York | On Site | Feb 27 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern  - Data Science](https://jobright.ai/jobs/info/69a209f4b600907a96285727?utm_campaign=1066&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 27 |
-| ↳ | **[Intern  - Data Science](https://jobright.ai/jobs/info/69a20a38359fe034b1cd4921?utm_campaign=1066&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 27 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern  - Data Science](https://jobright.ai/jobs/info/69a20a38359fe034b1cd4921?utm_campaign=1066&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 27 |
+| ↳ | **[Intern  - Data Science](https://jobright.ai/jobs/info/69a209f4b600907a96285727?utm_campaign=1066&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 27 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/69a1df310da45516f16b3193?utm_campaign=1066&utm_source=git)** | Atlanta Metro | On Site | Feb 27 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6968821c639b452fb57e337d?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 27 |
 | **[Klick](https://www.klick.com)** | **[Data Solutions Analyst, Summer 2026](https://jobright.ai/jobs/info/69a1d8130da45516f16b2caf?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
@@ -151,7 +152,6 @@ US | Hybrid | Feb 27 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a1c304359fe034b1cd1512?utm_campaign=1066&utm_source=git)** | US CT Shelton | On Site | Feb 27 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a1c291359fe034b1cd14ce?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Feb 27 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/69681c6f639b452fb57dabbc?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | Feb 27 |
-| **[Leidos](https://www.leidos.com)** | **[External Technology Analyst Intern](https://jobright.ai/jobs/info/699f7f50ce78e77b4fe541c2?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Feb 27 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/69a1bac40da45516f16b1a7c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a1b88eb600907a96281c6e?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Feb 27 |
 | **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Data Steward](https://jobright.ai/jobs/info/69a1b7bcb600907a96281bb7?utm_campaign=1066&utm_source=git)** | Live Oak, TX | On Site | Feb 27 |
