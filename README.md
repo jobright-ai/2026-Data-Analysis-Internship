@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a4c712359fe034b1cf6795?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 01 |
+| **[Precision Feed](www.precisionfeed.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a4be9f359fe034b1cf6514?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Mar 01 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a49324359fe034b1cf4af0?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Mar 01 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/69a48a050da45516f16d51bf?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Mar 01 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant- Social Network Analysis (MR-QAP)](https://jobright.ai/jobs/info/69a477d9359fe034b1cf3d7c?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Analytics and Metrics Intern, Summer 2026 - New York City, NY](https://jobright.ai/jobs/info/69a24ed7359fe034b1cd896f?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Feb 27 |
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69a213c20da45516f16b5d66?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Feb 27 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Engineering Intelligence Intern](https://jobright.ai/jobs/info/69a20820b600907a9628558c?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Feb 27 |
-| **[Visa](https://www.visa.com)** | **[Data Science, Intern - Summer 2026, Austin, TX](https://jobright.ai/jobs/info/69a20291359fe034b1cd414a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 27 |
-| **[Nokia](http://www.nokia.com)** | **[Care Data Analytics & AI Intern](https://jobright.ai/jobs/info/69a22cd7359fe034b1cd6a54?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
