@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pierce County](https://www.piercecountywa.gov/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/69a54c36b600907a962ae85a?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | Remote | Mar 02 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science - Multi-Omics intern](https://jobright.ai/jobs/info/69a1f367359fe034b1cd330c?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Mar 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[IT Analytics Intern – Finance & HR Solutions](https://jobright.ai/jobs/info/69a500f7359fe034b1cf9794?utm_campaign=1066&utm_source=git)** | Montréal, QC | Hybrid | Mar 01 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Summer 2026)](https://jobright.ai/jobs/info/69a25cf40da45516f16ba177?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a235b6359fe034b1cd728b?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a215f8b600907a96286371?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
 | **[Autodesk](http://www.autodesk.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69a23b360da45516f16b82f1?utm_campaign=1066&utm_source=git)** | Montreal, QC, CAN | On Site | Feb 27 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[WelbeHealth Intern](https://jobright.ai/jobs/info/69a24490359fe034b1cd805c?utm_campaign=1066&utm_source=git)** | Remote, CA, USA | Remote | Feb 27 |
-| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69a213c20da45516f16b5d66?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
