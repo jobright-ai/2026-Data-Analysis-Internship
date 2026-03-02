@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science - Multi-Omics intern](https://jobright.ai/jobs/info/69a1f367359fe034b1cd330c?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Mar 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[IT Analytics Intern – Finance & HR Solutions](https://jobright.ai/jobs/info/69a500f7359fe034b1cf9794?utm_campaign=1066&utm_source=git)** | Montréal, QC | Hybrid | Mar 01 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a4de58359fe034b1cf6e5b?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 01 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a4d1d60da45516f16d759c?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Mar 01 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b82e1350cf4380312d6a3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/695497f6f1f8465b79ebc5b8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Reporting Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a44488b600907a962a3946?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Day Ahead Analyst Intern](https://jobright.ai/jobs/info/69a43ca9359fe034b1cf23d2?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977f8ea88e2b47213bc0744?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Scientist Intern, Global Pricing Analytics (Fall 2026)](https://jobright.ai/jobs/info/69a3fdf9b600907a9629fff3?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
@@ -137,16 +137,16 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Summer 2026)](https://jobright.ai/jobs/info/69a25cf40da45516f16ba177?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a235b6359fe034b1cd728b?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a26618359fe034b1cda470?utm_campaign=1066&utm_source=git)** | Troy, Michigan | Hybrid | Feb 27 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a265480da45516f16bab58?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Feb 27 |
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a265480da45516f16bab58?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a24df3b600907a962897a3?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
 | **[First American](http://www.firstam.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a22118b600907a96286d7a?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Feb 27 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69a21f46b600907a96286b8c?utm_campaign=1066&utm_source=git)** | USA, California, Santa Ana | Hybrid | Feb 27 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a215f8b600907a96286371?utm_campaign=1066&utm_source=git)** | Florida | Remote | Feb 27 |
 | **[Autodesk](http://www.autodesk.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69a23b360da45516f16b82f1?utm_campaign=1066&utm_source=git)** | Montreal, QC, CAN | On Site | Feb 27 |
 | **[WelbeHealth](http://welbehealth.com/)** | **[WelbeHealth Intern](https://jobright.ai/jobs/info/69a24490359fe034b1cd805c?utm_campaign=1066&utm_source=git)** | Remote, CA, USA | Remote | Feb 27 |
-| **[Mastercard](http://www.mastercard.com)** | **[Analytics and Metrics Intern, Summer 2026 - New York City, NY](https://jobright.ai/jobs/info/69a24ed7359fe034b1cd896f?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Feb 27 |
+| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69a213c20da45516f16b5d66?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
