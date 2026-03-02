@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[tastytrade](https://tastytrade.com)** | **[Data Analytics + Insights Intern](https://jobright.ai/jobs/info/69a5bfafb600907a962b6b1f?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Mar 02 |
+| **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a2a2880da45516f16bfe83?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b78d0da45516f16e6632?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 02 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Lifecycle and Governance Intern](https://jobright.ai/jobs/info/69a5b7130da45516f16e65fb?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b587b600907a962b6546?utm_campaign=1066&utm_source=git)** | Boston | Hybrid | Mar 02 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b148359fe034b1ce0c4d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Quantitative Analytics](https://jobright.ai/jobs/info/69a2a9bdb600907a96290ec7?utm_campaign=1066&utm_source=git)** | Durham, CA | Hybrid | Feb 28 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2a916b600907a96290e0e?utm_campaign=1066&utm_source=git)** | Santa Isabel, CO | Hybrid | Feb 28 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a2a2880da45516f16bfe83?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Feb 28 |
 | **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a2a0be0da45516f16bfb14?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Feb 28 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a294700da45516f16be9de?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a288fd0da45516f16bdf4a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 27 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Summer 2026)](https://jobright.ai/jobs/info/69a25cf40da45516f16ba177?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Feb 27 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, R&D Analyst (Dallas,TX)](https://jobright.ai/jobs/info/69a235b6359fe034b1cd728b?utm_campaign=1066&utm_source=git)** | Dallas - 3001 Hackberry Rd | Hybrid | Feb 27 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
-| ↳ | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a269cb359fe034b1cda8fb?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
+| ↳ | **[Summer 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a2578c0da45516f16b9b43?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data &amp; Process Analyst Intern](https://jobright.ai/jobs/info/69a254a9359fe034b1cd8e43?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 27 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a26215b600907a9628acac?utm_campaign=1066&utm_source=git)** | Cleveland,OH,US | On Site | Feb 27 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a26618359fe034b1cda470?utm_campaign=1066&utm_source=git)** | Troy, Michigan | Hybrid | Feb 27 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a276e4359fe034b1cdbce7?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Feb 27 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a278f6b600907a9628cfc1?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| ↳ | **[2026 PhD Scientist Intern (Delivery Logistics)](https://jobright.ai/jobs/info/69a25ec90da45516f16ba319?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
