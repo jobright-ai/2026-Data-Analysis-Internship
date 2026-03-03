@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Data Analytics (IT)](https://jobright.ai/jobs/info/69a639812c0d8b0f5cd04406?utm_campaign=1066&utm_source=git)** | Jericho, NY | On Site | Mar 02 |
+| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics](https://jobright.ai/jobs/info/69a6305b359fe034b1d0fec7?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Mar 02 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a62e510da45516f16f0fbd?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Mar 02 |
+| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/6983cbeb348f733a5c372bec?utm_campaign=1066&utm_source=git)** | Montvale, NJ | On Site | Mar 02 |
 | **[Schnuck Markets, Inc.](http://www.schnucks.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69a61ed0359fe034b1d0f049?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Mar 02 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Internship: Research Intern - Denver](https://jobright.ai/jobs/info/69a617ae0da45516f16ef98d?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69a61460359fe034b1d0e52a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 02 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Data Science Internship, Summer 2026](https://jobright.ai/jobs/info/69a621f7359fe034b1d0f34b?utm_campaign=1066&utm_source=git)** | Milwaukee, WI Corporate | On Site | Mar 02 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 02 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Risk Control Data Analyst - Summer 2026 Internship](https://jobright.ai/jobs/info/69a5f6d7b600907a962bc778?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Mar 02 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Medical Value & Evidence Generation](https://jobright.ai/jobs/info/69a626300da45516f16f09c3?utm_campaign=1066&utm_source=git)** | Pasadena, California, United States | On Site | Mar 02 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/69a5ed1db600907a962bb84d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, Prime Science, Prime Science](https://jobright.ai/jobs/info/69a61b36b600907a962bfe96?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Mar 02 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69a5ecf90da45516f16eb6e0?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Mar 02 |
@@ -139,8 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 28 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science BI, Intern](https://jobright.ai/jobs/info/69a30c22b600907a9629692f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8f97350cf4380312e8ef?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/6983cbeb348f733a5c372bec?utm_campaign=1066&utm_source=git)** | Montvale, NJ | On Site | Feb 28 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 28 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 28 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b84135fc86241853aebef?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 28 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 28 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696aa7365fc8624185399f4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a2e1970da45516f16c401e?utm_campaign=1066&utm_source=git)** | Shelton, CT | On Site | Feb 28 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69a2d5a3359fe034b1ce3167?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 28 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: R&D Quality Data Insights Intern (Remote)](https://jobright.ai/jobs/info/6986a0518da7a61204617c76?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978535a39f7f96cc6d0c05c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/699a838981476f6176b315b8?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 28 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 28 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b4230da45516f16c19af?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
-| ↳ | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b2e0359fe034b1ce0df5?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
