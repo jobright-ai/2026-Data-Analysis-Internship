@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Timken Company](http://www.timken.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a68e61708b430a607af1f2?utm_campaign=1066&utm_source=git)** | North Canton, OH | On Site | Mar 02 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Regev Lab - Perturbation Modeling](https://jobright.ai/jobs/info/69a68d4a1a944544ef6333ed?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Mar 02 |
+| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics](https://jobright.ai/jobs/info/69a685172c0d8b0f5cd0a230?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69a66876e567421f4257714e?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Mar 02 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Energy (Summer 2026)](https://jobright.ai/jobs/info/69a6804cd706a731db386f64?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics Data Science](https://jobright.ai/jobs/info/69a6652d2c0d8b0f5cd08726?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, Business Analytics Intern](https://jobright.ai/jobs/info/69a66065d706a731db384c8c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - System Performance Monitoring](https://jobright.ai/jobs/info/69a65e2f2c0d8b0f5cd07dc5?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 02 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[NYP Summer 2026 Biostatistician Graduate Internship](https://jobright.ai/jobs/info/69a5f9d80da45516f16eca0a?utm_campaign=1066&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Mar 02 |
 | **[tastytrade](https://tastytrade.com)** | **[Data Analytics + Insights Intern](https://jobright.ai/jobs/info/69a5bfafb600907a962b6b1f?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Mar 02 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a2a2880da45516f16bfe83?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Mar 02 |
+| **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (May - August 2026)](https://jobright.ai/jobs/info/69a67e09e567421f42578098?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b78d0da45516f16e6632?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 02 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Lifecycle and Governance Intern](https://jobright.ai/jobs/info/69a5b7130da45516f16e65fb?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b587b600907a962b6546?utm_campaign=1066&utm_source=git)** | Boston | Hybrid | Mar 02 |
@@ -145,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 28 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a40427359fe034b1cef6e4?utm_campaign=1066&utm_source=git)** | Cleveland, Ohio | On Site | Feb 28 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 28 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Fall 2026 Data Analytics Intern](https://jobright.ai/jobs/info/69a67937d706a731db38678d?utm_campaign=1066&utm_source=git)** | Longwood, FL | On Site | Feb 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 28 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Day Ahead Analyst Intern](https://jobright.ai/jobs/info/69a35e52b600907a962992e2?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Feb 28 |
 | ↳ | **[Day Ahead Analyst Intern](https://jobright.ai/jobs/info/69a35ddc0da45516f16c8e5f?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/698635b10f6f7e7a2ce1182d?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 28 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 28 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 28 |
-| **[YouGov](https://business.yougov.com)** | **[Statistical Research Intern](https://jobright.ai/jobs/info/69a46b77b600907a962a475c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 28 |
-| **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 28 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
-| **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
