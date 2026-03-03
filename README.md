@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a6ed1e2672cb0acb4b5273?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Mar 03 |
+| **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / Clinical Data Science](https://jobright.ai/jobs/info/698a1b424db8972cecff5f35?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 03 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69a6e7b476bbe83d3afa3c45?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 03 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a6d6702672cb0acb4b415b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 03 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/69a6d66f2672cb0acb4b415a?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 03 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 03 |
+| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/698a6efc0f6f7e7a2ce596ab?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 03 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/698ee10b78b4502f12a5bdaf?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Mar 03 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Data Science Intern - Biosciences R&D (Charleston, SC)](https://jobright.ai/jobs/info/69981a75e0bddb6acac720d8?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Mar 03 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Mar 03 |
@@ -131,12 +135,10 @@ For a complete list, click the following sortable link below:
 | **[One Community Bank](https://www.onecommunity.bank)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a65c9ad706a731db3845a9?utm_campaign=1066&utm_source=git)** | 5990 Hwy 51, McFarland, WI, USA | On Site | Mar 02 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[NYP Summer 2026 Biostatistician Graduate Internship](https://jobright.ai/jobs/info/69a5f9d80da45516f16eca0a?utm_campaign=1066&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Mar 02 |
 | **[tastytrade](https://tastytrade.com)** | **[Data Analytics + Insights Intern](https://jobright.ai/jobs/info/69a5bfafb600907a962b6b1f?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Mar 02 |
-| **[Health Alliance Plan](https://www.hap.org)** | **[2026 Summer College Intern Data Analytics (Hybrid in Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/69a2a2880da45516f16bfe83?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Mar 02 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (May - August 2026)](https://jobright.ai/jobs/info/69a67e09e567421f42578098?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b78d0da45516f16e6632?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 02 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Lifecycle and Governance Intern](https://jobright.ai/jobs/info/69a5b7130da45516f16e65fb?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 02 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/69a5b587b600907a962b6546?utm_campaign=1066&utm_source=git)** | Boston | Hybrid | Mar 02 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a5a7b80da45516f16e580b?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[The Standard](https://www.standard.com)** | **[Data Analyst Intern - RP Sales](https://jobright.ai/jobs/info/69a5980c0da45516f16e437b?utm_campaign=1066&utm_source=git)** | Portland, OR | Remote | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business/Data Analyst Intern](https://jobright.ai/jobs/info/69a294700da45516f16be9de?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 02 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science - Multi-Omics intern](https://jobright.ai/jobs/info/69a1f367359fe034b1cd330c?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Mar 01 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[IT Analytics Intern – Finance & HR Solutions](https://jobright.ai/jobs/info/69a500f7359fe034b1cf9794?utm_campaign=1066&utm_source=git)** | Montréal, QC | Hybrid | Mar 01 |
-| **[Kaizen Analytix](https://www.kaizenanalytix.com)** | **[Kaizen Analytix Intern Pool (Summer 2026)](https://jobright.ai/jobs/info/69a622100da45516f16f05a3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
