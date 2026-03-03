@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[Silicon Ranch Corporation](https://www.siliconranch.com/)** | **[Intern, Clearloop Data Analytics](https://jobright.ai/jobs/info/69a72b9276bbe83d3afa87f4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
+| **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/69a6c61c2672cb0acb4b358c?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Mar 03 |
+| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a71fe476bbe83d3afa7a9d?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 03 |
 | **[Guardian Industries](https://www.guardian.com)** | **[Guardian Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/69a71cff2672cb0acb4b8a5b?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Mar 03 |
 | **[Albemarle Corporation](http://albemarle.com)** | **[Summer 2026 Corporate Internship Program](https://jobright.ai/jobs/info/698aabf14db8972cec0008a2?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Mar 03 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Sales Data Intern, Summer 2026](https://jobright.ai/jobs/info/69a7180f2672cb0acb4b84cc?utm_campaign=1066&utm_source=git)** | Yarmouth, ME | On Site | Mar 03 |
+| **[Cart.com](https://www.cart.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69a7334f76bbe83d3afa8e8f?utm_campaign=1066&utm_source=git)** | Houston-TX Headquarters | On Site | Mar 03 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[NYP Summer 2026 Biostatistician Graduate Internship](https://jobright.ai/jobs/info/69a7125976bbe83d3afa6a8b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Research Intern](https://jobright.ai/jobs/info/69a7114876bbe83d3afa6862?utm_campaign=1066&utm_source=git)** | California | Remote | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69a7113e76bbe83d3afa6854?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 03 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Colorado Department of Revenue](https://dmv.colorado.gov)** | **[Internship: Research Intern - Denver](https://jobright.ai/jobs/info/69a644dfd706a731db3821d4?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Data Analysis Playgrounds Intern (UNPAID)](https://jobright.ai/jobs/info/69a6417fe567421f425733b1?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | Mar 02 |
 | **[Christian Brothers Services](https://www.cbservices.org/)** | **[Risk Solutions Intern - Data Analytics](https://jobright.ai/jobs/info/69a65bffd706a731db384470?utm_campaign=1066&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 02 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a65a9d2c0d8b0f5cd07890?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
-| ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a65d89e567421f42576506?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a65d89e567421f42576506?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
+| ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a65a9d2c0d8b0f5cd07890?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Mar 02 |
 | **[LWCC](https://www.lwcc.com/)** | **[Data Services & Analytics Intern](https://jobright.ai/jobs/info/69a65267d706a731db383331?utm_campaign=1066&utm_source=git)** | Louisiana Workers' Compensation Corporation, 2237 S. Acadian Thruway, Baton Rouge, Louisiana, United States of America | On Site | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics](https://jobright.ai/jobs/info/69a6305b359fe034b1d0fec7?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Mar 02 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69a62e510da45516f16f0fbd?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[2026 PhD Scientist Intern (Competitive Intelligence)](https://jobright.ai/jobs/info/69a2b4230da45516f16c19af?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 02 |
 | **[One Community Bank](https://www.onecommunity.bank)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a70c1976bbe83d3afa5e86?utm_campaign=1066&utm_source=git)** | McFarland, WI | On Site | Mar 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 02 |
-| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 02 |
-| **[The Standard](https://www.standard.com)** | **[Data Analyst Intern - RP Sales](https://jobright.ai/jobs/info/69a5980c0da45516f16e437b?utm_campaign=1066&utm_source=git)** | Portland, OR | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
