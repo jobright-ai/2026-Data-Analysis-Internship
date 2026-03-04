@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a772e476bbe83d3afad6d3?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Mar 03 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/69681c6f639b452fb57dabbc?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | Mar 03 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a7651b2672cb0acb4bd989?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Text Data Research (PhD)](https://jobright.ai/jobs/info/69a5b457b600907a962b63fc?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 03 |
 | **[Climate First Bank](https://climatefirstbank.com)** | **[Power BI Report Builder Intern](https://jobright.ai/jobs/info/69a75c5576bbe83d3afabd95?utm_campaign=1066&utm_source=git)** | United States | On Site | Mar 03 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a7796b76bbe83d3afade02?utm_campaign=1066&utm_source=git)** | Washington - Pullman | On Site | Mar 03 |
 | **[SAI](https://www.sai-med.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69a76c302672cb0acb4be240?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2615 BRIDGE Global Farm Loss Tool Graduate Intern](https://jobright.ai/jobs/info/69a6499d2c0d8b0f5cd058d3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/69a7aa18637232443f64f235?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | **[LWCC](https://www.lwcc.com/)** | **[Data Services & Analytics Intern](https://jobright.ai/jobs/info/69a6454f2c0d8b0f5cd05220?utm_campaign=1066&utm_source=git)** | Baton Rouge Metro | On Site | Mar 02 |
-| **[Christian Brothers Services](https://www.cbservices.org/)** | **[Risk Solutions Intern - Data Analytics](https://jobright.ai/jobs/info/69a65bffd706a731db384470?utm_campaign=1066&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
