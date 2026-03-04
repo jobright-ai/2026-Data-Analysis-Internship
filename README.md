@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/698279fa0a9e07331f8d8ec2?utm_campaign=1066&utm_source=git)** | Lake County, IN | Hybrid | Mar 04 |
+| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/69700f173ed06875134b0d3c?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69a2706d0da45516f16bba88?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/69a7d686637232443f65316b?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Mar 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a7b32576bbe83d3afb2242?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 03 |
@@ -66,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a7afac637232443f64fcd3?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 03 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Nutrition Intern](https://jobright.ai/jobs/info/69a7ac0c76bbe83d3afb1264?utm_campaign=1066&utm_source=git)** | Beaverton, OR, US, 97005 | On Site | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a7a47176bbe83d3afb0703?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Bioinformatics](https://jobright.ai/jobs/info/69a7a150637232443f64e2ea?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69a823352580d3183f002b91?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
+| ↳ | **[Intern, Bioinformatics](https://jobright.ai/jobs/info/69a7a150637232443f64e2ea?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 03 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Mar 03 |
 | **[Essendant](http://www.essendant.com/)** | **[Supply Chain Transportation Intern (Data & Analytics Focus)](https://jobright.ai/jobs/info/69a7777e76bbe83d3afadbd3?utm_campaign=1066&utm_source=git)** | Illinois, United States | Remote | Mar 03 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Competitive Intelligence](https://jobright.ai/jobs/info/69a78e642672cb0acb4c02f8?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Mar 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Energy (Summer 2026)](https://jobright.ai/jobs/info/69a6804cd706a731db386f64?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist (Summer 2026 Internship)](https://jobright.ai/jobs/info/69a6a573f707784310b00268?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69a69cfff707784310aff7a1?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Mar 02 |
-| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics Data Science](https://jobright.ai/jobs/info/69a6652d2c0d8b0f5cd08726?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
-| **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, Business Analytics Intern](https://jobright.ai/jobs/info/69a66065d706a731db384c8c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - System Performance Monitoring](https://jobright.ai/jobs/info/69a65e2f2c0d8b0f5cd07dc5?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 02 |
-| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics Data Science](https://jobright.ai/jobs/info/69a65475d706a731db383687?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
