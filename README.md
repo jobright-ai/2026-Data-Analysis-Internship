@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a83ab57ac93962b707fe04?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 04 |
+| **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/69a835472580d3183f003a01?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Mar 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Applied Data & Analytics Bachelor's Intern](https://jobright.ai/jobs/info/69a82de12580d3183f002fbd?utm_campaign=1066&utm_source=git)** | Tustin, CA | Hybrid | Mar 04 |
 | **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/698279fa0a9e07331f8d8ec2?utm_campaign=1066&utm_source=git)** | Lake County, IN | Hybrid | Mar 04 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/69700f173ed06875134b0d3c?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69a2706d0da45516f16bba88?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
+| **[Qlik](https://www.qlik.com/)** | **[Enterprise Data and Analytics Intern](https://jobright.ai/jobs/info/69a8363f2580d3183f003b97?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/69a7d686637232443f65316b?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Mar 03 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/69a768ea2672cb0acb4bde35?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Mar 03 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a75caf2672cb0acb4bcfc2?utm_campaign=1066&utm_source=git)** | US Northville MI (3057) | On Site | Mar 03 |
 | **[Sleek Technologies](https://www.sleek-technologies.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69a75bd976bbe83d3afabd01?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Mar 03 |
-| **[Prosek Partners](http://www.prosek.com/)** | **[Summer 2026 Data & Analytics Apprentice](https://jobright.ai/jobs/info/69a748752672cb0acb4bb6ad?utm_campaign=1066&utm_source=git)** | Fairfield, CT | Hybrid | Mar 03 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/69a6c61c2672cb0acb4b358c?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Mar 03 |
 | **[Univest](http://www.univest.net/)** | **[Data Analytics / Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/698a96c20f6f7e7a2ce5ca4d?utm_campaign=1066&utm_source=git)** | Souderton, PA | On Site | Mar 03 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research –United States](https://jobright.ai/jobs/info/69a6ad15f11be161e274ffd8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics](https://jobright.ai/jobs/info/69a685172c0d8b0f5cd0a230?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69a66876e567421f4257714e?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Mar 02 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Energy (Summer 2026)](https://jobright.ai/jobs/info/69a6804cd706a731db386f64?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist (Summer 2026 Internship)](https://jobright.ai/jobs/info/69a6a573f707784310b00268?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 02 |
-| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69a69cfff707784310aff7a1?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
