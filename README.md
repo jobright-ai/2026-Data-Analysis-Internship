@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accuray](http://www.accuray.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a86bce2580d3183f00810a?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Mar 04 |
 | **[MBTA](http://mbta.com)** | **[Procurement & Logistics Data Analyst Co-Op (Northeastern Undegraduate Students)](https://jobright.ai/jobs/info/69a866967ac93962b708394c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 04 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Analyst Intern – 2026 Summer Internship](https://jobright.ai/jobs/info/69a865d27ac93962b70838d9?utm_campaign=1066&utm_source=git)** | USA - New York City - New York | Hybrid | Mar 04 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Health Plan Data Analyst - R11621](https://jobright.ai/jobs/info/69980447e0bddb6acac70b19?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/69782e0688e2b47213bc32ce?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/697852c539f7f96cc6d0bbf4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69782d9c39f7f96cc6d06fe2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
-| **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698aab364db8972cec0007c2?utm_campaign=1066&utm_source=git)** | Rosemont, IL | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
