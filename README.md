@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
+| **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69a2706d0da45516f16bba88?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/69a7d686637232443f65316b?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Mar 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a7b32576bbe83d3afb2242?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 03 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Lifecycle and Governance Intern](https://jobright.ai/jobs/info/69a7b1fe76bbe83d3afb1f96?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, Business Analytics Intern](https://jobright.ai/jobs/info/69a66065d706a731db384c8c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - System Performance Monitoring](https://jobright.ai/jobs/info/69a65e2f2c0d8b0f5cd07dc5?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 02 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics Data Science](https://jobright.ai/jobs/info/69a65475d706a731db383687?utm_campaign=1066&utm_source=git)** | Fremont, California | On Site | Mar 02 |
-| **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship: Research Intern - Denver](https://jobright.ai/jobs/info/69a6542dd706a731db383632?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 02 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a64e7fd706a731db382ddd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 02 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - System Performance Monitoring](https://jobright.ai/jobs/info/69a66956d706a731db38596a?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
