@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Mar 04 |
+| **[Wealthspire](https://www.wealthspire.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bdfab06d9b0622496099f?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Mar 04 |
+| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69a847a62580d3183f00571c?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Mar 04 |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Spring 2027](https://jobright.ai/jobs/info/69a840132580d3183f004b64?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a83ab57ac93962b707fe04?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 04 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/69a835472580d3183f003a01?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Mar 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Applied Data & Analytics Bachelor's Intern](https://jobright.ai/jobs/info/69a82de12580d3183f002fbd?utm_campaign=1066&utm_source=git)** | Tustin, CA | Hybrid | Mar 04 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/69a768ea2672cb0acb4bde35?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Mar 03 |
 | **[Tenneco](https://www.tenneco.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a75caf2672cb0acb4bcfc2?utm_campaign=1066&utm_source=git)** | US Northville MI (3057) | On Site | Mar 03 |
 | **[Sleek Technologies](https://www.sleek-technologies.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69a75bd976bbe83d3afabd01?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Mar 03 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a83d701dfc787e9aa34f2a?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 03 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/69a6c61c2672cb0acb4b358c?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Mar 03 |
 | **[Univest](http://www.univest.net/)** | **[Data Analytics / Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/698a96c20f6f7e7a2ce5ca4d?utm_campaign=1066&utm_source=git)** | Souderton, PA | On Site | Mar 03 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research – Global Macro Analysis](https://jobright.ai/jobs/info/69a6ac33f11be161e274fe65?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Enterprise Cybersecurity Data and Business Intelligence Intern](https://jobright.ai/jobs/info/69a69c13f707784310aff5bb?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Mar 03 |
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/69a7c8cf637232443f652493?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | Remote | Mar 03 |
-| **[The Timken Company](http://www.timken.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69a68e61708b430a607af1f2?utm_campaign=1066&utm_source=git)** | North Canton, OH | On Site | Mar 02 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Regev Lab - Perturbation Modeling](https://jobright.ai/jobs/info/69a68d4a1a944544ef6333ed?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Mar 02 |
-| **[Eurasia Group](http://www.eurasiagroup.net/)** | **[Summer Intern, Research –United States](https://jobright.ai/jobs/info/69a6ad15f11be161e274ffd8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
-| **[Alamar Biosciences, Inc.](https://alamarbio.com)** | **[Internship - Bioinformatics](https://jobright.ai/jobs/info/69a685172c0d8b0f5cd0a230?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Mar 02 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69a66876e567421f4257714e?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
