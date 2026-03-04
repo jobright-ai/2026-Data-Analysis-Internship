@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/69a7d686637232443f65316b?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Mar 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a7b32576bbe83d3afb2242?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 03 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Lifecycle and Governance Intern](https://jobright.ai/jobs/info/69a7b1fe76bbe83d3afb1f96?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a7afac637232443f64fcd3?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 03 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a7154e1fc3d83b78092da0?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 03 |
 | **[Ad Council](http://adcouncil.org/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698a7f450f6f7e7a2ce5a67e?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 03 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - System Performance Monitoring](https://jobright.ai/jobs/info/69a7dc7d1fc3d83b78095b7a?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 03 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69a7129b1fc3d83b78092d26?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 03 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a6d6702672cb0acb4b415b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 03 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/69a6d66f2672cb0acb4b415a?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 03 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2615 BRIDGE Global Farm Loss Tool Graduate Intern](https://jobright.ai/jobs/info/69a6499d2c0d8b0f5cd058d3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 02 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/69a7aa18637232443f64f235?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | **[LWCC](https://www.lwcc.com/)** | **[Data Services & Analytics Intern](https://jobright.ai/jobs/info/69a6454f2c0d8b0f5cd05220?utm_campaign=1066&utm_source=git)** | Baton Rouge Metro | On Site | Mar 02 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Interns - Data Analysis Playgrounds Intern (UNPAID)](https://jobright.ai/jobs/info/69a6417fe567421f425733b1?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | Mar 02 |
 | **[Christian Brothers Services](https://www.cbservices.org/)** | **[Risk Solutions Intern - Data Analytics](https://jobright.ai/jobs/info/69a65bffd706a731db384470?utm_campaign=1066&utm_source=git)** | ROMEOVILLE, IL 60446 | On Site | Mar 02 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69a65d89e567421f42576506?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
