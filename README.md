@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/69a8ec5179f3f4037f43814d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/69a8e0c42580d3183f0106f8?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Remote | Mar 04 |
+| **[AKRS Equipment](https://www.akrs.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69a8df9b2580d3183f0104b8?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Mar 04 |
+| **[STERIS](http://steris.com)** | **[Quality Analyst Intern](https://jobright.ai/jobs/info/69a8d93779f3f4037f436562?utm_campaign=1066&utm_source=git)** | Mentor, OH | Hybrid | Mar 04 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Domestic Network Analysis (Summer 2026)](https://jobright.ai/jobs/info/69a8d6442580d3183f00f577?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a8d3072580d3183f00f012?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 04 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8bc7b2580d3183f00ca18?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Digital Analyst Intern](https://jobright.ai/jobs/info/69a8ca242580d3183f00e0bc?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a8c6e77ac93962b7089581?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | Mar 04 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8e6f67ac93962b708c9e1?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Mar 04 |
+| **[Schneider Electric](https://www.se.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a8c6e77ac93962b7089581?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | Mar 04 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Data Scientist](https://jobright.ai/jobs/info/69a8c55079f3f4037f433da3?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Mar 04 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Data Science Intern - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69a8d36c7ac93962b708aafa?utm_campaign=1066&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Mar 04 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern - Geospatial Servies (Summer 2026)](https://jobright.ai/jobs/info/69a8cae879f3f4037f434934?utm_campaign=1066&utm_source=git)** | 200-325 25th Street SE, Calgary, AB, T2A 7H8, CA | On Site | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Data Analytics Intern](https://jobright.ai/jobs/info/69a774202672cb0acb4bead7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
 | **[GGP](http://www.ggp.com/)** | **[Intern - Data and Analytics](https://jobright.ai/jobs/info/69a76d352672cb0acb4be36a?utm_campaign=1066&utm_source=git)** | US NY - New York City | On Site | Mar 03 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Data Analytics/CMMS Intern](https://jobright.ai/jobs/info/69a7704b76bbe83d3afad470?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
-| **[Alterman, Inc.](http://goalterman.com)** | **[Intern - Data Steward](https://jobright.ai/jobs/info/69a1b7bcb600907a96281bb7?utm_campaign=1066&utm_source=git)** | Live Oak, TX | On Site | Mar 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
-| **[Silicon Ranch Corporation](https://www.siliconranch.com/)** | **[Intern, Clearloop Data Analytics](https://jobright.ai/jobs/info/69a72b9276bbe83d3afa87f4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Data Management Intern (Remote)](https://jobright.ai/jobs/info/69a7646b2672cb0acb4bd8c0?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Mar 03 |
-| **[Sleek Technologies](https://www.sleek-technologies.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69a75bd976bbe83d3afabd01?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
