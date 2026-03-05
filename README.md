@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Townline](https://townline.ca)** | **[Real Estate Business Intelligence Intern](https://jobright.ai/jobs/info/69a9146b2580d3183f014c2e?utm_campaign=1066&utm_source=git)** | Vancouver, BC, CA | On Site | Mar 04 |
 | **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - Engineeering Data Analyst](https://jobright.ai/jobs/info/69a8fcf42580d3183f0129aa?utm_campaign=1066&utm_source=git)** | Danbury, CT, US, 06810 | On Site | Mar 04 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Governance, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69a8f2ad2580d3183f011eb7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 04 |
 | **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - IT Data Analyst](https://jobright.ai/jobs/info/69a9109a79f3f4037f43c4f5?utm_campaign=1066&utm_source=git)** | Danbury, CT, US, 06810 | On Site | Mar 04 |
@@ -68,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8bc7b2580d3183f00ca18?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Digital Analyst Intern](https://jobright.ai/jobs/info/69a8ca242580d3183f00e0bc?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
 | **[Wurth USA](http://www.wurthusa.com)** | **[Intern](https://jobright.ai/jobs/info/69a8f9c22580d3183f012744?utm_campaign=1066&utm_source=git)** | Ramsey, New Jersey, United States | On Site | Mar 04 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8e6f67ac93962b708c9e1?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Mar 04 |
-| ↳ | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8f5e579f3f4037f439492?utm_campaign=1066&utm_source=git)** | Upper Providence PA/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8f5e579f3f4037f439492?utm_campaign=1066&utm_source=git)** | Upper Providence PA/Hybrid, UNAVAILABLE, 
 US | Hybrid | Mar 04 |
+| ↳ | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8e6f67ac93962b708c9e1?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Mar 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/69a8f3a57ac93962b708daa5?utm_campaign=1066&utm_source=git)** | Bloomington IN  1458 Liberty, Bloomington, Indiana, United States | Hybrid | Mar 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a8c6e77ac93962b7089581?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | Mar 04 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Data Scientist](https://jobright.ai/jobs/info/69a8c55079f3f4037f433da3?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Mar 04 |
@@ -157,5 +158,4 @@ US | Hybrid | Mar 04 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/69681c6f639b452fb57dabbc?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | Mar 03 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a7651b2672cb0acb4bd989?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Text Data Research (PhD)](https://jobright.ai/jobs/info/69a5b457b600907a962b63fc?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 03 |
-| **[Climate First Bank](https://climatefirstbank.com)** | **[Power BI Report Builder Intern](https://jobright.ai/jobs/info/69a75c5576bbe83d3afabd95?utm_campaign=1066&utm_source=git)** | United States | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
