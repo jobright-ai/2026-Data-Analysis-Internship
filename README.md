@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/69a8ec5179f3f4037f43814d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 04 |
+| **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - Engineeering Data Analyst](https://jobright.ai/jobs/info/69a8fcf42580d3183f0129aa?utm_campaign=1066&utm_source=git)** | Danbury, CT, US, 06810 | On Site | Mar 04 |
+| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Governance, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69a8f2ad2580d3183f011eb7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 04 |
+| **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - IT Data Analyst](https://jobright.ai/jobs/info/69a9109a79f3f4037f43c4f5?utm_campaign=1066&utm_source=git)** | Danbury, CT, US, 06810 | On Site | Mar 04 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/69a8e0c42580d3183f0106f8?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Remote | Mar 04 |
 | **[AKRS Equipment](https://www.akrs.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69a8df9b2580d3183f0104b8?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Mar 04 |
 | **[STERIS](http://steris.com)** | **[Quality Analyst Intern](https://jobright.ai/jobs/info/69a8d93779f3f4037f436562?utm_campaign=1066&utm_source=git)** | Mentor, OH | Hybrid | Mar 04 |
@@ -65,7 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a8d3072580d3183f00f012?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 04 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8bc7b2580d3183f00ca18?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Digital Analyst Intern](https://jobright.ai/jobs/info/69a8ca242580d3183f00e0bc?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 04 |
+| **[Wurth USA](http://www.wurthusa.com)** | **[Intern](https://jobright.ai/jobs/info/69a8f9c22580d3183f012744?utm_campaign=1066&utm_source=git)** | Ramsey, New Jersey, United States | On Site | Mar 04 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8e6f67ac93962b708c9e1?utm_campaign=1066&utm_source=git)** | US-Upper Providence PA/Hybrid | Hybrid | Mar 04 |
+| ↳ | **[Summer Intern/GRC Analysis](https://jobright.ai/jobs/info/69a8f5e579f3f4037f439492?utm_campaign=1066&utm_source=git)** | Upper Providence PA/Hybrid, UNAVAILABLE, 
+US | Hybrid | Mar 04 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/69a8f3a57ac93962b708daa5?utm_campaign=1066&utm_source=git)** | Bloomington IN  1458 Liberty, Bloomington, Indiana, United States | Hybrid | Mar 04 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69a8c6e77ac93962b7089581?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | Mar 04 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Data Scientist](https://jobright.ai/jobs/info/69a8c55079f3f4037f433da3?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Mar 04 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Data Science Intern - 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69a8d36c7ac93962b708aafa?utm_campaign=1066&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Mar 04 |
@@ -76,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/69a8a53e2580d3183f00a713?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 04 |
 | **[Manulife](http://www.manulife.com/)** | **[Quantitative Development Intern](https://jobright.ai/jobs/info/69a8cd6a7ac93962b708a0cb?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | Hybrid | Mar 04 |
 | **[Accuray](http://www.accuray.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a86bce2580d3183f00810a?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Mar 04 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8d2b22580d3183f00ef7a?utm_campaign=1066&utm_source=git)** | Texas | On Site | Mar 04 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8cf9b79f3f4037f43529a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 04 |
 | ↳ | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8d08f7ac93962b708a63b?utm_campaign=1066&utm_source=git)** | Houston | On Site | Mar 04 |
-| ↳ | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8cf9b79f3f4037f43529a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 04 |
+| ↳ | **[Evergreen Data Analytics - Intern](https://jobright.ai/jobs/info/69a8d2b22580d3183f00ef7a?utm_campaign=1066&utm_source=git)** | Texas | On Site | Mar 04 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Validation Analyst](https://jobright.ai/jobs/info/698c61a80f6f7e7a2ce81d20?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 04 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/69a8b6627ac93962b7087bd8?utm_campaign=1066&utm_source=git)** | 875 Greentree Rd, Pittsburgh, PA, 15220, US | Remote | Mar 04 |
 | ↳ | **[Data Scientist, Intern (Remote)](https://jobright.ai/jobs/info/69a8b11d7ac93962b708738f?utm_campaign=1066&utm_source=git)** | 875 Greentree Rd, Pittsburgh, PA, 15220, US | Remote | Mar 04 |
@@ -152,9 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Stakeholder Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/69a7651b2672cb0acb4bd989?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Text Data Research (PhD)](https://jobright.ai/jobs/info/69a5b457b600907a962b63fc?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 03 |
 | **[Climate First Bank](https://climatefirstbank.com)** | **[Power BI Report Builder Intern](https://jobright.ai/jobs/info/69a75c5576bbe83d3afabd95?utm_campaign=1066&utm_source=git)** | United States | On Site | Mar 03 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69a7796b76bbe83d3afade02?utm_campaign=1066&utm_source=git)** | Washington - Pullman | On Site | Mar 03 |
-| **[SAI](https://www.sai-med.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69a76c302672cb0acb4be240?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 03 |
-| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Data Analytics Intern](https://jobright.ai/jobs/info/69a774202672cb0acb4bead7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 03 |
-| **[GGP](http://www.ggp.com/)** | **[Intern - Data and Analytics](https://jobright.ai/jobs/info/69a76d352672cb0acb4be36a?utm_campaign=1066&utm_source=git)** | US NY - New York City | On Site | Mar 03 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Data Analytics/CMMS Intern](https://jobright.ai/jobs/info/69a7704b76bbe83d3afad470?utm_campaign=1066&utm_source=git)** | Hackensack, NJ | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
