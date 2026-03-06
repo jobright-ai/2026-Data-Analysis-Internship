@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rich Products Corporation](https://rich.com)** | **[Data Science/AI Intern](https://jobright.ai/jobs/info/69ab22e5142d5b4265fc5afd?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Mar 06 |
+| **[Precisely](https://www.precisely.com)** | **[Data Operations & Business Intelligence Intern](https://jobright.ai/jobs/info/69ab209c7e1fab39d382a7b1?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
+| ↳ | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab208d142d5b4265fc58c3?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT - Data Sciences Intern](https://jobright.ai/jobs/info/69a414b6b600907a962a20ee?utm_campaign=1066&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Master Data Intern](https://jobright.ai/jobs/info/698f52ee0f6f7e7a2ceb80dd?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Mar 06 |
+| **[Transforming Age](https://www.waterfordliving.org)** | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab13517e1fab39d3829e03?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Internal Audit (Data Analytics)](https://jobright.ai/jobs/info/69a65d8d2c0d8b0f5cd07c9b?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
-| **[BreakAway Data](https://www.breakawaydata.com)** | **[Performance Statistics Intern](https://jobright.ai/jobs/info/69ab0f697e1fab39d3829bfd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Transforming Age](https://www.waterfordliving.org)** | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab0ed37e1fab39d3829ad3?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | ↳ | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab0e242747003c3d50b25b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern](https://jobright.ai/jobs/info/69a9d9979ca4e908ec650c7a?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Mar 06 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 05 |
 | **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69aa3edb9ca4e908ec65955e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa35af1f59c56275e30ff2?utm_campaign=1066&utm_source=git)** | West Bend, WI | Hybrid | Mar 05 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
-| ↳ | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
 | **[World Vision](http://www.worldvision.org/)** | **[Nutrition Research Internship](https://jobright.ai/jobs/info/69aa315e2ebd316bece1f304?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa30d21f59c56275e307f5?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 05 |
 | ↳ | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa30cd1f59c56275e307e1?utm_campaign=1066&utm_source=git)** | Plano, TX, US | Hybrid | Mar 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Biostats](https://jobright.ai/jobs/info/69a99521f6c22f2e36869968?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Mar 05 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Summer 2026](https://jobright.ai/jobs/info/69aab960142d5b4265fc145e?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/69916ae56ea51a7610f3caa3?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Mar 05 |
-| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Biostats](https://jobright.ai/jobs/info/69a98c877f9271426f886cab?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
-| **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Process Automation Intern](https://jobright.ai/jobs/info/698d28be0f6f7e7a2ce8ee4b?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 05 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d87aabec14a727d5724?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
