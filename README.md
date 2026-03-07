@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69ac02e42747003c3d51e040?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abd946142d5b4265fd420e?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 06 |
 | **[IQVIA](https://www.iqvia.com)** | **[Data Science Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69aba6ca142d5b4265fcd874?utm_campaign=1066&utm_source=git)** | Wayne, PA | Remote | Mar 06 |
@@ -98,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT - Data Sciences Intern](https://jobright.ai/jobs/info/69a414b6b600907a962a20ee?utm_campaign=1066&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Master Data Intern](https://jobright.ai/jobs/info/698f52ee0f6f7e7a2ceb80dd?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Mar 06 |
 | **[Transforming Age](https://www.waterfordliving.org)** | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab13517e1fab39d3829e03?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Internal Audit (Data Analytics)](https://jobright.ai/jobs/info/69a65d8d2c0d8b0f5cd07c9b?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
-| **[Transforming Age](https://www.waterfordliving.org)** | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab0ed37e1fab39d3829ad3?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
+| ↳ | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab0ed37e1fab39d3829ad3?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 06 |
 | ↳ | **[Corporate - Data Analytics Summer Intern](https://jobright.ai/jobs/info/69ab0e242747003c3d50b25b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern](https://jobright.ai/jobs/info/69a9d9979ca4e908ec650c7a?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Mar 06 |
 | **[NYC Mayor's Office of Contract Services](https://www1.nyc.gov/site/mocs/index.page)** | **[Data Analytics and Reporting Team Intern](https://jobright.ai/jobs/info/69ab0d1d2747003c3d50b161?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 06 |
@@ -120,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/699e81b0ce78e77b4fe3df91?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a9018b79f3f4037f43aeb6?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 06 |
+| **[Town of Clayton](https://linktr.ee/townofclaytonnc)** | **[Intern - Data Analyst (Fire)](https://jobright.ai/jobs/info/69ac07347e1fab39d383c6f0?utm_campaign=1066&utm_source=git)** | Clayton, NC | On Site | Mar 06 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698ecbe8f64d441a16511d06?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Mar 06 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698ebaca78b4502f12a59888?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698ece7a78b4502f12a5a705?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costello Medical](https://www.costellomedical.com)** | **[Statistician Intern](https://jobright.ai/jobs/info/69a9f9672ebd316bece1b67b?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Data Analytics](https://jobright.ai/jobs/info/69a9f7551f59c56275e2c8ca?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 05 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Data Science Intern- Remote](https://jobright.ai/jobs/info/69a9f6f72ebd316bece1b1e0?utm_campaign=1066&utm_source=git)** | Nevada - Home Teleworkers | Remote | Mar 05 |
-| **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Business Intelligence Intern](https://jobright.ai/jobs/info/699f914723374b3b6e6b5bca?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
