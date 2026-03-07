@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/69ac606c7e1fab39d383f925?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/699f56ed81476f6176b8f37f?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Patterson Companies, Inc.](https://www.pattersoncompanies.com)** | **[Digital Workplace Innovation Intern](https://jobright.ai/jobs/info/698f71810f6f7e7a2ceba99a?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Mar 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MEC (Mayville Engineering Company, Inc.)](https://www.mecinc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69aa300e2ebd316bece1eebb?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 05 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa2ba92ebd316bece1e285?utm_campaign=1066&utm_source=git)** | West Bend, Wisconsin, United States | Hybrid | Mar 05 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Data Visualization Analyst Summer Intern](https://jobright.ai/jobs/info/69aa2b169ca4e908ec65728c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
-| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Data Visualization and Application Development](https://jobright.ai/jobs/info/69aa26fd2ebd316bece1debe?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
