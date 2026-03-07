@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abd946142d5b4265fd420e?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 06 |
 | **[IQVIA](https://www.iqvia.com)** | **[Data Science Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69aba6ca142d5b4265fcd874?utm_campaign=1066&utm_source=git)** | Wayne, PA | Remote | Mar 06 |
 | **[Kodiak](http://www.kodiak.ai)** | **[Fall 2026 Intern, Data Science](https://jobright.ai/jobs/info/69ab997c7e1fab39d3830d1c?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Mar 06 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab6f51142d5b4265fca60d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Faire](https://www.faire.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ab98122747003c3d512241?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69abb51b7e1fab39d3833fc9?utm_campaign=1066&utm_source=git)** | Miramar, FL, US | On Site | Mar 06 |
-| **[Riverside Research](http://riversideresearch.org)** | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb7fb142d5b4265fd052d?utm_campaign=1066&utm_source=git)** | US-OH-Fairborn | On Site | Mar 06 |
-| ↳ | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb5e62747003c3d5159b8?utm_campaign=1066&utm_source=git)** | Fairborn, OH, US | On Site | Mar 06 |
+| **[Riverside Research](http://riversideresearch.org)** | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb5e62747003c3d5159b8?utm_campaign=1066&utm_source=git)** | Fairborn, OH, US | On Site | Mar 06 |
+| ↳ | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb7fb142d5b4265fd052d?utm_campaign=1066&utm_source=git)** | US-OH-Fairborn | On Site | Mar 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab6c4a7e1fab39d382f558?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Mar 06 |
 | **[ARS National Services](http://www.arsnational.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69abb4867e1fab39d3833f48?utm_campaign=1066&utm_source=git)** | Escondido, California, United States | Hybrid | Mar 06 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Mar 06 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[FDA Bayesian Statistical Approaches to Address the Unique Challenges of Rare Disease Drug Development](https://jobright.ai/jobs/info/69ab92927e1fab39d382fd25?utm_campaign=1066&utm_source=git)** | White Oak, MD | On Site | Mar 06 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69aba4ad2747003c3d513471?utm_campaign=1066&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 06 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69ab4e6a142d5b4265fc974a?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 06 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
-| ↳ | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
+| ↳ | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Reporting & Analytics Master's Intern](https://jobright.ai/jobs/info/69ab462e7e1fab39d382dff4?utm_campaign=1066&utm_source=git)** | Oregon-Lake Oswego-5800 Meadows | Hybrid | Mar 06 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69ab44f97e1fab39d382decc?utm_campaign=1066&utm_source=git)** | Miramar, FL, US | On Site | Mar 06 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Artificial Intelligence & Credit Risk Analysis)](https://jobright.ai/jobs/info/69ab2cff2747003c3d50d4dd?utm_campaign=1066&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | **[Chicago Public Schools](http://www.cps.edu)** | **[Data Analyst, OSD](https://jobright.ai/jobs/info/69ab23327e1fab39d382aaf3?utm_campaign=1066&utm_source=git)** | Greater Morgantown Area | On Site | Mar 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Data Science/AI Intern](https://jobright.ai/jobs/info/69ab22e5142d5b4265fc5afd?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Mar 06 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Data Analyst Intern (2026 Graduates only- Path to Full-Time)](https://jobright.ai/jobs/info/69abecf8142d5b4265fd6e20?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab208d142d5b4265fc58c3?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT - Data Sciences Intern](https://jobright.ai/jobs/info/69a414b6b600907a962a20ee?utm_campaign=1066&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Master Data Intern](https://jobright.ai/jobs/info/698f52ee0f6f7e7a2ceb80dd?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Data Analytics](https://jobright.ai/jobs/info/69a9f7551f59c56275e2c8ca?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Mar 05 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Data Science Intern- Remote](https://jobright.ai/jobs/info/69a9f6f72ebd316bece1b1e0?utm_campaign=1066&utm_source=git)** | Nevada - Home Teleworkers | Remote | Mar 05 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Business Intelligence Intern](https://jobright.ai/jobs/info/699f914723374b3b6e6b5bca?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Mar 05 |
-| **[Highridge Medical](https://www.highridgemedical.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/69a9f4719ca4e908ec653e93?utm_campaign=1066&utm_source=git)** | Westminster, CO, US | On Site | Mar 05 |
-| **[Etactics](https://etactics.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69a9f46e1f59c56275e2c28a?utm_campaign=1066&utm_source=git)** | Hudson, OH, US | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
