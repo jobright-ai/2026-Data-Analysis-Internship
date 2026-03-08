@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6997f53981476f6176b04c2c?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 08 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/697c20340b88cc7d64231ed4?utm_campaign=1066&utm_source=git)** | Canada | Remote | Mar 08 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Geospatial Analytics Intern](https://jobright.ai/jobs/info/69a50a88b600907a962aaea5?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 08 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69209502a49a885af9a3d07d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 08 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69aa48df9ca4e908ec659f9b?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Mar 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69aa48db9ca4e908ec659f91?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 05 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 05 |
-| **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69aa3edb9ca4e908ec65955e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
-| **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa35af1f59c56275e30ff2?utm_campaign=1066&utm_source=git)** | West Bend, WI | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
