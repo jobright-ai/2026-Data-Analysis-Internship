@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69aa3edb9ca4e908ec65955e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Wilson Bank & Trust](http://wilsonbank.com)** | **[Data Management - Internship](https://jobright.ai/jobs/info/69aa48d81f59c56275e32395?utm_campaign=1066&utm_source=git)** | Lebanon, TN | On Site | Mar 05 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa35af1f59c56275e30ff2?utm_campaign=1066&utm_source=git)** | West Bend, WI | Hybrid | Mar 05 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
-| ↳ | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
 | **[World Vision](http://www.worldvision.org/)** | **[Nutrition Research Internship](https://jobright.ai/jobs/info/69aa315e2ebd316bece1f304?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa30d21f59c56275e307f5?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
