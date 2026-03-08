@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69accd6a142d5b4265fdfce4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/69ac606c7e1fab39d383f925?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/699f56ed81476f6176b8f37f?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 05 |
 | **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/69aa3edb9ca4e908ec65955e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa35af1f59c56275e30ff2?utm_campaign=1066&utm_source=git)** | West Bend, WI | Hybrid | Mar 05 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
-| ↳ | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658781?utm_campaign=1066&utm_source=git)** | US-TX-Plano | Hybrid | Mar 05 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa32bd9ca4e908ec658784?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 05 |
 | **[World Vision](http://www.worldvision.org/)** | **[Nutrition Research Internship](https://jobright.ai/jobs/info/69aa315e2ebd316bece1f304?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa30d21f59c56275e307f5?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 05 |
 | ↳ | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa30cd1f59c56275e307e1?utm_campaign=1066&utm_source=git)** | Plano, TX, US | Hybrid | Mar 05 |
 | **[MEC (Mayville Engineering Company, Inc.)](https://www.mecinc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69aa300e2ebd316bece1eebb?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 05 |
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69aa2ba92ebd316bece1e285?utm_campaign=1066&utm_source=git)** | West Bend, Wisconsin, United States | Hybrid | Mar 05 |
-| **[The Chemours Company](https://www.chemours.com)** | **[Data Visualization Analyst Summer Intern](https://jobright.ai/jobs/info/69aa2b169ca4e908ec65728c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
