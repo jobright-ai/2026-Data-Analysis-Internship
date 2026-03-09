@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Systemic Risk Research Internship - Risk Management](https://jobright.ai/jobs/info/69aed020a4f2e119f26e2b30?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 09 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Mar 09 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 09 |
 | **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69aebd4dbd1a716b43104d0d?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Mar 09 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 09 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[FDA Bayesian Statistical Approaches to Address the Unique Challenges of Rare Disease Drug Development](https://jobright.ai/jobs/info/69ab92927e1fab39d382fd25?utm_campaign=1066&utm_source=git)** | White Oak, MD | On Site | Mar 06 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69aba4ad2747003c3d513471?utm_campaign=1066&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 06 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69ab4e6a142d5b4265fc974a?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 06 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
-| ↳ | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
+| ↳ | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69ab44f97e1fab39d382decc?utm_campaign=1066&utm_source=git)** | Miramar, FL, US | On Site | Mar 06 |
 | **[Klick](https://www.klick.com)** | **[Data Solutions Analyst, Summer 2026](https://jobright.ai/jobs/info/69ab4433142d5b4265fc8cac?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 06 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 06 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Mar 06 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026 - Plano, TX](https://jobright.ai/jobs/info/69aa736f1f59c56275e347ea?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
