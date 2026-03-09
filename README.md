@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 08 |
 | **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/697e4594ce48107c05427fb6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 08 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ab9eb52747003c3d512819?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Science & Society, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/69ae47cf3de6821aaccd9c14?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69accd6a142d5b4265fdfce4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/69ac606c7e1fab39d383f925?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab6f51142d5b4265fca60d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Faire](https://www.faire.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ab98122747003c3d512241?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 06 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69abb51b7e1fab39d3833fc9?utm_campaign=1066&utm_source=git)** | Miramar, FL, US | On Site | Mar 06 |
-| **[Riverside Research](http://riversideresearch.org)** | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb7fb142d5b4265fd052d?utm_campaign=1066&utm_source=git)** | US-OH-Fairborn | On Site | Mar 06 |
-| ↳ | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb5e62747003c3d5159b8?utm_campaign=1066&utm_source=git)** | Fairborn, OH, US | On Site | Mar 06 |
+| **[Riverside Research](http://riversideresearch.org)** | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb5e62747003c3d5159b8?utm_campaign=1066&utm_source=git)** | Fairborn, OH, US | On Site | Mar 06 |
+| ↳ | **[Russian Language Research Analyst Intern](https://jobright.ai/jobs/info/69abb7fb142d5b4265fd052d?utm_campaign=1066&utm_source=git)** | US-OH-Fairborn | On Site | Mar 06 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69ab6c4a7e1fab39d382f558?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Mar 06 |
 | **[ARS National Services](http://www.arsnational.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69abb4867e1fab39d3833f48?utm_campaign=1066&utm_source=git)** | Escondido, California, United States | Hybrid | Mar 06 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PING](http://ping.com)** | **[Forecasting/ Supply Chain Intern](https://jobright.ai/jobs/info/69ad15d07e1fab39d38487c2?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 05 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit MI](https://jobright.ai/jobs/info/69aa5d0d2ebd316bece21fb1?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Mar 05 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69aa48df9ca4e908ec659f9b?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Mar 05 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69aa48db9ca4e908ec659f91?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
