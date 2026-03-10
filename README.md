@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship: Research Intern - Denver](https://jobright.ai/jobs/info/69af8a76dfaeda6ff597b31e?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 09 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power BI Dashboard & Reporting Intern](https://jobright.ai/jobs/info/69af901b749500645094105f?utm_campaign=1066&utm_source=git)** | Sacramento SC | Hybrid | Mar 09 |
+| ↳ | **[Power BI Dashboard & Reporting Intern](https://jobright.ai/jobs/info/69af8fc9dfaeda6ff597b6a0?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 09 |
 | **[University of Saskatchewan](http://www.usask.ca)** | **[Business Intelligence Developer Intern, Information and Communications Technology](https://jobright.ai/jobs/info/69af882f7495006450940643?utm_campaign=1066&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 09 |
 | **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69af830b74950064509402ee?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Mar 09 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/69af804a749500645094001f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - IT Data Analyst](https://jobright.ai/jobs/info/69af3480749500645093b548?utm_campaign=1066&utm_source=git)** | Danbury, CT | On Site | Mar 09 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Business Intelligence & Data Analytics](https://jobright.ai/jobs/info/69af327d749500645093ae06?utm_campaign=1066&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69af318d6b21de023e605a8a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605888?utm_campaign=1066&utm_source=git)** | AZ Home Based | Remote | Mar 09 |
-| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605889?utm_campaign=1066&utm_source=git)** | CA Home Based | Remote | Mar 09 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605889?utm_campaign=1066&utm_source=git)** | CA Home Based | Remote | Mar 09 |
+| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605888?utm_campaign=1066&utm_source=git)** | AZ Home Based | Remote | Mar 09 |
 | ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e60588a?utm_campaign=1066&utm_source=git)** | Seattle, Washington | Remote | Mar 09 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Quant Analyst Intern](https://jobright.ai/jobs/info/69af305e749500645093ab38?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af2f03dfaeda6ff597445e?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah | Remote | Mar 09 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Systemic Risk Research Internship - Risk Management](https://jobright.ai/jobs/info/69aed020a4f2e119f26e2b30?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Mar 09 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 09 |
-| **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69aebd4dbd1a716b43104d0d?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Mar 09 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69aede7074950064509347aa?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Mar 09 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 09 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 09 |
