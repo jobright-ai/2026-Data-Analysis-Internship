@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[Biostatistics Summer Intern 2026](https://jobright.ai/jobs/info/69afc06bdfaeda6ff59882e7?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 09 |
+| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69afbd1ddfaeda6ff5987733?utm_campaign=1066&utm_source=git)** | Augusta, GA | On Site | Mar 09 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Biostatistics Summer Intern 2026](https://jobright.ai/jobs/info/69afa98adfaeda6ff5981f99?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 09 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power BI Dashboard & Reporting Intern](https://jobright.ai/jobs/info/69af901b749500645094105f?utm_campaign=1066&utm_source=git)** | Sacramento SC | Hybrid | Mar 09 |
 | ↳ | **[Power BI Dashboard & Reporting Intern](https://jobright.ai/jobs/info/69af8fc9dfaeda6ff597b6a0?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 09 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - IT Data Analyst](https://jobright.ai/jobs/info/69af3480749500645093b548?utm_campaign=1066&utm_source=git)** | Danbury, CT | On Site | Mar 09 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Business Intelligence & Data Analytics](https://jobright.ai/jobs/info/69af327d749500645093ae06?utm_campaign=1066&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69af318d6b21de023e605a8a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605888?utm_campaign=1066&utm_source=git)** | AZ Home Based | Remote | Mar 09 |
-| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e60588a?utm_campaign=1066&utm_source=git)** | Seattle, Washington | Remote | Mar 09 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e60588a?utm_campaign=1066&utm_source=git)** | Seattle, Washington | Remote | Mar 09 |
+| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605888?utm_campaign=1066&utm_source=git)** | AZ Home Based | Remote | Mar 09 |
 | ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605889?utm_campaign=1066&utm_source=git)** | CA Home Based | Remote | Mar 09 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Quant Analyst Intern](https://jobright.ai/jobs/info/69af305e749500645093ab38?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af2f03dfaeda6ff597445e?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah | Remote | Mar 09 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/697e4594ce48107c05427fb6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 08 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ab9eb52747003c3d512819?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 08 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 07 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Science & Society, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/69afb21374950064509499f1?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69accd6a142d5b4265fdfce4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 07 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/69ac606c7e1fab39d383f925?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 07 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge) with Security Clearance](https://jobright.ai/jobs/info/69ae991ea4f2e119f26e06a9?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abd946142d5b4265fd420e?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 06 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Internal Audit (Data Analytics)](https://jobright.ai/jobs/info/69ad01382747003c3d52904c?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 06 |
-| **[Kodiak](http://www.kodiak.ai)** | **[Fall 2026 Intern, Data Science](https://jobright.ai/jobs/info/69ab997c7e1fab39d3830d1c?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Mar 06 |
+| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Data Analyst Intern (2026 Graduates only- Path to Full-Time)](https://jobright.ai/jobs/info/69afbbf0f63f733065b38c1d?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
