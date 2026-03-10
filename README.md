@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 10 |
+| **[The Duracell Company](http://www.duracell.com)** | **[MS&P Intern](https://jobright.ai/jobs/info/69afd32adfaeda6ff598b74d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 10 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Biostatistics Summer Intern 2026](https://jobright.ai/jobs/info/69afc06bdfaeda6ff59882e7?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 09 |
 | **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69afbd1ddfaeda6ff5987733?utm_campaign=1066&utm_source=git)** | Augusta, GA | On Site | Mar 09 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[Biostatistics Summer Intern 2026](https://jobright.ai/jobs/info/69afa98adfaeda6ff5981f99?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 09 |
@@ -103,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[FuelCell Energy](http://www.fuelcellenergy.com)** | **[Internship - IT Data Analyst](https://jobright.ai/jobs/info/69af3480749500645093b548?utm_campaign=1066&utm_source=git)** | Danbury, CT | On Site | Mar 09 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Business Intelligence & Data Analytics](https://jobright.ai/jobs/info/69af327d749500645093ae06?utm_campaign=1066&utm_source=git)** | Parsippany, United States, New Jersey, 07054 | On Site | Mar 09 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69af318d6b21de023e605a8a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 09 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e60588a?utm_campaign=1066&utm_source=git)** | Seattle, Washington | Remote | Mar 09 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605889?utm_campaign=1066&utm_source=git)** | CA Home Based | Remote | Mar 09 |
 | ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605888?utm_campaign=1066&utm_source=git)** | AZ Home Based | Remote | Mar 09 |
-| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e605889?utm_campaign=1066&utm_source=git)** | CA Home Based | Remote | Mar 09 |
+| ↳ | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af30756b21de023e60588a?utm_campaign=1066&utm_source=git)** | Seattle, Washington | Remote | Mar 09 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Quant Analyst Intern](https://jobright.ai/jobs/info/69af305e749500645093ab38?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Mar 09 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[ACS CAN Impact Analytics Intern](https://jobright.ai/jobs/info/69af2f03dfaeda6ff597445e?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah | Remote | Mar 09 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e605501?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Mar 09 |
 | **[Clarity AI](https://clarity.ai)** | **[Intern Data Science](https://jobright.ai/jobs/info/69aef98adfaeda6ff59700d4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 09 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69aef759dfaeda6ff596fc75?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 09 |
-| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 09 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 09 |
+| ↳ | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 09 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Systemic Risk Research Internship - Risk Management](https://jobright.ai/jobs/info/69aed020a4f2e119f26e2b30?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 09 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Mar 09 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69ae9e875224a240f103b48e?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Mar 07 |
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge) with Security Clearance](https://jobright.ai/jobs/info/69ae991ea4f2e119f26e06a9?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 07 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 07 |
-| **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abd946142d5b4265fd420e?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 06 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69afb3eb749500645094a65c?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
