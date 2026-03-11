@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69980700ce78e77b4fdcabf6?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 11 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Demand Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6994c08e81476f6176ac8908?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b1b78065de58104c70b6c4?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Mar 11 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Data and Analytics Intern for KS WELI (Work Study and Non-Work Study)](https://jobright.ai/jobs/info/69b1b1ad548f140066e77a77?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | On Site | Mar 11 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b1b18ed04c69566c73f3d0?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Mar 11 |
+| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[Intelligence Community - Virtual Applied Research Consortium Program](https://jobright.ai/jobs/info/69b1aa49548f140066e776d7?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Mar 11 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data science metadata/governance intern](https://jobright.ai/jobs/info/69b1a3a2548f140066e772e8?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 11 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Internship - MDM](https://jobright.ai/jobs/info/69b1a37b548f140066e7726b?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Hybrid | Mar 11 |
 | ↳ | **[Data Science Internship - MDM](https://jobright.ai/jobs/info/69b1a1ebd04c69566c73eb83?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Mar 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IDB. Productivity and Performance of Cities Support Intern](https://jobright.ai/jobs/info/69942933ce78e77b4fd81dfc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/69b058480b2db6275c041411?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 10 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[ChildStat Data Graduate Intern](https://jobright.ai/jobs/info/69b05728dfaeda6ff59a0a38?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Integrity Risk Management (IRM) Data and Knowledge Intern](https://jobright.ai/jobs/info/69942509ce78e77b4fd819d4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB. Economic Research Intern: Using New Data Tools in the Caribbean](https://jobright.ai/jobs/info/699426c6ce78e77b4fd81bba?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977a8de52f3c27ec643be7a?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 10 |
-| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. AI-Enabled Geospatial Analysis for Digital Infrastructure and Connectivity Intern](https://jobright.ai/jobs/info/699426edce78e77b4fd81bde?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| ↳ | **[IDB. Visa Master Data Intern](https://jobright.ai/jobs/info/69942d82ce78e77b4fd821c6?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketplace & Portfolio Insights Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b0a383749500645097522f?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
