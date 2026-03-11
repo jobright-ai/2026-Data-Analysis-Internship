@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c789d04c69566c74119e?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Mar 11 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69980700ce78e77b4fdcabf6?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Demand Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6994c08e81476f6176ac8908?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b1b78065de58104c70b6c4?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data & Process Analyst Intern](https://jobright.ai/jobs/info/69b08ffcdfaeda6ff59aa5e8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 10 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Disaster Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69941b0281476f6176abd759?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
 | ↳ | **[IDB. Productivity and Performance of Cities Support Intern](https://jobright.ai/jobs/info/69942933ce78e77b4fd81dfc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 10 |
-| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/69b058480b2db6275c041411?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 10 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[ChildStat Data Graduate Intern](https://jobright.ai/jobs/info/69b05728dfaeda6ff59a0a38?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
