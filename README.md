@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrado](https://www.intrado.com/)** | **[Intern Data Validation- Networking Department](https://jobright.ai/jobs/info/69b28824ad360c0340a7649f?utm_campaign=1066&utm_source=git)** | Longmont, CO | Hybrid | Mar 12 |
+| **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/69b27d19a8ac8e70ff667848?utm_campaign=1066&utm_source=git)** | Bedford, NH | On Site | Mar 12 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Data Science Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69b26b9eae2a534885e97537?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b25fecad360c0340a72a71?utm_campaign=1066&utm_source=git)** | Terre Haute, IN | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69b25aaead360c0340a7218d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
@@ -97,15 +99,15 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026](https://jobright.ai/jobs/info/69b1cb0cd04c69566c7416a8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 11 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1ca9b65de58104c70df57?utm_campaign=1066&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Mar 11 |
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/69b1fa4665de58104c716375?utm_campaign=1066&utm_source=git)** | USA - New Hampshire, Concord | On Site | Mar 11 |
-| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e79949?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Mar 11 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e7994a?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Mar 11 |
+| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e7994a?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Mar 11 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e79949?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Mar 11 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c789d04c69566c74119e?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Mar 11 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69980700ce78e77b4fdcabf6?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 11 |
 | **[Lithium Americas Corp.](www.lithiumamericas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1fa32d04c69566c749a39?utm_campaign=1066&utm_source=git)** | Reno Business Office | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Demand Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6994c08e81476f6176ac8908?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Mar 11 |
-| **[Red Bull](https://redbull.com)** | **[Internship Program, Business Intelligence](https://jobright.ai/jobs/info/69b1ffc8548f140066e8309e?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | On Site | Mar 11 |
-| ↳ | **[Internship Program, Digital Products](https://jobright.ai/jobs/info/69b1ffbdd04c69566c74a6ea?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | On Site | Mar 11 |
+| **[Red Bull](https://redbull.com)** | **[Internship Program, Digital Products](https://jobright.ai/jobs/info/69b1ffbdd04c69566c74a6ea?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | On Site | Mar 11 |
+| ↳ | **[Internship Program, Business Intelligence](https://jobright.ai/jobs/info/69b1ffc8548f140066e8309e?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | On Site | Mar 11 |
 | ↳ | **[Internship Program, Data Science](https://jobright.ai/jobs/info/69b1ffc665de58104c716fd6?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | On Site | Mar 11 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Data and Analytics Intern for KS WELI (Work Study and Non-Work Study)](https://jobright.ai/jobs/info/69b1b1ad548f140066e77a77?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | On Site | Mar 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b1b18ed04c69566c73f3d0?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Mar 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- Biostatistics](https://jobright.ai/jobs/info/69a408a0359fe034b1ceffdd?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Data Analytics & Management](https://jobright.ai/jobs/info/69b17f87d04c69566c73d1c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
-| **[EnerSys](http://enersys.com)** | **[PMO Intern - Data Analyst](https://jobright.ai/jobs/info/69950ce7e0bddb6acac395b9?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
