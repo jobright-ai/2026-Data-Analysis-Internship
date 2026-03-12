@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026](https://jobright.ai/jobs/info/69b1cb0cd04c69566c7416a8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 11 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1ca9b65de58104c70df57?utm_campaign=1066&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Mar 11 |
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/69b1fa4665de58104c716375?utm_campaign=1066&utm_source=git)** | USA - New Hampshire, Concord | On Site | Mar 11 |
-| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e7994a?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Mar 11 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e79949?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Mar 11 |
+| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e79949?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Mar 11 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c927548f140066e7994a?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Mar 11 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1c789d04c69566c74119e?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Mar 11 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Science and Analytics](https://jobright.ai/jobs/info/69980700ce78e77b4fdcabf6?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 11 |
