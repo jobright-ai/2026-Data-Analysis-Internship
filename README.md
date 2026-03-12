@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Data Science Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69b26b9eae2a534885e97537?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b25fecad360c0340a72a71?utm_campaign=1066&utm_source=git)** | Terre Haute, IN | On Site | Mar 11 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69b25aaead360c0340a7218d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
 | **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b24f7fae2a534885e940b5?utm_campaign=1066&utm_source=git)** | Boca Raton, FL | On Site | Mar 11 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660981?utm_campaign=1066&utm_source=git)** | San Ramon TC - Main Building | On Site | Mar 11 |
 | ↳ | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2373aad360c0340a6f0fe?utm_campaign=1066&utm_source=git)** | Danville | On Site | Mar 11 |
@@ -138,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[DH Pace Company, Inc.](https://www.dhpace.com/)** | **[Data Analyst Summer Internship 2026! Full-time and paid!](https://jobright.ai/jobs/info/69b17fe5d04c69566c73d281?utm_campaign=1066&utm_source=git)** | Olathe, KS | On Site | Mar 11 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b17eae548f140066e7589c?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Mar 11 |
 | **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – Data Governance](https://jobright.ai/jobs/info/69967669ce78e77b4fda8473?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Mar 11 |
+| ↳ | **[2026 Summer Intern - Decision Science, Insights & Analytics](https://jobright.ai/jobs/info/69b256d8ad360c0340a71b68?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Mar 11 |
 | **[Alstom](https://www.alstom.com/)** | **[Methods & Tools BI Intern](https://jobright.ai/jobs/info/69b17bce65de58104c708d54?utm_campaign=1066&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Mar 11 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power BI Dashboard & Reporting Intern](https://jobright.ai/jobs/info/69b1754865de58104c7080f7?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Hybrid | Mar 11 |
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- IT, AI Team, Data](https://jobright.ai/jobs/info/69792ec088e2b47213bd4e1c?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Data Analytics & Management](https://jobright.ai/jobs/info/69b17f87d04c69566c73d1c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
 | **[EnerSys](http://enersys.com)** | **[PMO Intern - Data Analyst](https://jobright.ai/jobs/info/69950ce7e0bddb6acac395b9?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 11 |
-| **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b103af749500645098381e?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 10 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 10 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Internship Analyst, Reporting & Analytics](https://jobright.ai/jobs/info/69b0d5d50b2db6275c0587c6?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
