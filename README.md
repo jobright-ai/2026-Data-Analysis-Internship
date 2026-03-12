@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660981?utm_campaign=1066&utm_source=git)** | San Ramon TC - Main Building | On Site | Mar 11 |
+| ↳ | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2373aad360c0340a6f0fe?utm_campaign=1066&utm_source=git)** | Danville | On Site | Mar 11 |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 11 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69b233f4ae2a534885e92797?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Research Institute Intern Data Management](https://jobright.ai/jobs/info/69b22a4c548f140066e868b0?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Mar 11 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b21ddad04c69566c74d266?utm_campaign=1066&utm_source=git)** | US-IN-Terre Haute | On Site | Mar 11 |
 | ↳ | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b21dd0548f140066e85bcb?utm_campaign=1066&utm_source=git)** | Terre Haute, IN, US | On Site | Mar 11 |
@@ -71,14 +75,12 @@ For a complete list, click the following sortable link below:
 | **[RadNet](https://www.radnet.com)** | **[Intern (Business Intelligence Team)](https://jobright.ai/jobs/info/69b211ef548f140066e84054?utm_campaign=1066&utm_source=git)** | Owings Mills, MD | Remote | Mar 11 |
 | **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Business Intelligence & Operations Intern](https://jobright.ai/jobs/info/69b2004e548f140066e83152?utm_campaign=1066&utm_source=git)** | Chester, VA 23831 | On Site | Mar 11 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/69b1fbb965de58104c716849?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
-| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b1f2a365de58104c715303?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[Group O](http://groupo.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b1ec2e548f140066e80233?utm_campaign=1066&utm_source=git)** | Roanoke, TX | On Site | Mar 11 |
 | **[Utah SHRM](https://utahshrm.org)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69b1ec02548f140066e8015c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Mar 11 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b1ea8c65de58104c713a80?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 11 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 System Analytics Intern](https://jobright.ai/jobs/info/699a7152e0bddb6acac98980?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69b1e686d04c69566c746392?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 11 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Mar 11 |
-| **[Gildan](https://gildancorp.com)** | **[Intern Business Intelligence](https://jobright.ai/jobs/info/69b1dc8e548f140066e7d09f?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 11 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Risk Model Development Intern](https://jobright.ai/jobs/info/69b1d74165de58104c71008a?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Mar 11 |
 | **[DISH TV](https://www.dish.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69b1d563548f140066e7bca5?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Mar 11 |
 | **[RDG Planning & Design](http://rdgusa.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1d460d04c69566c743169?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Mar 11 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 11 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b103af749500645098381e?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 10 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 10 |
+| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Science & Society, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/69b23846ad360c0340a6f2d4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Internship Analyst, Reporting & Analytics](https://jobright.ai/jobs/info/69b0d5d50b2db6275c0587c6?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 10 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 Global RIM Analytics Intern](https://jobright.ai/jobs/info/69b0d4fd749500645097dca5?utm_campaign=1066&utm_source=git)** | Jackson, MS | Remote | Mar 10 |
-| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b0d43cdfaeda6ff59b6c9a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 10 |
-| **[Skechers](http://www.skechers.com)** | **[Data and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69b13704dfaeda6ff59c4768?utm_campaign=1066&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
