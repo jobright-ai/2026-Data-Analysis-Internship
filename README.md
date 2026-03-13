@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GIC](https://www.gic.com.sg)** | **[Data Analytics Internship (Private Equity - July 2026 Start)](https://jobright.ai/jobs/info/69b465f0569738374139247e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
+| **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4648d3b74eb1e2c819b08?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
+| **[TD](https://www.td.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/69b460e95697383741392290?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 13 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Visibility Intern](https://jobright.ai/jobs/info/697ae2df17b11b1c2e41b382?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[City of Fridley](http://www.fridleymn.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/69b456155697383741390e88?utm_campaign=1066&utm_source=git)** | Fridley, MN | On Site | Mar 13 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/69b4560b3b74eb1e2c818d00?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 13 |
 | **[T&M Associates](http://tandmassociates.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69b455995697383741390d1c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, US | On Site | Mar 13 |
@@ -73,7 +77,10 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Mar 13 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Mar 13 |
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/69a567b8359fe034b1d00e50?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Mar 13 |
+| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69b45a0a06c1ba00c545acd1?utm_campaign=1066&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 13 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 13 |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69b45a0d06c1ba00c545acdd?utm_campaign=1066&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 13 |
+| **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad12?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Conflict Transformation Data Intern (AY 25-26 902200)](https://jobright.ai/jobs/info/69b4390306c1ba00c5456f5a?utm_campaign=1066&utm_source=git)** | Middlebury, Vermont, United States | On Site | Mar 13 |
 | ↳ | **[Conflict Transformation Data Intern (AY 25-26 902200)](https://jobright.ai/jobs/info/69b438893b74eb1e2c815886?utm_campaign=1066&utm_source=git)** | Middlebury, VT | On Site | Mar 13 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Data Analytics & Management](https://jobright.ai/jobs/info/69b2ccfba8ac8e70ff66d6ca?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69a0d76b5218a81676720459?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 12 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d591a8ac8e70ff681f08?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[Summer 2026 PhD IT Data Science Intern (Business / Operations / Strategy)](https://jobright.ai/jobs/info/69b4555c06c1ba00c545a5d3?utm_campaign=1066&utm_source=git)** | Milpitas, CA, US | On Site | Mar 12 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2c1eba8ac8e70ff66c3d1?utm_campaign=1066&utm_source=git)** | Danville, CA | On Site | Mar 12 |
-| **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Mar 12 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Data Analytics/CMMS Intern](https://jobright.ai/jobs/info/69b44b763b74eb1e2c817ff3?utm_campaign=1066&utm_source=git)** | Hackensack, NJ, US | On Site | Mar 12 |
-| **[Weston & Sampson](http://westonandsampson.com)** | **[Field Data Collection Specialist (Temporary/Intern)](https://jobright.ai/jobs/info/699656a7ce78e77b4fda5b61?utm_campaign=1066&utm_source=git)** | Reading, MA | On Site | Mar 12 |
-| **[Ventus ](https://www.ventusgns.com)** | **[Intern, Engineering Data Analytics, SmartSense (Boston, MA)](https://jobright.ai/jobs/info/69b3fe063b74eb1e2c810b9c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 12 |
-| **[MGIC](https://www.mgic.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69792c3688e2b47213bd4a6b?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
