@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69b233f4ae2a534885e92797?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 11 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b388cead360c0340a8af6d?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
-| **[Matson, Inc.](http://matson.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b38873a8ac8e70ff67cd4e?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 11 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Research Institute Intern Data Management](https://jobright.ai/jobs/info/69b22a4c548f140066e868b0?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Mar 11 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b21ddad04c69566c74d266?utm_campaign=1066&utm_source=git)** | US-IN-Terre Haute | On Site | Mar 11 |
 | ↳ | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b21dd0548f140066e85bcb?utm_campaign=1066&utm_source=git)** | Terre Haute, IN, US | On Site | Mar 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Mar 11 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Risk Model Development Intern](https://jobright.ai/jobs/info/69b1d74165de58104c71008a?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Mar 11 |
 | **[DISH TV](https://www.dish.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69b1d563548f140066e7bca5?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Mar 11 |
+| **[RDG Planning & Design](http://rdgusa.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1d460d04c69566c743169?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
