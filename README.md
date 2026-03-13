@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Mar 13 |
+| **[Woda Cooper Companies, Inc.](https://www.wodagroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4216006c1ba00c54557f4?utm_campaign=1066&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 13 |
+| **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - SUMMER GRADUATE INTERN](https://jobright.ai/jobs/info/69b41ee606c1ba00c5454fba?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Mar 13 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6943832994730b739876a0b1?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Mar 13 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Mar 13 |
-| ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Mar 13 |
-| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Mar 13 |
+| ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Mar 13 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/69b390eba8ac8e70ff67d241?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69b3fe0a06c1ba00c5451f9a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
 | **[KLA](https://www.kla.com)** | **[Analytics Actuarial Intern](https://jobright.ai/jobs/info/696953bcf25a38006697e651?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Mar 13 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a7abef637232443f64f648?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 13 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Data Governance & Data Integrity Intern](https://jobright.ai/jobs/info/699810f281476f6176b07ea5?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[GIS Internship](https://jobright.ai/jobs/info/697be4771136d179eeef7f84?utm_campaign=1066&utm_source=git)** | Minnetonka, MN | On Site | Mar 13 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
-| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c21cf1423772304ec825a?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c21cf1423772304ec825a?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
+| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/69b3cac4ad360c0340a8ed4d?utm_campaign=1066&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Epidemiology Undergraduate Intern](https://jobright.ai/jobs/info/69b3c640ae2a534885eb2b07?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b3e01d06c1ba00c5450879?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Mar 13 |
@@ -131,11 +134,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f19?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d591a8ac8e70ff681f08?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2c1eba8ac8e70ff66c3d1?utm_campaign=1066&utm_source=git)** | Danville, CA | On Site | Mar 12 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 12 |
-| ↳ | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 12 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 12 |
 | **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Mar 12 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Field Data Collection Specialist (Temporary/Intern)](https://jobright.ai/jobs/info/699656a7ce78e77b4fda5b61?utm_campaign=1066&utm_source=git)** | Reading, MA | On Site | Mar 12 |
-| **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b2b062ae2a534885e9dc62?utm_campaign=1066&utm_source=git)** | US, CA, San Jose, Rio Robles | On Site | Mar 12 |
 | **[Ventus ](https://www.ventusgns.com)** | **[Intern, Engineering Data Analytics, SmartSense (Boston, MA)](https://jobright.ai/jobs/info/69b3fe063b74eb1e2c810b9c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 12 |
 | **[MGIC](https://www.mgic.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69792c3688e2b47213bd4a6b?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 12 |
 | **[Sloan](https://www.sloan.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970980791bc1d72301936?utm_campaign=1066&utm_source=git)** | Franklin Park, IL | On Site | Mar 12 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Data Science Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69b26b9eae2a534885e97537?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b25fecad360c0340a72a71?utm_campaign=1066&utm_source=git)** | Terre Haute, IN | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69b25aaead360c0340a7218d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
-| **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/69b24f7fae2a534885e940b5?utm_campaign=1066&utm_source=git)** | Boca Raton, FL | On Site | Mar 11 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b23779a8ac8e70ff660981?utm_campaign=1066&utm_source=git)** | San Ramon TC - Main Building | On Site | Mar 11 |
 | ↳ | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2373aad360c0340a6f0fe?utm_campaign=1066&utm_source=git)** | Danville | On Site | Mar 11 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Mar 11 |
