@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/69b3cac4ad360c0340a8ed4d?utm_campaign=1066&utm_source=git)** | Renton, WA | On Site | Mar 13 |
+| **[Pima County](https://webcms.pima.gov/)** | **[Epidemiology Undergraduate Intern](https://jobright.ai/jobs/info/69b3c640ae2a534885eb2b07?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[Mission Bank](https://www.missionbank.com/)** | **[AML/CFT Intern](https://jobright.ai/jobs/info/69b3b13fae2a534885eb2344?utm_campaign=1066&utm_source=git)** | Bakersfield, CA | On Site | Mar 12 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/69b37e5ba8ac8e70ff67c5b1?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 12 |
 | **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN](https://jobright.ai/jobs/info/69b37951a8ac8e70ff67bedc?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 12 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Mar 12 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b2e9e6a8ac8e70ff670ede?utm_campaign=1066&utm_source=git)** | 550 Madison Ave, New York, NY, 10022, US | On Site | Mar 12 |
 | **[First American](http://www.firstam.com)** | **[Data Scientist Intern - REMOTE](https://jobright.ai/jobs/info/69aa76222ebd316bece2315e?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Remote | Mar 12 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa82ae2a534885ea4304?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Mar 12 |
-| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa83ae2a534885ea4306?utm_campaign=1066&utm_source=git)** | New York | Remote | Mar 12 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa83ae2a534885ea4306?utm_campaign=1066&utm_source=git)** | New York | Remote | Mar 12 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa82ae2a534885ea4304?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa08ad360c0340a80909?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2f9e2a8ac8e70ff671cd8?utm_campaign=1066&utm_source=git)** | Florida | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2f9e0a8ac8e70ff671cc5?utm_campaign=1066&utm_source=git)** | Iowa | Remote | Mar 12 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Hasbro](https://shop.hasbro.com)** | **[Summer 2026- Business Intelligence- Digital Gaming & Technology Intern](https://jobright.ai/jobs/info/69965ce281476f6176ae2afb?utm_campaign=1066&utm_source=git)** | Renton, WA | On Site | Mar 12 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b2e66eae2a534885ea31a9?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Mar 12 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966c99e0bddb6acac4e3af?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d5a8ae2a534885eb4dc7?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Mar 12 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Data Science, Theatrical Marketing – Summer 2026](https://jobright.ai/jobs/info/69b2dfdca8ac8e70ff66fd6b?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Mar 12 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Intern, Statistics & Data Science](https://jobright.ai/jobs/info/69966c4ece78e77b4fda7720?utm_campaign=1066&utm_source=git)** | Bloomington, IN | On Site | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern – Client Innovation Center (Entry Level) 2026](https://jobright.ai/jobs/info/69a0c6ee0836fe79d861c763?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Mar 12 |
@@ -110,6 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69b2d915ae2a534885ea04fc?utm_campaign=1066&utm_source=git)** | 20 Chapin Rd, Pine Brook, NJ, 07058, US | On Site | Mar 12 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER COLLEGE INTERN - Data Analytics & Management](https://jobright.ai/jobs/info/69b2ccfba8ac8e70ff66d6ca?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69a0d76b5218a81676720459?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 12 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f19?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 12 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b3d591a8ac8e70ff681f08?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[ATS Predictive Modeling Intern](https://jobright.ai/jobs/info/69b2c1eba8ac8e70ff66c3d1?utm_campaign=1066&utm_source=git)** | Danville, CA | On Site | Mar 12 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Data Intern](https://jobright.ai/jobs/info/6981026149964d25b5e3cf5f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 12 |
 | ↳ | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/6981054749964d25b5e3d327?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 12 |
@@ -124,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/699a9d92e0bddb6acac9c362?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Mar 12 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/69a555af0da45516f16dfa07?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Mar 12 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/69a93fdd79f3f4037f441d91?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 12 |
+| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Spatial Data Scientist](https://jobright.ai/jobs/info/69b3cd49ad360c0340a8f4b6?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Mar 12 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Data Science Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69b26b9eae2a534885e97537?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 12 |
 | **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69b25fecad360c0340a72a71?utm_campaign=1066&utm_source=git)** | Terre Haute, IN | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69b25aaead360c0340a7218d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Group O](http://groupo.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b1ec2e548f140066e80233?utm_campaign=1066&utm_source=git)** | Roanoke, TX | On Site | Mar 11 |
 | **[Utah SHRM](https://utahshrm.org)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69b1ec02548f140066e8015c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Mar 11 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 System Analytics Intern](https://jobright.ai/jobs/info/699a7152e0bddb6acac98980?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
-| **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Mar 11 |
-| **[EQ Bank](http://www.eqbank.ca)** | **[Risk Model Development Intern](https://jobright.ai/jobs/info/69b1d74165de58104c71008a?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Mar 11 |
-| **[DISH TV](https://www.dish.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69b1d563548f140066e7bca5?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Mar 11 |
-| **[RDG Planning & Design](http://rdgusa.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b1d460d04c69566c743169?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Mar 11 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/69b1d42a65de58104c70fa31?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
-| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Intern- Sourcing & Planning Analytics](https://jobright.ai/jobs/info/69b1ce26d04c69566c741e54?utm_campaign=1066&utm_source=git)** | Calhoun, GA | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
