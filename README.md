@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data Science Specialist](https://jobright.ai/jobs/info/69b36731a8ac8e70ff679c90?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 12 |
+| **[RDG Planning & Design](http://rdgusa.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b36d48a8ac8e70ff67b2d1?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Mar 12 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/69b36579ad360c0340a87d68?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/69b34f1ba8ac8e70ff678a8c?utm_campaign=1066&utm_source=git)** | Bedford, NH | On Site | Mar 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Analyst/Scientist Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698f72be0f6f7e7a2cebaa2a?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 12 |
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Mar 12 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b2e9e6a8ac8e70ff670ede?utm_campaign=1066&utm_source=git)** | 550 Madison Ave, New York, NY, 10022, US | On Site | Mar 12 |
 | **[First American](http://www.firstam.com)** | **[Data Scientist Intern - REMOTE](https://jobright.ai/jobs/info/69aa76222ebd316bece2315e?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Remote | Mar 12 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa82ae2a534885ea4304?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Mar 12 |
-| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa83ae2a534885ea4306?utm_campaign=1066&utm_source=git)** | New York | Remote | Mar 12 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa83ae2a534885ea4306?utm_campaign=1066&utm_source=git)** | New York | Remote | Mar 12 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa82ae2a534885ea4304?utm_campaign=1066&utm_source=git)** | Pennsylvania | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2fa08ad360c0340a80909?utm_campaign=1066&utm_source=git)** | Massachusetts | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2f9e2a8ac8e70ff671cd8?utm_campaign=1066&utm_source=git)** | Florida | Remote | Mar 12 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b2f9e0a8ac8e70ff671cc5?utm_campaign=1066&utm_source=git)** | Iowa | Remote | Mar 12 |
