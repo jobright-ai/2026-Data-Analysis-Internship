@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Summer Internship - GIS](https://jobright.ai/jobs/info/69b4f8ca56973837413a0a86?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Mar 13 |
+| ↳ | **[Summer Internship - Research](https://jobright.ai/jobs/info/69b4f8b206c1ba00c5469823?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b4caea569738374139ba5f?utm_campaign=1066&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
@@ -141,13 +143,14 @@ US | Hybrid | Mar 13 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a7abef637232443f64f648?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 13 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Data Governance & Data Integrity Intern](https://jobright.ai/jobs/info/699810f281476f6176b07ea5?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[GIS Internship](https://jobright.ai/jobs/info/697be4771136d179eeef7f84?utm_campaign=1066&utm_source=git)** | Minnetonka, MN | On Site | Mar 13 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c21cf1423772304ec825a?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
-| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
+| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c21cf1423772304ec825a?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/69b3cac4ad360c0340a8ed4d?utm_campaign=1066&utm_source=git)** | Renton, WA | On Site | Mar 13 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Epidemiology Undergraduate Intern](https://jobright.ai/jobs/info/69b3c640ae2a534885eb2b07?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Mar 13 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b3e01d06c1ba00c5450879?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Mar 13 |
 | **[Mission Bank](https://www.missionbank.com/)** | **[AML/CFT Intern](https://jobright.ai/jobs/info/69b3b13fae2a534885eb2344?utm_campaign=1066&utm_source=git)** | Bakersfield, CA | On Site | Mar 12 |
 | **[Digi International](https://www.digi.com)** | **[Intern, Engineering  Data Analytics, SmartSense (Boston, MA)](https://jobright.ai/jobs/info/69b3e2523b74eb1e2c80e72b?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 12 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Internship Analyst, Reporting & Analytics](https://jobright.ai/jobs/info/69b0d5d50b2db6275c0587c6?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 12 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/69b37e5ba8ac8e70ff67c5b1?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Mar 12 |
 | **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN](https://jobright.ai/jobs/info/69b37951a8ac8e70ff67bedc?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 12 |
 | **[Bird Rock Systems](https://www.birdrockusa.com/)** | **[AI and Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b37764ae2a534885eae3d5?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | On Site | Mar 12 |
@@ -155,7 +158,4 @@ US | Hybrid | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69b4ccbc3b74eb1e2c822c3b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 12 |
 | **[RDG Planning & Design](http://rdgusa.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/69b36d48a8ac8e70ff67b2d1?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Mar 12 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/69b36579ad360c0340a87d68?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Technology & Analytics](https://jobright.ai/jobs/info/69b4a49d569738374139876e?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Mar 12 |
-| **[City of Kenosha](https://www.kenosha.org)** | **[GIS Intern](https://jobright.ai/jobs/info/69b4714b5697383741394879?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Mar 12 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Analyst/Scientist Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698f72be0f6f7e7a2cebaa2a?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
