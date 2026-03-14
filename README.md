@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern (Quality) Fall 2026](https://jobright.ai/jobs/info/6998c64bce78e77b4fdd5867?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Mar 14 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Mar 14 |
+| ↳ | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/69865f8a0f6f7e7a2ce14895?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Mar 14 |
 | **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/6986c5d18ca8121a3a6939fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm, Analytics - LIC](https://jobright.ai/jobs/info/69b58b7606c1ba00c547788d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[NetApp](http://netapp.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/69b586c906c1ba00c5477048?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Mar 14 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69b4896e06c1ba00c5460774?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Mar 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Business Intelligence & Data Management - R11831](https://jobright.ai/jobs/info/69b4896e06c1ba00c5460775?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4880d5697383741396c67?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Mar 13 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
-| ↳ | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
+| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/69b4807d3b74eb1e2c81dbeb?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 13 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[On-Site IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b47c313b74eb1e2c81d166?utm_campaign=1066&utm_source=git)** | Lititz, PA | On Site | Mar 13 |
 | **[WineFetch](http://retailer.winefetch.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b47a7d06c1ba00c545ee19?utm_campaign=1066&utm_source=git)** | Canada - Toronto - Ontario | On Site | Mar 13 |
@@ -134,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[City of Fridley](http://www.fridleymn.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/69b456155697383741390e88?utm_campaign=1066&utm_source=git)** | Fridley, MN | On Site | Mar 13 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/69b4560b3b74eb1e2c818d00?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 13 |
 | **[T&M Associates](http://tandmassociates.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69b455995697383741390d1c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, US | On Site | Mar 13 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4811b56973837413962aa?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Mar 13 |
-| ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4812f3b74eb1e2c81dcfb?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4812f3b74eb1e2c81dcfb?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Mar 13 |
+| ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4811b56973837413962aa?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Mar 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Business Analytics (23757)](https://jobright.ai/jobs/info/69b47aec3b74eb1e2c81d021?utm_campaign=1066&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship - Data Analyst (Irving, TX)](https://jobright.ai/jobs/info/69b4709206c1ba00c545e0a1?utm_campaign=1066&utm_source=git)** | Irving, Texas | On Site | Mar 13 |
 | **[Commvault](https://www.commvault.com)** | **[MSP Partner Business Intelligence Intern- West Coast](https://jobright.ai/jobs/info/69b452e73b74eb1e2c818900?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
@@ -155,7 +158,4 @@ US | Hybrid | Mar 13 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69b45a0d06c1ba00c545acdd?utm_campaign=1066&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 13 |
 | **[Circular Action Alliance](https://circularactionalliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b45a3606c1ba00c545ad12?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 13 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Conflict Transformation Data Intern (AY 25-26 902200)](https://jobright.ai/jobs/info/69b4390306c1ba00c5456f5a?utm_campaign=1066&utm_source=git)** | Middlebury, Vermont, United States | On Site | Mar 13 |
-| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Mar 13 |
-| **[Woda Cooper Companies, Inc.](https://www.wodagroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4216006c1ba00c54557f4?utm_campaign=1066&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
