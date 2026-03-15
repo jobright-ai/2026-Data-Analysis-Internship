@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699924de81476f6176b1a879?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 14 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/6999245fce78e77b4fddd117?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 14 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69b692e306c1ba00c54877e9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69b558d306c1ba00c547096b?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Mar 14 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/69993d96e0bddb6acac853ed?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 14 |
@@ -158,4 +157,5 @@ US | Hybrid | Mar 13 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Nebraska Internship](https://jobright.ai/jobs/info/69b4430f3b74eb1e2c816c72?utm_campaign=1066&utm_source=git)** | Nebraska | Hybrid | Mar 13 |
 | **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
