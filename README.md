@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69b6f6403b74eb1e2c848f55?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, AMX CEME](https://jobright.ai/jobs/info/69b6b0433b74eb1e2c8466b7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Mar 15 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/696d36da5fc86241853c2664?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
@@ -157,5 +158,4 @@ US | Hybrid | Mar 13 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/697bcae90b88cc7d64229888?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Mar 13 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Nebraska Internship](https://jobright.ai/jobs/info/69b4430f3b74eb1e2c816c72?utm_campaign=1066&utm_source=git)** | Nebraska | Hybrid | Mar 13 |
-| **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
