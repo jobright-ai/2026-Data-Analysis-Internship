@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - GIS](https://jobright.ai/jobs/info/69b5dfa706c1ba00c547c8ae?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Summer Internship - Research](https://jobright.ai/jobs/info/69b5d6fb56973837413b36cd?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 14 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Intern, Rev Ops Business Intelligence](https://jobright.ai/jobs/info/69a5acbe359fe034b1d04cb2?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Mar 14 |
@@ -141,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[City of Fridley](http://www.fridleymn.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/69b456155697383741390e88?utm_campaign=1066&utm_source=git)** | Fridley, MN | On Site | Mar 13 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 IT Analytics Intern](https://jobright.ai/jobs/info/69b4560b3b74eb1e2c818d00?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Mar 13 |
 | **[T&M Associates](http://tandmassociates.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69b455995697383741390d1c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, US | On Site | Mar 13 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4812f3b74eb1e2c81dcfb?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4811b56973837413962aa?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Mar 13 |
+| ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4812f3b74eb1e2c81dcfb?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Mar 13 |
-| ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69b4811b56973837413962aa?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Mar 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Business Analytics (23757)](https://jobright.ai/jobs/info/69b47aec3b74eb1e2c81d021?utm_campaign=1066&utm_source=git)** | Paramus, New Jersey, United States | On Site | Mar 13 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Internship - Data Analyst (Irving, TX)](https://jobright.ai/jobs/info/69b4709206c1ba00c545e0a1?utm_campaign=1066&utm_source=git)** | Irving, Texas | On Site | Mar 13 |
 | **[Commvault](https://www.commvault.com)** | **[MSP Partner Business Intelligence Intern- West Coast](https://jobright.ai/jobs/info/69b452e73b74eb1e2c818900?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
@@ -157,5 +158,4 @@ US | Hybrid | Mar 13 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 13 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Mar 13 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Mar 13 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69b45a0a06c1ba00c545acd1?utm_campaign=1066&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
