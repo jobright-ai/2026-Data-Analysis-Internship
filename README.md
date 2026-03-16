@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndryl](https://www.kyndryl.com)** | **[CIO Data & AI Analyst Intern](https://jobright.ai/jobs/info/69b8799a3b74eb1e2c864e9d?utm_campaign=1066&utm_source=git)** | Rye Brook, NY | Hybrid | Mar 16 |
+| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69b8771e3b74eb1e2c864977?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 16 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69b8760c06c1ba00c54a6aee?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
+| **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - GIS](https://jobright.ai/jobs/info/69b874933b74eb1e2c8644e4?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | On Site | Mar 16 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Data Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69b8748706c1ba00c54a6817?utm_campaign=1066&utm_source=git)** | Remote- US | Remote | Mar 16 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69b8747a3b74eb1e2c864467?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 16 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 16 |
 | **[Alstom](https://www.alstom.com/)** | **[Methods & Tools BI Intern](https://jobright.ai/jobs/info/69b17bce65de58104c708d54?utm_campaign=1066&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Mar 16 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (May 2026 - 4 month - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/69b86d433b74eb1e2c863a89?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 16 |
@@ -70,9 +76,11 @@ For a complete list, click the following sortable link below:
 | **[University of Miami](http://miami.edu)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/69b861383b74eb1e2c861c0e?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Mar 16 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Data Governance & Data Integrity Intern](https://jobright.ai/jobs/info/699810f281476f6176b07ea5?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Summer 2026 Coding and Data Internship](https://jobright.ai/jobs/info/69b85bbf06c1ba00c54a3587?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 16 |
+| **[Kyndryl](https://www.kyndryl.com)** | **[CIO Data & AI Analyst Intern](https://jobright.ai/jobs/info/69b8744a3b74eb1e2c86436a?utm_campaign=1066&utm_source=git)** | Rye Brook, NY, USA | Hybrid | Mar 16 |
 | **[Reveleer](https://www.reveleer.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b872ac56973837413dc9e1?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 16 |
 | **[MetOx International](http://www.metoxtech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b850bc56973837413d7898?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 16 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69b83b893b74eb1e2c85d9fb?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Mar 16 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Master Data Intern (Intern Program)](https://jobright.ai/jobs/info/69b8759456973837413dcf33?utm_campaign=1066&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | Remote | Mar 16 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69b84d3806c1ba00c54a0e90?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts | On Site | Mar 16 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - GIS](https://jobright.ai/jobs/info/69b8644b56973837413da9b2?utm_campaign=1066&utm_source=git)** | Fort Worth, Texas | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WineFetch](http://retailer.winefetch.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b47a7d06c1ba00c545ee19?utm_campaign=1066&utm_source=git)** | Canada - Toronto - Ontario | On Site | Mar 13 |
 | **[BMO](http://www.bmo.com)** | **[ESG Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69b47a783b74eb1e2c81cf69?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 13 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Technology & Analytics](https://jobright.ai/jobs/info/69b47a5956973837413955e8?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Mar 13 |
-| **[WineFetch](http://retailer.winefetch.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b47a073b74eb1e2c81cd86?utm_campaign=1066&utm_source=git)** | Canada - Toronto - Ontario | On Site | Mar 13 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Internship - Data Analyst (Irving, TX)](https://jobright.ai/jobs/info/69b479405697383741395205?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 13 |
-| **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2026 SUMMER STUDENT INTERN/INTERNSHIP - Business Analytics (23757)](https://jobright.ai/jobs/info/69b477883b74eb1e2c81c97f?utm_campaign=1066&utm_source=git)** | Paramus, NJ | On Site | Mar 13 |
-| **[BioAgilytix](http://www.ipm-biotech.de)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4771e5697383741394f77?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Mar 13 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69b476d65697383741394e75?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 13 |
-| **[Amentum](https://www.amentum.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b473dc06c1ba00c545e57c?utm_campaign=1066&utm_source=git)** | Cocoa Beach, FL | On Site | Mar 13 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69b46f8a3b74eb1e2c81bd21?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 13 |
-| **[BioAgilytix](http://www.ipm-biotech.de)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b46cda06c1ba00c545daf0?utm_campaign=1066&utm_source=git)** | Triangle Area | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
