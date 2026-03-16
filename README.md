@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Predictive Lead Intelligence Internship](https://jobright.ai/jobs/info/69b74eaa3b74eb1e2c84d5f4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69b6f6403b74eb1e2c848f55?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, AMX CEME](https://jobright.ai/jobs/info/69b6b0433b74eb1e2c8466b7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b48b053b74eb1e2c81e887?utm_campaign=1066&utm_source=git)** | Mountlake Terrace WA | Hybrid | Mar 13 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Business Intelligence & Data Management - R11831](https://jobright.ai/jobs/info/69b4896e06c1ba00c5460775?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4880d5697383741396c67?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Mar 13 |
-| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
+| ↳ | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/69b4807d3b74eb1e2c81dbeb?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 13 |
 | **[Fenner Precision Polymers](https://www.fennerppd.com/)** | **[On-Site IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b47c313b74eb1e2c81d166?utm_campaign=1066&utm_source=git)** | Lititz, PA | On Site | Mar 13 |
 | **[WineFetch](http://retailer.winefetch.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b47a7d06c1ba00c545ee19?utm_campaign=1066&utm_source=git)** | Canada - Toronto - Ontario | On Site | Mar 13 |
@@ -157,5 +158,4 @@ US | Hybrid | Mar 13 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Mar 13 |
 | **[Common Cause](http://www.commoncause.org/)** | **[Nebraska Internship](https://jobright.ai/jobs/info/69b4430f3b74eb1e2c816c72?utm_campaign=1066&utm_source=git)** | Nebraska | Hybrid | Mar 13 |
 | **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 13 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
