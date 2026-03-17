@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b8ac7f56973837413e27b4?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 16 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Predictive Lead Intelligence Internship](https://jobright.ai/jobs/info/69b8af6406c1ba00c54ac77d?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Mar 16 |
 | **[AXQ Capital](https://www.axqcap.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69b893fc3b74eb1e2c866a1d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8927856973837413df1df?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Mar 16 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[CIO Data & AI Analyst Intern](https://jobright.ai/jobs/info/69b8799a3b74eb1e2c864e9d?utm_campaign=1066&utm_source=git)** | Rye Brook, NY | Hybrid | Mar 16 |
@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[C-GSS-155 Internship – Data & AI for Operational Excellence and Sustainable Procurement-EN](https://jobright.ai/jobs/info/69b8871306c1ba00c54a831b?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 16 |
 | **[Baycrest](https://www.baycrest.org)** | **[Research Assistant Level 1](https://jobright.ai/jobs/info/69b8847806c1ba00c54a8084?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 16 |
 | **[Florida State University](http://www.fsu.edu/)** | **[Research Coordinator Internship, College of Communication & Information (OPS)](https://jobright.ai/jobs/info/69b87f9656973837413de2f5?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Mar 16 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Master Data Intern (Intern Program)](https://jobright.ai/jobs/info/69b87f5256973837413de1da?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Mar 16 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - GQ Reliability Methods](https://jobright.ai/jobs/info/69b87e743b74eb1e2c865659?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Mar 16 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Data Analyst](https://jobright.ai/jobs/info/69b87e2506c1ba00c54a782b?utm_campaign=1066&utm_source=git)** | Williamsville, NY, United States of America | Hybrid | Mar 16 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Energy & Sustainability Data Analyst (Power BI Focus)](https://jobright.ai/jobs/info/69b87b7a06c1ba00c54a7670?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Mar 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4ba725697383741399092?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 13 |
 | **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69b4ada95697383741398b4f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
+| **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b4ab9606c1ba00c54623be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
