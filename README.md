@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trilliant Health](https://www.trillianthealth.com/)** | **[Research Intern](https://jobright.ai/jobs/info/699378aece78e77b4fd748e0?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Mar 17 |
+| **[Shaffer Evaluation Group](https://www.shafferevaluation.com/)** | **[Research Analyst Intern (Undergraduate)](https://jobright.ai/jobs/info/69b9624256973837413ee555?utm_campaign=1066&utm_source=git)** | Williamsburg, VA | On Site | Mar 17 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[2026 Summer Data Analytics & Actuarial Intern](https://jobright.ai/jobs/info/699d74e481476f6176b644fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 17 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Master Data Management & Governance Intern](https://jobright.ai/jobs/info/6965495e6d52670c5c3e0dc6?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 17 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Master Data Intern (Intern Program)](https://jobright.ai/jobs/info/69b8759456973837413dcf33?utm_campaign=1066&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | Remote | Mar 16 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69b84d3806c1ba00c54a0e90?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts | On Site | Mar 16 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - GIS](https://jobright.ai/jobs/info/69b8644b56973837413da9b2?utm_campaign=1066&utm_source=git)** | Fort Worth, Texas | On Site | Mar 16 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
-| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BI Software Engineer Intern - Orlando](https://jobright.ai/jobs/info/69b8643756973837413da93c?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Mar 16 |
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Assistant](https://jobright.ai/jobs/info/69b83bf83b74eb1e2c85da8c?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - GIS](https://jobright.ai/jobs/info/69b4f8ca56973837413a0a86?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Mar 13 |
 | ↳ | **[Summer Internship - Research](https://jobright.ai/jobs/info/69b4f8b206c1ba00c5469823?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b4caea569738374139ba5f?utm_campaign=1066&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
-| **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
-| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4ba725697383741399092?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
