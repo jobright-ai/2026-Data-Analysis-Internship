@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Data Science Intern](https://jobright.ai/jobs/info/69b9ab3906c1ba00c54bab82?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 17 |
+| **[Clarke](https://clarke.com)** | **[Data Visualization & Analytics Intern](https://jobright.ai/jobs/info/69b9aac03b74eb1e2c87894f?utm_campaign=1066&utm_source=git)** | St Charles,IL,US | On Site | Mar 17 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Economic Research Assistant Intern (PhD Student)](https://jobright.ai/jobs/info/69b999d63b74eb1e2c878086?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 17 |
 | **[Everytown for Gun Safety](https://www.everytown.org/)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69b98ecc06c1ba00c54b95f8?utm_campaign=1066&utm_source=git)** | New York, New York, NY, US | Hybrid | Mar 17 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Research Assistant Intern (Soil Carbon)](https://jobright.ai/jobs/info/69b98ecb06c1ba00c54b95f7?utm_campaign=1066&utm_source=git)** | Falmouth, MA, US | On Site | Mar 17 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69b812bf56973837413d40b3?utm_campaign=1066&utm_source=git)** | Lititz, PA | On Site | Mar 16 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/69a8978079f3f4037f429827?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Mar 16 |
 | **[First Quality](http://firstquality.com/)** | **[Manufacturing Systems & Data Analytics Intern](https://jobright.ai/jobs/info/69b8086c3b74eb1e2c859a73?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 16 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/69b93c7906c1ba00c54b515a?utm_campaign=1066&utm_source=git)** | North Chicago, IL, US | On Site | Mar 16 |
 | **[Centific](https://www.centific.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b7654506c1ba00c54920af?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Mar 15 |
 | **[Scaler](https://scalerglobal.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/69b7ed553b74eb1e2c858980?utm_campaign=1066&utm_source=git)** | New York (Hybrid) | Hybrid | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/69993d96e0bddb6acac853ed?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 14 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern (Remote)](https://jobright.ai/jobs/info/699918d9e0bddb6acac81481?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 14 |
-| **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/699934d7ce78e77b4fddee1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
