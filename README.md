@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Predictive Lead Intelligence Internship](https://jobright.ai/jobs/info/69b8af6406c1ba00c54ac77d?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Mar 16 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69b8c3773b74eb1e2c86ce40?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 16 |
 | **[AXQ Capital](https://www.axqcap.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69b893fc3b74eb1e2c866a1d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8927856973837413df1df?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Mar 16 |
@@ -94,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Master Data Intern (Intern Program)](https://jobright.ai/jobs/info/69b8759456973837413dcf33?utm_campaign=1066&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | Remote | Mar 16 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69b84d3806c1ba00c54a0e90?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts | On Site | Mar 16 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - GIS](https://jobright.ai/jobs/info/69b8644b56973837413da9b2?utm_campaign=1066&utm_source=git)** | Fort Worth, Texas | On Site | Mar 16 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
-| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BI Software Engineer Intern - Orlando](https://jobright.ai/jobs/info/69b8643756973837413da93c?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Mar 16 |
 | **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Assistant](https://jobright.ai/jobs/info/69b83bf83b74eb1e2c85da8c?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 16 |
@@ -147,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a67073d706a731db385fb1?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 14 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Mar 14 |
 | **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b5235c3b74eb1e2c82c49d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 14 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/69b5235b3b74eb1e2c82c492?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Mar 14 |
 | **[M13](http://m13.co)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/69b517d806c1ba00c546cff0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Summer Internship - GIS](https://jobright.ai/jobs/info/69b4f8ca56973837413a0a86?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Mar 13 |
 | ↳ | **[Summer Internship - Research](https://jobright.ai/jobs/info/69b4f8b206c1ba00c5469823?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Mar 13 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4ba725697383741399092?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 13 |
 | **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69b4ada95697383741398b4f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
+| **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b4ab9606c1ba00c54623be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 13 |
+| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, AnalyticsNew](https://jobright.ai/jobs/info/69b4962c3b74eb1e2c81f543?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
