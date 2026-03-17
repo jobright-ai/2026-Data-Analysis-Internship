@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 17 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69b8c3773b74eb1e2c86ce40?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 16 |
 | **[AXQ Capital](https://www.axqcap.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69b893fc3b74eb1e2c866a1d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 16 |
@@ -110,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69b812bf56973837413d40b3?utm_campaign=1066&utm_source=git)** | Lititz, PA | On Site | Mar 16 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/69a8978079f3f4037f429827?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Mar 16 |
 | **[First Quality](http://firstquality.com/)** | **[Manufacturing Systems & Data Analytics Intern](https://jobright.ai/jobs/info/69b8086c3b74eb1e2c859a73?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Mar 16 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/69b93c7906c1ba00c54b515a?utm_campaign=1066&utm_source=git)** | North Chicago, IL, US | On Site | Mar 16 |
 | **[Centific](https://www.centific.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b7654506c1ba00c54920af?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Mar 15 |
 | **[Scaler](https://scalerglobal.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/69b7ed553b74eb1e2c858980?utm_campaign=1066&utm_source=git)** | New York (Hybrid) | Hybrid | Mar 15 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 15 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69b6f6403b74eb1e2c848f55?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Co-op 2026 – Advanced Analytics – Financial Services](https://jobright.ai/jobs/info/69b814d43b74eb1e2c85ba62?utm_campaign=1066&utm_source=git)** | University Park, TX | Hybrid | Mar 15 |
 | **[Amazon](https://amazon.com)** | **[Economist Intern, AMX CEME](https://jobright.ai/jobs/info/69b6b0433b74eb1e2c8466b7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 15 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Mar 15 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/696d36da5fc86241853c2664?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4ba725697383741399092?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 13 |
 | **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69b4ada95697383741398b4f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
-| **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b4ab9606c1ba00c54623be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
