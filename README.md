@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 17 |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[Master Data Management & Governance Intern](https://jobright.ai/jobs/info/6965495e6d52670c5c3e0dc6?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 17 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 17 |
 | **[Sound Physicians](http://www.soundphysicians.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69b8c3773b74eb1e2c86ce40?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Mar 13 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Supply Chain Analytics](https://jobright.ai/jobs/info/69b4ba725697383741399092?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 13 |
-| **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 13 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69b4ada95697383741398b4f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
