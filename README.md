@@ -59,7 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[Digital Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e1656973837413fae52?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | ↳ | **[FP&A Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2df13b74eb1e2c882343?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[C&E Survey Analytics Intern](https://jobright.ai/jobs/info/69ba40c23b74eb1e2c8829c1?utm_campaign=1066&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
+| ↳ | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69b068e30b2db6275c044fe2?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/69b260faa8ac8e70ff66448e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 17 |
 | **[ValleyStar Credit Union](https://www.valleystar.org)** | **[Data Intern](https://jobright.ai/jobs/info/69b9d7ce06c1ba00c54bf6dd?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA, US | On Site | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69b838e106c1ba00c549fc3e?utm_campaign=1066&utm_source=git)** | Franklin, TN | Hybrid | Mar 16 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT/Business Intelligence Intern](https://jobright.ai/jobs/info/69b854fb56973837413d7f38?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Mar 16 |
 | **[DAILYLOOK](http://www.dailylook.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b8387c56973837413d61fb?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 16 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Data Science](https://jobright.ai/jobs/info/69b82afc06c1ba00c549f038?utm_campaign=1066&utm_source=git)** | Waterford, Michigan, United States | Hybrid | Mar 16 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Intelligence (BI) & Analytics Resource Intern- Summer 2026](https://jobright.ai/jobs/info/69b82aac56973837413d5791?utm_campaign=1066&utm_source=git)** | NY-NEW YORK, ONE PENN PLAZA, 35TH AND 36TH FL | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
