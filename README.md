@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[Digital Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e1656973837413fae52?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
+| ↳ | **[FP&A Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2df13b74eb1e2c882343?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69b068e30b2db6275c044fe2?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/69b260faa8ac8e70ff66448e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 17 |
@@ -66,14 +68,13 @@ For a complete list, click the following sortable link below:
 | **[AQUA Dermatology](https://www.aquadermatology.com)** | **[Business Intelligence Intern-Part Time](https://jobright.ai/jobs/info/69b9cb843b74eb1e2c87c0cf?utm_campaign=1066&utm_source=git)** | PALM BEACH GARDENS, FL, US | On Site | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Continuous Improvement Data Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/69b9bd2756973837413f4bc4?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | Hybrid | Mar 17 |
 | ↳ | **[Continuous Improvement Data Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/69b9bc6c3b74eb1e2c87b43d?utm_campaign=1066&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 17 |
-| ↳ | **[Decision Science Undergraduate Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b15bb2d04c69566c739316?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 17 |
 | **[Citizens Electric Corporation](https://www.cecmo.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9b6d83b74eb1e2c879903?utm_campaign=1066&utm_source=git)** | Perryville, Missouri, United States | On Site | Mar 17 |
 | **[Dometic](https://www.dometic.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b9b2b206c1ba00c54bb94f?utm_campaign=1066&utm_source=git)** | Litchfield, IL 62056, USA | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acc33b74eb1e2c878c34?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20cc?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20c9?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
-| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
+| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad07?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9e06c1ba00c54bad03?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9706c1ba00c54bacf8?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DAILYLOOK](http://www.dailylook.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b8387c56973837413d61fb?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 16 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Data Science](https://jobright.ai/jobs/info/69b82afc06c1ba00c549f038?utm_campaign=1066&utm_source=git)** | Waterford, Michigan, United States | Hybrid | Mar 16 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Intelligence (BI) & Analytics Resource Intern- Summer 2026](https://jobright.ai/jobs/info/69b82aac56973837413d5791?utm_campaign=1066&utm_source=git)** | NY-NEW YORK, ONE PENN PLAZA, 35TH AND 36TH FL | Hybrid | Mar 16 |
-| ↳ | **[Business Intelligence (BI) & Analytics Resource Intern- Summer 2026](https://jobright.ai/jobs/info/69b82a763b74eb1e2c85ccb5?utm_campaign=1066&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
