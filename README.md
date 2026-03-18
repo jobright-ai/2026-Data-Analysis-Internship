@@ -60,9 +60,10 @@ For a complete list, click the following sortable link below:
 | **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[Digital Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e1656973837413fae52?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | ↳ | **[FP&A Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2df13b74eb1e2c882343?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[C&E Survey Analytics Intern](https://jobright.ai/jobs/info/69ba40c23b74eb1e2c8829c1?utm_campaign=1066&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Mar 17 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/69ba480706c1ba00c54c5938?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Mar 17 |
-| ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/69ba480a3b74eb1e2c883727?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 17 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/69ba480a3b74eb1e2c883727?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Mar 17 |
+| ↳ | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/69ba480706c1ba00c54c5938?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
+| ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
 | ↳ | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69b068e30b2db6275c044fe2?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/69b260faa8ac8e70ff66448e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BI Software Engineer Intern - Orlando](https://jobright.ai/jobs/info/69b8643756973837413da93c?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69b838e106c1ba00c549fc3e?utm_campaign=1066&utm_source=git)** | Franklin, TN | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
