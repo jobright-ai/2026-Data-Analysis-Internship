@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acc33b74eb1e2c878c34?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20cc?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20c9?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
-| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
+| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad07?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9e06c1ba00c54bad03?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9706c1ba00c54bacf8?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
