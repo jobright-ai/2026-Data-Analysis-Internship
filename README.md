@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH ANALYST 1](https://jobright.ai/jobs/info/69ba6b5406c1ba00c54c6b7f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 18 |
 | **[Madison Energy Infrastructure](https://www.madisonei.com)** | **[Digital Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2e1656973837413fae52?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | ↳ | **[FP&A Business Intelligence Intern – Summer 2026](https://jobright.ai/jobs/info/69ba2df13b74eb1e2c882343?utm_campaign=1066&utm_source=git)** | Tysons, VA | Hybrid | Mar 17 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[C&E Survey Analytics Intern](https://jobright.ai/jobs/info/69ba40c23b74eb1e2c8829c1?utm_campaign=1066&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Mar 17 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acc33b74eb1e2c878c34?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20cc?utm_campaign=1066&utm_source=git)** | Seattle, WA. , Seattle, WA, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9acb456973837413f20c9?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
-| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
+| **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c26?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9aca93b74eb1e2c878c25?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad07?utm_campaign=1066&utm_source=git)** | Los Angeles, CA. , Los Angeles, CA, US | On Site | Mar 17 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9e06c1ba00c54bad03?utm_campaign=1066&utm_source=git)** | Portland, OR. , Portland, OR, US | On Site | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b9ac9706c1ba00c54bacf8?utm_campaign=1066&utm_source=git)** | San Franciso, CA, San Francisco, CA, US | On Site | Mar 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - GIS](https://jobright.ai/jobs/info/69b8644b56973837413da9b2?utm_campaign=1066&utm_source=git)** | Fort Worth, Texas | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b8692f06c1ba00c54a5a10?utm_campaign=1066&utm_source=git)** | Detroit, MI, US | Hybrid | Mar 16 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Detroit, MI](https://jobright.ai/jobs/info/69b868833b74eb1e2c863472?utm_campaign=1066&utm_source=git)** | US-MI-Detroit | Hybrid | Mar 16 |
-| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BI Software Engineer Intern - Orlando](https://jobright.ai/jobs/info/69b8643756973837413da93c?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
