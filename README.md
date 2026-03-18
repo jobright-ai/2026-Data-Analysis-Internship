@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Mar 17 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69b068e30b2db6275c044fe2?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/69b260faa8ac8e70ff66448e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 17 |
 | **[ValleyStar Credit Union](https://www.valleystar.org)** | **[Data Intern](https://jobright.ai/jobs/info/69b9d7ce06c1ba00c54bf6dd?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA, US | On Site | Mar 17 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[PhD Statistics – Intern to Fulltime](https://jobright.ai/jobs/info/69b9d6bd56973837413f6963?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Mar 17 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Temporary Data Science Intern](https://jobright.ai/jobs/info/69b9ab3906c1ba00c54bab82?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69649aa32cbf4e44756e1244?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 17 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/696499f22cbf4e44756e1216?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 17 |
-| **[Clarke](https://clarke.com)** | **[Data Visualization & Analytics Intern](https://jobright.ai/jobs/info/69b9c8ed3b74eb1e2c87bd8c?utm_campaign=1066&utm_source=git)** | St Charles,IL,US | On Site | Mar 17 |
+| **[Clarke](https://clarke.com)** | **[Data Visualization & Analytics Intern](https://jobright.ai/jobs/info/69ba1c523b74eb1e2c8812a0?utm_campaign=1066&utm_source=git)** | St Charles,IL,US | On Site | Mar 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6964921ca112b40266127465?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 17 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/696398812cbf4e44756d39eb?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Mar 17 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Economic Research Assistant Intern (PhD Student)](https://jobright.ai/jobs/info/69b999d63b74eb1e2c878086?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Data Science](https://jobright.ai/jobs/info/69b82afc06c1ba00c549f038?utm_campaign=1066&utm_source=git)** | Waterford, Michigan, United States | Hybrid | Mar 16 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Intelligence (BI) & Analytics Resource Intern- Summer 2026](https://jobright.ai/jobs/info/69b82aac56973837413d5791?utm_campaign=1066&utm_source=git)** | NY-NEW YORK, ONE PENN PLAZA, 35TH AND 36TH FL | Hybrid | Mar 16 |
 | ↳ | **[Business Intelligence (BI) & Analytics Resource Intern- Summer 2026](https://jobright.ai/jobs/info/69b82a763b74eb1e2c85ccb5?utm_campaign=1066&utm_source=git)** | IL-CHICAGO, 233 S WACKER DR, STE 3700 | Hybrid | Mar 16 |
-| **[Scaler](https://scalerglobal.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/69b812f356973837413d40e5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69b812bf56973837413d40b3?utm_campaign=1066&utm_source=git)** | Lititz, PA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
