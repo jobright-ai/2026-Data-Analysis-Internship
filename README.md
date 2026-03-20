@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Mar 20 |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0b54e81476f6176bb01da?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Mar 20 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69a11c5d81476f6176bb7430?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 20 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/692ecd9dfa28370be26a5fe9?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 20 |
 | **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bd0c5ab10602456281f237?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Statistician](https://jobright.ai/jobs/info/69bd0bf94828227293ff4421?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 20 |
 | **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bcd32845e08b3dc1f9af1d?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 19 |
+| **[GS1 US](http://www.gs1us.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bd292d4828227293ff68a6?utm_campaign=1066&utm_source=git)** | Ewing, NJ | Hybrid | Mar 19 |
 | **[Howden](http://www.howdengroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bca7f845e08b3dc1f96d44?utm_campaign=1066&utm_source=git)** | Chicago - 1 South Wacker Drive | Hybrid | Mar 19 |
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bca7f845e08b3dc1f96d45?utm_campaign=1066&utm_source=git)** | DUAL - Dallas Office | Hybrid | Mar 19 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Data and Analytics Intern II](https://jobright.ai/jobs/info/69bca786e6a0d9792584aba8?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Mar 19 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bc7e4545e08b3dc1f93d06?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bc77394828227293fe588c?utm_campaign=1066&utm_source=git)** | Offsite US | Remote | Mar 19 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 19 |
-| **[Port of Portland](https://www.portofportland.com)** | **[Intern, Performance & Analytics](https://jobright.ai/jobs/info/69bc72ca4828227293fe53ea?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Mar 19 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc72755b89c002acf2312f?utm_campaign=1066&utm_source=git)** | 19720 | On Site | Mar 19 |
 | ↳ | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc719f4828227293fe4ef6?utm_campaign=1066&utm_source=git)** | New Castle, DE, US | On Site | Mar 19 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bc6e614828227293fe4862?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Mar 19 |
@@ -117,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Data Administrative Analyst - Intern](https://jobright.ai/jobs/info/6983c5d801214b4cdacbbef5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Analyst Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/698230f0a314e76369059148?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Mar 19 |
-| **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5039 Data Analyst Engineering Intern](https://jobright.ai/jobs/info/6983c31b348f733a5c371864?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
+| **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com/eu/company/tee.html)** | **[5039 Data Analyst Engineering Intern](https://jobright.ai/jobs/info/6983c31b348f733a5c371864?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[ATI](https://www.forging.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69b63ae73b74eb1e2c83ec89?utm_campaign=1066&utm_source=git)** | Natrona Heights, PA | On Site | Mar 19 |
 | **[Cornerstone Capital Bank](https://www.cornerstonecapital.com/)** | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bbe5d94828227293fce205?utm_campaign=1066&utm_source=git)** | Lubbock, TX | On Site | Mar 19 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Aviation Pilot Data Analyst](https://jobright.ai/jobs/info/68cb7e58efdec76df36bd656?utm_campaign=1066&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb524e5697383741414d38?utm_campaign=1066&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6db406c1ba00c54de030?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e813b74eb1e2c89d929?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e883b74eb1e2c89d92f?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e835697383741416d7f?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e955697383741416dbe?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Mar 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69bb4bea3b74eb1e2c89b97a?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 18 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Advanced Analytics](https://jobright.ai/jobs/info/69bb438206c1ba00c54dbe58?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 18 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e883b74eb1e2c89d92f?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
