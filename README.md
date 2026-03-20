@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trideum Corporation](http://trideum.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bd8b6cb106024562827bec?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Mar 20 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69bd9eef4828227293ffd887?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Mar 20 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/69b21cc7d04c69566c74d05c?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
+| **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bd992e393a1008f742f5f0?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd98524828227293ffd448?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Mar 20 |
+| **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bd9459b1060245628287a6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 20 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bd936db106024562828657?utm_campaign=1066&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Mar 20 |
+| **[Trideum Corporation](http://trideum.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bd9345393a1008f742f2e9?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Mar 20 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6968821c639b452fb57e337d?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Mar 20 |
+| **[Impiricus](https://impiricus.com/)** | **[Intern - Data & Business Intelligence](https://jobright.ai/jobs/info/69bd90e04828227293ffce43?utm_campaign=1066&utm_source=git)** | Atlanta, GA | NYC, NY | Remote, USA | Remote | Mar 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bd8533b106024562826e07?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Mar 20 |
 | **[Varex Imaging Corporation](https://www.vareximaging.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69bd845b393a1008f742dba8?utm_campaign=1066&utm_source=git)** | Salt Lake City | On Site | Mar 20 |
 | **[Molex](http://www.molex.com)** | **[Molex 2026 Search Analyst Internship](https://jobright.ai/jobs/info/69b24aa9ad360c0340a702fd?utm_campaign=1066&utm_source=git)** | Lisle, IL | On Site | Mar 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, OPEX Data Analytics (4-month) - Perth, ON, Canada](https://jobright.ai/jobs/info/69a27e51b600907a9628d407?utm_campaign=1066&utm_source=git)** | Perth, ON | On Site | Mar 19 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Enterprise Data and Insights Intern](https://jobright.ai/jobs/info/69a0088d81476f6176ba01d4?utm_campaign=1066&utm_source=git)** | Hunt Valley, MD | On Site | Mar 19 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/694a3fe03019f50a4fe568ed?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Mar 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
-| **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2026](https://jobright.ai/jobs/info/69af09d9749500645093760a?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Mar 19 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
-| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Inventory and Planning Analyst Intern](https://jobright.ai/jobs/info/698402da0f6f7e7a2cde0fd9?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Mar 19 |
-| ↳ | **[ERP Dashboard and Data Analyst Intern](https://jobright.ai/jobs/info/69840e010f6f7e7a2cde2981?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Mar 19 |
-| **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Mar 19 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/69bbba3806c1ba00c54e4d58?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Mar 19 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/69bbb0433b74eb1e2c8a2d6c?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Remote | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
