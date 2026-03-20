@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
+| **[CIRO / OCRI](https://www.ciro.ca/)** | **[Surveillance Intern (6 month contract)](https://jobright.ai/jobs/info/69bd6888b106024562824bf7?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Deluxe](http://www.deluxe.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/69a0cb4a5218a8167671f5fd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Authentic Brands Group](https://authentic.com)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/69bd5a79393a1008f742b866?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Mar 20 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Data Science and AI Graduate Student Intern](https://jobright.ai/jobs/info/69bd4ee04828227293ff8ca8?utm_campaign=1066&utm_source=git)** | Los Alamos, NM | Hybrid | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/69bb56c906c1ba00c54dd150?utm_campaign=1066&utm_source=git)** | San Marcos,CA,US | On Site | Mar 18 |
 | ↳ | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/69bb566f06c1ba00c54dd081?utm_campaign=1066&utm_source=git)** | San Marcos, CA | On Site | Mar 18 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69bb53c73b74eb1e2c89bdea?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Cornerstone Capital Bank](https://www.cornerstonecapital.com/)** | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52e73b74eb1e2c89bc72?utm_campaign=1066&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 18 |
-| ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52b906c1ba00c54dc6a4?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
