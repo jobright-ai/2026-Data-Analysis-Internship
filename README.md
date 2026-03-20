@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deluxe](http://www.deluxe.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/69a0cb4a5218a8167671f5fd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
+| **[Authentic Brands Group](https://authentic.com)** | **[FP&A Summer Intern](https://jobright.ai/jobs/info/69bd5a79393a1008f742b866?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Mar 20 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Data Science and AI Graduate Student Intern](https://jobright.ai/jobs/info/69bd4ee04828227293ff8ca8?utm_campaign=1066&utm_source=git)** | Los Alamos, NM | Hybrid | Mar 20 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern - Analytical Data Analyst](https://jobright.ai/jobs/info/69591e4caa05c26e7ab2f98e?utm_campaign=1066&utm_source=git)** | Newton, MA | On Site | Mar 20 |
 | **[Arup](http://www.arup.com)** | **[Geospatial Analyst Intern (May - August 2026)](https://jobright.ai/jobs/info/69a0cc4281476f6176bb1654?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc6b8845e08b3dc1f91980?utm_campaign=1066&utm_source=git)** | US-DE-New Castle | On Site | Mar 19 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Data Analytics for Silicon Validation Intern](https://jobright.ai/jobs/info/69bc69984828227293fe3dba?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Technical Data Associate 2](https://jobright.ai/jobs/info/69bc610645e08b3dc1f8fd5a?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Mar 19 |
-| **[Ribbon Communications](https://ribboncommunications.com/)** | **[Data Scientist - Intern](https://jobright.ai/jobs/info/69bc5eb75b89c002acf1f8f9?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Mar 19 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Data Analytics for Silicon Validation Intern](https://jobright.ai/jobs/info/69bc5a7d4828227293fe1678?utm_campaign=1066&utm_source=git)** | San Jose, CA, USA | On Site | Mar 19 |
 | **[Faurecia](https://www.forvia.com)** | **[IT Data Intern - Summer Internship](https://jobright.ai/jobs/info/69bc5a4a4828227293fe15b1?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Mar 19 |
 | **[Atlanta Convention & Visitors Bureau](https://atlanta.net)** | **[Intern-Research](https://jobright.ai/jobs/info/69bc5a114828227293fe145d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HealthEdge](http://www.healthedge.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69bb53c73b74eb1e2c89bdea?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Cornerstone Capital Bank](https://www.cornerstonecapital.com/)** | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52e73b74eb1e2c89bc72?utm_campaign=1066&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 18 |
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52b906c1ba00c54dc6a4?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Mar 18 |
-| ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb524e5697383741414d38?utm_campaign=1066&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
