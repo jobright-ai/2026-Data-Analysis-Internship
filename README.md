@@ -145,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Capital Bank](https://www.cornerstonecapital.com/)** | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52e73b74eb1e2c89bc72?utm_campaign=1066&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 18 |
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52b906c1ba00c54dc6a4?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Mar 18 |
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb524e5697383741414d38?utm_campaign=1066&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 18 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e813b74eb1e2c89d929?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e835697383741416d7f?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e835697383741416d7f?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 18 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6db406c1ba00c54de030?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | On Site | Mar 18 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e813b74eb1e2c89d929?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e883b74eb1e2c89d92f?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e955697383741416dbe?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Mar 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6db406c1ba00c54de030?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | On Site | Mar 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69bb4bea3b74eb1e2c89b97a?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 18 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Advanced Analytics](https://jobright.ai/jobs/info/69bb438206c1ba00c54dbe58?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 18 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bb3eff56973837414142a6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 18 |
