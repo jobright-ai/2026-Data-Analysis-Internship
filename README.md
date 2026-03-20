@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Data Operations Analyst](https://jobright.ai/jobs/info/69bc9a544828227293fe7c7a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 19 |
+| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Intern- Sourcing & Planning Analytics](https://jobright.ai/jobs/info/69b1ce26d04c69566c741e54?utm_campaign=1066&utm_source=git)** | Calhoun, GA | Hybrid | Mar 19 |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[Bioinformatics Summer Intern 2026](https://jobright.ai/jobs/info/69bc926545e08b3dc1f954ff?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 19 |
+| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Intern, Enterprise Data Governance Analyst](https://jobright.ai/jobs/info/69bc87c95b89c002acf24531?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Mar 19 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bc7e4545e08b3dc1f93d06?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bc77394828227293fe588c?utm_campaign=1066&utm_source=git)** | Offsite US | Remote | Mar 19 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 19 |
@@ -96,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Schraad Sales & Marketing](http://schraadinc.com)** | **[RETAIL DATA SYSTEMS ANALYST INTERN](https://jobright.ai/jobs/info/69bc1fa25b89c002acf13ab9?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK 73102 | On Site | Mar 19 |
 | **[Vaxcyte](http://www.vaxcyte.com)** | **[Summer Intern, CMC Information Technology, VAXDATA](https://jobright.ai/jobs/info/699fcf35ce78e77b4fe5b9d7?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Mar 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Science Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc19e84828227293fd4e87?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
+| **[CN](http://www.cn.ca)** | **[Intern, Data Analyst (Finance)- EN](https://jobright.ai/jobs/info/69b63b9c3b74eb1e2c83f125?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Data Administrative Analyst - Intern](https://jobright.ai/jobs/info/6983c5d801214b4cdacbbef5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Analyst Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/698230f0a314e76369059148?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Mar 19 |
@@ -132,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Capital Bank](https://www.cornerstonecapital.com/)** | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52e73b74eb1e2c89bc72?utm_campaign=1066&utm_source=git)** | San Antonio, Texas, United States | On Site | Mar 18 |
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb52b906c1ba00c54dc6a4?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Mar 18 |
 | ↳ | **[IT Data & AI Intern (Paid Internship)](https://jobright.ai/jobs/info/69bb524e5697383741414d38?utm_campaign=1066&utm_source=git)** | Lubbock, Texas, United States | On Site | Mar 18 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e835697383741416d7f?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e883b74eb1e2c89d92f?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e955697383741416dbe?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Mar 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e883b74eb1e2c89d92f?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6db406c1ba00c54de030?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | On Site | Mar 18 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e835697383741416d7f?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e813b74eb1e2c89d929?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb6e955697383741416dbe?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Mar 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69bb4bea3b74eb1e2c89b97a?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Mar 18 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Advanced Analytics](https://jobright.ai/jobs/info/69bb438206c1ba00c54dbe58?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 18 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bb3eff56973837414142a6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb23b35697383741412118?utm_campaign=1066&utm_source=git)** | La Jolla, California, United States of America | Hybrid | Mar 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69bb23b35697383741412117?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Mar 18 |
 | **[Boston University](https://www.bumc.bu.edu/busm)** | **[DATA ANALYTICS DEVELOPER, Continuous Improvement & Data Analytics](https://jobright.ai/jobs/info/69bb1f6606c1ba00c54d97b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 18 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69bb1bdf5697383741411a6c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 18 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69bb1bd256973837414119fd?utm_campaign=1066&utm_source=git)** | Baltimore, MD, MD, US | On Site | Mar 18 |
-| **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Analyst, RADAR Data Products Intern](https://jobright.ai/jobs/info/69bb19f53b74eb1e2c897e99?utm_campaign=1066&utm_source=git)** | New York, NY ( 200 Park Avenue) | On Site | Mar 18 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bb19cc06c1ba00c54d8edd?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 18 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69bb194106c1ba00c54d8d3b?utm_campaign=1066&utm_source=git)** | US-MD-Baltimore, MD | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
