@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b839adb26b618950f07ec?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 21 |
+| **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/69bc2a8d4828227293fd9d2d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 21 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 21 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 21 |
+| **[First American](http://www.firstam.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a22118b600907a96286d7a?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Mar 21 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Mar 21 |
 | **[Flex](https://getflex.com)** | **[Staff Data Scientist & Analytics](https://jobright.ai/jobs/info/69851f4e348f733a5c394c64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69beaf1d4828227293017042?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 21 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69850b1b8da7a612045f5516?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Mar 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0b54e81476f6176bb01da?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Mar 20 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69a11c5d81476f6176bb7430?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 20 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/692ecd9dfa28370be26a5fe9?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Mar 20 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 20 |
-| **[Goldbelt Professional Services](https://www.goldbeltproservices.com/)** | **[CDC CFA Intern](https://jobright.ai/jobs/info/69a133bc6b458d060735ef6a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bd0c5ab10602456281f237?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 20 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Statistician](https://jobright.ai/jobs/info/69bd0bf94828227293ff4421?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 20 |
-| **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bcd32845e08b3dc1f9af1d?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 19 |
-| **[GS1 US](http://www.gs1us.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bd292d4828227293ff68a6?utm_campaign=1066&utm_source=git)** | Ewing, NJ | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
