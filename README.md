@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69bf0e00482822729301bea8?utm_campaign=1066&utm_source=git)** | Pomona, CA | On Site | Mar 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Mar 21 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Health Data Analysis Intern](https://jobright.ai/jobs/info/69bedc3eb106024562844723?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Mar 21 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Data Analyst/Engineer Intern](https://jobright.ai/jobs/info/69b21cfb65de58104c719216?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
 | **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bdb888393a1008f7432a90?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Remote | Mar 20 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bdb715393a1008f743228d?utm_campaign=1066&utm_source=git)** | High Point, NC | On Site | Mar 20 |
-| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd8104828227293007a95?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 20 |
-| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd80e393a1008f7439b6a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 20 |
+| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd80e393a1008f7439b6a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 20 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd8104828227293007a95?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 20 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern Clinical Epidemiology](https://jobright.ai/jobs/info/69bdb4a54828227293fff9e5?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
 | **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdb1174828227293fff10a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdaba8b10602456282a1df?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern - Analytical Data Analyst](https://jobright.ai/jobs/info/69591e4caa05c26e7ab2f98e?utm_campaign=1066&utm_source=git)** | Newton, MA | On Site | Mar 20 |
 | **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH ANALYST 1](https://jobright.ai/jobs/info/69ba6b5406c1ba00c54c6b7f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 20 |
 | **[Arup](http://www.arup.com)** | **[Geospatial Analyst Intern (May - August 2026)](https://jobright.ai/jobs/info/69a0cc4281476f6176bb1654?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Senior Computer Vision Data Scientist](https://jobright.ai/jobs/info/69696913639b452fb57f3cd9?utm_campaign=1066&utm_source=git)** | Olathe, KS | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
