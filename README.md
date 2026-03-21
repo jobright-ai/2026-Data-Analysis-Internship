@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69bdab55393a1008f7430c16?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
 | **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
 | ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
-| **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bda82b4828227293ffe352?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 20 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69bd9eef4828227293ffd887?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Mar 20 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/69b21cc7d04c69566c74d05c?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
 | **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bd992e393a1008f742f5f0?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DUAL North America](https://www.dualinsurance.com/us-en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bca21a4828227293fe83f7?utm_campaign=1066&utm_source=git)** | Chicago - 1 South Wacker Drive | Hybrid | Mar 19 |
 | **[Howden](http://www.howdengroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bca2005b89c002acf26432?utm_campaign=1066&utm_source=git)** | DUAL - Dallas Office | Hybrid | Mar 19 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Data Scientist Intern - Falls Church VA](https://jobright.ai/jobs/info/69bca1fd5b89c002acf2640e?utm_campaign=1066&utm_source=git)** | United States-Virginia-Falls Church | On Site | Mar 19 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bca16d4828227293fe820e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
