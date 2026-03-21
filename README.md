@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69be0b7a393a1008f743e41a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 20 |
+| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69be0ab3393a1008f743e1d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Quanex](http://www.quanex.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69be09f6482822729300bd68?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 20 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Healthcare Informatics (Summer 2026)](https://jobright.ai/jobs/info/69be0862393a1008f743e15a?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Mar 20 |
+| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69be07e7393a1008f743e0c3?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
+| **[S&P Global](https://www.spglobal.com)** | **[Index Production Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69be04a7393a1008f743df5c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Quanex](http://www.quanex.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bdffc2b1060245628364b3?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Mar 20 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[BI Developer Intern - Onsite in Dallas, TX](https://jobright.ai/jobs/info/69bdffb0482822729300b6b2?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
 | **[Cooperative Services Center, INC](http://www.wemc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69bdff6e482822729300b64d?utm_campaign=1066&utm_source=git)** | Youngsville, NC | On Site | Mar 20 |
@@ -101,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdaba8b10602456282a1df?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 20 |
 | ↳ | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdab8a4828227293ffebb9?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 20 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69bdab55393a1008f7430c16?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
-| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
-| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
+| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
+| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bda82b4828227293ffe352?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 20 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69bd9eef4828227293ffd887?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Mar 20 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/69b21cc7d04c69566c74d05c?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bca16d4828227293fe820e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 - Data Governance & Data Integrity Intern](https://jobright.ai/jobs/info/699810f281476f6176b07ea5?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 19 |
 | **[Maximus](http://www.maximus.com/)** | **[Data Operations Analyst](https://jobright.ai/jobs/info/69bc9a544828227293fe7c7a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 19 |
-| **[Tarkett](https://www.tarkett-group.com/en/)** | **[Intern- Sourcing & Planning Analytics](https://jobright.ai/jobs/info/69b1ce26d04c69566c741e54?utm_campaign=1066&utm_source=git)** | Calhoun, GA | Hybrid | Mar 19 |
-| **[University of Florida](https://www.ufl.edu)** | **[Graduate Student Library Intern (Student Assistant)](https://jobright.ai/jobs/info/69bd735fb106024562825ae5?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Mar 19 |
-| **[Padagis LLC](http://www.padagis.com)** | **[Internship, Data Science](https://jobright.ai/jobs/info/69bd7cab4828227293ffb487?utm_campaign=1066&utm_source=git)** | Wyoming, MI | Hybrid | Mar 19 |
-| **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bdb1e7b10602456282a892?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 19 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Intern, Enterprise Data Governance Analyst](https://jobright.ai/jobs/info/69bc87c95b89c002acf24531?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Mar 19 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bc7e4545e08b3dc1f93d06?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
