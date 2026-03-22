@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Data Coordinator, Clinical Trials - BC Cancer Kelowna](https://jobright.ai/jobs/info/69bf3c1db106024562847d10?utm_campaign=1066&utm_source=git)** | Kelowna, BC | On Site | Mar 21 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 21 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69bf0e00482822729301bea8?utm_campaign=1066&utm_source=git)** | Pomona, CA | On Site | Mar 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69a26e07b600907a9628be1d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Mar 21 |
@@ -114,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69bdcacbb1060245628303cc?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Mar 20 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Intern Data Analytics](https://jobright.ai/jobs/info/69bdc8204828227293004087?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-Data Analytics](https://jobright.ai/jobs/info/69bdc4f7b10602456282ed6f?utm_campaign=1066&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 20 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Scientist Intern - Falls Church VA - R10226645](https://jobright.ai/jobs/info/69bdc44f393a1008f7434df6?utm_campaign=1066&utm_source=git)** | Falls Church, VA | On Site | Mar 20 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-Data Analytics](https://jobright.ai/jobs/info/69bdbf7448282272930021f0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
+| ↳ | **[Summer Associate Intern-Data Analytics](https://jobright.ai/jobs/info/69bdbf7448282272930021f0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[AI Analytics (Business Intelligence) Summer Intern](https://jobright.ai/jobs/info/69bdbf12393a1008f7434333?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bdbf0c393a1008f7434322?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 20 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69bdb9e8393a1008f74331d4?utm_campaign=1066&utm_source=git)** | NYC, NY | Remote, USA | Remote | Mar 20 |
@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdaba8b10602456282a1df?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 20 |
 | ↳ | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdab8a4828227293ffebb9?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 20 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69bdab55393a1008f7430c16?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
-| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
-| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
+| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
+| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69bd9eef4828227293ffd887?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Mar 20 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/69b21cc7d04c69566c74d05c?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
 | **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bd992e393a1008f742f5f0?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
