@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 22 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69c0505479e36d3a847caeb4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a852d91dfc787e9aa3548a?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Data Analyst/Engineer Intern](https://jobright.ai/jobs/info/69b21cfb65de58104c719216?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
 | **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bdb888393a1008f7432a90?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Remote | Mar 20 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bdb715393a1008f743228d?utm_campaign=1066&utm_source=git)** | High Point, NC | On Site | Mar 20 |
-| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd80e393a1008f7439b6a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 20 |
-| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd8104828227293007a95?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 20 |
+| **[Leidos](https://www.leidos.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd8104828227293007a95?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Mar 20 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69bdd80e393a1008f7439b6a?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 20 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern Clinical Epidemiology](https://jobright.ai/jobs/info/69bdb4a54828227293fff9e5?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
 | **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdb1174828227293fff10a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdaba8b10602456282a1df?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd98524828227293ffd448?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Mar 20 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bd9459b1060245628287a6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 20 |
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bd936db106024562828657?utm_campaign=1066&utm_source=git)** | 1401 John F Kennedy Blvd, Philadelphia, PA 19102, USA | On Site | Mar 20 |
-| **[Trideum Corporation](http://trideum.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bd9345393a1008f742f2e9?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
