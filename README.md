@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69c1712775f7ff1cd80f69e3?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | On Site | Mar 23 |
+| **[MSX International](http://www.msxi.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69c15df82c312363dcd4223f?utm_campaign=1066&utm_source=git)** | Troy, MI, USA | Hybrid | Mar 23 |
+| **[RA Capital Management](http://www.racap.com)** | **[Research Internship](https://jobright.ai/jobs/info/69c16cb32c312363dcd440a9?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 23 |
+| **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Strategic Data Insights & Operations](https://jobright.ai/jobs/info/69c16c5c2c312363dcd44038?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Mar 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69c169df75f7ff1cd80f646f?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Mar 23 |
+| **[RA Capital Management](http://www.racap.com)** | **[Research Internship](https://jobright.ai/jobs/info/69c1699275f7ff1cd80f636c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69c1693779e36d3a847e1986?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Mar 23 |
+| **[Hoffman & Hoffman, Inc.](https://www.hoffman-hoffman.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69c168e02c312363dcd43aa0?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | On Site | Mar 23 |
+| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[COOPERATIVE ASSISTANT-DATA VISUALIZATION 1](https://jobright.ai/jobs/info/69bde6d9b106024562834b5c?utm_campaign=1066&utm_source=git)** | Jackson, MI | Hybrid | Mar 23 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Intern - PHS Biostatistics](https://jobright.ai/jobs/info/69c166d479e36d3a847e1625?utm_campaign=1066&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Mar 23 |
+| **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c166cc75f7ff1cd80f5e1d?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 23 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 23 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69c145e079e36d3a847de566?utm_campaign=1066&utm_source=git)** |  Stamford, Connecticut | Hybrid | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6969f958639b452fb57ff015?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
@@ -75,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69c0505479e36d3a847caeb4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a852d91dfc787e9aa3548a?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Mar 22 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8f97350cf4380312e8ef?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a7a9f6637232443f64f134?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
@@ -125,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdf063b106024562834ef2?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Mar 20 |
 | **[SandboxAQ](https://www.sandboxaq.com)** | **[Geospatial Analyst Resident](https://jobright.ai/jobs/info/69bde9dc393a1008f743bde8?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bde8ceb106024562834bd4?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[COOPERATIVE ASSISTANT-DATA VISUALIZATION 1](https://jobright.ai/jobs/info/69bde6d9b106024562834b5c?utm_campaign=1066&utm_source=git)** | Jackson, MI | Hybrid | Mar 20 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern- BI & Analytics](https://jobright.ai/jobs/info/69bde4b7482822729300972a?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern, Healthcare Informatics (Summer 2026)](https://jobright.ai/jobs/info/69bdde18393a1008f743b424?utm_campaign=1066&utm_source=git)** | US-CA-Glendale, US-CA-San Francisco, US-IL-Chicago, US-GA-Atlanta, US-MA-Boston, US-DC-Washington | On Site | Mar 20 |
 | ↳ | **[Intern, Healthcare Informatics (Summer 2026)](https://jobright.ai/jobs/info/69bddda34828227293009172?utm_campaign=1066&utm_source=git)** | Glendale500 N. Brand Blvd, Suite 1400 | On Site | Mar 20 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Geospatial Data Scientist Intern](https://jobright.ai/jobs/info/69be199d393a1008f743f786?utm_campaign=1066&utm_source=git)** | Herndon, VA, United States | On Site | Mar 20 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Clinical Research Assistant Intern (Hybrid)](https://jobright.ai/jobs/info/69bdb9414828227293000e88?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Data Analyst/Engineer Intern](https://jobright.ai/jobs/info/69b21cfb65de58104c719216?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
-| **[Edmentum](http://www.edmentum.com)** | **[Efficacy Research Intern](https://jobright.ai/jobs/info/69bdb888393a1008f7432a90?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Remote | Mar 20 |
-| **[Lumos Fiber](https://www.lumosfiber.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69bdb715393a1008f743228d?utm_campaign=1066&utm_source=git)** | High Point, NC | On Site | Mar 20 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern Clinical Epidemiology](https://jobright.ai/jobs/info/69bdb4a54828227293fff9e5?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
-| **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdb1174828227293fff10a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdaba8b10602456282a1df?utm_campaign=1066&utm_source=git)** | Oakland | Hybrid | Mar 20 |
-| ↳ | **[Data Analytics & Quality Intern](https://jobright.ai/jobs/info/69bdab8a4828227293ffebb9?utm_campaign=1066&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 20 |
-| **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69bdab55393a1008f7430c16?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
-| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdcdd64828227293005366?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 20 |
-| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/69bdce48393a1008f7437608?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 20 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[AI Data Science Intern](https://jobright.ai/jobs/info/69b21cc7d04c69566c74d05c?utm_campaign=1066&utm_source=git)** | Albertville, AL | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
