@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Medicaid Data Analytics Coordinator (Remote)](https://jobright.ai/jobs/info/69c1c7832c312363dcd4f840?utm_campaign=1066&utm_source=git)** | Urbana, IL | Remote | Mar 23 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69c2020e2c312363dcd55022?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 23 |
 | **[GSK](http://www.gsk.com)** | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f6412c312363dcd53807?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 23 |
 | ↳ | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f59679e36d3a847f0f7b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1ef9a79e36d3a847f093b?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 23 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c1ecf52c312363dcd5218b?utm_campaign=1066&utm_source=git)** | Westmont, IL | On Site | Mar 23 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/69c1ec6379e36d3a847efe57?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Mar 23 |
-| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Medicaid Data Analytics Coordinator (Remote)](https://jobright.ai/jobs/info/69c1c7832c312363dcd4f840?utm_campaign=1066&utm_source=git)** | Urbana, IL | Remote | Mar 23 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1eb2b2c312363dcd51f2c?utm_campaign=1066&utm_source=git)** | CO - Denver | Hybrid | Mar 23 |
 | ↳ | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1eb292c312363dcd51f23?utm_campaign=1066&utm_source=git)** | CO - Denver | Hybrid | Mar 23 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Digital & Tech Data Visualization Engineer Intern (PMO/Service Management) Summer 2026](https://jobright.ai/jobs/info/69c1e9c475f7ff1cd81043ed?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69c1693779e36d3a847e1986?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Mar 23 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[COOPERATIVE ASSISTANT-DATA VISUALIZATION 1](https://jobright.ai/jobs/info/69bde6d9b106024562834b5c?utm_campaign=1066&utm_source=git)** | Jackson, MI | Hybrid | Mar 23 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Intern - PHS Biostatistics](https://jobright.ai/jobs/info/69c166d479e36d3a847e1625?utm_campaign=1066&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Mar 23 |
-| **[Crash Champions](https://crashchampions.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c183ed79e36d3a847e50fe?utm_campaign=1066&utm_source=git)** | 60559 | On Site | Mar 23 |
-| ↳ | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c183ed79e36d3a847e5104?utm_campaign=1066&utm_source=git)** | 601 Oakmont Lane | On Site | Mar 23 |
+| **[Crash Champions](https://crashchampions.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c183ed79e36d3a847e5104?utm_campaign=1066&utm_source=git)** | 601 Oakmont Lane | On Site | Mar 23 |
+| ↳ | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c183ed79e36d3a847e50fe?utm_campaign=1066&utm_source=git)** | 60559 | On Site | Mar 23 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 23 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Manufacturing Data Analyst - Whitehall, MI (Summer 2026)](https://jobright.ai/jobs/info/69c0c29a79e36d3a847d0c0f?utm_campaign=1066&utm_source=git)** | Whitehall, MI | On Site | Mar 23 |
 | **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c1986375f7ff1cd80fca2a?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 23 |
