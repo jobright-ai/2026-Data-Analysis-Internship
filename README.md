@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2eee7ec22f8310ab0f22b?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Mar 24 |
+| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science](https://jobright.ai/jobs/info/69c2ed2e753c101b21565ab8?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
+| **[IWK Health](https://www.iwk.nshealth.ca)** | **[Research Coordinator](https://jobright.ai/jobs/info/69c2ec8194007a2195df0059?utm_campaign=1066&utm_source=git)** | Halifax, NS | On Site | Mar 24 |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Customer Data Quality Intern-Summer 2026](https://jobright.ai/jobs/info/69c2ec5c94007a2195deffbf?utm_campaign=1066&utm_source=git)** | Elkhart, IN | On Site | Mar 24 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69c2e3a7ec22f8310ab0dcff?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 24 |
 | **[Cooper Standard](http://www.cooperstandard.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c2e01cec22f8310ab0d94c?utm_campaign=1066&utm_source=git)** | Northville, MI | Hybrid | Mar 24 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/69c2debd94007a2195dee3e8?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Mar 24 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Data Coder-Student (Per Diem Temporary) Jefferson Moss-Magee Rehab](https://jobright.ai/jobs/info/69c2d5e1753c101b21562fab?utm_campaign=1066&utm_source=git)** | Elkins Park, PA | On Site | Mar 24 |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 24 |
+| **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[R&D Scientist Intern- Data Science](https://jobright.ai/jobs/info/69c2f07994007a2195df0b6f?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
+| ↳ | **[R&D Scientist Intern- Data Science](https://jobright.ai/jobs/info/69c2f04fec22f8310ab0f436?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
+| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science](https://jobright.ai/jobs/info/69c2f048ec22f8310ab0f416?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
 | **[Guardian Industries](https://www.guardian.com)** | **[Guardian Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/69b2718bae2a534885e98c7d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Mar 24 |
 | **[Cooper Standard](http://www.cooperstandard.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c2cd1a94007a2195dec414?utm_campaign=1066&utm_source=git)** | Northville, Michigan | Hybrid | Mar 24 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2c168ec22f8310ab0a5f2?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c17d502c312363dcd46a77?utm_campaign=1066&utm_source=git)** | Westmont | On Site | Mar 23 |
 | **[Kyndryl](https://www.kyndryl.com)** | **[CIO Data & AI Analyst Intern](https://jobright.ai/jobs/info/69c177882c312363dcd45b27?utm_campaign=1066&utm_source=git)** | Rye Brook, NY, USA | Hybrid | Mar 23 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Strategic Data Insights & Operations](https://jobright.ai/jobs/info/69c177612c312363dcd45a75?utm_campaign=1066&utm_source=git)** | US_North Carolina_Remote | Hybrid | Mar 23 |
-| **[Joint Commission](http://www.jointcommission.org)** | **[Healthcare Research Analytics Internship](https://jobright.ai/jobs/info/69c1712775f7ff1cd80f69e3?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | On Site | Mar 23 |
-| **[MSX International](http://www.msxi.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69c15df82c312363dcd4223f?utm_campaign=1066&utm_source=git)** | Troy, MI, USA | Hybrid | Mar 23 |
-| **[RA Capital Management](http://www.racap.com)** | **[Research Internship](https://jobright.ai/jobs/info/69c16cb32c312363dcd440a9?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 23 |
-| **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Strategic Data Insights & Operations](https://jobright.ai/jobs/info/69c16c5c2c312363dcd44038?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Mar 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69c169df75f7ff1cd80f646f?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Mar 23 |
-| **[RA Capital Management](http://www.racap.com)** | **[Research Internship](https://jobright.ai/jobs/info/69c1699275f7ff1cd80f636c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Mar 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69c1693779e36d3a847e1986?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Mar 23 |
-| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[COOPERATIVE ASSISTANT-DATA VISUALIZATION 1](https://jobright.ai/jobs/info/69bde6d9b106024562834b5c?utm_campaign=1066&utm_source=git)** | Jackson, MI | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
