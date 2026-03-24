@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STERIS](http://steris.com)** | **[Quality Analytics Intern](https://jobright.ai/jobs/info/69a8d93779f3f4037f436562?utm_campaign=1066&utm_source=git)** | Mentor, OH | Hybrid | Mar 24 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 24 |
+| **[Arhaus](https://www.arhaus.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c2a2fc94007a2195de9185?utm_campaign=1066&utm_source=git)** | Boston Heights, OH | On Site | Mar 24 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Hospitalizations Research Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69c29f5894007a2195de8edc?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | Hybrid | Mar 24 |
 | **[Together AI](https://www.together.ai)** | **[GTM Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a65805e567421f42575afc?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/698ee10b78b4502f12a5bdaf?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Mar 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D. Intern, Reservations (Data Science) - Summer 2026](https://jobright.ai/jobs/info/69c271a3ec22f8310ab0368e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
@@ -71,15 +75,13 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c215f02c312363dcd5a3bd?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 23 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Enterprise Data & Analytics](https://jobright.ai/jobs/info/69c26c41635a1e49d1c2d969?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Mar 23 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Medicaid Data Analytics Coordinator (Remote)](https://jobright.ai/jobs/info/69c1c7832c312363dcd4f840?utm_campaign=1066&utm_source=git)** | Urbana, IL | Remote | Mar 23 |
-| **[Credit One Bank](http://creditonebank.com)** | **[Collections Risk Analyst Intern](https://jobright.ai/jobs/info/69c27f12ec22f8310ab04dc2?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 23 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69c2020e2c312363dcd55022?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 23 |
 | **[GSK](http://www.gsk.com)** | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f6412c312363dcd53807?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 23 |
 | ↳ | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f59679e36d3a847f0f7b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1ef9a79e36d3a847f093b?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Mar 23 |
 | **[Crash Champions](https://crashchampions.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c1ecf52c312363dcd5218b?utm_campaign=1066&utm_source=git)** | Westmont, IL | On Site | Mar 23 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/69c1ec6379e36d3a847efe57?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Mar 23 |
-| **[Zayo Group](https://www.zayo.com)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1eb2b2c312363dcd51f2c?utm_campaign=1066&utm_source=git)** | CO - Denver | Hybrid | Mar 23 |
-| ↳ | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1eb292c312363dcd51f23?utm_campaign=1066&utm_source=git)** | CO - Denver | Hybrid | Mar 23 |
+| **[Zayo Group](https://www.zayo.com)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/69c1eb292c312363dcd51f23?utm_campaign=1066&utm_source=git)** | CO - Denver | Hybrid | Mar 23 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Digital & Tech Data Visualization Engineer Intern (PMO/Service Management) Summer 2026](https://jobright.ai/jobs/info/69c1e9c475f7ff1cd81043ed?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69c1cb9775f7ff1cd8102213?utm_campaign=1066&utm_source=git)** | Atlanta Support Center, 800 Battery Avenue SE Suite 200, Atlanta, GA 30339 | Hybrid | Mar 23 |
 | **[County of San Mateo](https://www.smcgov.org)** | **[Electronic Health Record Analyst III (Departmental Promotional Only)](https://jobright.ai/jobs/info/69c1e35575f7ff1cd8103f2c?utm_campaign=1066&utm_source=git)** | San Mateo County, CA | Hybrid | Mar 23 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ab2c75f7ff1cd80ffa81?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/69c1ab0e2c312363dcd4d4ed?utm_campaign=1066&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
-| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
+| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9779e36d3a847eb25a?utm_campaign=1066&utm_source=git)** | Berkeley, CA | Hybrid | Mar 23 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69c1aa5679e36d3a847eb1f6?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 23 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6969f958639b452fb57ff015?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69c136e879e36d3a847dcdb8?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcd0c3e6a0d9792584ebf4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
-| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
-| ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
