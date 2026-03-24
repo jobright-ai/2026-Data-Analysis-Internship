@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Together AI](https://www.together.ai)** | **[GTM Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a65805e567421f42575afc?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/698ee10b78b4502f12a5bdaf?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Mar 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D. Intern, Reservations (Data Science) - Summer 2026](https://jobright.ai/jobs/info/69c271a3ec22f8310ab0368e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69c25d1b635a1e49d1c2d001?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
@@ -64,10 +66,12 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/698d6c34f64d441a164f7477?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/698d56a70f6f7e7a2ce9343a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccb2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 24 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Research Analyst(Hybrid)](https://jobright.ai/jobs/info/69c27edaa5b03d40c194dc22?utm_campaign=1066&utm_source=git)** | Wethersfield, CT | Hybrid | Mar 24 |
+| **[The Alfred Foundation](http://alfredfoundation.org.au)** | **[Research Assistant](https://jobright.ai/jobs/info/69c27b6da5b03d40c194d7da?utm_campaign=1066&utm_source=git)** | Alfred, NY | On Site | Mar 23 |
 | **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c215f02c312363dcd5a3bd?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 23 |
-| **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Summer Intern - PHS Biostatistics](https://jobright.ai/jobs/info/69c26f83635a1e49d1c2dbce?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Mar 23 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Enterprise Data & Analytics](https://jobright.ai/jobs/info/69c26c41635a1e49d1c2d969?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Mar 23 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Medicaid Data Analytics Coordinator (Remote)](https://jobright.ai/jobs/info/69c1c7832c312363dcd4f840?utm_campaign=1066&utm_source=git)** | Urbana, IL | Remote | Mar 23 |
+| **[Credit One Bank](http://creditonebank.com)** | **[Collections Risk Analyst Intern](https://jobright.ai/jobs/info/69c27f12ec22f8310ab04dc2?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 23 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69c2020e2c312363dcd55022?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 23 |
 | **[GSK](http://www.gsk.com)** | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f6412c312363dcd53807?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 23 |
 | ↳ | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f59679e36d3a847f0f7b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 23 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ab2c75f7ff1cd80ffa81?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/69c1ab0e2c312363dcd4d4ed?utm_campaign=1066&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
-| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
+| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9779e36d3a847eb25a?utm_campaign=1066&utm_source=git)** | Berkeley, CA | Hybrid | Mar 23 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69c1aa5679e36d3a847eb1f6?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 23 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcd0c3e6a0d9792584ebf4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 23 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69917ece6ea51a7610f3e74d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[Analyst I](https://jobright.ai/jobs/info/69c0fc7479e36d3a847d8629?utm_campaign=1066&utm_source=git)** | Kern County, CA | On Site | Mar 23 |
-| **[Mine](https://usemine.com/)** | **[Data Science Internship (Summer 2026)](https://jobright.ai/jobs/info/69c09d3b79e36d3a847cdd15?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
