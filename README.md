@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c215f02c312363dcd5a3bd?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 23 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Medicaid Data Analytics Coordinator (Remote)](https://jobright.ai/jobs/info/69c1c7832c312363dcd4f840?utm_campaign=1066&utm_source=git)** | Urbana, IL | Remote | Mar 23 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69c2020e2c312363dcd55022?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Mar 23 |
 | **[GSK](http://www.gsk.com)** | **[Insights & Analytics Intern (4-month summer role)](https://jobright.ai/jobs/info/69c1f6412c312363dcd53807?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 23 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ab2c75f7ff1cd80ffa81?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/69c1ab0e2c312363dcd4d4ed?utm_campaign=1066&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
-| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Mar 23 |
+| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Mar 23 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9779e36d3a847eb25a?utm_campaign=1066&utm_source=git)** | Berkeley, CA | Hybrid | Mar 23 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69c1aa5679e36d3a847eb1f6?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 23 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/69c0505479e36d3a847caeb4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a852d91dfc787e9aa3548a?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
