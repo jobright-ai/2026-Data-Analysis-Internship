@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69c349c7753c101b2156ee15?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
+| ↳ | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c349c7753c101b2156ee14?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
+| **[Stanford University School of Medicine](https://med.stanford.edu/school)** | **[Research Data Analyst 2](https://jobright.ai/jobs/info/69c349c0753c101b2156ee08?utm_campaign=1066&utm_source=git)** | Stanford, CA | On Site | Mar 24 |
+| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 24 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c33c6394007a2195df9195?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c31a35ec22f8310ab13fd9?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 24 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 24 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c32d95ec22f8310ab16513?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 24 |
@@ -70,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Data Scientist (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69c31119753c101b21568f8a?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Mar 24 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c30b8c94007a2195df2f9f?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 24 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026](https://jobright.ai/jobs/info/69c30b8494007a2195df2f7f?utm_campaign=1066&utm_source=git)** | Philadelphia, NY | On Site | Mar 24 |
-| **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c3271994007a2195df6e8a?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
-| ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161c6?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
-| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161bf?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
-| ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b09753c101b2156c93c?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
+| **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161c6?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
+| ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c3271994007a2195df6e8a?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
+| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b09753c101b2156c93c?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
+| ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161bf?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Technology Enablement & Data Analytics](https://jobright.ai/jobs/info/69c3081394007a2195df236e?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c307f3753c101b215677e3?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Mar 24 |
 | ↳ | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c307d1ec22f8310ab10b9b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 24 |
@@ -113,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D. Intern, Reservations (Data Science) - Summer 2026](https://jobright.ai/jobs/info/69c271a3ec22f8310ab0368e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/698d4c80f64d441a164f586f?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 24 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69c25d1b635a1e49d1c2d001?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bcc43645e08b3dc1f98f79?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Mar 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/698d6c34f64d441a164f7477?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/698d56a70f6f7e7a2ce9343a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Research Intern](https://jobright.ai/jobs/info/69c1b5d175f7ff1cd8100376?utm_campaign=1066&utm_source=git)** | WA07-01-Bellevue-1100-112th Avenue NE | On Site | Mar 23 |
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b5cf2c312363dcd4de2d?utm_campaign=1066&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69c1b59979e36d3a847eb9ee?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Mar 23 |
-| **[Calamos Investments](http://www.calamos.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69c1b42575f7ff1cd810013f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ae9975f7ff1cd80ffc2c?utm_campaign=1066&utm_source=git)** | Fremont, CA | Hybrid | Mar 23 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Spring 2027](https://jobright.ai/jobs/info/69a840132580d3183f004b64?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 23 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
