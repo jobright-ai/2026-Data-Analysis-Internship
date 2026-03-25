@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69c349c7753c101b2156ee15?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
-| ↳ | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c349c7753c101b2156ee14?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c362e8753c101b2157235e?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 24 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c349c7753c101b2156ee14?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
+| ↳ | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69c349c7753c101b2156ee15?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Stanford University School of Medicine](https://med.stanford.edu/school)** | **[Research Data Analyst 2](https://jobright.ai/jobs/info/69c349c0753c101b2156ee08?utm_campaign=1066&utm_source=git)** | Stanford, CA | On Site | Mar 24 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 24 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c33c6394007a2195df9195?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c3155994007a2195df449b?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Mar 24 |
 | **[State Street](https://www.statestreet.com/)** | **[CCG-Distribution Analytics, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69bae9a4569738374140c090?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 24 |
 | **[BMO](http://www.bmo.com)** | **[Anti-Money Laundering Data Scientist (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69c31119753c101b21568f8a?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Mar 24 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c30b8c94007a2195df2f9f?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 24 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026](https://jobright.ai/jobs/info/69c30b8494007a2195df2f7f?utm_campaign=1066&utm_source=git)** | Philadelphia, NY | On Site | Mar 24 |
 | **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161c6?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
 | ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c3271994007a2195df6e8a?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
