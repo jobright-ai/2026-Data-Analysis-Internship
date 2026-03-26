@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 26 |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Data Lead](https://jobright.ai/jobs/info/69c537ab1818a24cd84b2a2d?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 26 |
+| **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/69b7911c06c1ba00c5494bb4?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Mar 26 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Analyst Intern/Co-op (Summer 2026) Preferred Candidate](https://jobright.ai/jobs/info/69c5315b1b5ad028873709b0?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
-| **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69c52f74e565c26a7000c23e?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Mar 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c52cdbc63a883d55f23d01?utm_campaign=1066&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Mar 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Risk](https://jobright.ai/jobs/info/69a9d01d9ca4e908ec64fc68?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Mar 26 |
@@ -87,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c48ae46f4f855eeda71dd4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c49d9e6f4f855eeda73afd?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
@@ -122,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | **[LJA](https://www.lja.com/)** | **[Intern - GIS](https://jobright.ai/jobs/info/69c450746f4f855eeda6c2fc?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Mar 25 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Salesforce Data Operations Intern](https://jobright.ai/jobs/info/69c41952d5a1016e98db264b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 25 |
+| **[Ungdomsbarometern](http://www.ungdomsbarometern.se/)** | **[UB Internship HT26 - Analytiker (Praktik)](https://jobright.ai/jobs/info/69c5353d1b5ad02887370d4c?utm_campaign=1066&utm_source=git)** | Stockholm, NY | On Site | Mar 25 |
 | **[Genmab](https://www.genmab.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69c40f34d5a1016e98db1c8e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Mar 25 |
 | **[PayrAdvisors](https://payradvisors.com)** | **[Healthcare Analytics, Intern](https://jobright.ai/jobs/info/69c409bd6f4f855eeda66116?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 25 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69a3df9b359fe034b1cec7a7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Analyst Intern - Cyber Security](https://jobright.ai/jobs/info/69c3c00133eecf310793a0c0?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Mar 25 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Talent Insights](https://jobright.ai/jobs/info/69c3bfdd6f4f855eeda5df1a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 25 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Competitive Intelligence](https://jobright.ai/jobs/info/69a8a23679f3f4037f42cb8c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 25 |
-| **[University of Pennsylvania](http://www.upenn.edu)** | **[Causal Inference Postdoctoral Researcher - Center for Causal Inference, University of Pennsylvania](https://jobright.ai/jobs/info/69c3be476f4f855eeda5de7c?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Mar 25 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69a93cb079f3f4037f440e38?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 25 |
-| ↳ | **[Intern, Bioinformatics](https://jobright.ai/jobs/info/69a7a150637232443f64e2ea?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 25 |
-| ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69a823352580d3183f002b91?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
