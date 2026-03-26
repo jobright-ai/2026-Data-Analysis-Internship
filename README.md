@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Data & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69c57120e565c26a7000faa6?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Mar 26 |
+| **[Amentum](https://www.amentum.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c570bc1818a24cd84b5332?utm_campaign=1066&utm_source=git)** | US-VA-Hampton | On Site | Mar 26 |
+| **[Lightera](http://www.lightera.com)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69b675283b74eb1e2c844ad9?utm_campaign=1066&utm_source=git)** | Avon, CT | On Site | Mar 26 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c56938aa9a29199e80435f?utm_campaign=1066&utm_source=git)** | Macon, GA | On Site | Mar 26 |
 | **[Novelis](http://novelis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c554af1818a24cd84b3f9c?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | Mar 26 |
 | **[North Easton Savings Bank](https://www.northeastonsavingsbank.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69a675442c0d8b0f5cd093d7?utm_campaign=1066&utm_source=git)** | Easton Center, MA | On Site | Mar 26 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Insights and Analytics](https://jobright.ai/jobs/info/69c54910aa9a29199e802dca?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bdfab06d9b0622496099f?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Mar 26 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Engineering Intelligence Intern](https://jobright.ai/jobs/info/69c56c8a1818a24cd84b50e4?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69c53d7c83ea553769fc78f8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c53d5aaa9a29199e802198?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c48ae46f4f855eeda71dd4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c49d9e6f4f855eeda73afd?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / Clinical Data Science](https://jobright.ai/jobs/info/698a1b424db8972cecff5f35?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 25 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a932ab79f3f4037f43f937?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 25 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Data Analysis Tool Development](https://jobright.ai/jobs/info/69a779b876bbe83d3afade6a?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
-| **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/69c0a5fd7798f73e35e519df?utm_campaign=1066&utm_source=git)** | Lake County, IN | Hybrid | Mar 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
-| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 25 |
-| ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/69782e0688e2b47213bc32ce?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
