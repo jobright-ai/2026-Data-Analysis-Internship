@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c48ae46f4f855eeda71dd4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c49d9e6f4f855eeda73afd?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
