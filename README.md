@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69c4723bd5a1016e98dbad5e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Mar 25 |
+| **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c4657833eecf310794b5ba?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Mar 25 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c4634533eecf310794af16?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall 2026 Intern Data Science](https://jobright.ai/jobs/info/69c458e6d5a1016e98db89ed?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 25 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Data & AI, Cybersecurity, and Compliance Intern](https://jobright.ai/jobs/info/69c45407d5a1016e98db7734?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 25 |
+| **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c47612d5a1016e98dbb044?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Mar 25 |
+| **[First American](http://www.firstam.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69c476cd6f4f855eeda7035c?utm_campaign=1066&utm_source=git)** | USA, California, Santa Ana | On Site | Mar 25 |
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Post Doctoral Research Associates](https://jobright.ai/jobs/info/69c44e0a6f4f855eeda6c0c4?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Application Portfolio Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c446e433eecf310794777d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Mar 25 |
 | ↳ | **[IT Performance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c446b96f4f855eeda6b1ea?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026](https://jobright.ai/jobs/info/69c30b8494007a2195df2f7f?utm_campaign=1066&utm_source=git)** | Philadelphia, NY | On Site | Mar 24 |
 | **[FUJIFILM Cellular Dynamics, Inc](https://www.fujifilmcdi.com)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c3271994007a2195df6e8a?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
 | ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161c6?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
-| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b09753c101b2156c93c?utm_campaign=1066&utm_source=git)** | Irvine, CA, US | On Site | Mar 24 |
-| ↳ | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161bf?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Technology Enablement & Data Analytics](https://jobright.ai/jobs/info/69c3081394007a2195df236e?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
-| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c3032a753c101b2156748a?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Mar 24 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69c2fee094007a2195df1db2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c2fe7dec22f8310ab10668?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/69c2fb83ec22f8310ab1036f?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Mar 24 |
+| **[FUJIFILM America](http://www.fujifilmusa.com/index.html)** | **[R&D Scientist Intern- Data Science (Bioinformatics)](https://jobright.ai/jobs/info/69c32b9dec22f8310ab161bf?utm_campaign=1066&utm_source=git)** | US-CA-Irvine | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
