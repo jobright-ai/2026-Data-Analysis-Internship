@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c59f2f1818a24cd84b8c9c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science Intern (OPI)](https://jobright.ai/jobs/info/69c5940daa9a29199e807708?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | **[Cleveland Range](http://www.clevelandrange.com)** | **[Data & BI Intern](https://jobright.ai/jobs/info/69c58f98e565c26a70012229?utm_campaign=1066&utm_source=git)** | Mississauga, ON, CA | On Site | Mar 26 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Customer Data Analyst Intern](https://jobright.ai/jobs/info/69c58f8daa9a29199e807286?utm_campaign=1066&utm_source=git)** | Oakland, NJ | On Site | Mar 26 |
 | **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/69c58f88aa3c2c1995e01697?utm_campaign=1066&utm_source=git)** | Ames, Iowa, United States | Hybrid | Mar 26 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
 | **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/69c57db9aa9a29199e8059d3?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c49d9e6f4f855eeda73afd?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42fad33eecf310794572f?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Mar 25 |
 | **[GTI Energy](https://www.gti.energy/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/698c2cdce4f6572f0e444933?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 25 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Data Scientist](https://jobright.ai/jobs/info/69a88d4079f3f4037f4266b6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Salesforce Data Operations Intern](https://jobright.ai/jobs/info/69c41952d5a1016e98db264b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
