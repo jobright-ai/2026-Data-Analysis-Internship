@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Scientist Intern - Falls Church VA - R10226645](https://jobright.ai/jobs/info/69c4ed3333eecf3107956c8f?utm_campaign=1066&utm_source=git)** | Falls Church, VA | On Site | Mar 26 |
+| **[Siemens Government Technologies](https://www.siemensgovt.com)** | **[Remote Data Management & Communications Intern](https://jobright.ai/jobs/info/69c4ec5d33eecf3107956a1b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Remote | Mar 26 |
 | **[Leidos](https://www.leidos.com)** | **[External Technology Analyst Intern](https://jobright.ai/jobs/info/69c4e36633eecf3107955732?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Mar 26 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c4dfc433eecf3107955261?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Mar 26 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c4dbd933eecf3107954ecf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c48ae46f4f855eeda71dd4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c49d9e6f4f855eeda73afd?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | Hybrid | Mar 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[TriMech](https://trimech.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c4743d33eecf310794c6ad?utm_campaign=1066&utm_source=git)** | Oakville, ON | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Program Data Analyst Intern](https://jobright.ai/jobs/info/69c38089753c101b21575922?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Mar 24 |
 | ↳ | **[Data Analyst Intern - Cyber Security](https://jobright.ai/jobs/info/69c3807094007a2195e009c0?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 24 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c362e8753c101b2157235e?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 24 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69c349c7753c101b2156ee15?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
-| ↳ | **[Intern - Data & Imaging](https://jobright.ai/jobs/info/69c349c7753c101b2156ee14?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
