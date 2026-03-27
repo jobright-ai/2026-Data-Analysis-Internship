@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69a8937579f3f4037f428572?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Voltus](https://www.voltus.co)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/69c579caaa3c2c1995dff558?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c57987aa9a29199e8050a2?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 26 |
-| **[Amentum](https://www.amentum.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c577b5aa3c2c1995dff3c4?utm_campaign=1066&utm_source=git)** | Hampton, VA | On Site | Mar 26 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a9727df6c22f2e368655bf?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Data & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69c576dd1818a24cd84b5909?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c57556aa9a29199e804e3f?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Mar 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69c53d7c83ea553769fc78f8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c53d5aaa9a29199e802198?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
