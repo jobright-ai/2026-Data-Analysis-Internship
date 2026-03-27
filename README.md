@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c6d0e51818a24cd84c8b9c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
-| **[MSX International](http://www.msxi.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c6ccf81b5ad028873871e2?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
+| **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c6e357e565c26a7002391b?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Intelligence Business Analyst](https://jobright.ai/jobs/info/69c6d33ae565c26a70022fbe?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Mar 27 |
+| **[MSX International](http://www.msxi.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c6d30de565c26a70022fab?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
+| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/69c6ccf81b5ad028873871e2?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca0b1818a24cd84c893a?utm_campaign=1066&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca02e565c26a70022c3b?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9f01b5ad0288738708c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12270?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 | **[Intel](http://www.intel.com)** | **[Data Science and Analytics Undergraduate Intern](https://jobright.ai/jobs/info/69c6c95d1818a24cd84c868d?utm_campaign=1066&utm_source=git)** | US, Oregon, Hillsboro | On Site | Mar 27 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Associate II: Epidemiology](https://jobright.ai/jobs/info/69c6e0b783ea553769fde45a?utm_campaign=1066&utm_source=git)** | Augusta, ME | Hybrid | Mar 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[EMS Research Intern](https://jobright.ai/jobs/info/69c6bd24b773006330b72815?utm_campaign=1066&utm_source=git)** | Remote in Eagan, MN | Remote | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69c53d7c83ea553769fc78f8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c53d5aaa9a29199e802198?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 26 |
-| **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/69b7911c06c1ba00c5494bb4?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Mar 26 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
