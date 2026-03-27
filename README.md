@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/69c5e76c1b5ad0288737a9f3?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Mar 26 |
+| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5e0bee565c26a7001630d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[The GORSE Academies Trust](https://www.tgat.org.uk/)** | **[BUSINESS INTELLIGENCE DEVELOPER](https://jobright.ai/jobs/info/69c5da111818a24cd84bbdea?utm_campaign=1066&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Mar 26 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5d89c1b5ad0288737a4ce?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Mar 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Data Analyst Internship](https://jobright.ai/jobs/info/69c5d5ae83ea553769fd06d4?utm_campaign=1066&utm_source=git)** | Bellevue, Washington | On Site | Mar 26 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c53d5aaa9a29199e802198?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 26 |
-| **[City of Durham](https://www.durhamnc.gov)** | **[Data Lead](https://jobright.ai/jobs/info/69c537ab1818a24cd84b2a2d?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 26 |
 | **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/69b7911c06c1ba00c5494bb4?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Mar 26 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Analyst Intern/Co-op (Summer 2026) Preferred Candidate](https://jobright.ai/jobs/info/69c5315b1b5ad028873709b0?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VML HEALTH](http://vml.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c4634533eecf310794af16?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 25 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c48c2833eecf310794e501?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Mar 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall 2026 Intern Data Science](https://jobright.ai/jobs/info/69c458e6d5a1016e98db89ed?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 25 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Data & AI, Cybersecurity, and Compliance Intern](https://jobright.ai/jobs/info/69c45407d5a1016e98db7734?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
