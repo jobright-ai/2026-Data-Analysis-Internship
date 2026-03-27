@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c5c29faa9a29199e809c3e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 26 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5c294aa9a29199e809c33?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
+| **[Skeo Solutions](https://www.skeo.com/)** | **[Intern - GIS](https://jobright.ai/jobs/info/69c5c2221818a24cd84ba5de?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5bf2caa3c2c1995e03d8f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5bf1ee565c26a70014809?utm_campaign=1066&utm_source=git)** | Michigan, United States | Remote | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026  - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5ba7e1b5ad028873788a8?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Ceres Farmland Data Intern – Summer 2026](https://jobright.ai/jobs/info/69c44543d5a1016e98db5ee8?utm_campaign=1066&utm_source=git)** | South Bend, IN | On Site | Mar 25 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Bioinformatics Scientist (Postdoc)](https://jobright.ai/jobs/info/69c443bb33eecf31079472c7?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 25 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/69c44124d5a1016e98db5bb4?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 25 |
-| ↳ | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/69c440f133eecf31079470d7?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 25 |
-| **[Jacobs](http://www.jacobs.com)** | **[Application Portfolio Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c43e7833eecf3107946e5d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
-| ↳ | **[IT Performance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c43e6533eecf3107946dd7?utm_campaign=1066&utm_source=git)** | Tampa, FL | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
