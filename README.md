@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5bf2caa3c2c1995e03d8f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5bf1ee565c26a70014809?utm_campaign=1066&utm_source=git)** | Michigan, United States | Remote | Mar 26 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026  - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5ba7e1b5ad028873788a8?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 26 |
+| ↳ | **[Fall Intern 2026  - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5ba75aa9a29199e809760?utm_campaign=1066&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 26 |
+| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Customer Data Analyst Intern](https://jobright.ai/jobs/info/69c5b48483ea553769fce75f?utm_campaign=1066&utm_source=git)** | Oakland, NJ | On Site | Mar 26 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5aa9883ea553769fce2b5?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Mar 26 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5a9df1b5ad02887377982?utm_campaign=1066&utm_source=git)** | Hybrid - MI | Hybrid | Mar 26 |
 | ↳ | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c59f2f1818a24cd84b8c9c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
+| **[Durham Community Health Centre](https://www.careachc.ca)** | **[Data Analyst - EPESI (Enterprise Performance Evaluation & Strategic Initiative)](https://jobright.ai/jobs/info/69c5b19faa9a29199e808da5?utm_campaign=1066&utm_source=git)** | Pickering, ON | On Site | Mar 26 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science Intern (OPI)](https://jobright.ai/jobs/info/69c5940daa9a29199e807708?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | **[Cleveland Range](http://www.clevelandrange.com)** | **[Data & BI Intern](https://jobright.ai/jobs/info/69c58f98e565c26a70012229?utm_campaign=1066&utm_source=git)** | Mississauga, ON, CA | On Site | Mar 26 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Customer Data Analyst Intern](https://jobright.ai/jobs/info/69c58f8daa9a29199e807286?utm_campaign=1066&utm_source=git)** | Oakland, NJ | On Site | Mar 26 |
@@ -87,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c570bc1818a24cd84b5332?utm_campaign=1066&utm_source=git)** | US-VA-Hampton | On Site | Mar 26 |
 | **[Lightera](http://www.lightera.com)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69b675283b74eb1e2c844ad9?utm_campaign=1066&utm_source=git)** | Avon, CT | On Site | Mar 26 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c56938aa9a29199e80435f?utm_campaign=1066&utm_source=git)** | Macon, GA | On Site | Mar 26 |
-| **[North Easton Savings Bank](https://www.northeastonsavingsbank.com/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69a675442c0d8b0f5cd093d7?utm_campaign=1066&utm_source=git)** | Easton Center, MA | On Site | Mar 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69c5616d1b5ad02887372da0?utm_campaign=1066&utm_source=git)** | United States-Nebraska-Omaha | On Site | Mar 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c56106aa9a29199e803c04?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 26 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d87aabec14a727d5724?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/69c440f133eecf31079470d7?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Application Portfolio Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c43e7833eecf3107946e5d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | ↳ | **[IT Performance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c43e6533eecf3107946dd7?utm_campaign=1066&utm_source=git)** | Tampa, FL | Hybrid | Mar 25 |
-| **[Purdue Research Foundation](http://prf.org)** | **[OTC InnovAItion Insights Intern](https://jobright.ai/jobs/info/69c439386f4f855eeda6a1d8?utm_campaign=1066&utm_source=git)** | West Lafayette, IN | On Site | Mar 25 |
-| **[Summit Therapeutics, Inc.](https://www.smmttx.com/)** | **[Biostatistics Internship](https://jobright.ai/jobs/info/69c437ccd5a1016e98db4dc7?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 25 |
-| **[The Health Management Academy](http://www.hmacademy.com/)** | **[Summer Internship - AI & Data Analytics](https://jobright.ai/jobs/info/69c435d2d5a1016e98db4aed?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Mar 25 |
-| **[Summit Therapeutics, Inc.](https://www.smmttx.com/)** | **[Biostatistics Internship](https://jobright.ai/jobs/info/69c42fed33eecf3107945785?utm_campaign=1066&utm_source=git)** | Palo Alto, CA (US) | On Site | Mar 25 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c42fec33eecf310794577b?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
