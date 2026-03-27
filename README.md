@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The GORSE Academies Trust](https://www.tgat.org.uk/)** | **[BUSINESS INTELLIGENCE DEVELOPER](https://jobright.ai/jobs/info/69c5da111818a24cd84bbdea?utm_campaign=1066&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Mar 26 |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5d89c1b5ad0288737a4ce?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Mar 26 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Data Analyst Internship](https://jobright.ai/jobs/info/69c5d5ae83ea553769fd06d4?utm_campaign=1066&utm_source=git)** | Bellevue, Washington | On Site | Mar 26 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
+| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Mar 26 |
 | **[Credit One Bank](http://creditonebank.com)** | **[CX Analyst Intern](https://jobright.ai/jobs/info/69c5cf38e565c26a70015894?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 26 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c5c29faa9a29199e809c3e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 26 |
@@ -81,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69c58b15aa9a29199e807113?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Data Science Intern 2026](https://jobright.ai/jobs/info/69c58a9eaa9a29199e807095?utm_campaign=1066&utm_source=git)** | Richfield, OH | On Site | Mar 26 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698ce5e10f6f7e7a2ce8973b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
-| **[City of Corvallis](https://www.corvallisoregon.gov)** | **[Public Works GIS Data Steward Analyst](https://jobright.ai/jobs/info/69c58915e565c26a70011ed2?utm_campaign=1066&utm_source=git)** | Corvallis, OR | On Site | Mar 26 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Research)](https://jobright.ai/jobs/info/69bdd7ed482822729300799a?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 26 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Validation Analyst](https://jobright.ai/jobs/info/698c61a80f6f7e7a2ce81d20?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 26 |
 | **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[IVRS DATA LIAISON (METHODS AND PROCEDURES ADVISOR II)](https://jobright.ai/jobs/info/69c58528e565c26a70011c8e?utm_campaign=1066&utm_source=git)** | Springfield, IL | On Site | Mar 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c48c2833eecf310794e501?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Mar 25 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall 2026 Intern Data Science](https://jobright.ai/jobs/info/69c458e6d5a1016e98db89ed?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 25 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Data & AI, Cybersecurity, and Compliance Intern](https://jobright.ai/jobs/info/69c45407d5a1016e98db7734?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Mar 25 |
-| **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c47612d5a1016e98dbb044?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Mar 25 |
-| **[First American](http://www.firstam.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69c476cd6f4f855eeda7035c?utm_campaign=1066&utm_source=git)** | USA, California, Santa Ana | On Site | Mar 25 |
-| **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Post Doctoral Research Associates](https://jobright.ai/jobs/info/69c44e0a6f4f855eeda6c0c4?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Mar 25 |
-| **[Jacobs](http://www.jacobs.com)** | **[Application Portfolio Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c446e433eecf310794777d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
