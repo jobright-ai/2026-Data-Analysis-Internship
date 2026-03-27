@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[EMS Research Intern](https://jobright.ai/jobs/info/69c6bd24b773006330b72815?utm_campaign=1066&utm_source=git)** | Remote in Eagan, MN | Remote | Mar 27 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[ERDC-CHL: Business Intelligence/Data Analysis- Undergraduate Internship](https://jobright.ai/jobs/info/69c6aaa11b5ad02887385f39?utm_campaign=1066&utm_source=git)** | Vicksburg, MS | On Site | Mar 27 |
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c6a940aa3c2c1995e111ea?utm_campaign=1066&utm_source=git)** | Holmdel, NJ | Hybrid | Mar 27 |
@@ -130,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c57556aa9a29199e804e3f?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Mar 26 |
 | **[CellCarta](https://cellcarta.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/69c572caaa3c2c1995dff17b?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Data & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69c57120e565c26a7000faa6?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Mar 26 |
-| **[Amentum](https://www.amentum.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c570bc1818a24cd84b5332?utm_campaign=1066&utm_source=git)** | US-VA-Hampton | On Site | Mar 26 |
 | **[RTW Institute](https://www.rtwinstitute.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c67cbeb773006330b70b03?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c56938aa9a29199e80435f?utm_campaign=1066&utm_source=git)** | Macon, GA | On Site | Mar 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69c5616d1b5ad02887372da0?utm_campaign=1066&utm_source=git)** | United States-Nebraska-Omaha | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Mar 26 |
 | **[Accuray](http://www.accuray.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a88bec2580d3183f0090be?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Mar 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 26 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
