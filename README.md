@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Mar 27 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4f3f556973837413a0476?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 27 |
+| **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c6512e1818a24cd84c4e85?utm_campaign=1066&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
+| **[Hudson Rouge](http://www.hudsonrouge.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c3f607d5a1016e98db0100?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 27 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 27 |
 | **[First American](http://www.firstam.com)** | **[Data Scientist Intern - REMOTE](https://jobright.ai/jobs/info/69aa76222ebd316bece2315e?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
 | **[Pacvue](https://www.pacvue.com/)** | **[AI Analytics (Business Intelligence) Summer Intern](https://jobright.ai/jobs/info/69bdbf12393a1008f7434333?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c52cdbc63a883d55f23d01?utm_campaign=1066&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Mar 26 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Risk](https://jobright.ai/jobs/info/69a9d01d9ca4e908ec64fc68?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Mar 26 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Data Lead](https://jobright.ai/jobs/info/69c62ae01818a24cd84c0a4c?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Mar 26 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Data Analyst Intern/Co-op (Summer 2026) Preferred Candidate](https://jobright.ai/jobs/info/69c641361b5ad0288738086a?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Ceres Farmland Data Intern – Summer 2026](https://jobright.ai/jobs/info/69c521d9751fba7b5d6396fe?utm_campaign=1066&utm_source=git)** | South Bend, IN | On Site | Mar 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c51cff27cb657f0760c137?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c48ae46f4f855eeda71dd4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[Bell Techlogix India](www.belltechlogix.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c48a8133eecf310794e36e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69c4883e33eecf310794e1b4?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 25 |
-| **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/69c57db9aa9a29199e8059d3?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Mar 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c49e4bd5a1016e98dbed5c?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 25 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c4a09b6f4f855eeda741ae?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
