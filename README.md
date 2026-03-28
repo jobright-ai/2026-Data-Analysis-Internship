@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c843fe83ea553769fe91d1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Assistant Researcher](https://jobright.ai/jobs/info/698ff53f0f6f7e7a2cec3ab1?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Mar 28 |
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698ecc6f78b4502f12a5a530?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 28 |
@@ -80,12 +81,12 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
-| ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7417b83ea553769fe1e0e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69c72d241b5ad0288738ae80?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 27 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c72d10e565c26a70026ce5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7271a83ea553769fe1005?utm_campaign=1066&utm_source=git)** | San Diego, California | On Site | Mar 27 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7276e1818a24cd84cbfaa?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7271a83ea553769fe1005?utm_campaign=1066&utm_source=git)** | San Diego, California | On Site | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Postbaccalaureate Fellow in Economics: Gender, Labor, and Development Economics](https://jobright.ai/jobs/info/69c7deceb773006330b7cab1?utm_campaign=1066&utm_source=git)** | Hanover, NH | On Site | Mar 27 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/69c71c791b5ad0288738a4ea?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Mar 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Intern Data Analyst](https://jobright.ai/jobs/info/69c814d51818a24cd84d3390?utm_campaign=1066&utm_source=git)** | Lexington, Massachusetts, 02173 | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Rancho Cucamonga](https://www.cityofrc.us/)** | **[Intern - Utilities Analytics and Engineering](https://jobright.ai/jobs/info/69c727b5aa3c2c1995e15d28?utm_campaign=1066&utm_source=git)** | New Port Richey, FL | On Site | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Mar 26 |
-| **[Credit One Bank](http://creditonebank.com)** | **[CX Analyst Intern](https://jobright.ai/jobs/info/69c5cf38e565c26a70015894?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
