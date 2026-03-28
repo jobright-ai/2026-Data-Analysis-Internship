@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7417b83ea553769fe1e0e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
+| **[Pasco Police Department](https://www.pasco-wa.gov/163/Police-Department?msclkid=2369a396b68911ec8273de4b1cd0ac8f)** | **[Intern - Utilities Analytics and Engineering](https://jobright.ai/jobs/info/69c735c4b773006330b77024?utm_campaign=1066&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 27 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69c72d241b5ad0288738ae80?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 27 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c72d10e565c26a70026ce5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7276e1818a24cd84cbfaa?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7271a83ea553769fe1005?utm_campaign=1066&utm_source=git)** | San Diego, California | On Site | Mar 27 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7271a83ea553769fe1005?utm_campaign=1066&utm_source=git)** | San Diego, California | On Site | Mar 27 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/69c71c791b5ad0288738a4ea?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Mar 27 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Associate in Digital Infrastructures](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7e?utm_campaign=1066&utm_source=git)** | Bristol, CT | On Site | Mar 27 |
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69c58b15aa9a29199e807113?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Data Science Intern 2026](https://jobright.ai/jobs/info/69c58a9eaa9a29199e807095?utm_campaign=1066&utm_source=git)** | Richfield, OH | On Site | Mar 26 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698ce5e10f6f7e7a2ce8973b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
-| **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[Summer Intern (Undergraduate or Graduate, Public Health, Health Services Research)](https://jobright.ai/jobs/info/69bdd7ed482822729300799a?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 26 |
-| **[Illinois Department of Public Health (IDPH)](http://www.dph.illinois.gov/)** | **[IVRS DATA LIAISON (METHODS AND PROCEDURES ADVISOR II)](https://jobright.ai/jobs/info/69c58528e565c26a70011c8e?utm_campaign=1066&utm_source=git)** | Springfield, IL | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
