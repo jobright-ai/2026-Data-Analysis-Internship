@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NetApp](http://netapp.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c7f92aaa3c2c1995e1c84f?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c7fcede565c26a7002d1e3?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c7f92aaa3c2c1995e1c84f?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Computational Biology Intern - Summer 2026](https://jobright.ai/jobs/info/69c7f335b773006330b7d20b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
-| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c7f319aa3c2c1995e1c611?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Learning & Development Data Analytics Intern](https://jobright.ai/jobs/info/69c55bb8e565c26a7000ea28?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Mar 28 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
