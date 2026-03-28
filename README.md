@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Pacvue](https://www.pacvue.com/)** | **[AI Analytics (Business Intelligence) Summer Intern](https://jobright.ai/jobs/info/69bdbf12393a1008f7434333?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c614dfe565c26a700188bc?utm_campaign=1066&utm_source=git)** | Brookfield, CT, US | On Site | Mar 26 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 26 |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 26 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/69c5e76c1b5ad0288737a9f3?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Mar 26 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5e0bee565c26a7001630d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[The GORSE Academies Trust](https://www.tgat.org.uk/)** | **[BUSINESS INTELLIGENCE DEVELOPER](https://jobright.ai/jobs/info/69c5da111818a24cd84bbdea?utm_campaign=1066&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Mar 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c58f7983ea553769fcca76?utm_campaign=1066&utm_source=git)** | Boston | On Site | Mar 26 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc596c45e08b3dc1f8e4c2?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Mar 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69c58b15aa9a29199e807113?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
-| **[National Interstate Insurance Company](https://natl.com)** | **[Data Science Intern 2026](https://jobright.ai/jobs/info/69c58a9eaa9a29199e807095?utm_campaign=1066&utm_source=git)** | Richfield, OH | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
