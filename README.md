@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medidata Solutions](https://www.medidata.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c7adef1b5ad0288738f110?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 28 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c7a577e565c26a7002ab8e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
@@ -114,9 +118,7 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Supply Chain Data Scientist Intern](https://jobright.ai/jobs/info/69aa535d9ca4e908ec65a962?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 27 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Process Automation Intern](https://jobright.ai/jobs/info/698d28be0f6f7e7a2ce8ee4b?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[Analytics Intern - Supply Chain](https://jobright.ai/jobs/info/69c6ab1b83ea553769fdc7f6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Site Selection Analyst](https://jobright.ai/jobs/info/698e2ecd78b4502f12a4f9dc?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 27 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698ed86ff64d441a16512d43?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Mar 27 |
 | **[System1](https://system1group.com/)** | **[Research Associate Intern](https://jobright.ai/jobs/info/69c692b283ea553769fdbcdd?utm_campaign=1066&utm_source=git)** | LA Metro Area | Hybrid | Mar 27 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e8?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science Intern (OPI)](https://jobright.ai/jobs/info/69c5940daa9a29199e807708?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | **[Cleveland Range](http://www.clevelandrange.com)** | **[Data & BI Intern](https://jobright.ai/jobs/info/69c58f98e565c26a70012229?utm_campaign=1066&utm_source=git)** | Mississauga, ON, CA | On Site | Mar 26 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Customer Data Analyst Intern](https://jobright.ai/jobs/info/69c58f8daa9a29199e807286?utm_campaign=1066&utm_source=git)** | Oakland, NJ | On Site | Mar 26 |
-| **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/69c58f88aa3c2c1995e01697?utm_campaign=1066&utm_source=git)** | Ames, Iowa, United States | Hybrid | Mar 26 |
-| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c58f7983ea553769fcca76?utm_campaign=1066&utm_source=git)** | Boston | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
