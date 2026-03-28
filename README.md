@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern - Analytics & Reporting Department (2026)](https://jobright.ai/jobs/info/69c6f71ee565c26a700248ec?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 27 |
+| **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c6f687b773006330b749cd?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
+| **[ConstructConnect](https://ref.constructconnect.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6f3d61818a24cd84ca3b5?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 27 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c6f3ac83ea553769fdf33c?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | Hybrid | Mar 27 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c6e357e565c26a7002391b?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Intelligence Business Analyst](https://jobright.ai/jobs/info/69c6d33ae565c26a70022fbe?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Mar 27 |
 | **[MSX International](http://www.msxi.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c6d30de565c26a70022fab?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bdfab06d9b0622496099f?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Mar 26 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 26 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Engineering Intelligence Intern](https://jobright.ai/jobs/info/69c56c8a1818a24cd84b50e4?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Mar 26 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/69c53d7c83ea553769fc78f8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 26 |
-| **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69c53d5aaa9a29199e802198?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69c53a3783ea553769fc77df?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Mar 26 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
