@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7417b83ea553769fe1e0e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
+| ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7417b83ea553769fe1e0e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[Pasco Police Department](https://www.pasco-wa.gov/163/Police-Department?msclkid=2369a396b68911ec8273de4b1cd0ac8f)** | **[Intern - Utilities Analytics and Engineering](https://jobright.ai/jobs/info/69c735c4b773006330b77024?utm_campaign=1066&utm_source=git)** | Land O' Lakes, FL | On Site | Mar 27 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69c72d241b5ad0288738ae80?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc596c45e08b3dc1f8e4c2?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Mar 26 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69c58b15aa9a29199e807113?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 | **[National Interstate Insurance Company](https://natl.com)** | **[Data Science Intern 2026](https://jobright.ai/jobs/info/69c58a9eaa9a29199e807095?utm_campaign=1066&utm_source=git)** | Richfield, OH | On Site | Mar 26 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698ce5e10f6f7e7a2ce8973b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
