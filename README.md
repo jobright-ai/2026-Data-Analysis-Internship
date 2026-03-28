@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
 | ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c7417b83ea553769fe1e0e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/69c58f88aa3c2c1995e01697?utm_campaign=1066&utm_source=git)** | Ames, Iowa, United States | Hybrid | Mar 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c58f7983ea553769fcca76?utm_campaign=1066&utm_source=git)** | Boston | On Site | Mar 26 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Business Data Analytics - Customer Experience & Service Offerings](https://jobright.ai/jobs/info/69bc596c45e08b3dc1f8e4c2?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Mar 26 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69c58b15aa9a29199e807113?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
