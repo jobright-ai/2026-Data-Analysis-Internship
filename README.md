@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca02e565c26a70022c3b?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9f01b5ad0288738708c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12270?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
-| **[Intel](http://www.intel.com)** | **[Data Science and Analytics Undergraduate Intern](https://jobright.ai/jobs/info/69c6c95d1818a24cd84c868d?utm_campaign=1066&utm_source=git)** | US, Oregon, Hillsboro | On Site | Mar 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Associate II: Epidemiology](https://jobright.ai/jobs/info/69c6e0b783ea553769fde45a?utm_campaign=1066&utm_source=git)** | Augusta, ME | Hybrid | Mar 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
