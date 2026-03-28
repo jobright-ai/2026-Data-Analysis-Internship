@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c7f92aaa3c2c1995e1c84f?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
+| **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
+| **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Computational Biology Intern - Summer 2026](https://jobright.ai/jobs/info/69c7f335b773006330b7d20b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c7f319aa3c2c1995e1c611?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
 | **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Learning & Development Data Analytics Intern](https://jobright.ai/jobs/info/69c55bb8e565c26a7000ea28?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Mar 28 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c7adef1b5ad0288738f110?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 28 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c7a577e565c26a7002ab8e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5c294aa9a29199e809c33?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
 | **[Skeo Solutions](https://www.skeo.com/)** | **[Intern - GIS](https://jobright.ai/jobs/info/69c5c2221818a24cd84ba5de?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5bf2caa3c2c1995e03d8f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5bf1ee565c26a70014809?utm_campaign=1066&utm_source=git)** | Michigan, United States | Remote | Mar 26 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026  - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5ba7e1b5ad028873788a8?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Mar 26 |
-| ↳ | **[Fall Intern 2026  - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5ba75aa9a29199e809760?utm_campaign=1066&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
