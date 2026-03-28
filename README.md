@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Learning & Development Data Analytics Intern](https://jobright.ai/jobs/info/69c55bb8e565c26a7000ea28?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Mar 28 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Business Intelligence, Info Management & Digital Engagement](https://jobright.ai/jobs/info/69ab4043142d5b4265fc89c2?utm_campaign=1066&utm_source=git)** | Melville, NY | Hybrid | Mar 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5aa9883ea553769fce2b5?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Mar 26 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5a9df1b5ad02887377982?utm_campaign=1066&utm_source=git)** | Hybrid - MI | Hybrid | Mar 26 |
 | ↳ | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c59f2f1818a24cd84b8c9c?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Durham Community Health Centre](https://www.careachc.ca)** | **[Data Analyst - EPESI (Enterprise Performance Evaluation & Strategic Initiative)](https://jobright.ai/jobs/info/69c5b19faa9a29199e808da5?utm_campaign=1066&utm_source=git)** | Pickering, ON | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
