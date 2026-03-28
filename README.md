@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Immersion](http://immersioninc.com)** | **[ANALYST (Intern)](https://jobright.ai/jobs/info/69c716ae1818a24cd84cb719?utm_campaign=1066&utm_source=git)** | Annapolis, MD | On Site | Mar 27 |
+| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69c711ac83ea553769fe0532?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 27 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Data Strategy Unit (AI Initiatives) Assistantship, Office of Research, Innovation & Economic Develop](https://jobright.ai/jobs/info/69c70ff2aa3c2c1995e14f2d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[Heart of Ohio Family Health](https://www.heartofohiofamilyhealth.org)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c70eb71818a24cd84cb35a?utm_campaign=1066&utm_source=git)** | Capital Park               - Columbus, OH 43224 | On Site | Mar 27 |
 | **[EverBank](https://www.everbank.com/)** | **[2026 Summer Intern - Data & Analytics](https://jobright.ai/jobs/info/69c7066e1818a24cd84cad43?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Mar 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69c702cc1818a24cd84ca8f3?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Mar 27 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Mar 26 |
 | **[Credit One Bank](http://creditonebank.com)** | **[CX Analyst Intern](https://jobright.ai/jobs/info/69c5cf38e565c26a70015894?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Mar 26 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 26 |
+| **[State of Wisconsin](http://www.wisconsin.gov/)** | **[Geographic Information System (GIS) Specialist Internship](https://jobright.ai/jobs/info/69c70f64e565c26a70025972?utm_campaign=1066&utm_source=git)** | Rhinelander, WI | Hybrid | Mar 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5c294aa9a29199e809c33?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
 | **[Skeo Solutions](https://www.skeo.com/)** | **[Intern - GIS](https://jobright.ai/jobs/info/69c5c2221818a24cd84ba5de?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Mar 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Data Science Intern, Hematology/Oncology Research](https://jobright.ai/jobs/info/69c5bf2caa3c2c1995e03d8f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a9727df6c22f2e368655bf?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 26 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Data & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69c576dd1818a24cd84b5909?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c57556aa9a29199e804e3f?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Mar 26 |
-| **[CellCarta](https://cellcarta.com/)** | **[ESG Intern](https://jobright.ai/jobs/info/69c572caaa3c2c1995dff17b?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Mar 26 |
-| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Data & Monitoring Dashboard Intern](https://jobright.ai/jobs/info/69c57120e565c26a7000faa6?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Mar 26 |
-| **[RTW Institute](https://www.rtwinstitute.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c67cbeb773006330b70b03?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69c56938aa9a29199e80435f?utm_campaign=1066&utm_source=git)** | Macon, GA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
