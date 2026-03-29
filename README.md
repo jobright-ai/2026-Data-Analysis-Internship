@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 28 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[IT Analyst I (Onsite)](https://jobright.ai/jobs/info/69c85691aa3c2c1995e1e36b?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c843fe83ea553769fe91d1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5d89c1b5ad0288737a4ce?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Mar 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Data Analyst Internship](https://jobright.ai/jobs/info/69c5d5ae83ea553769fd06d4?utm_campaign=1066&utm_source=git)** | Bellevue, Washington | On Site | Mar 26 |
 | **[City of Rancho Cucamonga](https://www.cityofrc.us/)** | **[Intern - Utilities Analytics and Engineering](https://jobright.ai/jobs/info/69c727b5aa3c2c1995e15d28?utm_campaign=1066&utm_source=git)** | New Port Richey, FL | On Site | Mar 26 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
-| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
