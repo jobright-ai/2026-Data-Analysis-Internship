@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8b4c3aa3c2c1995e200dc?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 28 |
+| ↳ | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8b4c21818a24cd84d663c?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 28 |
+| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69a025d20836fe79d860ee03?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 28 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 28 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[IT Analyst I (Onsite)](https://jobright.ai/jobs/info/69c85691aa3c2c1995e1e36b?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 26 |
 | **[University of Maryland, Baltimore (UMB)](http://www.mprc.umaryland.edu)** | **[Unit Specific Position: Data Analytics Analyst](https://jobright.ai/jobs/info/69c8a0c7e565c26a700303ab?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 26 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/69c5e76c1b5ad0288737a9f3?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Mar 26 |
-| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5e0bee565c26a7001630d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
-| **[The GORSE Academies Trust](https://www.tgat.org.uk/)** | **[BUSINESS INTELLIGENCE DEVELOPER](https://jobright.ai/jobs/info/69c5da111818a24cd84bbdea?utm_campaign=1066&utm_source=git)** | Jersey City, New Jersey, United States | On Site | Mar 26 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Data Analyst (Operational Excellence)](https://jobright.ai/jobs/info/69c5d89c1b5ad0288737a4ce?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
