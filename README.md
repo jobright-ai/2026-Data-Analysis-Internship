@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c985f783ea553769ff04d4?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Geospatial Analytics Intern](https://jobright.ai/jobs/info/69bc443d4828227293fddff6?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 29 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4f3f556973837413a0476?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 27 |
 | **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c6512e1818a24cd84c4e85?utm_campaign=1066&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
 | **[Hudson Rouge](http://www.hudsonrouge.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c3f607d5a1016e98db0100?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 27 |
-| **[First American](http://www.firstam.com)** | **[Data Scientist Intern - REMOTE](https://jobright.ai/jobs/info/69aa76222ebd316bece2315e?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
