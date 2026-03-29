@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c69482e565c26a7002127f?utm_campaign=1066&utm_source=git)** | Holmdel, New Jersey, United States | Hybrid | Mar 27 |
 | **[Healogix](https://www.healogix.com)** | **[Behavioral Science Intern](https://jobright.ai/jobs/info/69af10ec7495006450937f9d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
-| **[University of Maryland, Baltimore (UMB)](http://www.mprc.umaryland.edu)** | **[Unit Specific Position: Data Analytics Analyst](https://jobright.ai/jobs/info/69c7eab1e565c26a7002c8e1?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Mar 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Supply Chain Data Scientist Intern](https://jobright.ai/jobs/info/69aa535d9ca4e908ec65a962?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 27 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Process Automation Intern](https://jobright.ai/jobs/info/698d28be0f6f7e7a2ce8ee4b?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[Analytics Intern - Supply Chain](https://jobright.ai/jobs/info/69c6ab1b83ea553769fdc7f6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Data Analyst Internship](https://jobright.ai/jobs/info/69c5d5ae83ea553769fd06d4?utm_campaign=1066&utm_source=git)** | Bellevue, Washington | On Site | Mar 26 |
 | **[City of Rancho Cucamonga](https://www.cityofrc.us/)** | **[Intern - Utilities Analytics and Engineering](https://jobright.ai/jobs/info/69c727b5aa3c2c1995e15d28?utm_campaign=1066&utm_source=git)** | New Port Richey, FL | On Site | Mar 26 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science Department (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Mar 26 |
+| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
