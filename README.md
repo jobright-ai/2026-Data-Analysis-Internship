@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69c90b4f1b5ad02887397c93?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c8e2a4aa3c2c1995e21888?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8cc5bb773006330b81526?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | Hybrid | Mar 28 |
 | ↳ | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8b4c3aa3c2c1995e200dc?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 28 |
@@ -65,9 +66,8 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | Hybrid | Mar 28 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[IT Analyst I (Onsite)](https://jobright.ai/jobs/info/69c85691aa3c2c1995e1e36b?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Mar 28 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c843fe83ea553769fe91d1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
-| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Assistant Researcher](https://jobright.ai/jobs/info/698ff53f0f6f7e7a2cec3ab1?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Mar 28 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Assistant Researcher](https://jobright.ai/jobs/info/698ff53f0f6f7e7a2cec3ab1?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Mar 28 |
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698ecc6f78b4502f12a5a530?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 28 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c7fcede565c26a7002d1e3?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c7f92aaa3c2c1995e1c84f?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
