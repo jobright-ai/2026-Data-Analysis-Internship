@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c8e2a4aa3c2c1995e21888?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8cc5bb773006330b81526?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | Hybrid | Mar 28 |
 | ↳ | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8b4c3aa3c2c1995e200dc?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Mar 28 |
 | ↳ | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8b4c21818a24cd84d663c?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Mar 28 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c8e593b773006330b8279d?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Mar 28 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
@@ -122,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca02e565c26a70022c3b?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9f01b5ad0288738708c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12270?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Associate II: Epidemiology](https://jobright.ai/jobs/info/69c6e0b783ea553769fde45a?utm_campaign=1066&utm_source=git)** | Augusta, ME | Hybrid | Mar 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[EMS Research Intern](https://jobright.ai/jobs/info/69c6bd24b773006330b72815?utm_campaign=1066&utm_source=git)** | Remote in Eagan, MN | Remote | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Durham Community Health Centre](https://www.careachc.ca)** | **[Data Analyst - EPESI (Enterprise Performance Evaluation & Strategic Initiative)](https://jobright.ai/jobs/info/69c8c37aaa3c2c1995e2060b?utm_campaign=1066&utm_source=git)** | Oshawa, ON | On Site | Mar 26 |
 | **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c614dfe565c26a700188bc?utm_campaign=1066&utm_source=git)** | Brookfield, CT, US | On Site | Mar 26 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 26 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
