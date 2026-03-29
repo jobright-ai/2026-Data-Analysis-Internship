@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Mar 29 |
+| **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c936761818a24cd84da1c4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/698f78f86ea51a7610f1d103?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Mar 29 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69c90b4f1b5ad02887397c93?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c8e2a4aa3c2c1995e21888?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudson Rouge](http://www.hudsonrouge.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c3f607d5a1016e98db0100?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 27 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 27 |
 | **[First American](http://www.firstam.com)** | **[Data Scientist Intern - REMOTE](https://jobright.ai/jobs/info/69aa76222ebd316bece2315e?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
-| **[Pacvue](https://www.pacvue.com/)** | **[AI Analytics (Business Intelligence) Summer Intern](https://jobright.ai/jobs/info/69bdbf12393a1008f7434333?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
-| **[Durham Community Health Centre](https://www.careachc.ca)** | **[Data Analyst - EPESI (Enterprise Performance Evaluation & Strategic Initiative)](https://jobright.ai/jobs/info/69c8c37aaa3c2c1995e2060b?utm_campaign=1066&utm_source=git)** | Oshawa, ON | On Site | Mar 26 |
-| **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c614dfe565c26a700188bc?utm_campaign=1066&utm_source=git)** | Brookfield, CT, US | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
