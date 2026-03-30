@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 29 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69c9b15caa3c2c1995e27848?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 29 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69c99c9e83ea553769ff2a3e?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
 | **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c985f783ea553769ff04d4?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Analytics Intern - Supply Chain](https://jobright.ai/jobs/info/69c6ab1b83ea553769fdc7f6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 27 |
 | **[System1](https://system1group.com/)** | **[Research Associate Intern](https://jobright.ai/jobs/info/69c692b283ea553769fdbcdd?utm_campaign=1066&utm_source=git)** | LA Metro Area | Hybrid | Mar 27 |
-| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e8?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Mar 27 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4f3f556973837413a0476?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 27 |
