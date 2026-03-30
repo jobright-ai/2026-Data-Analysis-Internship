@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Health Institute](http://www.phi.org)** | **[Research Associate IV](https://jobright.ai/jobs/info/69caec801b5ad028873a6949?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Mar 30 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69caeaf9a8c1822476e21bd2?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Mar 30 |
+| ↳ | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69caeadcaa3c2c1995e31cbd?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Mar 30 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69caea7a466f1e133aac8a49?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Mar 30 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Data Analytics Undergraduate/Graduate Intern – Summer 2026](https://jobright.ai/jobs/info/69cae4d6a8c1822476e219ab?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Mar 30 |
+| **[CITGO](https://www.citgo.com/Home.jsp)** | **[Maintenance and Supply Chain Intern](https://jobright.ai/jobs/info/69cae4d6466f1e133aac87fe?utm_campaign=1066&utm_source=git)** | CITGO Corporate Headquarter TX | On Site | Mar 30 |
+| **[University of Pennsylvania](http://www.upenn.edu)** | **[Causal Inference Postdoctoral Researcher - Center for Causal Inference, University of Pennsylvania](https://jobright.ai/jobs/info/69c3be476f4f855eeda5de7c?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Mar 30 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/69cae0c9e565c26a70041d79?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Mar 30 |
+| **[New Jersey Resources](http://www.njresources.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69cad9281b5ad028873a59bd?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | On Site | Mar 30 |
+| **[Koddi](http://www.koddi.com)** | **[Associate Analyst Cohort](https://jobright.ai/jobs/info/69cad916aa3c2c1995e30d0e?utm_campaign=1066&utm_source=git)** | DFW Metroplex | On Site | Mar 30 |
+| **[Acosta](https://www.acosta.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cad8d9e565c26a70041567?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Mar 30 |
+| **[New Jersey Resources](http://www.njresources.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69cad6798fc6090c5d4518cf?utm_campaign=1066&utm_source=git)** | Wall, NJ | On Site | Mar 30 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Senior Epic Report Developer - Hybrid - 138812](https://jobright.ai/jobs/info/69cad48e1b5ad028873a5566?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
 | **[CommScope](http://www.commscope.com)** | **[Intern IT Data Analytics Intern](https://jobright.ai/jobs/info/69cacf3e466f1e133aac75a1?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Mar 30 |
 | **[Williams International](http://www.williams-int.com/)** | **[Intern](https://jobright.ai/jobs/info/69cace2e1b5ad028873a52aa?utm_campaign=1066&utm_source=git)** | Pontiac, MI | On Site | Mar 30 |
@@ -75,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[LeoLabs](http://www.leolabs.space)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69caa784e565c26a7003f443?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Mar 30 |
 | **[LG Electronics](http://www.lg.com)** | **[HS Planning Intern](https://jobright.ai/jobs/info/69caa7461b5ad028873a36d6?utm_campaign=1066&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 30 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69caa6e78fc6090c5d44f996?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
-| **[Sectra](http://www.sectra.com)** | **[Data Analytics & AI Intern - 8 Month Term](https://jobright.ai/jobs/info/69caa3d8466f1e133aac567e?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 30 |
 | **[TD](https://www.td.com)** | **[Data Analyst Intern/Co-op (Summer 2026) Preferred Candidate](https://jobright.ai/jobs/info/69caa3a6e565c26a7003f11e?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[CommScope](http://www.commscope.com)** | **[Intern IT Data Analytics Intern](https://jobright.ai/jobs/info/69ca945daa3c2c1995e2e0cf?utm_campaign=1066&utm_source=git)** | Claremont, North Carolina, United States | On Site | Mar 30 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ca9451aa3c2c1995e2e0c5?utm_campaign=1066&utm_source=git)** | US-AR-Little Rock | On Site | Mar 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Analyst & Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69c700ac83ea553769fdf80f?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Mar 27 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6fb851b5ad02887388f45?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern - Analytics & Reporting Department (2026)](https://jobright.ai/jobs/info/69c6f71ee565c26a700248ec?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Mar 27 |
-| **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c6f687b773006330b749cd?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
-| **[ConstructConnect](https://ref.constructconnect.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6f3d61818a24cd84ca3b5?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 27 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c6f3ac83ea553769fdf33c?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | Hybrid | Mar 27 |
-| **[Leidos](https://www.leidos.com)** | **[Process Mining Intern](https://jobright.ai/jobs/info/69c215f02c312363dcd5a3bd?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
-| **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c702151b5ad028873894aa?utm_campaign=1066&utm_source=git)** | Greenwood Village,CO,US | On Site | Mar 27 |
-| **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c6e357e565c26a7002391b?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
-| **[MSX International](http://www.msxi.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69c6d30de565c26a70022fab?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
-| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/69c6ccf81b5ad028873871e2?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Mar 27 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca0b1818a24cd84c893a?utm_campaign=1066&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Mar 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca02e565c26a70022c3b?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9f01b5ad0288738708c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
