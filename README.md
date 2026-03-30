@@ -79,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 28 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[IT Analyst I (Onsite)](https://jobright.ai/jobs/info/69c85691aa3c2c1995e1e36b?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Mar 28 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Business Planning and AI Analytics](https://jobright.ai/jobs/info/69ab6ba02747003c3d5109bd?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Mar 28 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Assistant Researcher](https://jobright.ai/jobs/info/698ff53f0f6f7e7a2cec3ab1?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Mar 28 |
+| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Assistant Researcher](https://jobright.ai/jobs/info/698ff53f0f6f7e7a2cec3ab1?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Mar 28 |
 | **[GreenLeaf, a Chefs' Warehouse company](https://greenleafsf.com )** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698ecc6f78b4502f12a5a530?utm_campaign=1066&utm_source=git)** | Brisbane, CA | On Site | Mar 28 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c7fcede565c26a7002d1e3?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69c7f92aaa3c2c1995e1c84f?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Mar 28 |
