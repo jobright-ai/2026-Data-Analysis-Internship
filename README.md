@@ -95,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Computational Biology Intern - Summer 2026](https://jobright.ai/jobs/info/69c7f335b773006330b7d20b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/69c51cff27cb657f0760c137?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Business Intelligence, Info Management & Digital Engagement](https://jobright.ai/jobs/info/69ab4043142d5b4265fc89c2?utm_campaign=1066&utm_source=git)** | Melville, NY | Hybrid | Mar 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69aa0ed32ebd316bece1cac4?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
 | ↳ | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c69482e565c26a7002127f?utm_campaign=1066&utm_source=git)** | Holmdel, New Jersey, United States | Hybrid | Mar 27 |
+| **[Healogix](https://www.healogix.com)** | **[Behavioral Science Intern](https://jobright.ai/jobs/info/69af10ec7495006450937f9d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
