@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UST](https://www.ust.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb5de565c26a70040f22?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d451410?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| ↳ | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69cabcc78fc6090c5d450aba?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Mar 30 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Intern - IT Analytics](https://jobright.ai/jobs/info/69cabaa2aa3c2c1995e2fa84?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Mar 30 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/69bbc47a569738374141cf0c?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69cab8dba8c1822476e1f891?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Associate Commercial Data Science Intern](https://jobright.ai/jobs/info/69cab8da466f1e133aac6752?utm_campaign=1066&utm_source=git)** | New York,NY,US | On Site | Mar 30 |
@@ -119,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Associate in Digital Infrastructures](https://jobright.ai/jobs/info/69ca14071818a24cd84e0435?utm_campaign=1066&utm_source=git)** | Bristol, CT | On Site | Mar 27 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Site Selection Analyst](https://jobright.ai/jobs/info/69c8a0a91b5ad028873946ba?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69c72d241b5ad0288738ae80?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12270?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
-| **[ImageTrend](http://www.imagetrend.com)** | **[EMS Research Intern](https://jobright.ai/jobs/info/69c6bd24b773006330b72815?utm_campaign=1066&utm_source=git)** | Remote in Eagan, MN | Remote | Mar 27 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca1783ea553769fdd8fd?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Mar 27 |
-| **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[ERDC-CHL: Business Intelligence/Data Analysis- Undergraduate Internship](https://jobright.ai/jobs/info/69c6aaa11b5ad02887385f39?utm_campaign=1066&utm_source=git)** | Vicksburg, MS | On Site | Mar 27 |
-| **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c6a940aa3c2c1995e111ea?utm_campaign=1066&utm_source=git)** | Holmdel, NJ | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
