@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Climate First Bank](https://climatefirstbank.com)** | **[Power BI Report Builder Intern](https://jobright.ai/jobs/info/69a75c5576bbe83d3afabd95?utm_campaign=1066&utm_source=git)** | United States | On Site | Mar 30 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ca32e9e565c26a7003bd97?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 30 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69ca1508e565c26a7003a857?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 29 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Wilson Bank & Trust](http://wilsonbank.com)** | **[Internship - Data Management](https://jobright.ai/jobs/info/69aa48d81f59c56275e32395?utm_campaign=1066&utm_source=git)** | Lebanon, TN | On Site | Mar 27 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Intern Biostatistics](https://jobright.ai/jobs/info/69c6a5481b5ad02887385c3b?utm_campaign=1066&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Mar 27 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c69a9f83ea553769fdbe5b?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 27 |
-| ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69c69a3ae565c26a70021382?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Mar 27 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69aa0ed32ebd316bece1cac4?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
 | ↳ | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c69482e565c26a7002127f?utm_campaign=1066&utm_source=git)** | Holmdel, New Jersey, United States | Hybrid | Mar 27 |
