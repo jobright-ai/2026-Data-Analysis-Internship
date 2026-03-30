@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Senior Epic Report Developer - Hybrid - 138812](https://jobright.ai/jobs/info/69cad48e1b5ad028873a5566?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
+| **[CommScope](http://www.commscope.com)** | **[Intern IT Data Analytics Intern](https://jobright.ai/jobs/info/69cacf3e466f1e133aac75a1?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Mar 30 |
+| **[Williams International](http://www.williams-int.com/)** | **[Intern](https://jobright.ai/jobs/info/69cace2e1b5ad028873a52aa?utm_campaign=1066&utm_source=git)** | Pontiac, MI | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb5de565c26a70040f22?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d451410?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69c74a691818a24cd84cd22f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca0b1818a24cd84c893a?utm_campaign=1066&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6ca02e565c26a70022c3b?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Mar 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9f01b5ad0288738708c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69c6c9e4aa3c2c1995e12270?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Mar 27 |
-| **[BMW Group](http://www.bmwgroup.com)** | **[Data Analytics Intern, Pre-Owned (12 Months)](https://jobright.ai/jobs/info/69c6bfd9aa3c2c1995e11c99?utm_campaign=1066&utm_source=git)** | Richmond Hill, ON | Hybrid | Mar 27 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[WOC - Research Statistician](https://jobright.ai/jobs/info/69c6bfb9aa3c2c1995e11c6c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
