@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69c99c9e83ea553769ff2a3e?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Mar 29 |
 | **[East Daley Analytics](http://eastdaley.com/)** | **[Data Visualization Intern (Tableau)](https://jobright.ai/jobs/info/69c985f783ea553769ff04d4?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Mar 29 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Geospatial Analytics Intern](https://jobright.ai/jobs/info/69bc443d4828227293fddff6?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Mar 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Mar 27 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b4f3f556973837413a0476?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 27 |
 | **[Photronics](http://www.photronics.com)** | **[Data Analytics / Data Visualization Intern](https://jobright.ai/jobs/info/69c6512e1818a24cd84c4e85?utm_campaign=1066&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
-| **[Hudson Rouge](http://www.hudsonrouge.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69c3f607d5a1016e98db0100?utm_campaign=1066&utm_source=git)** | Detroit, Michigan, United States | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
