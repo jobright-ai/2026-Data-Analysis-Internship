@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ca32e9e565c26a7003bd97?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 30 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69ca1508e565c26a7003a857?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 29 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c9e9d41b5ad0288739d358?utm_campaign=1066&utm_source=git)** | 65 1 Harborside Drive, Boston, MA, 02128, US | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Process Automation Intern](https://jobright.ai/jobs/info/698d28be0f6f7e7a2ce8ee4b?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[Analytics Intern - Supply Chain](https://jobright.ai/jobs/info/69c6ab1b83ea553769fdc7f6?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Mar 27 |
-| **[System1](https://system1group.com/)** | **[Research Associate Intern](https://jobright.ai/jobs/info/69c692b283ea553769fdbcdd?utm_campaign=1066&utm_source=git)** | LA Metro Area | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
