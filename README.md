@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ca32e9e565c26a7003bd97?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 30 |
 | **[Massachusetts Port Authority](https://www.massport.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69ca1508e565c26a7003a857?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 29 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 29 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 29 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Mar 29 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Mar 29 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69c936761818a24cd84da1c4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/698f78f86ea51a7610f1d103?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Mar 29 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69c90b4f1b5ad02887397c93?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 29 |
 | **[LMI](http://www.lmi.org)** | **[Health Data & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69c8cc5bb773006330b81526?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | Hybrid | Mar 28 |
