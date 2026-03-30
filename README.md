@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Electronics North America](https://www.lg.com/us)** | **[HS Planning Intern](https://jobright.ai/jobs/info/69caaffaa8c1822476e1f2bd?utm_campaign=1066&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 30 |
+| **[UST](https://www.ust.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69caacb51b5ad028873a3e0f?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
+| **[LeoLabs](http://www.leolabs.space)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69caa784e565c26a7003f443?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Mar 30 |
+| **[LG Electronics](http://www.lg.com)** | **[HS Planning Intern](https://jobright.ai/jobs/info/69caa7461b5ad028873a36d6?utm_campaign=1066&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 30 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69caa6e78fc6090c5d44f996?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 30 |
+| **[Sectra](http://www.sectra.com)** | **[Data Analytics & AI Intern - 8 Month Term](https://jobright.ai/jobs/info/69caa3d8466f1e133aac567e?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Mar 30 |
+| **[TD](https://www.td.com)** | **[Data Analyst Intern/Co-op (Summer 2026) Preferred Candidate](https://jobright.ai/jobs/info/69caa3a6e565c26a7003f11e?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[CommScope](http://www.commscope.com)** | **[Intern IT Data Analytics Intern](https://jobright.ai/jobs/info/69ca945daa3c2c1995e2e0cf?utm_campaign=1066&utm_source=git)** | Claremont, North Carolina, United States | On Site | Mar 30 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ca9451aa3c2c1995e2e0c5?utm_campaign=1066&utm_source=git)** | US-AR-Little Rock | On Site | Mar 30 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ca93eca8c1822476e1e0c8?utm_campaign=1066&utm_source=git)** | Little Rock, AR, US | On Site | Mar 30 |
@@ -125,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69c711ac83ea553769fe0532?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Hybrid | Mar 27 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Data Strategy Unit (AI Initiatives) Assistantship, Office of Research, Innovation & Economic Develop](https://jobright.ai/jobs/info/69c70ff2aa3c2c1995e14f2d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Mar 27 |
 | **[Heart of Ohio Family Health](https://www.heartofohiofamilyhealth.org)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c70eb71818a24cd84cb35a?utm_campaign=1066&utm_source=git)** | Capital Park               - Columbus, OH 43224 | On Site | Mar 27 |
-| **[EverBank](https://www.everbank.com/)** | **[2026 Summer Intern - Data & Analytics](https://jobright.ai/jobs/info/69c7066e1818a24cd84cad43?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Mar 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69c702cc1818a24cd84ca8f3?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Mar 27 |
 | **[ConstructConnect](https://ref.constructconnect.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c701421b5ad0288738912e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Mar 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Analyst & Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69c700ac83ea553769fdf80f?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c6a940aa3c2c1995e111ea?utm_campaign=1066&utm_source=git)** | Holmdel, NJ | Hybrid | Mar 27 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69c57cfaaa9a29199e80555d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Mar 27 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c6a5e2e565c26a70021986?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 27 |
-| **[Wilson Bank & Trust](http://wilsonbank.com)** | **[Internship - Data Management](https://jobright.ai/jobs/info/69aa48d81f59c56275e32395?utm_campaign=1066&utm_source=git)** | Lebanon, TN | On Site | Mar 27 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Intern Biostatistics](https://jobright.ai/jobs/info/69c6a5481b5ad02887385c3b?utm_campaign=1066&utm_source=git)** | Winston Salem, NC - 525 Vine St | On Site | Mar 27 |
-| **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69aa0ed32ebd316bece1cac4?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
-| ↳ | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Mar 27 |
-| **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c69482e565c26a7002127f?utm_campaign=1066&utm_source=git)** | Holmdel, New Jersey, United States | Hybrid | Mar 27 |
-| **[Healogix](https://www.healogix.com)** | **[Behavioral Science Intern](https://jobright.ai/jobs/info/69af10ec7495006450937f9d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
