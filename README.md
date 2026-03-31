@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69cb5267a8c1822476e25d51?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Mar 30 |
+| **[Matson, Inc.](http://matson.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb51e81b5ad028873aa8cb?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
+| **[HP](http://www.hp.com)** | **[Artificial Intelligence  Data Systems Intern](https://jobright.ai/jobs/info/69cb4d4ee565c26a7004674d?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Mar 30 |
+| **[Elevate](https://www.oneelevate.com/)** | **[MBA Summer Intern, Insights](https://jobright.ai/jobs/info/69cb4bf3466f1e133aacc9b9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern- Decision Intelligence](https://jobright.ai/jobs/info/69cb465be565c26a7004653f?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Indian Sugar & Bio-energy Manufacturers Association](https://ismaindia.org)** | **[Data Collection And Data Management Intern](https://jobright.ai/jobs/info/69cb401de565c26a7004611c?utm_campaign=1066&utm_source=git)** | Delhi, NY | On Site | Mar 30 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69cb3ac3a8c1822476e252b1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 30 |
@@ -67,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/69cb1204466f1e133aaca9a4?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
 | **[SymphonyAI](http://www.symphonyai.com)** | **[Customer Insights Internship](https://jobright.ai/jobs/info/69cb0818aa3c2c1995e3357b?utm_campaign=1066&utm_source=git)** | Boise, ID | Remote | Mar 30 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
+| **[CommScope](http://www.commscope.com)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/69cacf3e466f1e133aac75a1?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Mar 30 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Mar 30 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 30 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Operational Excellence Business Intelligence Intern](https://jobright.ai/jobs/info/69cafc72a8c1822476e22b20?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | Hybrid | Mar 30 |
@@ -91,8 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Koddi](http://www.koddi.com)** | **[Associate Analyst Cohort](https://jobright.ai/jobs/info/69cad916aa3c2c1995e30d0e?utm_campaign=1066&utm_source=git)** | DFW Metroplex | On Site | Mar 30 |
 | **[Acosta](https://www.acosta.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cad8d9e565c26a70041567?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Mar 30 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/69cad6798fc6090c5d4518cf?utm_campaign=1066&utm_source=git)** | Wall, NJ | On Site | Mar 30 |
-| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Senior Epic Report Developer - Hybrid - 138812](https://jobright.ai/jobs/info/69cad48e1b5ad028873a5566?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Mar 30 |
-| **[CommScope](http://www.commscope.com)** | **[Intern IT Data Analytics Intern](https://jobright.ai/jobs/info/69cacf3e466f1e133aac75a1?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Mar 30 |
 | **[Williams International](http://www.williams-int.com/)** | **[Intern](https://jobright.ai/jobs/info/69cace2e1b5ad028873a52aa?utm_campaign=1066&utm_source=git)** | Pontiac, MI | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb5de565c26a70040f22?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d451410?utm_campaign=1066&utm_source=git)** | Boston | Remote | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c7adef1b5ad0288738f110?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[Revenue Ops Analytics & Automation Intern](https://jobright.ai/jobs/info/69ab65e37e1fab39d382ed90?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c8e593b773006330b8279d?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
