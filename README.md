@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvinas](http://www.arvinas.com)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69cb1b588fc6090c5d454e0a?utm_campaign=1066&utm_source=git)** | New Haven, CT | Hybrid | Mar 30 |
+| **[Flex](https://getflex.com)** | **[Sr. Staff Data Scientist](https://jobright.ai/jobs/info/69cb19d0aa3c2c1995e33fb9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
+| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/69cb1204466f1e133aaca9a4?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
 | **[SymphonyAI](http://www.symphonyai.com)** | **[Customer Insights Internship](https://jobright.ai/jobs/info/69cb0818aa3c2c1995e3357b?utm_campaign=1066&utm_source=git)** | Boise, ID | Remote | Mar 30 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Associate in Digital Infrastructures](https://jobright.ai/jobs/info/69ca14071818a24cd84e0435?utm_campaign=1066&utm_source=git)** | Bristol, CT | On Site | Mar 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Site Selection Analyst](https://jobright.ai/jobs/info/69c8a0a91b5ad028873946ba?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c73b391818a24cd84ccbe3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69c72d241b5ad0288738ae80?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 27 |
-| **[Peabody Energy](http://www.peabodyenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c72d10e565c26a70026ce5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Mar 27 |
-| **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
