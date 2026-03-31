@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern- Decision Intelligence](https://jobright.ai/jobs/info/69cb465be565c26a7004653f?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
+| **[Indian Sugar & Bio-energy Manufacturers Association](https://ismaindia.org)** | **[Data Collection And Data Management Intern](https://jobright.ai/jobs/info/69cb401de565c26a7004611c?utm_campaign=1066&utm_source=git)** | Delhi, NY | On Site | Mar 30 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69cb3ac3a8c1822476e252b1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Mar 30 |
 | ↳ | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69cb3a681b5ad028873a9e44?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 30 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb35cdaa3c2c1995e34f36?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Mar 28 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c8e593b773006330b8279d?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Mar 28 |
-| **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69c785e41b5ad0288738de09?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Mar 28 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69c782fde565c26a70029bc7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
