@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH ANALYST 1](https://jobright.ai/jobs/info/69cb8e1e466f1e133aacf227?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cb8bc9a8c1822476e282ca?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/69cb8331a8c1822476e2805a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 31 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Operational Excellence Business Intelligence Intern](https://jobright.ai/jobs/info/69cb6728aa3c2c1995e3695f?utm_campaign=1066&utm_source=git)** | Newark, NJ | Hybrid | Mar 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[RESEARCH & DATA USE ANALYST - 76275](https://jobright.ai/jobs/info/69c3b2c4753c101b2157967c?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Mar 30 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb5b59466f1e133aacd2f9?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Computational Biology Intern - Summer 2026](https://jobright.ai/jobs/info/69c7f335b773006330b7d20b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
-| **[Canon USA](https://www.usa.canon.com)** | **[2026 Canon Insights Summer Internship – Business Intelligence, Info Management & Digital Engagement](https://jobright.ai/jobs/info/69ab4043142d5b4265fc89c2?utm_campaign=1066&utm_source=git)** | Melville, NY | Hybrid | Mar 28 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Mar 28 |
-| **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/6972a3fe4ccbf64f8df2aed2?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
