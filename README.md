@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 31 |
 | **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH ANALYST 1](https://jobright.ai/jobs/info/69cb8e1e466f1e133aacf227?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cb8bc9a8c1822476e282ca?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/69cb8331a8c1822476e2805a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Novaflow (YC S25)](https://www.novaflowapp.com/)** | **[Computational Biology Intern - Summer 2026](https://jobright.ai/jobs/info/69c7f335b773006330b7d20b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 28 |
-| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
