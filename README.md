@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accuray](http://www.accuray.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b0c517749500645097ae17?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Apr 01 |
+| **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69ccdf23366bb95ba54f7d7f?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 01 |
+| ↳ | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69ccdf1c366bb95ba54f7d5f?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | ↳ | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Analytics Internship in Supply Chain](https://jobright.ai/jobs/info/69ccca828130af1ac833fc1c?utm_campaign=1066&utm_source=git)** | ATHENS DC | On Site | Apr 01 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69cca39de1921223acc7b08c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 31 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69cca39ae1921223acc7b081?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 31 |
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69cca33be1921223acc7afae?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Mar 31 |
-| ↳ | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69cca23dcfdc6132f9411414?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc97fa8130af1ac833c70e?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Mar 31 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[RESEARCH HEALTH SCIENCE SPECIALIST](https://jobright.ai/jobs/info/69cc93af891d7b11cfcb0172?utm_campaign=1066&utm_source=git)** | Bedford, MA | On Site | Mar 31 |
 | **[CooperVision](http://coopervision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cc8bf4891d7b11cfcafc02?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Mar 31 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Arvinas](http://www.arvinas.com)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69cb1b588fc6090c5d454e0a?utm_campaign=1066&utm_source=git)** | New Haven, CT | Hybrid | Mar 30 |
 | **[Flex](https://getflex.com)** | **[Sr. Staff Data Scientist](https://jobright.ai/jobs/info/69cb19d0aa3c2c1995e33fb9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/69cb1204466f1e133aaca9a4?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Scientist Intern - Falls Church VA with Security Clearance](https://jobright.ai/jobs/info/69ccd805366bb95ba54f7762?utm_campaign=1066&utm_source=git)** | Falls Church, Virginia, 22040 | On Site | Mar 30 |
-| ↳ | **[2026 Data Insight Intern - Falls Church VA with Security Clearance](https://jobright.ai/jobs/info/69ccd75954f00230c6ceaf72?utm_campaign=1066&utm_source=git)** | Falls Church, Virginia, 22040 | Hybrid | Mar 30 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Insight Intern - Falls Church VA with Security Clearance](https://jobright.ai/jobs/info/69ccd75954f00230c6ceaf72?utm_campaign=1066&utm_source=git)** | Falls Church, Virginia, 22040 | Hybrid | Mar 30 |
+| ↳ | **[2026 Data Scientist Intern - Falls Church VA with Security Clearance](https://jobright.ai/jobs/info/69ccd805366bb95ba54f7762?utm_campaign=1066&utm_source=git)** | Falls Church, Virginia, 22040 | On Site | Mar 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst, Intern with Security Clearance](https://jobright.ai/jobs/info/69ccd75854f00230c6ceaf6f?utm_campaign=1066&utm_source=git)** | Lexington, Massachusetts, 02420 | On Site | Mar 30 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arvinas](http://www.arvinas.com)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69cafc63a8c1822476e22afa?utm_campaign=1066&utm_source=git)** | Remote, Hybrid, New Haven - CT | Remote | Mar 30 |
 | **[CIRO / OCRI](https://www.ciro.ca/)** | **[Surveillance Intern (6 month contract)](https://jobright.ai/jobs/info/69bd6888b106024562824bf7?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 30 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Data Analytics Undergraduate/Graduate Intern – Summer 2026](https://jobright.ai/jobs/info/69caf1941b5ad028873a7059?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 30 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caf161a8c1822476e22045?utm_campaign=1066&utm_source=git)** | Watsonville, California | On Site | Mar 30 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Intern](https://jobright.ai/jobs/info/69caf136466f1e133aac9051?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
