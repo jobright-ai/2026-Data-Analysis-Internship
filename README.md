@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd35facfdc6132f9416801?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Clinical Affairs and Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69cd2262cfdc6132f9415fd4?utm_campaign=1066&utm_source=git)** | Providence County, RI | Hybrid | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/69cd223d54f00230c6cecca7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Apr 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc71f48130af1ac833873c?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cc66138130af1ac833841d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Mar 31 |
+| **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69cc7bb6cdb525785fb7bbb8?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
 | ↳ | **[2026 Summer Intern Associate Data Analyst](https://jobright.ai/jobs/info/69cc76ac8130af1ac8338933?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/69cc51e7e1921223acc754b7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern](https://jobright.ai/jobs/info/69cbfef4891d7b11cfca9da1?utm_campaign=1066&utm_source=git)** | Texas | On Site | Mar 31 |
 | **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b5235c3b74eb1e2c82c49d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 31 |
 | **[AAR](http://aarcorp.com)** | **[Intern, Engineering Data Analysis](https://jobright.ai/jobs/info/69c8bb071818a24cd84d6850?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Mar 31 |
-| **[HelloFresh](http://www.hellofreshgroup.com)** | **[Supply Chain Data & Analytics Intern](https://jobright.ai/jobs/info/69cbf5b5366bb95ba54ece04?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Mar 31 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Mar 31 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69a89b4079f3f4037f42a910?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Mar 31 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb5b59466f1e133aacd2f9?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69cb5376466f1e133aaccc59?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69cb5267a8c1822476e25d51?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Mar 30 |
-| **[Elevate](https://www.oneelevate.com/)** | **[MBA Summer Intern, Insights](https://jobright.ai/jobs/info/69cb4bf3466f1e133aacc9b9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
