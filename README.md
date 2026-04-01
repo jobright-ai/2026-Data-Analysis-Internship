@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd8014891d7b11cfcb9923?utm_campaign=1066&utm_source=git)** | La Jolla, California, United States | On Site | Apr 01 |
+| **[Together AI](https://www.together.ai)** | **[GTM Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd79c1891d7b11cfcb92c7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd7240398fb071abf75321?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd665d366bb95ba54fb58b?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd664ecfdc6132f94181cf?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54facdb525785fb86fd8?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54d854f00230c6cee669?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - AI/Data Analytics](https://jobright.ai/jobs/info/69cd54b7891d7b11cfcb7d0d?utm_campaign=1066&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | Apr 01 |
-| **[Bevi](http://bevi.co)** | **[Data Scientist](https://jobright.ai/jobs/info/69cc8307cfdc6132f940e013?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 01 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Workforce Data Scientist Intern-Columbia](https://jobright.ai/jobs/info/69cd4bfb54f00230c6cedc2c?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Apr 01 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 01 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Data Warehouse Paid Intern](https://jobright.ai/jobs/info/69cd4656891d7b11cfcb7040?utm_campaign=1066&utm_source=git)** | Broadview Heights, OH | On Site | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b5235c3b74eb1e2c82c49d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 31 |
 | **[AAR](http://aarcorp.com)** | **[Intern, Engineering Data Analysis](https://jobright.ai/jobs/info/69c8bb071818a24cd84d6850?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Mar 31 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Mar 31 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69a89b4079f3f4037f42a910?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
