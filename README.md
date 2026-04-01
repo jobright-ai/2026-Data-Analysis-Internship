@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/69cd223d54f00230c6cecca7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Apr 01 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69cd1db1cfdc6132f9415deb?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
+| **[Ensono](https://www.ensono.com)** | **[Intern - Capacity Management Data Analyst](https://jobright.ai/jobs/info/69b070e4749500645096aba9?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Clinical Affairs and Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69cd1d8654f00230c6ceca65?utm_campaign=1066&utm_source=git)** | US RI 500 Exchange | Hybrid | Apr 01 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
+| **[Safety National](https://www.safetynational.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/69b04bd3dfaeda6ff599e9ec?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Apr 01 |
+| **[Ensono](https://www.ensono.com)** | **[Project Portfolio Data Analyst Intern](https://jobright.ai/jobs/info/69b07206dfaeda6ff59a4970?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/69b08c840b2db6275c04b695?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 01 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69c77f4f1b5ad0288738d378?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/670f43765ba02ce73d9dbe9c?utm_campaign=1066&utm_source=git)** | New York, Seattle | On Site | Apr 01 |
@@ -69,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69ccdf1c366bb95ba54f7d5f?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | ↳ | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cd224054f00230c6ceccae?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Data Strategy Unit (AI Initiatives) Assistantship, Office of Research, Innovation & Economic Develop](https://jobright.ai/jobs/info/69c70ff2aa3c2c1995e14f2d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Apr 01 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Analytics Internship in Supply Chain](https://jobright.ai/jobs/info/69ccca828130af1ac833fc1c?utm_campaign=1066&utm_source=git)** | ATHENS DC | On Site | Apr 01 |
 | **[Neurona Therapeutics](http://www.neuronatherapeutics.com)** | **[Research Intern – Discovery Team / Summer 2026](https://jobright.ai/jobs/info/69ccc605891d7b11cfcb37dc?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Apr 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb5b59466f1e133aacd2f9?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69cb5376466f1e133aaccc59?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69cb5267a8c1822476e25d51?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Mar 30 |
-| **[Elevate](https://www.oneelevate.com/)** | **[MBA Summer Intern, Insights](https://jobright.ai/jobs/info/69cb4bf3466f1e133aacc9b9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern- Decision Intelligence](https://jobright.ai/jobs/info/69cb465be565c26a7004653f?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/69cc7a49cfdc6132f940c7f5?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
-| **[Arvinas](http://www.arvinas.com)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69cb1b588fc6090c5d454e0a?utm_campaign=1066&utm_source=git)** | New Haven, CT | Hybrid | Mar 30 |
-| **[Flex](https://getflex.com)** | **[Sr. Staff Data Scientist](https://jobright.ai/jobs/info/69cb19d0aa3c2c1995e33fb9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 30 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/69cb1204466f1e133aaca9a4?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Mar 30 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Data Analyst Non-Sterile Supply Chain](https://jobright.ai/jobs/info/69c26c5e6c59dd4e02787556?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Mar 30 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
