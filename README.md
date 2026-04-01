@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant, Obstetrics and Gynaecology](https://jobright.ai/jobs/info/69ccace4e1921223acc7badd?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Mar 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Biomarker Statistics Summer 2026 Intern](https://jobright.ai/jobs/info/69cca39de1921223acc7b08c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 31 |
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69cca39ae1921223acc7b081?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 31 |
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69cca33be1921223acc7afae?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Mar 31 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Mar 31 |
 | **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH ANALYST 1](https://jobright.ai/jobs/info/69cb8e1e466f1e133aacf227?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Mar 31 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Operational Excellence Business Intelligence Intern](https://jobright.ai/jobs/info/69cb6728aa3c2c1995e3695f?utm_campaign=1066&utm_source=git)** | Newark, NJ | Hybrid | Mar 30 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[RESEARCH & DATA USE ANALYST - 76275](https://jobright.ai/jobs/info/69c3b2c4753c101b2157967c?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Mar 30 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb5b59466f1e133aacd2f9?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69cb5376466f1e133aaccc59?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69cb5267a8c1822476e25d51?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Mar 30 |
