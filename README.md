@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd7240398fb071abf75321?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd665d366bb95ba54fb58b?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd664ecfdc6132f94181cf?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
 | **[Protagonist](http://www.protagonist.io)** | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd6000891d7b11cfcb820f?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/69cc7b00e1921223acc7621d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc71f48130af1ac833873c?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
+| **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cd6a5d54f00230c6cef3f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cc66138130af1ac833841d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Mar 31 |
-| **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cd6506398fb071abf748a3?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69cc7bb6cdb525785fb7bbb8?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
 | ↳ | **[2026 Summer Intern Associate Data Analyst](https://jobright.ai/jobs/info/69cc76ac8130af1ac8338933?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAR](http://aarcorp.com)** | **[Intern, Engineering Data Analysis](https://jobright.ai/jobs/info/69c8bb071818a24cd84d6850?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Mar 31 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Mar 31 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69a89b4079f3f4037f42a910?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Mar 31 |
-| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
