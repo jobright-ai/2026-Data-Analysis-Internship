@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Early Phase Biometrics Data Management](https://jobright.ai/jobs/info/69cd5a1b891d7b11cfcb80aa?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Apr 01 |
+| **[State of South Carolina](https://sc.gov/)** | **[Workforce Data Scientist Intern-Columbia](https://jobright.ai/jobs/info/69cd57f2891d7b11cfcb7fd7?utm_campaign=1066&utm_source=git)** | Columbia, SC | On Site | Apr 01 |
+| **[Keenova](https://www.keenova.com)** | **[Data Warehouse Project Management Intern](https://jobright.ai/jobs/info/699cfe5bce78e77b4fe1c25a?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Apr 01 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54facdb525785fb86fd8?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54d854f00230c6cee669?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - AI/Data Analytics](https://jobright.ai/jobs/info/69cd54b7891d7b11cfcb7d0d?utm_campaign=1066&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | Apr 01 |
+| **[Bevi](http://bevi.co)** | **[Data Scientist](https://jobright.ai/jobs/info/69cc8307cfdc6132f940e013?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 01 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Workforce Data Scientist Intern-Columbia](https://jobright.ai/jobs/info/69cd4bfb54f00230c6cedc2c?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Apr 01 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 01 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Data Warehouse Paid Intern](https://jobright.ai/jobs/info/69cd4656891d7b11cfcb7040?utm_campaign=1066&utm_source=git)** | Broadview Heights, OH | On Site | Apr 01 |
@@ -65,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6972402a9b83b424830e2e3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 01 |
 | **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd35facfdc6132f9416801?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Apr 01 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cd4fa7cdb525785fb86c80?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 01 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Spring 2027](https://jobright.ai/jobs/info/69a840132580d3183f004b64?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Clinical Affairs and Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69cd2262cfdc6132f9415fd4?utm_campaign=1066&utm_source=git)** | Providence County, RI | Hybrid | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/69cd223d54f00230c6cecca7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Apr 01 |
@@ -131,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Data & Imaging - St Petersburg, Florida - Onsite](https://jobright.ai/jobs/info/69cc14be891d7b11cfcaa490?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL | On Site | Mar 31 |
 | **[Trulieve](https://www.trulieve.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cc13e1cdb525785fb795b5?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Mar 31 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Mar 31 |
-| **[HelloFresh](http://www.hellofreshgroup.com)** | **[Supply Chain Data & Analytics Intern](https://jobright.ai/jobs/info/69cc0dcfcfdc6132f940a1d3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69cc0947e1921223acc73a75?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 31 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc08d0366bb95ba54ed320?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 31 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69cbe102891d7b11cfca9718?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Mar 31 |
 | **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbda23e1921223acc72e50?utm_campaign=1066&utm_source=git)** | Somerset, New Jersey, United States | On Site | Mar 31 |
-| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Data and Analytics Intern](https://jobright.ai/jobs/info/69cc4ad5891d7b11cfcab8fc?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Product Data Analytics - Global Quality & Reliability](https://jobright.ai/jobs/info/69af5a8c749500645093d70b?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Mar 31 |
-| **[Bank OZK](https://www.ozk.com/personal)** | **[Intern, Enterprise Analytics](https://jobright.ai/jobs/info/69af611bdfaeda6ff597777e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
-| **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Data and Analytics Intern](https://jobright.ai/jobs/info/69cbae46e584866632cc001f?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Mar 31 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern (Remote)](https://jobright.ai/jobs/info/69af7b42749500645093fb28?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 31 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Provider Analytics Innovation & Delivery](https://jobright.ai/jobs/info/69af4e16dfaeda6ff5976d55?utm_campaign=1066&utm_source=git)** | Schenectady, NY | Hybrid | Mar 31 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
