@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Clinical Affairs and Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69cd2262cfdc6132f9415fd4?utm_campaign=1066&utm_source=git)** | Providence County, RI | Hybrid | Apr 01 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026- Information Technology AI](https://jobright.ai/jobs/info/69cd223d54f00230c6cecca7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA 19106 | Hybrid | Apr 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Global Markets, Sales & Trading](https://jobright.ai/jobs/info/6956e5c39f1b381eb27019cb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69cd1db1cfdc6132f9415deb?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 01 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern Data Analytics and Automation](https://jobright.ai/jobs/info/69cc3a19e1921223acc74b1d?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Mar 31 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Summer Internships / Data Analytics](https://jobright.ai/jobs/info/69cc3985cdb525785fb7a3db?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
 | **[Amy's Kitchen](http://www.amys.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc3405cfdc6132f940af32?utm_campaign=1066&utm_source=git)** | Petaluma, California, United States | On Site | Mar 31 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Bold Beginners - Data Science Intern](https://jobright.ai/jobs/info/69cc7a79e1921223acc7616d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69cc59f6891d7b11cfcabfa6?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 31 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cc23da891d7b11cfcaa941?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Mar 31 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69cc54f8cfdc6132f940bb13?utm_campaign=1066&utm_source=git)** | Collierville, TN | On Site | Mar 31 |
@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b5235c3b74eb1e2c82c49d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Mar 31 |
 | **[AAR](http://aarcorp.com)** | **[Intern, Engineering Data Analysis](https://jobright.ai/jobs/info/69c8bb071818a24cd84d6850?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Mar 31 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Supply Chain Data & Analytics Intern](https://jobright.ai/jobs/info/69cbf5b5366bb95ba54ece04?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Mar 31 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Bold Beginners - Data Science Intern](https://jobright.ai/jobs/info/69cbf5a8366bb95ba54ecdf4?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Mar 31 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69a89b4079f3f4037f42a910?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Mar 31 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cb5b59466f1e133aacd2f9?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Mar 30 |
 | **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/69cb5376466f1e133aaccc59?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/69cb5267a8c1822476e25d51?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Mar 30 |
+| **[Elevate](https://www.oneelevate.com/)** | **[MBA Summer Intern, Insights](https://jobright.ai/jobs/info/69cb4bf3466f1e133aacc9b9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
