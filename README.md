@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Resources](http://www.njresources.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69ce81cdcfdc6132f942919e?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Apr 02 |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
+| **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Camping World](https://investor.campingworld.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ce7829398fb071abf8545c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 02 |
 | **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – Data Governance](https://jobright.ai/jobs/info/69967669ce78e77b4fda8473?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Apr 02 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b233f4ae2a534885e92797?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Group O](http://groupo.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b1ec2e548f140066e80233?utm_campaign=1066&utm_source=git)** | Roanoke, TX | On Site | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Higharc](http://www.higharc.com)** | **[Research Intern, Special Projects](https://jobright.ai/jobs/info/69cd9c03cfdc6132f941da49?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69cc7bb6cdb525785fb7bbb8?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
-| ↳ | **[2026 Summer Intern Associate Data Analyst](https://jobright.ai/jobs/info/69cc76ac8130af1ac8338933?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/69cc51e7e1921223acc754b7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Competitive Intelligence](https://jobright.ai/jobs/info/69cc4809cfdc6132f940b5f2?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Mar 31 |
-| **[Financial Health Network](https://finhealthnetwork.org)** | **[Research Intern](https://jobright.ai/jobs/info/69cc735c366bb95ba54ef846?utm_campaign=1066&utm_source=git)** | Madison, NY | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
