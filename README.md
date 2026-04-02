@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 01 |
+| **[J. Craig Venter Institute](http://www.jcvi.org)** | **[Intern (Local Community College Students Only) (Freire-CP)](https://jobright.ai/jobs/info/69cdce2c891d7b11cfcbfc5c?utm_campaign=1066&utm_source=git)** | California, La Jolla, CA, US | Hybrid | Apr 01 |
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69cdc3d5cdb525785fb8e897?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | Remote | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cdb0b1366bb95ba5501bc1?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cdac4e366bb95ba5501696?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 01 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69cd9d89398fb071abf7a725?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
 | **[Aura Home, Inc.](https://auraframes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cd9bdbcfdc6132f941da28?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | Apr 01 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - CBRN Research Intern](https://jobright.ai/jobs/info/69cd9a1acfdc6132f941d99f?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 01 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 01 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Analyst Intern, AI & Chatbot Optimization, Summer 2026 (Location: Onsite, Winston-Salem, NC)](https://jobright.ai/jobs/info/69cd985b398fb071abf7a557?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 01 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[APX Systems Analyst Intern Summer 2026](https://jobright.ai/jobs/info/69cd97fdcfdc6132f941d7b5?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Apr 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd97d6366bb95ba5500b95?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 01 |
@@ -129,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[RESEARCH HEALTH SCIENCE SPECIALIST](https://jobright.ai/jobs/info/69cc93af891d7b11cfcb0172?utm_campaign=1066&utm_source=git)** | Bedford, MA | On Site | Mar 31 |
 | **[CooperVision](http://coopervision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cc8bf4891d7b11cfcafc02?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Mar 31 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69cc88b7891d7b11cfcaf41a?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Mar 31 |
+| **[Verdani Partners](https://www.verdani.com)** | **[Sustainability Data Intern](https://jobright.ai/jobs/info/69cdd66e366bb95ba5503356?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 31 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/69cc7b00e1921223acc7621d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc71f48130af1ac833873c?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[IEDIA Data Analyst](https://jobright.ai/jobs/info/69ba855b5697383741400af2?utm_campaign=1066&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern Data Analytics and Automation](https://jobright.ai/jobs/info/69cc3a19e1921223acc74b1d?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Mar 31 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Summer Internships / Data Analytics](https://jobright.ai/jobs/info/69cc3985cdb525785fb7a3db?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
-| **[Amy's Kitchen](http://www.amys.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc3405cfdc6132f940af32?utm_campaign=1066&utm_source=git)** | Petaluma, California, United States | On Site | Mar 31 |
-| **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69cc59f6891d7b11cfcabfa6?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 31 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/69cc23da891d7b11cfcaa941?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Mar 31 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69cc54f8cfdc6132f940bb13?utm_campaign=1066&utm_source=git)** | Collierville, TN | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
