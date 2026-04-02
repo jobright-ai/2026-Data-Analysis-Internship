@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
+| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Data Analytical Intern](https://jobright.ai/jobs/info/69cde238398fb071abf7d81d?utm_campaign=1066&utm_source=git)** | Beijing, Beijing | On Site | Apr 01 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Summer 2026 - Orlando, FL](https://jobright.ai/jobs/info/69cde0d0398fb071abf7d6eb?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Apr 01 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 01 |
 | **[J. Craig Venter Institute](http://www.jcvi.org)** | **[Intern (Local Community College Students Only) (Freire-CP)](https://jobright.ai/jobs/info/69cdce2c891d7b11cfcbfc5c?utm_campaign=1066&utm_source=git)** | California, La Jolla, CA, US | Hybrid | Apr 01 |
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69cdc3d5cdb525785fb8e897?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | Remote | Apr 01 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Analyst Intern,  AI & Chatbot Optimization, Summer 2026 (Location: Onsite, Winston-Salem, NC)](https://jobright.ai/jobs/info/69cd8caf398fb071abf79528?utm_campaign=1066&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Apr 01 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd8ca3398fb071abf794dc?utm_campaign=1066&utm_source=git)** | La Jolla, CA | On Site | Apr 01 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Early Phase Biometrics Data Management](https://jobright.ai/jobs/info/69cd8b62cdb525785fb8bb66?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Apr 01 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[APX Systems Analyst Intern Summer 2026](https://jobright.ai/jobs/info/69cde10acdb525785fb8fe43?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Apr 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc36c?utm_campaign=1066&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 01 |
 | **[Care New England](http://www.carenewengland.org)** | **[Research Assistant](https://jobright.ai/jobs/info/69cd8530cdb525785fb8a0e1?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Apr 01 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Analytics Bachelor's](https://jobright.ai/jobs/info/69cc7a4fcfdc6132f940c7f9?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 31 |
 | **[CooperCompanies](http://www.coopercos.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cc3ca9cfdc6132f940b26e?utm_campaign=1066&utm_source=git)** | 6101 Bollinger Canyon Rd,, San Ramon, CA, 94583, US | On Site | Mar 31 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Competitive Intelligence](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a60f?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Mar 31 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar - PHHI](https://jobright.ai/jobs/info/69cc5a2ccfdc6132f940be33?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[IEDIA Data Analyst](https://jobright.ai/jobs/info/69ba855b5697383741400af2?utm_campaign=1066&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
-| **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern Data Analytics and Automation](https://jobright.ai/jobs/info/69cc3a19e1921223acc74b1d?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Mar 31 |
-| **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Summer Internships / Data Analytics](https://jobright.ai/jobs/info/69cc3985cdb525785fb7a3db?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
