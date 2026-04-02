@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69ce324a366bb95ba5508e1c?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ce2a4b891d7b11cfcc5b2e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc71f48130af1ac833873c?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cd6a5d54f00230c6cef3f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cc66138130af1ac833841d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Higharc](http://www.higharc.com)** | **[Research Intern, Special Projects](https://jobright.ai/jobs/info/69cd9c03cfdc6132f941da49?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69cc7bb6cdb525785fb7bbb8?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
