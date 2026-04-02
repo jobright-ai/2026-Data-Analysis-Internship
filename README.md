@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69ceeefe891d7b11cfcce622?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Apr 02 |
+| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/69cee78c54f00230c6d04bfb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
+| **[DEPT®](https://www.deptagency.com)** | **[Principal, Data Analyst - Engineering - US - Freelancer / Digital Products Team](https://jobright.ai/jobs/info/69cee720398fb071abf8a980?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Analytics](https://jobright.ai/jobs/info/69cee6e2398fb071abf8a843?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Science Intern, Summer 2026 (Onsite: Winston-Salem, NC)](https://jobright.ai/jobs/info/69cee349cdb525785fb9cb2b?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
 | **[Mercedes-Benz.io](http://www.mercedes-benz.io)** | **[Data Analyst Internship (f/m/x)](https://jobright.ai/jobs/info/69cee18e366bb95ba55108d3?utm_campaign=1066&utm_source=git)** | Hybrid, PT | Hybrid | Apr 02 |
 | ↳ | **[Digital Analyst Internship (f/m/x)](https://jobright.ai/jobs/info/69cee18c366bb95ba55108cb?utm_campaign=1066&utm_source=git)** | Hybrid, PT | Hybrid | Apr 02 |
@@ -84,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Biometric Health Screener Intern](https://jobright.ai/jobs/info/69cebaf8cdb525785fb9ae0c?utm_campaign=1066&utm_source=git)** | UT-Salt Lake City | On Site | Apr 02 |
 | **[EnerSys](http://enersys.com)** | **[AI Supplier Risk Analytics Intern](https://jobright.ai/jobs/info/69ceba32cfdc6132f942b7e3?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 02 |
+| **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Data Governance Analyst Intern](https://jobright.ai/jobs/info/69cef018398fb071abf8acab?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 02 |
 | **[Skeo Solutions](https://www.skeo.com/)** | **[Geographic Information System (GIS) Intern](https://jobright.ai/jobs/info/69ceb196891d7b11cfccb3b3?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Apr 02 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Science Intern, Summer 2026 (Onsite: Winston-Salem, NC)](https://jobright.ai/jobs/info/69cead8f54f00230c6d01a91?utm_campaign=1066&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Apr 02 |
 | **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Data Governance Analyst Intern](https://jobright.ai/jobs/info/69cead87398fb071abf8792b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd665d366bb95ba54fb58b?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd664ecfdc6132f94181cf?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
 | **[Protagonist](http://www.protagonist.io)** | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd6000891d7b11cfcb820f?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Early Phase Biometrics Data Management](https://jobright.ai/jobs/info/69cd5a1b891d7b11cfcb80aa?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Apr 01 |
-| **[Keenova](https://www.keenova.com)** | **[Data Warehouse Project Management Intern](https://jobright.ai/jobs/info/699cfe5bce78e77b4fe1c25a?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Apr 01 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54facdb525785fb86fd8?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd54d854f00230c6cee669?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - AI/Data Analytics](https://jobright.ai/jobs/info/69cd54b7891d7b11cfcb7d0d?utm_campaign=1066&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
