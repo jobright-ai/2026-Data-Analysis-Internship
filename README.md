@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69cdc3d5cdb525785fb8e897?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | Remote | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cdb0b1366bb95ba5501bc1?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cdac4e366bb95ba5501696?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/69cda2f3cdb525785fb8d4cb?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 01 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Accuray](http://www.accuray.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b0c517749500645097ae17?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | ↳ | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cd224054f00230c6ceccae?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 01 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Data Strategy Unit (AI Initiatives) Assistantship, Office of Research, Innovation & Economic Develop](https://jobright.ai/jobs/info/69c70ff2aa3c2c1995e14f2d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Apr 01 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Analytics Internship in Supply Chain](https://jobright.ai/jobs/info/69ccca828130af1ac833fc1c?utm_campaign=1066&utm_source=git)** | ATHENS DC | On Site | Apr 01 |
 | **[Neurona Therapeutics](http://www.neuronatherapeutics.com)** | **[Research Intern – Discovery Team / Summer 2026](https://jobright.ai/jobs/info/69ccc605891d7b11cfcb37dc?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Apr 01 |
