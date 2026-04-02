@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cdb0b1366bb95ba5501bc1?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cdac4e366bb95ba5501696?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/69cda2f3cdb525785fb8d4cb?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 01 |
 | ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/69cda2ee891d7b11cfcbe613?utm_campaign=1066&utm_source=git)** | United States of America-Alabama -VanceWork Locations | On Site | Apr 01 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[APX Systems Analyst Intern Summer 2026](https://jobright.ai/jobs/info/69cd97fdcfdc6132f941d7b5?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Apr 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd97d6366bb95ba5500b95?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 01 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69cd97d5366bb95ba5500b90?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/69c71c791b5ad0288738a4ea?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Apr 01 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Analyst Intern,  AI & Chatbot Optimization, Summer 2026 (Location: Onsite, Winston-Salem, NC)](https://jobright.ai/jobs/info/69cd8caf398fb071abf79528?utm_campaign=1066&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Apr 01 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd8ca3398fb071abf794dc?utm_campaign=1066&utm_source=git)** | La Jolla, CA | On Site | Apr 01 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Early Phase Biometrics Data Management](https://jobright.ai/jobs/info/69cd8b62cdb525785fb8bb66?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Apr 01 |
@@ -113,8 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69ccebc6cdb525785fb8427a?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Apr 01 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Data Analytics & Reporting](https://jobright.ai/jobs/info/69b08667749500645096f677?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Apr 01 |
 | **[Accuray](http://www.accuray.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b0c517749500645097ae17?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Apr 01 |
-| **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69ccdf23366bb95ba54f7d7f?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 01 |
-| ↳ | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69ccdf1c366bb95ba54f7d5f?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | ↳ | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cd224054f00230c6ceccae?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 01 |
