@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Research Assistant (ETS) / Temporary](https://jobright.ai/jobs/info/69cec43a54f00230c6d02f43?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
+| **[Central Ohio Primary Care](https://www.copcp.com/)** | **[Summer Intern – Population Health Analytics](https://jobright.ai/jobs/info/69cec31b398fb071abf88b9c?utm_campaign=1066&utm_source=git)** | Westerville, Ohio, United States | On Site | Apr 02 |
+| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Summer 2026](https://jobright.ai/jobs/info/69ce31a6398fb071abf8272b?utm_campaign=1066&utm_source=git)** | Lévis, QC | Hybrid | Apr 02 |
+| **[Utah Retirement Systems](https://www.urs.org)** | **[Biometric Health Screener Intern](https://jobright.ai/jobs/info/69cebc86366bb95ba550ee3d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UNAVAILABLE, UT | On Site | Apr 02 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Analytics](https://jobright.ai/jobs/info/69cebb3254f00230c6d029ad?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Apr 02 |
+| ↳ | **[Intern, Analytics](https://jobright.ai/jobs/info/69cebb14398fb071abf88811?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Apr 02 |
+| **[Utah Retirement Systems](https://www.urs.org)** | **[Biometric Health Screener Intern](https://jobright.ai/jobs/info/69cebaf8cdb525785fb9ae0c?utm_campaign=1066&utm_source=git)** | UT-Salt Lake City | On Site | Apr 02 |
+| **[EnerSys](http://enersys.com)** | **[AI Supplier Risk Analytics Intern](https://jobright.ai/jobs/info/69ceba32cfdc6132f942b7e3?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Apr 02 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 02 |
 | **[Skeo Solutions](https://www.skeo.com/)** | **[Geographic Information System (GIS) Intern](https://jobright.ai/jobs/info/69ceb196891d7b11cfccb3b3?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Apr 02 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Science Intern, Summer 2026 (Onsite: Winston-Salem, NC)](https://jobright.ai/jobs/info/69cead8f54f00230c6d01a91?utm_campaign=1066&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Apr 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Clinical Affairs and Quality Intern - Summer 2026](https://jobright.ai/jobs/info/69cd1d8654f00230c6ceca65?utm_campaign=1066&utm_source=git)** | US RI 500 Exchange | Hybrid | Apr 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Safety National](https://www.safetynational.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/69b04bd3dfaeda6ff599e9ec?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Apr 01 |
-| **[Ensono](https://www.ensono.com)** | **[Project Portfolio Data Analyst Intern](https://jobright.ai/jobs/info/69b07206dfaeda6ff59a4970?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Point72](https://www.point72.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/670f43765ba02ce73d9dbe9c?utm_campaign=1066&utm_source=git)** | New York, Seattle | On Site | Apr 01 |
-| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
-| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Data Analytics & Reporting](https://jobright.ai/jobs/info/69b08667749500645096f677?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Apr 01 |
-| **[Accuray](http://www.accuray.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69b0c517749500645097ae17?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Apr 01 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| ↳ | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
