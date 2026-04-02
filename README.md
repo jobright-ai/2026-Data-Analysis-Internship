@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/69ce8df0cdb525785fb9896a?utm_campaign=1066&utm_source=git)** | Davidson, NC | Hybrid | Apr 02 |
+| **[Linde](https://www.linde.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ce8747366bb95ba550c561?utm_campaign=1066&utm_source=git)** | Tonawanda, NY | On Site | Apr 02 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69ce81cdcfdc6132f942919e?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Apr 02 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69ce324a366bb95ba5508e1c?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ce2a4b891d7b11cfcc5b2e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69ce0161891d7b11cfcc3ed6?utm_campaign=1066&utm_source=git)** | Home, KS | Hybrid | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cded2a891d7b11cfcc1beb?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, SHE&S Data & Analytics](https://jobright.ai/jobs/info/69cde897891d7b11cfcc1765?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cd6a5d54f00230c6cef3f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
-| **[Higharc](http://www.higharc.com)** | **[Research Intern, Special Projects](https://jobright.ai/jobs/info/69cd9c03cfdc6132f941da49?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Mar 31 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/69cc7bb6cdb525785fb7bbb8?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
