@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – Data Governance](https://jobright.ai/jobs/info/69967669ce78e77b4fda8473?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Apr 02 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b233f4ae2a534885e92797?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Group O](http://groupo.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69b1ec2e548f140066e80233?utm_campaign=1066&utm_source=git)** | Roanoke, TX | On Site | Apr 02 |
 | **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69ce5e6bcfdc6132f9427aea?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Apr 02 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Care New England](http://www.carenewengland.org)** | **[Research Assistant](https://jobright.ai/jobs/info/69cd8530cdb525785fb8a0e1?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Apr 01 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 01 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd8014891d7b11cfcb9923?utm_campaign=1066&utm_source=git)** | La Jolla, California, United States | On Site | Apr 01 |
-| **[Together AI](https://www.together.ai)** | **[GTM Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd79c1891d7b11cfcb92c7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 01 |
 | **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd7240398fb071abf75321?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
 | **[Kelvolta](https://kelvolta.com/)** | **[Now Recruiting — AI and Data Science Unpaid Internship — Kelvolta (Energy Tech)](https://jobright.ai/jobs/info/69cda3d8cfdc6132f941e1e2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd665d366bb95ba54fb58b?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
