@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69cdee9c398fb071abf7e340?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 01 |
+| **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cded2a891d7b11cfcc1beb?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, SHE&S Data & Analytics](https://jobright.ai/jobs/info/69cde897891d7b11cfcc1765?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Data Analytical Intern](https://jobright.ai/jobs/info/69cde238398fb071abf7d81d?utm_campaign=1066&utm_source=git)** | Beijing, Beijing | On Site | Apr 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Summer 2026 - Orlando, FL](https://jobright.ai/jobs/info/69cde0d0398fb071abf7d6eb?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69cc42b4cdb525785fb7a792?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 31 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69a5f9c80da45516f16ec9f8?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Mar 31 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/69cc3eb28130af1ac8337684?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Mar 31 |
-| **[OhioHealth](https://www.ohiohealth.com/)** | **[Intern Working on Analytics Bachelor's](https://jobright.ai/jobs/info/69cc7a4fcfdc6132f940c7f9?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 31 |
-| **[CooperCompanies](http://www.coopercos.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cc3ca9cfdc6132f940b26e?utm_campaign=1066&utm_source=git)** | 6101 Bollinger Canyon Rd,, San Ramon, CA, 94583, US | On Site | Mar 31 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Competitive Intelligence](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a60f?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
