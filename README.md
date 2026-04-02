@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
+| **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69ce324a366bb95ba5508e1c?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ce2a4b891d7b11cfcc5b2e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69ce0161891d7b11cfcc3ed6?utm_campaign=1066&utm_source=git)** | Home, KS | Hybrid | Apr 01 |
-| **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69cdee9c398fb071abf7e340?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 01 |
 | **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cded2a891d7b11cfcc1beb?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, SHE&S Data & Analytics](https://jobright.ai/jobs/info/69cde897891d7b11cfcc1765?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Financial Health Network](https://finhealthnetwork.org)** | **[Research Intern](https://jobright.ai/jobs/info/69cc735c366bb95ba54ef846?utm_campaign=1066&utm_source=git)** | Madison, NY | On Site | Mar 31 |
 | **[WineFetch](http://retailer.winefetch.com)** | **[Data Services Intern](https://jobright.ai/jobs/info/69cc42f58130af1ac8337745?utm_campaign=1066&utm_source=git)** | Markham, Ontario - CAN | Remote | Mar 31 |
 | **[GEHA Health](https://geha.com/)** | **[Intern - Analytics Analyst](https://jobright.ai/jobs/info/69cc42be366bb95ba54ee7c8?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 31 |
-| ↳ | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69cc42b4cdb525785fb7a792?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
