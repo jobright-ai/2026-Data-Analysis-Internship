@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ce9dbd366bb95ba550d231?utm_campaign=1066&utm_source=git)** | Wichita, KS | Hybrid | Apr 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69ce9d6b54f00230c6d00da3?utm_campaign=1066&utm_source=git)** | Overland Park, Kansas | On Site | Apr 02 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Technical Intern - Benchmarking Team](https://jobright.ai/jobs/info/69ce9b4b366bb95ba550d1e1?utm_campaign=1066&utm_source=git)** | South Plainfield, NJ | Hybrid | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst](https://jobright.ai/jobs/info/69ce982654f00230c6d00864?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 02 |
+| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Data Analyst II](https://jobright.ai/jobs/info/69ce9808891d7b11cfcc9f9b?utm_campaign=1066&utm_source=git)** | Silver Spring, MD | On Site | Apr 02 |
+| **[Trulieve](https://www.trulieve.com)** | **[Data Analytics IT Intern](https://jobright.ai/jobs/info/69ce97dfcfdc6132f9429a65?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
+| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9219891d7b11cfcc9d3e?utm_campaign=1066&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/69ce8df0cdb525785fb9896a?utm_campaign=1066&utm_source=git)** | Davidson, NC | Hybrid | Apr 02 |
 | **[Linde](https://www.linde.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/69ce8747366bb95ba550c561?utm_campaign=1066&utm_source=git)** | Tonawanda, NY | On Site | Apr 02 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69ce81cdcfdc6132f942919e?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Apr 02 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
@@ -132,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Safety National](https://www.safetynational.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/69b04bd3dfaeda6ff599e9ec?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Apr 01 |
 | **[Ensono](https://www.ensono.com)** | **[Project Portfolio Data Analyst Intern](https://jobright.ai/jobs/info/69b07206dfaeda6ff59a4970?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69c77f4f1b5ad0288738d378?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/670f43765ba02ce73d9dbe9c?utm_campaign=1066&utm_source=git)** | New York, Seattle | On Site | Apr 01 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966a94e0bddb6acac4e187?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CooperVision](http://coopervision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cc8bf4891d7b11cfcafc02?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Mar 31 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69cc88b7891d7b11cfcaf41a?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | On Site | Mar 31 |
 | **[Verdani Partners](https://www.verdani.com)** | **[Sustainability Data Intern](https://jobright.ai/jobs/info/69cdd66e366bb95ba5503356?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 31 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/69cc7b00e1921223acc7621d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst (Social Listening)](https://jobright.ai/jobs/info/69cc71f48130af1ac833873c?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Mar 31 |
-| **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required [Copy]](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
-| **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cd6a5d54f00230c6cef3f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
-| **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Tamil & English Required](https://jobright.ai/jobs/info/69cd37d8398fb071abf73183?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
