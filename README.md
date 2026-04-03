@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cf456a398fb071abf8e576?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431854?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431853?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3ea5cdb525785fba0a4b?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Apr 02 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - AI & Retail Forecast Analyst](https://jobright.ai/jobs/info/69cf3dab366bb95ba5514a78?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
+| ↳ | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3daa366bb95ba5514a77?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Data Science](https://jobright.ai/jobs/info/69cf34c7398fb071abf8d8b6?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Apr 02 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf306854f00230c6d07544?utm_campaign=1066&utm_source=git)** | Springfield, MO, US, 65803 | On Site | Apr 02 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69cf2804cdb525785fb9f104?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 01 |
 | **[J. Craig Venter Institute](http://www.jcvi.org)** | **[Intern (Local Community College Students Only) (Freire-CP)](https://jobright.ai/jobs/info/69cdce2c891d7b11cfcbfc5c?utm_campaign=1066&utm_source=git)** | California, La Jolla, CA, US | Hybrid | Apr 01 |
 | **[Central Ohio Primary Care](https://www.copcp.com/)** | **[Summer Intern – Population Health Analytics](https://jobright.ai/jobs/info/69cf2247cfdc6132f942fbc9?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Apr 01 |
-| **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69cdc3d5cdb525785fb8e897?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | Remote | Apr 01 |
-| **[GAINS](https://gainsystems.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ceb1df54f00230c6d01cc2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| **[The University of Chicago Booth School of Business](http://www.chicagobooth.edu/)** | **[Temporary Data Analytics Intern](https://jobright.ai/jobs/info/69cf0f48cdb525785fb9e7f2?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| ↳ | **[Temporary Data Science Intern](https://jobright.ai/jobs/info/69cf04c9cdb525785fb9e0fb?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
-| **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cdb0b1366bb95ba5501bc1?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cdac4e366bb95ba5501696?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 01 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/69cda2f3cdb525785fb8d4cb?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
