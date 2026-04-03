@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfdfe5cdb525785fba5609?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69964a4681476f6176ae0c8e?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 03 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - AI/Data Analytics](https://jobright.ai/jobs/info/69cfd786cfdc6132f94362d0?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Apr 03 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk & Controls – AI Graduate Analyst](https://jobright.ai/jobs/info/697a93bcf6fc293b0a2c7534?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
+| **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfd550891d7b11cfcd6449?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
+| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Visiting Research Scientist, FRC](https://jobright.ai/jobs/info/69b1f474548f140066e81c73?utm_campaign=1066&utm_source=git)** | Urbana, IL | On Site | Apr 02 |
 | **[Red Alpha](https://www.red-alpha.com/)** | **[Data Science Intern (Graduate Student) - Summer 2026](https://jobright.ai/jobs/info/69cea20f366bb95ba550d9c0?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
 | ↳ | **[Data Science Intern (Graduate Student) - Summer 2026](https://jobright.ai/jobs/info/69ce9eeecdb525785fb998ed?utm_campaign=1066&utm_source=git)** | Columbia, Maryland | On Site | Apr 02 |
-| **[Trulieve](https://www.trulieve.com)** | **[Data Analytics IT Intern](https://jobright.ai/jobs/info/69ce9ec7398fb071abf872be?utm_campaign=1066&utm_source=git)** | FL-O-Tallahassee-Martin Hurst Rd | On Site | Apr 02 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69ce9d6b54f00230c6d00da3?utm_campaign=1066&utm_source=git)** | Overland Park, Kansas | On Site | Apr 02 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Technical Intern - Benchmarking Team](https://jobright.ai/jobs/info/69ce9b4b366bb95ba550d1e1?utm_campaign=1066&utm_source=git)** | South Plainfield, NJ | Hybrid | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Data Analyst](https://jobright.ai/jobs/info/69ce982654f00230c6d00864?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 02 |
-| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Data Analyst II](https://jobright.ai/jobs/info/69ce9808891d7b11cfcc9f9b?utm_campaign=1066&utm_source=git)** | Silver Spring, MD | On Site | Apr 02 |
-| **[Trulieve](https://www.trulieve.com)** | **[Data Analytics IT Intern](https://jobright.ai/jobs/info/69ce97dfcfdc6132f9429a65?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
-| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9219891d7b11cfcc9d3e?utm_campaign=1066&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
