@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[GIS Intern](https://jobright.ai/jobs/info/69cf9709cdb525785fba382f?utm_campaign=1066&utm_source=git)** | Rockwall, TX | On Site | Apr 03 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Intern, Data Analyst and Support](https://jobright.ai/jobs/info/69cf8f87366bb95ba55176e2?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/68ccd92b77add66568aba6b3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | ↳ | **[Quantitative Sports Researcher – Graduate Hire](https://jobright.ai/jobs/info/69c4a1a233eecf31079506fa?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 03 |
 | ↳ | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69ce5e6bcfdc6132f9427aea?utm_campaign=1066&utm_source=git)** | Linden, IN | On Site | Apr 02 |
 | **[University of Bristol - School of Physiology, Pharmacology and Neuroscience](http://www.bristol.ac.uk/phys-pharm-neuro/)** | **[Research Associate in Digital Infrastructures](https://jobright.ai/jobs/info/69ce5e12366bb95ba550ac16?utm_campaign=1066&utm_source=git)** | Bristol, CT | On Site | Apr 02 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 02 |
-| **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
-| **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69ce324a366bb95ba5508e1c?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
