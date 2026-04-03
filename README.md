@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
+| ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
+| **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966c99e0bddb6acac4e3af?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Apr 03 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69c8faac1b5ad028873974c7?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 03 |
 | **[UT Federal Credit Union](https://www.utfcu.org/)** | **[Business Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/69cfbda7cdb525785fba498c?utm_campaign=1066&utm_source=git)** | Knoxville,TN,US | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Data Analyst II](https://jobright.ai/jobs/info/69ce9808891d7b11cfcc9f9b?utm_campaign=1066&utm_source=git)** | Silver Spring, MD | On Site | Apr 02 |
 | **[Trulieve](https://www.trulieve.com)** | **[Data Analytics IT Intern](https://jobright.ai/jobs/info/69ce97dfcfdc6132f9429a65?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Apr 02 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce9219891d7b11cfcc9d3e?utm_campaign=1066&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Apr 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69b2d956a8ac8e70ff66e50c?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 02 |
-| **[New Jersey Resources](http://www.njresources.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69ce81cdcfdc6132f942919e?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Apr 02 |
-| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
