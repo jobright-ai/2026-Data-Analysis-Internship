@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
+| ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69c8faac1b5ad028873974c7?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 03 |
+| **[UT Federal Credit Union](https://www.utfcu.org/)** | **[Business Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/69cfbda7cdb525785fba498c?utm_campaign=1066&utm_source=git)** | Knoxville,TN,US | On Site | Apr 03 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cfb3e154f00230c6d0bd6b?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
 | ↳ | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cfb282366bb95ba5518299?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Field Data Collection Specialist (Temporary/Intern)](https://jobright.ai/jobs/info/699656a7ce78e77b4fda5b61?utm_campaign=1066&utm_source=git)** | Reading, MA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69b2d956a8ac8e70ff66e50c?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 02 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69ce81cdcfdc6132f942919e?utm_campaign=1066&utm_source=git)** | Wall Corporate Office, 1415 Wyckoff Rd, Wall, New Jersey, United States of America | Hybrid | Apr 02 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Power BI Cloud Infrastructure Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69b1c74e65de58104c70d3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Camping World](https://investor.campingworld.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ce7829398fb071abf8545c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Apr 02 |
-| **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – Data Governance](https://jobright.ai/jobs/info/69967669ce78e77b4fda8473?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
