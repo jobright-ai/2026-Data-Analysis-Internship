@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cf456a398fb071abf8e576?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431854?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 02 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Bioinformatics Associate, Oncology](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d32?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf02bdcdb525785fb9dfc0?utm_campaign=1066&utm_source=git)** | US-California-Palo Alto | On Site | Apr 02 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
-| ↳ | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
+| ↳ | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69cefae4cfdc6132f942ea5d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69cef2cc398fb071abf8ad55?utm_campaign=1066&utm_source=git)** | Holland 16th St | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Summer 2026 - Orlando, FL](https://jobright.ai/jobs/info/69cde0d0398fb071abf7d6eb?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Apr 01 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 01 |
 | **[J. Craig Venter Institute](http://www.jcvi.org)** | **[Intern (Local Community College Students Only) (Freire-CP)](https://jobright.ai/jobs/info/69cdce2c891d7b11cfcbfc5c?utm_campaign=1066&utm_source=git)** | California, La Jolla, CA, US | Hybrid | Apr 01 |
-| **[Central Ohio Primary Care](https://www.copcp.com/)** | **[Summer Intern – Population Health Analytics](https://jobright.ai/jobs/info/69cf2247cfdc6132f942fbc9?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
