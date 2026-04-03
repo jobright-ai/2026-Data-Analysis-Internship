@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAPA Auto Parts](https://napaprolink.com/)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d01983891d7b11cfcd88dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69d0092b0b098b7a67075b1a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d00228cfdc6132f9437820?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfff7ecdb525785fba6792?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
@@ -70,11 +71,10 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69cfe45d366bb95ba55195fe?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Hybrid | Apr 03 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfdfe5cdb525785fba5609?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69964a4681476f6176ae0c8e?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 03 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - AI/Data Analytics](https://jobright.ai/jobs/info/69cfd786cfdc6132f94362d0?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Apr 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk & Controls – AI Graduate Analyst](https://jobright.ai/jobs/info/697a93bcf6fc293b0a2c7534?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfd550891d7b11cfcd6449?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
+| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cfecb4cdb525785fba5bf4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
