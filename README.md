@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
+| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69cefae4cfdc6132f942ea5d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
+| **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69cef2cc398fb071abf8ad55?utm_campaign=1066&utm_source=git)** | Holland 16th St | On Site | Apr 02 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Intern, Data Analyst and Support](https://jobright.ai/jobs/info/69cef2c3398fb071abf8ad3d?utm_campaign=1066&utm_source=git)** | CA.QC.Montréal.455 boul. René-Lévesque Ouest | Hybrid | Apr 02 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69ceeefe891d7b11cfcce622?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Apr 02 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/69cee78c54f00230c6d04bfb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
 | **[DEPT®](https://www.deptagency.com)** | **[Principal, Data Analyst - Engineering - US - Freelancer / Digital Products Team](https://jobright.ai/jobs/info/69cee720398fb071abf8a980?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69cd8014891d7b11cfcb9923?utm_campaign=1066&utm_source=git)** | La Jolla, California, United States | On Site | Apr 01 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Kannada & English Required](https://jobright.ai/jobs/info/69ccef03891d7b11cfcb50e5?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | Apr 01 |
 | **[Primerica](https://www.primerica.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/69cd7240398fb071abf75321?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 01 |
-| **[Kelvolta](https://kelvolta.com/)** | **[Now Recruiting — AI and Data Science Unpaid Internship — Kelvolta (Energy Tech)](https://jobright.ai/jobs/info/69cda3d8cfdc6132f941e1e2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 01 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd665d366bb95ba54fb58b?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69cd664ecfdc6132f94181cf?utm_campaign=1066&utm_source=git)** | Remote, United States | Remote | Apr 01 |
-| **[Protagonist](http://www.protagonist.io)** | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd6000891d7b11cfcb820f?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
