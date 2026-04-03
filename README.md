@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/68ccd92b77add66568aba6b3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| ↳ | **[Quantitative Sports Researcher – Graduate Hire](https://jobright.ai/jobs/info/69c4a1a233eecf31079506fa?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 03 |
+| ↳ | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69cf87db891d7b11cfcd4740?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cebe72846f0b04af67cab3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Internship - Cumulative Impact Resource Library.](https://jobright.ai/jobs/info/69cf7c8b398fb071abf907a8?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 03 |
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/69cf76b554f00230c6d0a729?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 03 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 02 |
@@ -83,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Bioinformatics Associate, Oncology](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d32?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf02bdcdb525785fb9dfc0?utm_campaign=1066&utm_source=git)** | US-California-Palo Alto | On Site | Apr 02 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
-| ↳ | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
+| ↳ | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69cefae4cfdc6132f942ea5d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69cef2cc398fb071abf8ad55?utm_campaign=1066&utm_source=git)** | Holland 16th St | On Site | Apr 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 02 |
 | **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 02 |
 | **[SAIC](http://www.saic.com)** | **[Intern III](https://jobright.ai/jobs/info/69ce324a366bb95ba5508e1c?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer intern - Bioinformatics and Proteomics](https://jobright.ai/jobs/info/69ce0161891d7b11cfcc3ed6?utm_campaign=1066&utm_source=git)** | Home, KS | Hybrid | Apr 01 |
-| **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69cded2a891d7b11cfcc1beb?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, SHE&S Data & Analytics](https://jobright.ai/jobs/info/69cde897891d7b11cfcc1765?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
-| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Data Analytical Intern](https://jobright.ai/jobs/info/69cde238398fb071abf7d81d?utm_campaign=1066&utm_source=git)** | Beijing, Beijing | On Site | Apr 01 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Summer 2026 - Orlando, FL](https://jobright.ai/jobs/info/69cde0d0398fb071abf7d6eb?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
