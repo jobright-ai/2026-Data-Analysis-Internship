@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 04 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d1200d0b098b7a6707fa63?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431853?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3ea5cdb525785fba0a4b?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - AI & Retail Forecast Analyst](https://jobright.ai/jobs/info/69cf3dab366bb95ba5514a78?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
-| ↳ | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3daa366bb95ba5514a77?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Data Science](https://jobright.ai/jobs/info/69cf34c7398fb071abf8d8b6?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
