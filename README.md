@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 04 |
 | **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf279854f00230c6d06d35?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 04 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/69993d96e0bddb6acac853ed?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
 | **[GIC](https://www.gic.com.sg)** | **[Data Analytics Internship (Private Equity - July 2026 Start)](https://jobright.ai/jobs/info/69b465f0569738374139247e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm, Analytics - LIC](https://jobright.ai/jobs/info/69d0f33f891d7b11cfce0e28?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 04 |
+| **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69b466ae569738374139260d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b4caea569738374139ba5f?utm_campaign=1066&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d0cb2e0b098b7a6707db73?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Data & Insights Analysis](https://jobright.ai/jobs/info/69d0c916cdb525785fbae9e6?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Remote | Apr 04 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 03 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69d01fbbcdb525785fba77b7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Remote | Apr 03 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d01fb3cfdc6132f943870a?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d0f9c3cdb525785fbafd88?utm_campaign=1066&utm_source=git)** | United States, New York, New York | On Site | Apr 03 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Data Analysis Intern](https://jobright.ai/jobs/info/69d01a28cdb525785fba75ab?utm_campaign=1066&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Apr 03 |
 | **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d01983891d7b11cfcd88dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69d0092b0b098b7a67075b1a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - AI & Retail Forecast Analyst](https://jobright.ai/jobs/info/69cf1400366bb95ba55128ff?utm_campaign=1066&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 02 |
 | ↳ | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf13ff366bb95ba55128f4?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 02 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Human Insights Intern](https://jobright.ai/jobs/info/69cf10bfcfdc6132f942f65b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cf0f52366bb95ba55122df?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Apr 02 |
-| **[Town Pump Company](https://www.townpump.com/)** | **[IT DATA ANALYST INTERN](https://jobright.ai/jobs/info/69d06210366bb95ba551dc6c?utm_campaign=1066&utm_source=git)** | Butte, MT | On Site | Apr 02 |
-| **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf0b41398fb071abf8bc27?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
