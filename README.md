@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d18c56366bb95ba5526ffa?utm_campaign=1066&utm_source=git)** | High Ridge, MO | On Site | Apr 04 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Digital Banking Analyst Intern](https://jobright.ai/jobs/info/69d185750b098b7a6708205b?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 04 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
+| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Apr 04 |
+| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d1200d0b098b7a6707fa63?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69d050f3366bb95ba551d761?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Hybrid | Apr 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk & Controls – AI Graduate Analyst](https://jobright.ai/jobs/info/697a93bcf6fc293b0a2c7534?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfd550891d7b11cfcd6449?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
+| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/69cf76b554f00230c6d0a729?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 03 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cf456a398fb071abf8e576?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
-| **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 02 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431854?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431853?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
