@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b4caea569738374139ba5f?utm_campaign=1066&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d0cb2e0b098b7a6707db73?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Data & Insights Analysis](https://jobright.ai/jobs/info/69d0c916cdb525785fbae9e6?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Remote | Apr 04 |
@@ -113,12 +114,11 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69d050f3366bb95ba551d761?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Hybrid | Apr 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk & Controls – AI Graduate Analyst](https://jobright.ai/jobs/info/697a93bcf6fc293b0a2c7534?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfd550891d7b11cfcd6449?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
+| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d07601cdb525785fbaa7c9?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966c99e0bddb6acac4e3af?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Apr 03 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69c8faac1b5ad028873974c7?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 03 |
