@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trident](https://www.tridsys.com/)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d075a0891d7b11cfcdb910?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - CSTS](https://jobright.ai/jobs/info/69d0691e891d7b11cfcdb39c?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 03 |
 | **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Senior Business Intelligence and Data Analyst](https://jobright.ai/jobs/info/69d06917891d7b11cfcdb396?utm_campaign=1066&utm_source=git)** | Huntington, WV | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence and Analytics (Latin America)](https://jobright.ai/jobs/info/69d068e7cfdc6132f943b16b?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Avid Performance System (APS) Analyst](https://jobright.ai/jobs/info/69d046ffcfdc6132f943a3c0?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Apr 03 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Data Analyst II](https://jobright.ai/jobs/info/69d03ff0cfdc6132f9439c6e?utm_campaign=1066&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Technical Intern - Benchmarking Team](https://jobright.ai/jobs/info/69d03ec4cfdc6132f9439c3d?utm_campaign=1066&utm_source=git)** | South Plainfield, NJ | Hybrid | Apr 03 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Avid Performance System (APS) Analyst](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc56?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Apr 03 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69d03bf90b098b7a67077c44?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Shopper Insights](https://jobright.ai/jobs/info/69d03be4cdb525785fba8b75?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d07601cdb525785fbaa7c9?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
 | **[ALO](https://www.aloyoga.com/)** | **[BI Reporting & Visualization Intern](https://jobright.ai/jobs/info/69966c99e0bddb6acac4e3af?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Apr 03 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69c8faac1b5ad028873974c7?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf02bdcdb525785fb9dfc0?utm_campaign=1066&utm_source=git)** | US-California-Palo Alto | On Site | Apr 02 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
-| ↳ | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
