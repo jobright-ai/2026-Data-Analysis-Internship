@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Social Media Data Analytics and AI Integration Intern - summer 2026](https://jobright.ai/jobs/info/69d059b0366bb95ba551d995?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
+| **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Data Analyst Intern](https://jobright.ai/jobs/info/69d050e2cfdc6132f943a705?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d04d5454f00230c6d11264?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Trident](https://www.tridsys.com/)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d04c4c0b098b7a670786db?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69cefae4cfdc6132f942ea5d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69cef2cc398fb071abf8ad55?utm_campaign=1066&utm_source=git)** | Holland 16th St | On Site | Apr 02 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Intern, Data Analyst and Support](https://jobright.ai/jobs/info/69cef2c3398fb071abf8ad3d?utm_campaign=1066&utm_source=git)** | CA.QC.Montréal.455 boul. René-Lévesque Ouest | Hybrid | Apr 02 |
-| **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69ceeefe891d7b11cfcce622?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Apr 02 |
-| **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/69cee78c54f00230c6d04bfb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
