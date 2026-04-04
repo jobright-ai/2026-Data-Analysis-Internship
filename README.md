@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - CSTS](https://jobright.ai/jobs/info/69d0691e891d7b11cfcdb39c?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 03 |
+| **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Senior Business Intelligence and Data Analyst](https://jobright.ai/jobs/info/69d06917891d7b11cfcdb396?utm_campaign=1066&utm_source=git)** | Huntington, WV | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence and Analytics (Latin America)](https://jobright.ai/jobs/info/69d068e7cfdc6132f943b16b?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Global Social Media Data Analytics and AI Integration Intern - summer 2026](https://jobright.ai/jobs/info/69d059b0366bb95ba551d995?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Apr 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 03 |
 | **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 03 |
@@ -77,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Ophir](http://www.ophir.com)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d03179891d7b11cfcd9aaf?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Analytics & Technology](https://jobright.ai/jobs/info/69d02a9c366bb95ba551c2ae?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Apr 03 |
 | ↳ | **[Intern, Analytics & Technology](https://jobright.ai/jobs/info/69d02a9254f00230c6d0fe31?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Apr 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d029b3cdb525785fba7cb0?utm_campaign=1066&utm_source=git)** | United States, New York, New York | On Site | Apr 03 |
-| ↳ | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d029a3891d7b11cfcd8fb8?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 03 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d029a3891d7b11cfcd8fb8?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 03 |
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Data Analysis Intern](https://jobright.ai/jobs/info/69d02468891d7b11cfcd8dae?utm_campaign=1066&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 03 |
 | **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd98524828227293ffd448?utm_campaign=1066&utm_source=git)** | Elmhurst | On Site | Apr 03 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf13ff366bb95ba55128f4?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 02 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Human Insights Intern](https://jobright.ai/jobs/info/69cf10bfcfdc6132f942f65b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cf0f52366bb95ba55122df?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Apr 02 |
+| **[Town Pump Company](https://www.townpump.com/)** | **[IT DATA ANALYST INTERN](https://jobright.ai/jobs/info/69d06210366bb95ba551dc6c?utm_campaign=1066&utm_source=git)** | Butte, MT | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf0b41398fb071abf8bc27?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 02 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69cf9fa5366bb95ba5517b7a?utm_campaign=1066&utm_source=git)** | Larimer County, CO | Hybrid | Apr 02 |
 | **[Ripple](http://ripple.com)** | **[Data Analyst Intern, GTreasury (Summer 2026)](https://jobright.ai/jobs/info/69cf06aa398fb071abf8bb37?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Apr 02 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Bioinformatics Associate, Oncology](https://jobright.ai/jobs/info/69cf051d54f00230c6d05d32?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf02bdcdb525785fb9dfc0?utm_campaign=1066&utm_source=git)** | US-California-Palo Alto | On Site | Apr 02 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
-| ↳ | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 02 |
-| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69cefae4cfdc6132f942ea5d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 02 |
-| **[Gentex Corporation](http://www.gentex.com)** | **[Corporate Forecasting Data Analyst 2026 Summer Intern](https://jobright.ai/jobs/info/69cef2cc398fb071abf8ad55?utm_campaign=1066&utm_source=git)** | Holland 16th St | On Site | Apr 02 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69cf1f2354f00230c6d06942?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
+| ↳ | **[Part-Time Research Assistant - SEAREC Intern I - Grab Lab](https://jobright.ai/jobs/info/69cf1c5f398fb071abf8c642?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
