@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 04 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69d168a80b098b7a670817a5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 04 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship -Business Intelligence Analyst](https://jobright.ai/jobs/info/69d03bdb366bb95ba551cbdf?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship -Business Intelligence Analyst](https://jobright.ai/jobs/info/69d031dc0b098b7a6707787b?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Ophir](http://www.ophir.com)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d03179891d7b11cfcd9aaf?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 03 |
-| **[Delta-Montrose Electric Association](https://www.dmea.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d0d7eccdb525785fbaf05f?utm_campaign=1066&utm_source=git)** | Montrose,CO,US | On Site | Apr 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Analytics & Technology](https://jobright.ai/jobs/info/69d02a9c366bb95ba551c2ae?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | Apr 03 |
 | ↳ | **[Intern, Analytics & Technology](https://jobright.ai/jobs/info/69d02a9254f00230c6d0fe31?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Apr 03 |
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431854?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 02 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/69cf3faacfdc6132f9431853?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Construction Data & Analytics Intern](https://jobright.ai/jobs/info/69cf3ea5cdb525785fba0a4b?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Apr 02 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - AI & Retail Forecast Analyst](https://jobright.ai/jobs/info/69cf3dab366bb95ba5514a78?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
