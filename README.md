@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GIC](https://www.gic.com.sg)** | **[Data Analytics Internship (Private Equity - July 2026 Start)](https://jobright.ai/jobs/info/69b465f0569738374139247e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - eComm, Analytics - LIC](https://jobright.ai/jobs/info/69d0f33f891d7b11cfce0e28?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[CI-Ops Information Analyst Intern](https://jobright.ai/jobs/info/69b4caea569738374139ba5f?utm_campaign=1066&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d0cb2e0b098b7a6707db73?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
@@ -94,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 03 |
 | **[Reinvestment Fund](http://www.reinvestment.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69d01fbbcdb525785fba77b7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Remote | Apr 03 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d01fb3cfdc6132f943870a?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d09877891d7b11cfcdce9e?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 03 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d0f9c3cdb525785fbafd88?utm_campaign=1066&utm_source=git)** | United States, New York, New York | On Site | Apr 03 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Data Analysis Intern](https://jobright.ai/jobs/info/69d01a28cdb525785fba75ab?utm_campaign=1066&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Apr 03 |
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d01983891d7b11cfcd88dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69d0092b0b098b7a67075b1a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Town Pump Company](https://www.townpump.com/)** | **[IT DATA ANALYST INTERN](https://jobright.ai/jobs/info/69d06210366bb95ba551dc6c?utm_campaign=1066&utm_source=git)** | Butte, MT | On Site | Apr 02 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf0b41398fb071abf8bc27?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 02 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69cf9fa5366bb95ba5517b7a?utm_campaign=1066&utm_source=git)** | Larimer County, CO | Hybrid | Apr 02 |
-| **[Ripple](http://ripple.com)** | **[Data Analyst Intern, GTreasury (Summer 2026)](https://jobright.ai/jobs/info/69cf06aa398fb071abf8bb37?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Apr 02 |
-| **[Greenlight](https://greenlight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69cf0537891d7b11cfccf552?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
