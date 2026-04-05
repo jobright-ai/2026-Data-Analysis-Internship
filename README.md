@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d270d40b098b7a67088c01?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 05 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/6999245fce78e77b4fddd117?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d21e6d0b098b7a6708730a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 05 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d18c56366bb95ba5526ffa?utm_campaign=1066&utm_source=git)** | High Ridge, MO | On Site | Apr 04 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Digital Banking Analyst Intern](https://jobright.ai/jobs/info/69d185750b098b7a6708205b?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
