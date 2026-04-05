@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/699934d7ce78e77b4fddee1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Research Intern](https://jobright.ai/jobs/info/69b4be2406c1ba00c54633dd?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 04 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699924de81476f6176b1a879?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 04 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Apr 04 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69d050f3366bb95ba551d761?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Hybrid | Apr 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Operational Risk & Controls – AI Graduate Analyst](https://jobright.ai/jobs/info/697a93bcf6fc293b0a2c7534?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - US Remote](https://jobright.ai/jobs/info/69cfd550891d7b11cfcd6449?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
-| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c0b098b7a67073e5c?utm_campaign=1066&utm_source=git)** | California - Palo Alto | On Site | Apr 03 |
+| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfd49c54f00230c6d0c8ac?utm_campaign=1066&utm_source=git)** | Washington - Seattle | On Site | Apr 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69beca6c48282272930183ec?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Apr 03 |
 | ↳ | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 03 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Experience Data Analyst](https://jobright.ai/jobs/info/69964bcfce78e77b4fda4a4d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cebe72846f0b04af67cab3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Altera Digital Health ANZ](http://www.alterahealth.com)** | **[Health Informatics Intern](https://jobright.ai/jobs/info/69d107c2cfdc6132f9441300?utm_campaign=1066&utm_source=git)** | Saskatchewan, Canada | On Site | Apr 03 |
-| **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/69cf76b554f00230c6d0a729?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
