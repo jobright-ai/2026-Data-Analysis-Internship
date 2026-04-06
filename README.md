@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d3397a891d7b11cfceeb46?utm_campaign=1066&utm_source=git)** | Lexington, MA | Remote | Apr 05 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 05 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 05 |
 | **[Avant](https://www.avant.com)** | **[Data & Analytics Platform Summer Internship](https://jobright.ai/jobs/info/69a40d7b0da45516f16d184b?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69d0a492cfdc6132f943d7e4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Administrative (Finance: Data Analysis and Automation)](https://jobright.ai/jobs/info/69d0a484cdb525785fbac7e4?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Apr 03 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Data Analyst Intern](https://jobright.ai/jobs/info/69d09f5acdb525785fbac43b?utm_campaign=1066&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
+| **[Soqquadro Italiano](http://www.soqquadroitaliano.it)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69d3386654f00230c6d2575e?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence and Analytics (Latin America)](https://jobright.ai/jobs/info/69d08f24cdb525785fbab81f?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Data & Insights Analysis](https://jobright.ai/jobs/info/69d07fb2cfdc6132f943bfcb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Trident](https://www.tridsys.com/)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d075a0891d7b11cfcdb910?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cfb3e154f00230c6d0bd6b?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
 | ↳ | **[Intern - Economics, Return And Recommerce Economics Intelligence](https://jobright.ai/jobs/info/69cfb282366bb95ba5518299?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 03 |
 | **[Weston & Sampson](http://westonandsampson.com)** | **[Field Data Collection Specialist (Temporary/Intern)](https://jobright.ai/jobs/info/699656a7ce78e77b4fda5b61?utm_campaign=1066&utm_source=git)** | Reading, MA | On Site | Apr 03 |
-| **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | On Site | Apr 03 |
-| **[KLA](https://www.kla.com)** | **[Analytics Actuarial Intern](https://jobright.ai/jobs/info/696953bcf25a38006697e651?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
