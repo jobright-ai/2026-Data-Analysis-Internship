@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Computational Pathology and AI](https://jobright.ai/jobs/info/69d41bcfcdb525785fbc6216?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d413eccfdc6132f9457523?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
+| **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d413c754f00230c6d2dd71?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69d408fbcfdc6132f94570d8?utm_campaign=1066&utm_source=git)** | Ormond Beach, FL | On Site | Apr 06 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d408a6e63cea7a8b655e97?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4089754f00230c6d2d6ed?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
@@ -138,10 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Data Analyst Intern](https://jobright.ai/jobs/info/69d050e2cfdc6132f943a705?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 03 |
 | **[NAPA Auto Parts](http://napaonline.com)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d04d5454f00230c6d11264?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69d04ab6891d7b11cfcda809?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Remote | Apr 03 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Avid Performance System (APS) Analyst](https://jobright.ai/jobs/info/69d046ffcfdc6132f943a3c0?utm_campaign=1066&utm_source=git)** | Tustin, California | On Site | Apr 03 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Data Analyst II](https://jobright.ai/jobs/info/69d03ff0cfdc6132f9439c6e?utm_campaign=1066&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Avid Performance System (APS) Analyst](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc56?utm_campaign=1066&utm_source=git)** | Tustin, CA | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Shopper Insights](https://jobright.ai/jobs/info/69d03be4cdb525785fba8b75?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship -Business Intelligence Analyst](https://jobright.ai/jobs/info/69d03bdb366bb95ba551cbdf?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship -Business Intelligence Analyst](https://jobright.ai/jobs/info/69d031dc0b098b7a6707787b?utm_campaign=1066&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 03 |
 | **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bd98524828227293ffd448?utm_campaign=1066&utm_source=git)** | Elmhurst | On Site | Apr 03 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 03 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d01fb3cfdc6132f943870a?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 03 |
 | **[NAPA Auto Parts](http://napaonline.com)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69d01983891d7b11cfcd88dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69d0092b0b098b7a67075b1a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 03 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d00228cfdc6132f9437820?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/69cfff7ecdb525785fba6792?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 03 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69cfff28366bb95ba551a70e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
