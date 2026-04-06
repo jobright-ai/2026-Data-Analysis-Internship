@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Research Assistant (ETS) / Temporary](https://jobright.ai/jobs/info/69cec43a54f00230c6d02f43?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 04 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d18c56366bb95ba5526ffa?utm_campaign=1066&utm_source=git)** | High Ridge, MO | On Site | Apr 04 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Digital Banking Analyst Intern](https://jobright.ai/jobs/info/69d185750b098b7a6708205b?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | On Site | Apr 03 |
 | **[KLA](https://www.kla.com)** | **[Analytics Actuarial Intern](https://jobright.ai/jobs/info/696953bcf25a38006697e651?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 03 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[GIS Intern](https://jobright.ai/jobs/info/69cf9709cdb525785fba382f?utm_campaign=1066&utm_source=git)** | Rockwall, TX | On Site | Apr 03 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Intern, Data Analyst and Support](https://jobright.ai/jobs/info/69cf8f87366bb95ba55176e2?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
