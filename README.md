@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4e969e63cea7a8b65dbd3?utm_campaign=1066&utm_source=git)** | 533 S. 3rd Street, Minneapolis, MN, 55415, US | On Site | Apr 07 |
 | **[T1D Exchange](http://www.t1dexchange.org)** | **[QI Summer Internship](https://jobright.ai/jobs/info/69d4bcdd366bb95ba554096e?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 07 |
 | **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4ab1054f00230c6d33676?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Apr 06 |
 | ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d495bacfdc6132f945c73b?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Apr 06 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Riverside Research](http://riversideresearch.org)** | **[Russian Language Research Analyst - Intern](https://jobright.ai/jobs/info/69d3eb8a891d7b11cfcf5a11?utm_campaign=1066&utm_source=git)** | Fairborn, OH, US | On Site | Apr 06 |
 | **[DNV](https://www.dnv.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d3eb6acfdc6132f9455cb2?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Apr 06 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69d3eb4154f00230c6d2c578?utm_campaign=1066&utm_source=git)** |  Stamford, Connecticut | Hybrid | Apr 06 |
-| **[Keenova](https://www.keenova.com)** | **[Data Warehouse Project Management Intern](https://jobright.ai/jobs/info/699cfe5bce78e77b4fe1c25a?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Apr 06 |
 | **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d3e04b366bb95ba5538152?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Research Intern](https://jobright.ai/jobs/info/69d3dab6891d7b11cfcf4b74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Data Analytics & Dashboard Development](https://jobright.ai/jobs/info/69d3daa6cdb525785fbc3aa7?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 06 |
