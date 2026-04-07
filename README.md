@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d578efe63cea7a8b6618e6?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d57813891d7b11cfd02324?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d577d4706f771673ba365c?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Apr 07 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d574facfdc6132f9462802?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d574f3e63cea7a8b661767?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 07 |
+| **[Krause Group](https://www.krausegroup.com)** | **[Data Analyst Intern (M&A)](https://jobright.ai/jobs/info/69d574dbcdb525785fbd1022?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d574ac891d7b11cfd02242?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 07 |
+| **[S&P Global](https://www.spglobal.com)** | **[Data Operations Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69d57367cdb525785fbd0f92?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d571f6891d7b11cfd020a5?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 07 |
+| **[Krause Group](https://www.krausegroup.com)** | **[Data Analyst Intern (Finance)](https://jobright.ai/jobs/info/69d571dc706f771673ba3415?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| **[Kum & Go](https://www.kumandgo.com/)** | **[Data Analyst Intern (Finance)](https://jobright.ai/jobs/info/69d570eacdb525785fbd0ed5?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| ↳ | **[Data Analyst Intern (M&A)](https://jobright.ai/jobs/info/69d570d9e63cea7a8b661609?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d56b33891d7b11cfd01cfe?utm_campaign=1066&utm_source=git)** | White Plains, NY | Hybrid | Apr 07 |
 | **[Relay](https://relaypro.com)** | **[Sales Data & Analytics Intern](https://jobright.ai/jobs/info/69d56922cdb525785fbd0a1c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d5603ccfdc6132f9461b57?utm_campaign=1066&utm_source=git)** | New York - 300 Vesey Street | On Site | Apr 07 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3efd6891d7b11cfcf5bc2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Technology & Analytics](https://jobright.ai/jobs/info/69d3eb8ccdb525785fbc4746?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Apr 06 |
 | **[DNV](https://www.dnv.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d3eb6acfdc6132f9455cb2?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Apr 06 |
-| **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69d3eb4154f00230c6d2c578?utm_campaign=1066&utm_source=git)** |  Stamford, Connecticut | Hybrid | Apr 06 |
-| **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d3e04b366bb95ba5538152?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Research Intern](https://jobright.ai/jobs/info/69d3dab6891d7b11cfcf4b74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
-| **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Data Analytics & Dashboard Development](https://jobright.ai/jobs/info/69d3daa6cdb525785fbc3aa7?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 06 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Data Science Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3d5ed891d7b11cfcf4821?utm_campaign=1066&utm_source=git)** | Boston-MA | On Site | Apr 06 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d3c8d7366bb95ba5536a87?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 06 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Data Science Research Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3c7c854f00230c6d29f69?utm_campaign=1066&utm_source=git)** | Boston-MA | On Site | Apr 06 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d5494bcfdc6132f9460e86?utm_campaign=1066&utm_source=git)** | Baltimore | On Site | Apr 06 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Development Graduate Intern](https://jobright.ai/jobs/info/69d3acc854f00230c6d29182?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
-| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 05 |
-| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 05 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
