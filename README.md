@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T1D Exchange](http://www.t1dexchange.org)** | **[QI Summer Internship](https://jobright.ai/jobs/info/69d4bcdd366bb95ba554096e?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 07 |
 | **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4ab1054f00230c6d33676?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Apr 06 |
 | ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d495bacfdc6132f945c73b?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Apr 06 |
 | ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4958e891d7b11cfcfbfa8?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Apr 06 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d451ee891d7b11cfcf93cd?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d45108cdb525785fbc8383?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d450d2366bb95ba553c6a4?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d44e3e891d7b11cfcf92b1?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
 | **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d44c0ecdb525785fbc820a?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d44affcdb525785fbc817a?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d44af5891d7b11cfcf916e?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d413eccfdc6132f9457523?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69d408fbcfdc6132f94570d8?utm_campaign=1066&utm_source=git)** | Ormond Beach, FL | On Site | Apr 06 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4089754f00230c6d2d6ed?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
 | **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d40895e63cea7a8b655e4e?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Apr 06 |
 | **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d405c254f00230c6d2d64c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Analytics & BI Intern, D2C (September to December)](https://jobright.ai/jobs/info/69d3fcc5cfdc6132f94565bf?utm_campaign=1066&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
+| **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
