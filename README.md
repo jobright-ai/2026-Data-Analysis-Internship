@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d495bacfdc6132f945c73b?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Apr 06 |
+| ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4958e891d7b11cfcfbfa8?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Apr 06 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 06 |
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d4811754f00230c6d31dd4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 06 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 06 |
@@ -91,9 +93,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d4247d54f00230c6d2e82e?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d42472cfdc6132f9458077?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d421d8cfdc6132f9457f2a?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Data Analytics](https://jobright.ai/jobs/info/69d05f9e366bb95ba551dafc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69d41f47cdb525785fbc688e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d41f2ccfdc6132f9457e41?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
+| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/69d05f9e366bb95ba551dafc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Mesilla Valley Transportation](https://m-v-t.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d41dc0366bb95ba553ac46?utm_campaign=1066&utm_source=git)** | El Paso, TX | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d41d9ecdb525785fbc6821?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69d41cece63cea7a8b656d98?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[DNV](https://www.dnv.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d3eb6acfdc6132f9455cb2?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Apr 06 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69d3eb4154f00230c6d2c578?utm_campaign=1066&utm_source=git)** |  Stamford, Connecticut | Hybrid | Apr 06 |
 | **[Keenova](https://www.keenova.com)** | **[Data Warehouse Project Management Intern](https://jobright.ai/jobs/info/699cfe5bce78e77b4fe1c25a?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Apr 06 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Analyst Student](https://jobright.ai/jobs/info/69d3e390cfdc6132f9455300?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d3e04b366bb95ba5538152?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Research Intern](https://jobright.ai/jobs/info/69d3dab6891d7b11cfcf4b74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Data Analytics & Dashboard Development](https://jobright.ai/jobs/info/69d3daa6cdb525785fbc3aa7?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Apr 04 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
