@@ -67,8 +67,7 @@ For a complete list, click the following sortable link below:
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d45b04366bb95ba553cdf0?utm_campaign=1066&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Apr 06 |
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d45237cdb525785fbc83cc?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Apr 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d451ee891d7b11cfcf93cd?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d45108cdb525785fbc8383?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
-| **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d450d2366bb95ba553c6a4?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
+| ↳ | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d450d2366bb95ba553c6a4?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
 | **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d44c0ecdb525785fbc820a?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d44affcdb525785fbc817a?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d44af5891d7b11cfcf916e?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 04 |
+| **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf279854f00230c6d06d35?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
