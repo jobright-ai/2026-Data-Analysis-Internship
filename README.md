@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 05 |
 | **[Avant](https://www.avant.com)** | **[Data & Analytics Platform Summer Internship](https://jobright.ai/jobs/info/69a40d7b0da45516f16d184b?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/69d1d118cdb525785fbb5832?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d270d40b098b7a67088c01?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 05 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/6999245fce78e77b4fddd117?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Apr 04 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
