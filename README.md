@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Research Intern](https://jobright.ai/jobs/info/69d53e0f706f771673ba18b4?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | Hybrid | Apr 07 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
 | **[Centific](https://www.centific.com)** | **[Associate Data Evaluator](https://jobright.ai/jobs/info/69b098d274950064509731e4?utm_campaign=1066&utm_source=git)** | Redmond, WA | Remote | Apr 07 |
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69d52638366bb95ba5542d10?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 07 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d36f22891d7b11cfcf0e5a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 05 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d3397a891d7b11cfceeb46?utm_campaign=1066&utm_source=git)** | Lexington, MA | Remote | Apr 05 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 05 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 05 |
 | **[Avant](https://www.avant.com)** | **[Data & Analytics Platform Summer Internship](https://jobright.ai/jobs/info/69a40d7b0da45516f16d184b?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 05 |
