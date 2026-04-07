@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 06 |
+| **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d4811754f00230c6d31dd4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 06 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 06 |
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d45b04366bb95ba553cdf0?utm_campaign=1066&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Apr 06 |
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d45237cdb525785fbc83cc?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Apr 06 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d4247d54f00230c6d2e82e?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d42472cfdc6132f9458077?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d421d8cfdc6132f9457f2a?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/69d05f9e366bb95ba551dafc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
+| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Data Analytics](https://jobright.ai/jobs/info/69d05f9e366bb95ba551dafc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69d41f47cdb525785fbc688e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d41f2ccfdc6132f9457e41?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
 | **[Mesilla Valley Transportation](https://m-v-t.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d41dc0366bb95ba553ac46?utm_campaign=1066&utm_source=git)** | El Paso, TX | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Data Science, AI and Business Analytics](https://jobright.ai/jobs/info/69c8fab283ea553769feddc8?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
-| **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 04 |
-| **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf279854f00230c6d06d35?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
