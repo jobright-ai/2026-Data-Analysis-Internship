@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
+| **[Centific](https://www.centific.com)** | **[Associate Data Evaluator](https://jobright.ai/jobs/info/69b098d274950064509731e4?utm_campaign=1066&utm_source=git)** | Redmond, WA | Remote | Apr 07 |
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineering Intern](https://jobright.ai/jobs/info/69d52638366bb95ba5542d10?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 07 |
 | **[Heart of Ohio Family Health](https://www.heartofohiofamilyhealth.org)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d52621cdb525785fbce978?utm_campaign=1066&utm_source=git)** | Capital Park               - Columbus, OH 43224 | On Site | Apr 07 |
 | **[Nisa Foundation](https://www.nisafoundation.ca)** | **[Centralized Nisa Line Data Evaluation Intern](https://jobright.ai/jobs/info/69d51dd8366bb95ba554297f?utm_campaign=1066&utm_source=git)** | Canada | Remote | Apr 07 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69d5143ecfdc6132f945f8fa?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69cccb6bcdb525785fb82e89?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT/Business Intelligence Intern](https://jobright.ai/jobs/info/69b854fb56973837413d7f38?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Apr 07 |
+| **[S&P Global](https://www.spglobal.com)** | **[Data Operations Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69d532a5cdb525785fbceedd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69cca2a5366bb95ba54f4522?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern Associate Data Analyst](https://jobright.ai/jobs/info/69d4fc96706f771673b9ff04?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Apr 07 |
@@ -134,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Development Graduate Intern](https://jobright.ai/jobs/info/69d3acc854f00230c6d29182?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d36f22891d7b11cfcf0e5a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69c84a6daa3c2c1995e1e154?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69c91676b773006330b84074?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 05 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/69d3397a891d7b11cfceeb46?utm_campaign=1066&utm_source=git)** | Lexington, MA | Remote | Apr 05 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 04 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69b4c561569738374139b762?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 04 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 04 |
-| **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/6999358ce0bddb6acac84581?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 04 |
-| ↳ | **[Data Science Analyst, Intern](https://jobright.ai/jobs/info/699934d7ce78e77b4fddee1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
