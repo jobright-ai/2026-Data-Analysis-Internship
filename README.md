@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d495bacfdc6132f945c73b?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Apr 06 |
+| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4ab1054f00230c6d33676?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Apr 06 |
+| ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d495bacfdc6132f945c73b?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Apr 06 |
 | ↳ | **[Data Scientist Intern – GenAI & ML Research (Summer 2026)](https://jobright.ai/jobs/info/69d4958e891d7b11cfcfbfa8?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Apr 06 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 06 |
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d4811754f00230c6d31dd4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 06 |
@@ -105,8 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d413eccfdc6132f9457523?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69d408fbcfdc6132f94570d8?utm_campaign=1066&utm_source=git)** | Ormond Beach, FL | On Site | Apr 06 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d408a6e63cea7a8b655e97?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4089754f00230c6d2d6ed?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4089754f00230c6d2d6ed?utm_campaign=1066&utm_source=git)** | Coppell, TX | On Site | Apr 06 |
 | **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d40895e63cea7a8b655e4e?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Apr 06 |
 | **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d405c254f00230c6d2d64c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Analytics & BI Intern, D2C (September to December)](https://jobright.ai/jobs/info/69d3fcc5cfdc6132f94565bf?utm_campaign=1066&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
