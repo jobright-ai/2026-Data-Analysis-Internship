@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferris State University College of Business](http://ferris.edu/business)** | **[Research Assistant - Environmental Data Analytics (Student Position)](https://jobright.ai/jobs/info/69d588f7891d7b11cfd02bb7?utm_campaign=1066&utm_source=git)** | Big Rapids, MI | On Site | Apr 07 |
+| **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Transit Asset Mgmt](https://jobright.ai/jobs/info/69d58403cdb525785fbd1802?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant, Obstetrics and Gynaecology](https://jobright.ai/jobs/info/69ccace4e1921223acc7badd?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
+| **[Relay](https://relaypro.com)** | **[Sales Data & Analytics Intern](https://jobright.ai/jobs/info/69d581d5891d7b11cfd028c8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d57fcecdb525785fbd1671?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Apr 07 |
+| **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Frassati Internship - Information Technology](https://jobright.ai/jobs/info/69d57be5891d7b11cfd0257b?utm_campaign=1066&utm_source=git)** | CHICAGO, Illinois, United States | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d578efe63cea7a8b6618e6?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d57813891d7b11cfd02324?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d577d4706f771673ba365c?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Apr 07 |
@@ -70,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Data Analyst Intern (Finance)](https://jobright.ai/jobs/info/69d570eacdb525785fbd0ed5?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | ↳ | **[Data Analyst Intern (M&A)](https://jobright.ai/jobs/info/69d570d9e63cea7a8b661609?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d56b33891d7b11cfd01cfe?utm_campaign=1066&utm_source=git)** | White Plains, NY | Hybrid | Apr 07 |
-| **[Relay](https://relaypro.com)** | **[Sales Data & Analytics Intern](https://jobright.ai/jobs/info/69d56922cdb525785fbd0a1c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d5603ccfdc6132f9461b57?utm_campaign=1066&utm_source=git)** | New York - 300 Vesey Street | On Site | Apr 07 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d56003706f771673ba27d9?utm_campaign=1066&utm_source=git)** | Offsite US | Remote | Apr 07 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 07 |
@@ -132,8 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d4383d54f00230c6d2f183?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d43835cdb525785fbc742f?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d431d0cfdc6132f9458771?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d42d42891d7b11cfcf8104?utm_campaign=1066&utm_source=git)** | Brecksville, OH | On Site | Apr 06 |
-| ↳ | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d42645e63cea7a8b65730e?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d42645e63cea7a8b65730e?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Apr 06 |
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d4260754f00230c6d2ea1e?utm_campaign=1066&utm_source=git)** | US-NC-Wilmington | On Site | Apr 06 |
 | ↳ | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d42548e63cea7a8b6572c9?utm_campaign=1066&utm_source=git)** | Wilmington, NC, US | On Site | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d424e4cdb525785fbc6ba7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d40895e63cea7a8b655e4e?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Apr 06 |
 | **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d405c254f00230c6d2d64c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Analytics & BI Intern, D2C (September to December)](https://jobright.ai/jobs/info/69d3fcc5cfdc6132f94565bf?utm_campaign=1066&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Data Science Research Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3f3f7cfdc6132f945619f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| ↳ | **[Data Science Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3efd6891d7b11cfcf5bc2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Technology & Analytics](https://jobright.ai/jobs/info/69d3eb8ccdb525785fbc4746?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Apr 06 |
-| **[DNV](https://www.dnv.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d3eb6acfdc6132f9455cb2?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
