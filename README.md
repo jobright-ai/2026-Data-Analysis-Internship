@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 07 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d55cf7891d7b11cfd013b9?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 07 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69d55376891d7b11cfd01013?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 07 |
+| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69d5534ccfdc6132f94614c5?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Apr 07 |
+| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69d55349e63cea7a8b660467?utm_campaign=1066&utm_source=git)** | New York - 330 Madison | On Site | Apr 07 |
+| **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d55342366bb95ba5544114?utm_campaign=1066&utm_source=git)** | AF Oshkosh Division Head Office WI | On Site | Apr 07 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69d552eee63cea7a8b6603ca?utm_campaign=1066&utm_source=git)** | Madison, NY | On Site | Apr 07 |
+| **[Trident](https://www.tridsys.com/)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d075a0891d7b11cfcdb910?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 07 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/69ba907f3b74eb1e2c888c8e?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Apr 07 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 | **[National Endowment for Financial Education](http://www.nefe.org/)** | **[Research Intern](https://jobright.ai/jobs/info/69d53e0f706f771673ba18b4?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | Hybrid | Apr 07 |
 | **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69b01b3bdfaeda6ff599695c?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
@@ -141,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Data Science Research Intern, Dept. of Newborn Medicine](https://jobright.ai/jobs/info/69d3c7c854f00230c6d29f69?utm_campaign=1066&utm_source=git)** | Boston-MA | On Site | Apr 06 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d5494bcfdc6132f9460e86?utm_campaign=1066&utm_source=git)** | Baltimore | On Site | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Development Graduate Intern](https://jobright.ai/jobs/info/69d3acc854f00230c6d29182?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d36f22891d7b11cfcf0e5a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 06 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 05 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 05 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/69d1d118cdb525785fbb5832?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/699934e281476f6176b1c0c7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 05 |
 | ↳ | **[Data Science, Intern](https://jobright.ai/jobs/info/6999245fce78e77b4fddd117?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 05 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Research Assistant (ETS) / Temporary](https://jobright.ai/jobs/info/69cec43a54f00230c6d02f43?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 04 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d18c56366bb95ba5526ffa?utm_campaign=1066&utm_source=git)** | High Ridge, MO | On Site | Apr 04 |
-| **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d03ebb54f00230c6d108dd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Enverus](https://www.enverus.com)** | **[Intern - Intelligence - 264](https://jobright.ai/jobs/info/69b441e2569738374138e4e7?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 04 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
