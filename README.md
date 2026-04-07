@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Data Assistant](https://jobright.ai/jobs/info/69d41c58cfdc6132f9457a63?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern-Computational Pathology and AI](https://jobright.ai/jobs/info/69d41bcfcdb525785fbc6216?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d413eccfdc6132f9457523?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
-| **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d413c754f00230c6d2dd71?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69d408fbcfdc6132f94570d8?utm_campaign=1066&utm_source=git)** | Ormond Beach, FL | On Site | Apr 06 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d408a6e63cea7a8b655e97?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69d10affcdb525785fbb063c?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 04 |
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 04 |
+| **[KLA](https://www.kla.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf279854f00230c6d06d35?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
