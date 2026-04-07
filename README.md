@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d43842891d7b11cfcf84f3?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d4408a366bb95ba553c08d?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 06 |
+| **[International Health Alliance](https://ihahealthcare.com)** | **[Global Health Research Internship (Remote - High School)](https://jobright.ai/jobs/info/69d43a9be63cea7a8b65807c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
+| ↳ | **[Clinical & Global Health Research Internship (Remote)](https://jobright.ai/jobs/info/69d43a7754f00230c6d2f7a1?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
+| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d438ee366bb95ba553b7f6?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d438ec366bb95ba553b7e2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
+| ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d43842891d7b11cfcf84f3?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d4383e54f00230c6d2f18f?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[T1D Exchange](http://www.t1dexchange.org)** | **[QI Summer Internship](https://jobright.ai/jobs/info/69d4383d54f00230c6d2f17d?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 06 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d4383d54f00230c6d2f183?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Data & Insights Analysis](https://jobright.ai/jobs/info/69d0c916cdb525785fbae9e6?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Remote | Apr 04 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69d0a492cfdc6132f943d7e4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Administrative (Finance: Data Analysis and Automation)](https://jobright.ai/jobs/info/69d0a484cdb525785fbac7e4?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Apr 03 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Distribution Data Analyst Intern](https://jobright.ai/jobs/info/69d09f5acdb525785fbac43b?utm_campaign=1066&utm_source=git)** | Emeryville, CA | On Site | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Intelligence and Analytics (Latin America)](https://jobright.ai/jobs/info/69d08f24cdb525785fbab81f?utm_campaign=1066&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Data & Insights Analysis](https://jobright.ai/jobs/info/69d07fb2cfdc6132f943bfcb?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Trident](https://www.tridsys.com/)** | **[Supply Chain Data & Reporting Intern](https://jobright.ai/jobs/info/69d075a0891d7b11cfcdb910?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 03 |
-| **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Internship - Cumulative Impact Resource Library.](https://jobright.ai/jobs/info/69d3199e0b098b7a6708be15?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
