@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/69d594bdcdb525785fbd1fa0?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 07 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science Intern - Princeton, NJ](https://jobright.ai/jobs/info/69d5907f366bb95ba5546169?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 07 |
+| **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
+| **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d58ef8cfdc6132f946340d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69d58dd3cfdc6132f94633c1?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
+| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d58c1a891d7b11cfd02e21?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Apr 07 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c09706f771673ba411a?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Apr 07 |
+| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c05366bb95ba5545f76?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Apr 07 |
+| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58bffe63cea7a8b6622f2?utm_campaign=1066&utm_source=git)** | Manassas, VA, US | On Site | Apr 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/69d58bc6cfdc6132f94631cb?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 07 |
+| ↳ | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/69d58bc3891d7b11cfd02c97?utm_campaign=1066&utm_source=git)** | United States, California, Mountain View | On Site | Apr 07 |
+| **[Xylem](https://heimplanet.com/)** | **[Business Operations & Data Analyst Intern](https://jobright.ai/jobs/info/69d58bb7891d7b11cfd02c6c?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina | Hybrid | Apr 07 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Research Assistant - Environmental Data Analytics (Student Position)](https://jobright.ai/jobs/info/69d588f7891d7b11cfd02bb7?utm_campaign=1066&utm_source=git)** | Big Rapids, MI | On Site | Apr 07 |
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Transit Asset Mgmt](https://jobright.ai/jobs/info/69d58403cdb525785fbd1802?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant, Obstetrics and Gynaecology](https://jobright.ai/jobs/info/69ccace4e1921223acc7badd?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
@@ -119,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d4811754f00230c6d31dd4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 06 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 06 |
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d45b04366bb95ba553cdf0?utm_campaign=1066&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Apr 06 |
+| **[Nisa Helpline](https://nisahelpline.com/)** | **[Centralized Nisa Line Data Evaluation Intern](https://jobright.ai/jobs/info/69d58dc5e63cea7a8b6623d7?utm_campaign=1066&utm_source=git)** | Hamilton, ON | Remote | Apr 06 |
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d45237cdb525785fbc83cc?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Apr 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d451ee891d7b11cfcf93cd?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 06 |
 | ↳ | **[Data Science/Analysis Intern](https://jobright.ai/jobs/info/69d450d2366bb95ba553c6a4?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 06 |
@@ -137,24 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d4383d54f00230c6d2f183?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d43835cdb525785fbc742f?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d431d0cfdc6132f9458771?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d42645e63cea7a8b65730e?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Apr 06 |
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d4260754f00230c6d2ea1e?utm_campaign=1066&utm_source=git)** | US-NC-Wilmington | On Site | Apr 06 |
 | ↳ | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d42548e63cea7a8b6572c9?utm_campaign=1066&utm_source=git)** | Wilmington, NC, US | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d424e4cdb525785fbc6ba7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d42492891d7b11cfcf7c10?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d4247d54f00230c6d2e82e?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
 | ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d42472cfdc6132f9458077?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d421d8cfdc6132f9457f2a?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Data Analytics](https://jobright.ai/jobs/info/69d05f9e366bb95ba551dafc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
-| **[Mesilla Valley Transportation](https://m-v-t.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d41dc0366bb95ba553ac46?utm_campaign=1066&utm_source=git)** | El Paso, TX | On Site | Apr 06 |
-| **[PNC](http://www.pnc.com)** | **[Data Scientist - Corporate & Institutional Banking](https://jobright.ai/jobs/info/69d41d9ecdb525785fbc6821?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69d41cece63cea7a8b656d98?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
-| ↳ | **[Fall Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69d41cb154f00230c6d2e57e?utm_campaign=1066&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Data Assistant](https://jobright.ai/jobs/info/69d41c58cfdc6132f9457a63?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Apr 06 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d413eccfdc6132f9457523?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 06 |
-| **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69d408fbcfdc6132f94570d8?utm_campaign=1066&utm_source=git)** | Ormond Beach, FL | On Site | Apr 06 |
-| **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69d40895e63cea7a8b655e4e?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Apr 06 |
-| **[RA Capital Management](http://www.racap.com)** | **[Data Analyst Research Internship](https://jobright.ai/jobs/info/69d405c254f00230c6d2d64c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 06 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Analytics & BI Intern, D2C (September to December)](https://jobright.ai/jobs/info/69d3fcc5cfdc6132f94565bf?utm_campaign=1066&utm_source=git)** | Needham, MA, United States | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
