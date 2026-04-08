@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The California State University](http://www.calstate.edu)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5c228cfdc6132f9465139?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[San José State University](http://www.sjsu.edu/)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5baa8e63cea7a8b663318?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/69d5ba93cdb525785fbd2c60?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Apr 07 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5affe891d7b11cfd03a4b?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Apr 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Worldwide Installments Science & Engineering](https://jobright.ai/jobs/info/69d5afee706f771673ba4dde?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Data Analytics (Oklahoma City)](https://jobright.ai/jobs/info/69d5ac95cdb525785fbd2809?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 07 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d58ef8cfdc6132f946340d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69d58dd3cfdc6132f94633c1?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
-| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
+| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d58c1a891d7b11cfd02e21?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Apr 07 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c09706f771673ba411a?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Apr 07 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c05366bb95ba5545f76?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Health Alliance](https://ihahealthcare.com)** | **[Global Health Research Internship (Remote - High School)](https://jobright.ai/jobs/info/69d43a9be63cea7a8b65807c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | ↳ | **[Clinical & Global Health Research Internship (Remote)](https://jobright.ai/jobs/info/69d43a7754f00230c6d2f7a1?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d438ee366bb95ba553b7f6?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d438ec366bb95ba553b7e2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
-| ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d43842891d7b11cfcf84f3?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d4383e54f00230c6d2f18f?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
