@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forescout Technologies Inc.](http://www.forescout.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/699e540281476f6176b74de6?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
+| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 08 |
 | **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH TRAINEE](https://jobright.ai/jobs/info/69d61a4ee63cea7a8b667b03?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[10/10 Research](1010research.com)** | **[Research Intern - MAPSS University of Chicago](https://jobright.ai/jobs/info/69d617b6706f771673ba978f?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
 | **[LMI](http://www.lmi.org)** | **[Data & Financial Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5fc7d891d7b11cfd07643?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 07 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69d60b6f366bb95ba554b106?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d5e585891d7b11cfd06acb?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Data Analytics (Oklahoma City)](https://jobright.ai/jobs/info/69d5e573891d7b11cfd06a97?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 07 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/69d5e1cbe63cea7a8b665dd9?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 07 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant, Obstetrics and Gynaecology](https://jobright.ai/jobs/info/69ccace4e1921223acc7badd?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
 | **[Relay](https://relaypro.com)** | **[Sales Data & Analytics Intern](https://jobright.ai/jobs/info/69d581d5891d7b11cfd028c8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d57fcecdb525785fbd1671?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Apr 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/69d5fc6ccfdc6132f9467b34?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 07 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Frassati Internship - Information Technology](https://jobright.ai/jobs/info/69d57be5891d7b11cfd0257b?utm_campaign=1066&utm_source=git)** | CHICAGO, Illinois, United States | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d578efe63cea7a8b6618e6?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d57813891d7b11cfd02324?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
