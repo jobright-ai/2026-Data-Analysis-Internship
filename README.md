@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JK Moving Services](http://www.jkmoving.com/)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69d69f8052a5bf5800129da2?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | Apr 08 |
+| **[Gildan](https://gildancorp.com)** | **[Intern, Data Distribution](https://jobright.ai/jobs/info/69d1d4d154f00230c6d1d63d?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 08 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/69d69385706f771673bab8a5?utm_campaign=1066&utm_source=git)** | 1 Continental Drive, Auburn Hills, MI | On Site | Apr 08 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69d5e54c706f771673ba7c97?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d5603ccfdc6132f9461b57?utm_campaign=1066&utm_source=git)** | New York - 300 Vesey Street | On Site | Apr 07 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d56003706f771673ba27d9?utm_campaign=1066&utm_source=git)** | Offsite US | Remote | Apr 07 |
-| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 07 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d55cf7891d7b11cfd013b9?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
