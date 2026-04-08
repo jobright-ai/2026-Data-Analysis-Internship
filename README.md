@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
+| **[Bread for the World](https://www.bread.org/)** | **[Development Operations Intern](https://jobright.ai/jobs/info/69d6734ce63cea7a8b668f01?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | Apr 08 |
+| **[Koya Medical, Inc.](http://www.koyamedical.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d67254cfdc6132f9469f7a?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/69bcc8864828227293feb7d1?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 08 |
+| **[JK Moving Services](http://www.jkmoving.com/)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69d66b41cfdc6132f9469d21?utm_campaign=1066&utm_source=git)** | Sterling, VA, US | On Site | Apr 08 |
+| **[Moser Consulting](http://moserit.com/)** | **[Data Visualization Internship (Fall Semester)](https://jobright.ai/jobs/info/69d66aedcfdc6132f9469c10?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 08 |
 | **[JK Moving Services](http://www.jkmoving.com/)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69d66a30e63cea7a8b668b4e?utm_campaign=1066&utm_source=git)** | US-VA-Sterling | On Site | Apr 08 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Science Maintenance Support, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699ee1ebce78e77b4fe48923?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Apr 08 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/69ccc18d54f00230c6ce9b5f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 08 |
@@ -101,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d58ef8cfdc6132f946340d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69d58dd3cfdc6132f94633c1?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
-| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
 | **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d58c1a891d7b11cfd02e21?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Apr 07 |
 | **[Xylem](https://heimplanet.com/)** | **[Business Operations & Data Analyst Intern](https://jobright.ai/jobs/info/69d58bb7891d7b11cfd02c6c?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina | Hybrid | Apr 07 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Research Assistant - Environmental Data Analytics (Student Position)](https://jobright.ai/jobs/info/69d588f7891d7b11cfd02bb7?utm_campaign=1066&utm_source=git)** | Big Rapids, MI | On Site | Apr 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69cccb6bcdb525785fb82e89?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu)** | **[Causal Inference Postdoctoral Researcher - Center for Causal Inference, University of Pennsylvania](https://jobright.ai/jobs/info/69d54ccacfdc6132f946123c?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Apr 07 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT/Business Intelligence Intern](https://jobright.ai/jobs/info/69b854fb56973837413d7f38?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Apr 07 |
-| **[S&P Global](https://www.spglobal.com)** | **[Data Operations Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69d532a5cdb525785fbceedd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/69cca2a5366bb95ba54f4522?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 07 |
-| **[SharkNinja France](http://www.sharkninja.com)** | **[FALL 2026: ANALYTICS & BI INTERN, D2C (SEPTEMBER TO DECEMBER)](https://jobright.ai/jobs/info/69d64f7e706f771673baa280?utm_campaign=1066&utm_source=git)** | Needham, MA | On Site | Apr 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern Associate Data Analyst](https://jobright.ai/jobs/info/69d4fc96706f771673b9ff04?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Apr 07 |
-| **[Provation](https://www.provationmedical.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4f8ee366bb95ba5541d6c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
