@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Data & Financial Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5fc7d891d7b11cfd07643?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d5e585891d7b11cfd06acb?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Data Analytics (Oklahoma City)](https://jobright.ai/jobs/info/69d5e573891d7b11cfd06a97?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 07 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/69d5e1cbe63cea7a8b665dd9?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 07 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Research Assistant, Obstetrics and Gynaecology](https://jobright.ai/jobs/info/69ccace4e1921223acc7badd?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
 | **[Relay](https://relaypro.com)** | **[Sales Data & Analytics Intern](https://jobright.ai/jobs/info/69d581d5891d7b11cfd028c8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d57fcecdb525785fbd1671?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Apr 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/69d5de85891d7b11cfd06567?utm_campaign=1066&utm_source=git)** | United States, California, Mountain View | On Site | Apr 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/69d5fc6ccfdc6132f9467b34?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Apr 07 |
 | **[Archdiocese of Chicago](https://www.archchicago.org)** | **[Frassati Internship - Information Technology](https://jobright.ai/jobs/info/69d57be5891d7b11cfd0257b?utm_campaign=1066&utm_source=git)** | CHICAGO, Illinois, United States | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d578efe63cea7a8b6618e6?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69d57813891d7b11cfd02324?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 07 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Krause Group](https://www.krausegroup.com)** | **[Data Analyst Intern (Finance)](https://jobright.ai/jobs/info/69d571dc706f771673ba3415?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Data Analyst Intern (Finance)](https://jobright.ai/jobs/info/69d570eacdb525785fbd0ed5?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
 | ↳ | **[Data Analyst Intern (M&A)](https://jobright.ai/jobs/info/69d570d9e63cea7a8b661609?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 07 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Summer 2026)](https://jobright.ai/jobs/info/69d5f4fbe63cea7a8b6667d9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d56b33891d7b11cfd01cfe?utm_campaign=1066&utm_source=git)** | White Plains, NY | Hybrid | Apr 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69d5e54c706f771673ba7c97?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d5603ccfdc6132f9461b57?utm_campaign=1066&utm_source=git)** | New York - 300 Vesey Street | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d5d5c3e63cea7a8b665693?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 06 |
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d45b04366bb95ba553cdf0?utm_campaign=1066&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Apr 06 |
-| **[Nisa Helpline](https://nisahelpline.com/)** | **[Centralized Nisa Line Data Evaluation Intern](https://jobright.ai/jobs/info/69d58dc5e63cea7a8b6623d7?utm_campaign=1066&utm_source=git)** | Hamilton, ON | Remote | Apr 06 |
-| **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d45237cdb525785fbc83cc?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
