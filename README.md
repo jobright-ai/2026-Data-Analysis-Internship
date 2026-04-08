@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[LMI](http://www.lmi.org)** | **[Data & Financial Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69d5fc7d891d7b11cfd07643?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 07 |
+| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69d60b6f366bb95ba554b106?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d5e585891d7b11cfd06acb?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Data Analytics (Oklahoma City)](https://jobright.ai/jobs/info/69d5e573891d7b11cfd06a97?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 07 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/69d5e1cbe63cea7a8b665dd9?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 07 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d58ef8cfdc6132f946340d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69d58dd3cfdc6132f94633c1?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
-| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
+| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d58c1a891d7b11cfd02e21?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Apr 07 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c09706f771673ba411a?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Apr 07 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69d58c05366bb95ba5545f76?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d4811754f00230c6d31dd4?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 06 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Summer 2026](https://jobright.ai/jobs/info/69d5d5c3e63cea7a8b665693?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 06 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 06 |
-| **[NSF](http://www.nsf.org)** | **[Assurance Intern](https://jobright.ai/jobs/info/69d45b04366bb95ba553cdf0?utm_campaign=1066&utm_source=git)** | 789 N. Dixboro Road, Ann Arbor, MI, 48105, US | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
