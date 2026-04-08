@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xylem](https://heimplanet.com/)** | **[Business Operations & Data Analyst Intern](https://jobright.ai/jobs/info/69d5a0c6cfdc6132f9463a39?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
+| **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5e0bee565c26a7001630d?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/69d594bdcdb525785fbd1fa0?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 07 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science Intern - Princeton, NJ](https://jobright.ai/jobs/info/69d5907f366bb95ba5546169?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 07 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alcami Corporation](www.alcami.com)** | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d4260754f00230c6d2ea1e?utm_campaign=1066&utm_source=git)** | US-NC-Wilmington | On Site | Apr 06 |
 | ↳ | **[SAP Master Data Intern](https://jobright.ai/jobs/info/69d42548e63cea7a8b6572c9?utm_campaign=1066&utm_source=git)** | Wilmington, NC, US | On Site | Apr 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Data Science AI&I (PhD level) - Zong Lab](https://jobright.ai/jobs/info/69d42492891d7b11cfcf7c10?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
-| ↳ | **[Intern Data Science AI&I (Bachelors degree level)](https://jobright.ai/jobs/info/69d4247d54f00230c6d2e82e?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 06 |
-| ↳ | **[Intern Data Science AI&I (PhD level) - Gong Lab](https://jobright.ai/jobs/info/69d42472cfdc6132f9458077?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
