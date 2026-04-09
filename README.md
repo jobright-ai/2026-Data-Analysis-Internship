@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/69d71dd6706f771673baff7c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 08 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics Intern (Full time)](https://jobright.ai/jobs/info/69d712f848f0c8161d2fccbd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Business Intelligence Intern](https://jobright.ai/jobs/info/69d70b7ecfdc6132f946e94e?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Internet2](http://www.internet2.edu)** | **[Data Analyst Intern - Internet2 NET+ Program](https://jobright.ai/jobs/info/69d7027d52a5bf580012d41d?utm_campaign=1066&utm_source=git)** | Michigan, United States | Hybrid | Apr 08 |
@@ -74,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Veryable](http://veryableops.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6dc79e63cea7a8b66cb80?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
 | ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 08 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 08 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69d6db6c366bb95ba55504cd?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Apr 08 |
 | ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69d6db6b48f0c8161d2fb85c?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Apr 08 |
@@ -100,7 +99,6 @@ US | Hybrid | Apr 08 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6a4d548f0c8161d2f917f?utm_campaign=1066&utm_source=git)** | Plano, Texas, United States | Hybrid | Apr 08 |
 | **[Aurion Biotech](https://aurionbiotech.com)** | **[Clinical Operations Intern, Data Management](https://jobright.ai/jobs/info/69d6a4d2e63cea7a8b66a24f?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina or Newark, New Jersey Candidates Only | Hybrid | Apr 08 |
 | ↳ | **[Clinical Operations Intern, Data Management](https://jobright.ai/jobs/info/69d6a4ce706f771673babee0?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Apr 08 |
-| **[BMO](http://www.bmo.com)** | **[Behavioral Analytics Model Validation, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69d6a49848f0c8161d2f90c9?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 08 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 08 |
 | **[JK Moving Services](http://www.jkmoving.com/)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69d69f8052a5bf5800129da2?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | Apr 08 |
 | **[Gildan](https://gildancorp.com)** | **[Intern, Data Distribution](https://jobright.ai/jobs/info/69d1d4d154f00230c6d1d63d?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 08 |
@@ -158,4 +156,6 @@ US | Hybrid | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d5d74d366bb95ba5549346?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 07 |
 | **[PeoplesBank](http://bankatpeoples.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d5cb78891d7b11cfd058a0?utm_campaign=1066&utm_source=git)** | Holyoke, MA, US | On Site | Apr 07 |
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/69d5c654366bb95ba5548903?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Apr 07 |
+| **[The California State University](http://www.calstate.edu)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5c228cfdc6132f9465139?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
+| **[San José State University](http://www.sjsu.edu/)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5baa8e63cea7a8b663318?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
