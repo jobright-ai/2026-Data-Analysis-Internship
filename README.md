@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d762b7706f771673bb30d2?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 09 |
+| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69d7618ce63cea7a8b67127f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics Intern (Full time)](https://jobright.ai/jobs/info/69d712f848f0c8161d2fccbd?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Business Intelligence Intern](https://jobright.ai/jobs/info/69d70b7ecfdc6132f946e94e?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Internet2](http://www.internet2.edu)** | **[Data Analyst Intern - Internet2 NET+ Program](https://jobright.ai/jobs/info/69d7027d52a5bf580012d41d?utm_campaign=1066&utm_source=git)** | Michigan, United States | Hybrid | Apr 08 |
@@ -156,6 +158,4 @@ US | Hybrid | Apr 08 |
 | **[Logitech](https://www.logitech.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d5d74d366bb95ba5549346?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 07 |
 | **[PeoplesBank](http://bankatpeoples.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d5cb78891d7b11cfd058a0?utm_campaign=1066&utm_source=git)** | Holyoke, MA, US | On Site | Apr 07 |
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/69d5c654366bb95ba5548903?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Apr 07 |
-| **[The California State University](http://www.calstate.edu)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5c228cfdc6132f9465139?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Institutional Research Analyst III (2 Positions)](https://jobright.ai/jobs/info/69d5baa8e63cea7a8b663318?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
