@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern (Data and Metrics Quality Team)](https://jobright.ai/jobs/info/69d6d3c0706f771673bae4e0?utm_campaign=1066&utm_source=git)** | Burnaby, BC | On Site | Apr 08 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Baseball Economics MBA Internship](https://jobright.ai/jobs/info/69d6c661e63cea7a8b66c308?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d6c658706f771673badf5e?utm_campaign=1066&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern - Data Warehouse](https://jobright.ai/jobs/info/69d6c01f366bb95ba554f9bb?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Apr 08 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d684f8366bb95ba554d0ca?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Artisan Partners](https://www.apam.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d68348e63cea7a8b669460?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 08 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/69d68198706f771673bab0b5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 08 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Economics Data Analyst Intern](https://jobright.ai/jobs/info/69d6784e52a5bf5800128ebd?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Apr 08 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69d67838cfdc6132f946a13c?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 08 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69d67834706f771673baad89?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | Apr 08 |
 | **[Koya Medical, Inc.](http://www.koyamedical.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d67828e63cea7a8b6691aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 08 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 07 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d58ef8cfdc6132f946340d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69d58dd3cfdc6132f94633c1?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 07 |
-| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
-| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
+| ↳ | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b08543749500645096f105?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 07 |
 | **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d58c1a891d7b11cfd02e21?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
