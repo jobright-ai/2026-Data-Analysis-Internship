@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/69bae05506c1ba00c54d2982?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Apr 09 |
+| **[Birmingham Business Alliance](https://birminghambusinessalliance.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7d816f4ea471a51fe2079?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/69d7d587869c7e25d8591c7b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[MPHI](https://mphi.org)** | **[Analyst and Operations Coordinator - PRAMS](https://jobright.ai/jobs/info/69d7d51ab861c42857c46a62?utm_campaign=1066&utm_source=git)** | Greater Lansing | Hybrid | Apr 09 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst (Power), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699eda8294ef206f184ddd14?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/69d7d349738f2f099e898583?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Apr 09 |
-| **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/69d7d23bf4ea471a51fe1878?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Business Analytics (E-Commerce) Intern](https://jobright.ai/jobs/info/69d7d0f2869c7e25d8591478?utm_campaign=1066&utm_source=git)** | Golden Valley, MN, US | Hybrid | Apr 09 |
 | ↳ | **[Business Analytics (E-Commerce) Intern](https://jobright.ai/jobs/info/69d7d0e9f4ea471a51fe1658?utm_campaign=1066&utm_source=git)** | US-MN-Golden Valley | Hybrid | Apr 09 |
 | ↳ | **[Business Analytics (E-Commerce) Intern](https://jobright.ai/jobs/info/69d7d0af738f2f099e898191?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis | Hybrid | Apr 09 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699ecd15ce78e77b4fe4725b?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 09 |
 | **[ATI](https://www.forging.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69b63ae73b74eb1e2c83ec89?utm_campaign=1066&utm_source=git)** | Natrona Heights, PA | On Site | Apr 09 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7a9e1b67cec4f9b095564?utm_campaign=1066&utm_source=git)** | Remote - Nationwide | Remote | Apr 09 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Computational Biology & Bioinformatics](https://jobright.ai/jobs/info/69d7d46a738f2f099e8988aa?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Cumulative Impact Resource Library](https://jobright.ai/jobs/info/69d7ba55738f2f099e896f70?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 09 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Lead Insurance Data Analyst](https://jobright.ai/jobs/info/69bb0a3e3b74eb1e2c8961cb?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d7e31f64d441a164f970a?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 09 |
