@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69d846adf4ea471a51fe4ed6?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 09 |
+| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69d8456ff4ea471a51fe4e86?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Apr 09 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Data Analyst (Content Innovation and Technology)](https://jobright.ai/jobs/info/69d84030b861c42857c498ed?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 09 |
+| **[AARP](http://www.aarp.org)** | **[Applied Analytics Intern](https://jobright.ai/jobs/info/69b4aec206c1ba00c54624b7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Data & Analytics (Milwaukee, WI)](https://jobright.ai/jobs/info/69d83e5af4ea471a51fe4c64?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 09 |
 | **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d83771738f2f099e89b791?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | Apr 09 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d83748738f2f099e89b6e4?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | **[Ophir](http://www.ophir.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d83371b67cec4f9b09b52a?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 09 |
@@ -138,12 +143,13 @@ For a complete list, click the following sortable link below:
 | **[Cerrowire](http://cerrowire.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d6fa1548f0c8161d2fc30c?utm_campaign=1066&utm_source=git)** | Hartselle, AL | Hybrid | Apr 08 |
 | **[Generation Hope](https://www.generationhope.org/)** | **[Summer 2026 Data and Evaluation Intern](https://jobright.ai/jobs/info/69d6f8d9cfdc6132f946e4ae?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Apr 08 |
 | **[Heidelberg Materials North America](https://cindercrete.com)** | **[Master Data Intern](https://jobright.ai/jobs/info/69d82733f4ea471a51fe4390?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 08 |
+| **[Tacit](https://tacit.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d840da9f97a42dc9c1b4b5?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 08 |
 | **[Match Retail](https://www.matchretail.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d6e52648f0c8161d2fbd5b?utm_campaign=1066&utm_source=git)** | Mississauga, ON | Hybrid | Apr 08 |
 | **[Amazon](https://amazon.com)** | **[PhD Econ Intern, Store Economics and Science](https://jobright.ai/jobs/info/69d6e3d0366bb95ba55509b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Logistics Data &amp; Maintenance Analysis Intern](https://jobright.ai/jobs/info/69d6e26ee63cea7a8b66cdcb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 08 |
 | **[Veryable](http://veryableops.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6dc79e63cea7a8b66cb80?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
-| ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
+| ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
 | **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 08 |
 | ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69d6db6c366bb95ba55504cd?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
@@ -152,10 +158,4 @@ US | Hybrid | Apr 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern (Data and Metrics Quality Team)](https://jobright.ai/jobs/info/69d6d3c0706f771673bae4e0?utm_campaign=1066&utm_source=git)** | Burnaby, BC | On Site | Apr 08 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Baseball Economics MBA Internship](https://jobright.ai/jobs/info/69d6c661e63cea7a8b66c308?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Apr 08 |
 | **[Wright-Patt Credit Union](https://www.wpcu.coop/)** | **[Intern - Data Warehouse](https://jobright.ai/jobs/info/69d6c01f366bb95ba554f9bb?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Apr 08 |
-| **[Elephas](https://elephas.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d6c00b706f771673badac4?utm_campaign=1066&utm_source=git)** | Madison, Wisconsin, United States | On Site | Apr 08 |
-| **[Carbon Upcycling Technologies](http://carbonupcycling.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69d6ba88e63cea7a8b66b955?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 08 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69d6b91ae63cea7a8b66b930?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 08 |
-| **[Toyota Insurance](https://toyotaims.com)** | **[Private Client Operations Intern](https://jobright.ai/jobs/info/69d6b6f2e63cea7a8b66b765?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Apr 08 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6b5f3cfdc6132f946c791?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Apr 08 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Digital Health Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69d6b58ce63cea7a8b66b6fb?utm_campaign=1066&utm_source=git)** | San Carlos | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
