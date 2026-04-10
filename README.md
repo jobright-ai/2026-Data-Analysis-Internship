@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Provincial Health Services Authority](http://www.phsa.ca)** | **[Research Trainee/Intern](https://jobright.ai/jobs/info/69d8ec9bb67cec4f9b09f2eb?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Apr 10 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0b54e81476f6176bb01da?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Apr 10 |
 | **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics](https://jobright.ai/jobs/info/69d8e9d5738f2f099e89ee82?utm_campaign=1066&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Apr 10 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, DEX Econ](https://jobright.ai/jobs/info/69d8e8a1b67cec4f9b09f22c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 10 |
@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Trident](https://www.tridsys.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d82aceb67cec4f9b09b175?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 09 |
 | **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Postdoctoral Researcher- Research, Evaluation, and Methodology](https://jobright.ai/jobs/info/69d8243b9f97a42dc9c1aa21?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/69d823b89f97a42dc9c1a97c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
+| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69d8fb525356a60f40fd7235?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Great Gull Island Data Intern](https://jobright.ai/jobs/info/69d8181eb67cec4f9b09a894?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
 | **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69d80f9f869c7e25d85938fc?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Apr 09 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69d80f28869c7e25d8593893?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d7ec5a869c7e25d8592412?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | On Site | Apr 09 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/69bba7ec06c1ba00c54e3e9b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[Fenstermaker](http://www.fenstermaker.com)** | **[Student Intern, Informatics (Summer 2026)](https://jobright.ai/jobs/info/69d80818f4ea471a51fe2ebe?utm_campaign=1066&utm_source=git)** | Lafayette, LA 70508 US (Primary) | On Site | Apr 09 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Research Fellow](https://jobright.ai/jobs/info/69d7e5649f97a42dc9c18c8d?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Apr 09 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/69bae05506c1ba00c54d2982?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Apr 09 |
 | **[Birmingham Business Alliance](https://birminghambusinessalliance.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7d816f4ea471a51fe2079?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/69d7d587869c7e25d8591c7b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 09 |
@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Internship 2026](https://jobright.ai/jobs/info/69d7c5f5b861c42857c454e1?utm_campaign=1066&utm_source=git)** | Research Park, California, United States | Hybrid | Apr 09 |
 | **[Canada's Drug Agency](http://www.cda-amc.ca)** | **[Intern, Health Technologies and Systems](https://jobright.ai/jobs/info/69d7c5c9b861c42857c4548f?utm_campaign=1066&utm_source=git)** | Ottawa, ON | Hybrid | Apr 09 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[** Commercial Analytics Intern](https://jobright.ai/jobs/info/69bb566f06c1ba00c54dd081?utm_campaign=1066&utm_source=git)** | San Marcos, CA | On Site | Apr 09 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Research Fellow](https://jobright.ai/jobs/info/69d7c54cf4ea471a51fe0602?utm_campaign=1066&utm_source=git)** | Westborough, Massachusetts, United States | Remote | Apr 09 |
 | **[Canada's Drug Agency](http://www.cda-amc.ca)** | **[Intern, Health Technologies and Systems](https://jobright.ai/jobs/info/69d7b9b4738f2f099e896e2a?utm_campaign=1066&utm_source=git)** | 865 Carling Ave, Ottawa, ON K1S 5S8, Canada | Hybrid | Apr 09 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812adb49964d25b5e40386?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 09 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Data Science -Intern](https://jobright.ai/jobs/info/69d7b89b738f2f099e896d27?utm_campaign=1066&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | Apr 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Veryable](http://veryableops.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d7d189b861c42857c4628c?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Business Intelligence Intern](https://jobright.ai/jobs/info/69d70b7ecfdc6132f946e94e?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Internet2](http://www.internet2.edu)** | **[Data Analyst Intern - Internet2 NET+ Program](https://jobright.ai/jobs/info/69d7027d52a5bf580012d41d?utm_campaign=1066&utm_source=git)** | Michigan, United States | Hybrid | Apr 08 |
+| ↳ | **[Data Analyst Intern - Internet2 NET+ Program](https://jobright.ai/jobs/info/69d6fccbcfdc6132f946e60e?utm_campaign=1066&utm_source=git)** | US | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
