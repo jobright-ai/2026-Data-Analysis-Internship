@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mathnasium - The Math Learning Center](https://www.mathnasium.com/)** | **[Summer - Data Analyst Intern (Part-time)](https://jobright.ai/jobs/info/69d8649fb861c42857c4a2bf?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d86458b67cec4f9b09c2aa?utm_campaign=1066&utm_source=git)** | San Jose, CA, US | On Site | Apr 09 |
+| **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/69d8614bb67cec4f9b09c271?utm_campaign=1066&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 09 |
+| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 09 |
+| **[Trident](https://www.tridsys.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d85de4738f2f099e89c0ea?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 09 |
+| **[OOCL](https://www.oocl.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d85a5eb861c42857c49e96?utm_campaign=1066&utm_source=git)** | San Jose, CA, US | On Site | Apr 09 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d8542af4ea471a51fe5153?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Business Analytics (E-Commerce) Intern](https://jobright.ai/jobs/info/69d8539a869c7e25d8594d89?utm_campaign=1066&utm_source=git)** | Golden Valley, MN | Hybrid | Apr 09 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69d846adf4ea471a51fe4ed6?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 09 |
@@ -151,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Logistics Data &amp; Maintenance Analysis Intern](https://jobright.ai/jobs/info/69d6e26ee63cea7a8b66cdcb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 08 |
 | **[Veryable](http://veryableops.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6dc79e63cea7a8b66cb80?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
-| ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 08 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69d6db6c366bb95ba55504cd?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
-US | Hybrid | Apr 08 |
-| ↳ | **[Summer Intern/Medical Affairs Analytics](https://jobright.ai/jobs/info/69d6db6b48f0c8161d2fb85c?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Apr 08 |
-| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern (Data and Metrics Quality Team)](https://jobright.ai/jobs/info/69d6d3c0706f771673bae4e0?utm_campaign=1066&utm_source=git)** | Burnaby, BC | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
