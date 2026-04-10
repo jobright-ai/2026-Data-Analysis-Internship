@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d8985a869c7e25d8596af0?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 09 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d877d5869c7e25d8595e08?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Mathnasium - The Math Learning Center](https://www.mathnasium.com/)** | **[Summer - Data Analyst Intern (Part-time)](https://jobright.ai/jobs/info/69d8649fb861c42857c4a2bf?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d86458b67cec4f9b09c2aa?utm_campaign=1066&utm_source=git)** | San Jose, CA, US | On Site | Apr 09 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[PhD Econ Intern, Store Economics and Science](https://jobright.ai/jobs/info/69d6e3d0366bb95ba55509b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Logistics Data &amp; Maintenance Analysis Intern](https://jobright.ai/jobs/info/69d6e26ee63cea7a8b66cdcb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 08 |
 | **[Veryable](http://veryableops.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d6dc79e63cea7a8b66cb80?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 08 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
-| ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 08 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64366bb95ba55505f6?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Apr 08 |
+| ↳ | **[Data Science / Optimization Intern](https://jobright.ai/jobs/info/69d6dc64706f771673bae7e1?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Apr 08 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6fcfdc6132f946da6b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
