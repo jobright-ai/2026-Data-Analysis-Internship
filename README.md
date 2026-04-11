@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Postdoctoral Researcher- Research, Evaluation, and Methodology](https://jobright.ai/jobs/info/69d8243b9f97a42dc9c1aa21?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/69d823b89f97a42dc9c1a97c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d91923f748bc5d08a48a13?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027 | On Site | Apr 09 |
-| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69d9d9a35356a60f40fdcc40?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Great Gull Island Data Intern](https://jobright.ai/jobs/info/69d8181eb67cec4f9b09a894?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
+| **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69d80f9f869c7e25d85938fc?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
