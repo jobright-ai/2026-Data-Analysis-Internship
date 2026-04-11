@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, International Economics, Summer 2026](https://jobright.ai/jobs/info/69d95e525356a60f40fd935b?utm_campaign=1066&utm_source=git)** | Washington,DC,US | On Site | Apr 10 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Analytics](https://jobright.ai/jobs/info/69d95a4a738f2f099e8a143f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[US Open](www.usopen.org)** | **[Graduate Intern Summer 2026 - Technology, US Open and Enterprise Systems](https://jobright.ai/jobs/info/69d959d8738f2f099e8a1378?utm_campaign=1066&utm_source=git)** | Purchase, NY | Hybrid | Apr 10 |
+| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UN Women: Data and Statistics Intern, New York](https://jobright.ai/jobs/info/69d9ca08f748bc5d08a4dd9a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 10 |
 | **[22nd Century Technologies Inc.](https://tscti.com/)** | **[Public Health Data Abstractor/Epidemiology Intern](https://jobright.ai/jobs/info/69d96cdd5356a60f40fd9a15?utm_campaign=1066&utm_source=git)** | Harrisburg, PA | On Site | Apr 10 |
 | **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Canter](https://jobright.ai/jobs/info/69d94358f748bc5d08a4a351?utm_campaign=1066&utm_source=git)** | Duncan, South Carolina, United States | Hybrid | Apr 10 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/69d940a45356a60f40fd87b7?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Nature Conservancy](http://www.nature.org)** | **[Great Gull Island Data Intern](https://jobright.ai/jobs/info/69d8181eb67cec4f9b09a894?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
 | **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69d80f9f869c7e25d85938fc?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Apr 09 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69d80f28869c7e25d8593893?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
-| **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d80e80738f2f099e89a449?utm_campaign=1066&utm_source=git)** | Johns Creek, Georgia, USA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
