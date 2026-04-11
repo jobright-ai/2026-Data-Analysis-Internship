@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Double Good](https://www.doublegood.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bdb1174828227293fff10a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
+| **[SandboxAQ](https://www.sandboxaq.com)** | **[Geospatial Analyst Resident](https://jobright.ai/jobs/info/69bde9dc393a1008f743bde8?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 11 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 11 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern - Analytical Data Analyst](https://jobright.ai/jobs/info/69591e4caa05c26e7ab2f98e?utm_campaign=1066&utm_source=git)** | Newton, MA | Remote | Apr 11 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern Ground Operations Analytics & Systems](https://jobright.ai/jobs/info/69da4096f748bc5d08a519c9?utm_campaign=1066&utm_source=git)** | Montreal, QC | Remote | Apr 11 |
@@ -90,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b787?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da2184f748bc5d08a51596?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
-| ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da212b5356a60f40fdfbce?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | ↳ | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d968e6869c7e25d859abd6?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d968cf738f2f099e8a1a57?utm_campaign=1066&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d8542af4ea471a51fe5153?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Business Analytics (E-Commerce) Intern](https://jobright.ai/jobs/info/69d8539a869c7e25d8594d89?utm_campaign=1066&utm_source=git)** | Golden Valley, MN | Hybrid | Apr 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d58f48366bb95ba5546118?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Apr 09 |
-| **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69d846adf4ea471a51fe4ed6?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 09 |
-| **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - GIS Research Assistant](https://jobright.ai/jobs/info/69d959f3b67cec4f9b0a167d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
