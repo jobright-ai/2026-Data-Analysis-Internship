@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Team](http://performanceteam.net)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d9dce05356a60f40fdcc87?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027 | On Site | Apr 10 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69d9c078738f2f099e8a4479?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9c05b738f2f099e8a4410?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Postdoctoral Researcher- Research, Evaluation, and Methodology](https://jobright.ai/jobs/info/69d8243b9f97a42dc9c1aa21?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/69d823b89f97a42dc9c1a97c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 09 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d91923f748bc5d08a48a13?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027 | On Site | Apr 09 |
+| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69d9d9a35356a60f40fdcc40?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Great Gull Island Data Intern](https://jobright.ai/jobs/info/69d8181eb67cec4f9b09a894?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Apr 09 |
-| **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69d80f9f869c7e25d85938fc?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Apr 09 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69d80f28869c7e25d8593893?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
