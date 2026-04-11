@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Reporting Analyst](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d9a4a45356a60f40fdb5c6?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| ↳ | **[Intern, Data Reporting Analyst](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[Altera](https://www.altera.com)** | **[Data Analytics - Intern](https://jobright.ai/jobs/info/69d9915ff748bc5d08a4bf55?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Canter](https://jobright.ai/jobs/info/69d99147f748bc5d08a4bee1?utm_campaign=1066&utm_source=git)** | Duncan, SC | Hybrid | Apr 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d988cb738f2f099e8a257a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b787?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d968e6869c7e25d859abd6?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d968cf738f2f099e8a1a57?utm_campaign=1066&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Data Analyst (Content Innovation and Technology)](https://jobright.ai/jobs/info/69d8080fb861c42857c47bb1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Global Manufacturing Data Explorer Intern](https://jobright.ai/jobs/info/69d7fe619f97a42dc9c195ec?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Apr 09 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d7fcbff4ea471a51fe2c68?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 09 |
-| **[Bell Lumber and Pole Company](http://blpole.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/69d7f8e2b67cec4f9b09977b?utm_campaign=1066&utm_source=git)** | New Brighton, MN, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
