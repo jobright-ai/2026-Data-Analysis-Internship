@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d988cb738f2f099e8a257a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science & Analytics Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988c29f97a42dc9c2221b?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 10 |
+| **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator I](https://jobright.ai/jobs/info/69d988b6b67cec4f9b0a28df?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[ESG Intern](https://jobright.ai/jobs/info/69d987c1f748bc5d08a4bc05?utm_campaign=1066&utm_source=git)** | WHQ - Milwaukee, WI | On Site | Apr 10 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Apr 10 |
 | **[BlueScope Buildings North America, Inc.](https://www.bluescopebuildings.com)** | **[Estimating Intern Year 2](https://jobright.ai/jobs/info/69d979a2738f2f099e8a1fd4?utm_campaign=1066&utm_source=git)** | Annville, PA | On Site | Apr 10 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - CBRN Research Intern](https://jobright.ai/jobs/info/69cd9a1acfdc6132f941d99f?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 10 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b787?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
-| **[Donor Alliance](https://www.donoralliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69d976a2738f2f099e8a1cf0?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 10 |
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69d911f1869c7e25d8598b7a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Intern- Test Engineering](https://jobright.ai/jobs/info/69d91110b67cec4f9b09fb47?utm_campaign=1066&utm_source=git)** | Delaware, OH, United States | On Site | Apr 10 |
 | **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics](https://jobright.ai/jobs/info/69d90a34f748bc5d08a48694?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d90782738f2f099e89f717?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 10 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Apr 10 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0b54e81476f6176bb01da?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Apr 10 |
 | **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics](https://jobright.ai/jobs/info/69d8e9d5738f2f099e89ee82?utm_campaign=1066&utm_source=git)** | Nonstore B152 Charlotte NC | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Lumber and Pole Company](http://blpole.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/69d7f8e2b67cec4f9b09977b?utm_campaign=1066&utm_source=git)** | New Brighton, MN, US | On Site | Apr 09 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d7ecf5738f2f099e899339?utm_campaign=1066&utm_source=git)** | US-VA-Richmond | On Site | Apr 09 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d7ec5a869c7e25d8592412?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | On Site | Apr 09 |
-| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/69bba7ec06c1ba00c54e3e9b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 09 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/69d90947f748bc5d08a4847e?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
