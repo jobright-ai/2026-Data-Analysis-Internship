@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Reporting Analyst](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
+| **[Altera](https://www.altera.com)** | **[Data Analytics - Intern](https://jobright.ai/jobs/info/69d9915ff748bc5d08a4bf55?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
+| **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Canter](https://jobright.ai/jobs/info/69d99147f748bc5d08a4bee1?utm_campaign=1066&utm_source=git)** | Duncan, SC | Hybrid | Apr 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Quant Risk Management Intern - Year Round](https://jobright.ai/jobs/info/69d988cb738f2f099e8a257a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science & Analytics Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988c29f97a42dc9c2221b?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 10 |
 | **[University of Southern California](http://www.usc.edu)** | **[Research Coordinator I](https://jobright.ai/jobs/info/69d988b6b67cec4f9b0a28df?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 10 |
@@ -117,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69d8b16ef748bc5d08a44e36?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Apr 10 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 10 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[ERP Dashboard and Data Analyst Intern](https://jobright.ai/jobs/info/69840e010f6f7e7a2cde2981?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Apr 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d8d1715356a60f40fd691c?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d8985a869c7e25d8596af0?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 09 |
 | **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d877d5869c7e25d8595e08?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Mathnasium - The Math Learning Center](https://www.mathnasium.com/)** | **[Summer - Data Analyst Intern (Part-time)](https://jobright.ai/jobs/info/69d8649fb861c42857c4a2bf?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Fifth Wheel Freight](https://www.fwf.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69d7fcbff4ea471a51fe2c68?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 09 |
 | **[Bell Lumber and Pole Company](http://blpole.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/69d7f8e2b67cec4f9b09977b?utm_campaign=1066&utm_source=git)** | New Brighton, MN, US | On Site | Apr 09 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d7ecf5738f2f099e899339?utm_campaign=1066&utm_source=git)** | US-VA-Richmond | On Site | Apr 09 |
-| ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69d7ec5a869c7e25d8592412?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
