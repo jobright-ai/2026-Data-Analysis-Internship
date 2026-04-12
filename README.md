@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69db56f79f97a42dc9c2eb28?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 11 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bd0c5ab10602456281f237?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 10 |
 | **[Netflix](https://www.netflix.com)** | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69d8b16ef748bc5d08a44e36?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Apr 10 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 10 |
-| **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[ERP Dashboard and Data Analyst Intern](https://jobright.ai/jobs/info/69840e010f6f7e7a2cde2981?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
