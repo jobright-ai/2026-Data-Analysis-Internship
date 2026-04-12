@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b84135fc86241853aebef?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 12 |
+| **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 12 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 12 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69dbbcab9f97a42dc9c2f1ac?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/69bc2a8d4828227293fd9d2d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 12 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science BI, Intern](https://jobright.ai/jobs/info/69a30ca4359fe034b1ce5c25?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 12 |
+| ↳ | **[Data Science BI, Intern](https://jobright.ai/jobs/info/69a30c7eb600907a96296985?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
 | **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ccb19ccdb525785fb81765?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Apr 12 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Analyst- Information Technology Services](https://jobright.ai/jobs/info/69db8db7f748bc5d08a588e3?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978535a39f7f96cc6d0c05c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Intern- Test Engineering](https://jobright.ai/jobs/info/69d917d9738f2f099e89fbe4?utm_campaign=1066&utm_source=git)** | Delaware, OH | On Site | Apr 10 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69d9127eb67cec4f9b09fd8d?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 10 |
 | **[AArete](http://aarete.com)** | **[Intern, Data Science & Artificial Intelligence (Summer 2026)](https://jobright.ai/jobs/info/69d911f1869c7e25d8598b7a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Intern- Test Engineering](https://jobright.ai/jobs/info/69d91110b67cec4f9b09fb47?utm_campaign=1066&utm_source=git)** | Delaware, OH, United States | On Site | Apr 10 |
-| **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics](https://jobright.ai/jobs/info/69d90a34f748bc5d08a48694?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
-| **[City of Toronto](http://www.toronto.ca)** | **[RESEARCH TRAINEE](https://jobright.ai/jobs/info/69d61a4ee63cea7a8b667b03?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 10 |
-| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Apr 10 |
-| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Epidemiologist Intern-HRL](https://jobright.ai/jobs/info/69a0b54e81476f6176bb01da?utm_campaign=1066&utm_source=git)** | Pontiac, MI | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
