@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 11 |
 | **[First American](http://www.firstam.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a22118b600907a96286d7a?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Apr 11 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6968821c639b452fb57e337d?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Siemens](https://www.siemens.com)** | **[Time Series Foundational Models for Electricity Price Forecasting Internship](https://jobright.ai/jobs/info/69da8f9f9f97a42dc9c296ef?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 11 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9c05b738f2f099e8a4410?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | ↳ | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69d9c0365356a60f40fdc1b8?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
 | ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69d9c0325356a60f40fdc195?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 10 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, OPEX Data Analytics (4-month) - Perth, ON, Canada](https://jobright.ai/jobs/info/69db1a315356a60f40fe4ba0?utm_campaign=1066&utm_source=git)** | Perth, ON | On Site | Apr 10 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[ESG Intern](https://jobright.ai/jobs/info/69d9ac715356a60f40fdb899?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d9a4a45356a60f40fdb5c6?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | ↳ | **[Intern, Data Reporting Analyst](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
@@ -100,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b787?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da212b5356a60f40fdfbce?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| ↳ | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
-| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da2184f748bc5d08a51596?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d968e6869c7e25d859abd6?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d968cf738f2f099e8a1a57?utm_campaign=1066&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 10 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[ERP Dashboard and Data Analyst Intern](https://jobright.ai/jobs/info/69840e010f6f7e7a2cde2981?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Apr 10 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Internship 2026](https://jobright.ai/jobs/info/69da0508f748bc5d08a50f1a?utm_campaign=1066&utm_source=git)** | Research Park, California, United States | Hybrid | Apr 10 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/69d8985a869c7e25d8596af0?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 09 |
-| **[OOCL North America Group](https://www.oocl.com/eng/Pages/default.aspx)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d877d5869c7e25d8595e08?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
