@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[AI2 Data Science Co-op/Intern (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69a67edce567421f425781f3?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dc3da89f97a42dc9c2ff96?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 12 |
@@ -117,11 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Connors Group](http://www.connorsllc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69c3316b94007a2195df84b3?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Apr 10 |
 | **[BlueScope Buildings North America, Inc.](https://www.bluescopebuildings.com)** | **[Estimating Intern Year 2](https://jobright.ai/jobs/info/69d979a2738f2f099e8a1fd4?utm_campaign=1066&utm_source=git)** | Annville, PA | On Site | Apr 10 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - CBRN Research Intern](https://jobright.ai/jobs/info/69cd9a1acfdc6132f941d99f?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 10 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d976d0f748bc5d08a4b787?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da2184f748bc5d08a51596?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
-| ↳ | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da2184f748bc5d08a51596?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d968e6869c7e25d859abd6?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 10 |
@@ -145,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Department of Pharmacy, University of Copenhagen](https://pharmacy.ku.dk/)** | **[Student Assistant for Project on Structured Data Extraction](https://jobright.ai/jobs/info/69d93cc3738f2f099e8a0760?utm_campaign=1066&utm_source=git)** | Centre County, PA | On Site | Apr 10 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[Data Science Summer Intern - DSSI](https://jobright.ai/jobs/info/69d93c99869c7e25d8599876?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Apr 10 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69bc7e4545e08b3dc1f93d06?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69d936ca5356a60f40fd84bc?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d92dd2b67cec4f9b0a0691?utm_campaign=1066&utm_source=git)** | Miramar, FL | On Site | Apr 10 |
 | **[Housing Partnership Network](https://www.housingpartnership.net)** | **[Data Analytics Associate (Co-Op)](https://jobright.ai/jobs/info/69d92dd1738f2f099e8a03bf?utm_campaign=1066&utm_source=git)** | Greater Boston | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d927ad5356a60f40fd7f71?utm_campaign=1066&utm_source=git)** | Wilmington, DE, USA | Hybrid | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UL Standards & Engagement](https://ulse.org)** | **[Data Science & Engineering Intern](https://jobright.ai/jobs/info/69d93c565356a60f40fd84ed?utm_campaign=1066&utm_source=git)** | Triangle Area | Hybrid | Apr 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d91970f748bc5d08a48b3d?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027 | On Site | Apr 10 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69d91922f748bc5d08a48a0f?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 10 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Intern- Test Engineering](https://jobright.ai/jobs/info/69d917d9738f2f099e89fbe4?utm_campaign=1066&utm_source=git)** | Delaware, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
