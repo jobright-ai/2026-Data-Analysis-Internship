@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[AI2 Data Science Co-op/Intern (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| **[TD](https://www.td.com)** | **[Distribution & Geospatial Intelligence Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78bf738f2f099e8b16f6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
+| ↳ | **[Data Analytics & Insights Intern/Co-op (FALL 2026)](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17ee?utm_campaign=1066&utm_source=git)** | Montréal, Québec | Hybrid | Apr 12 |
+| ↳ | **[AI2 Data Science Co-op/Intern (FALL 2026)](https://jobright.ai/jobs/info/69dc7587f748bc5d08a5ad3f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 12 |
 | **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69a67edce567421f425781f3?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Revenue Operations & AI Intern](https://jobright.ai/jobs/info/69dc3da89f97a42dc9c2ff96?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 12 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Stagiaire – Spécialiste en intelligence d’affaires (Été 2026)](https://jobright.ai/jobs/info/69d9768b869c7e25d859b007?utm_campaign=1066&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, Data Strategy & Analytics](https://jobright.ai/jobs/info/69d97644869c7e25d859af4d?utm_campaign=1066&utm_source=git)** | Riverside, MO | On Site | Apr 10 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Computational Oncology](https://jobright.ai/jobs/info/69da3014f748bc5d08a5175e?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
-| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da2184f748bc5d08a51596?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | ↳ | **[Intern, External Data Coordinator](https://jobright.ai/jobs/info/69d9a51df748bc5d08a4cfc3?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
+| ↳ | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69da21a0869c7e25d85a0fd8?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Apr 10 |
 | **[IFF](http://iff.com)** | **[Consumer and Market Insights Intern](https://jobright.ai/jobs/info/69d96944869c7e25d859ac93?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Apr 10 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69d968e6869c7e25d859abd6?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69d968cf738f2f099e8a1a57?utm_campaign=1066&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Data and Statistics Intern, New York](https://jobright.ai/jobs/info/69da03d6b67cec4f9b0a7a0c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 10 |
 | **[US Open](www.usopen.org)** | **[Graduate Intern Summer 2026 - Technology, US Open and Enterprise Systems](https://jobright.ai/jobs/info/69d959d8738f2f099e8a1378?utm_campaign=1066&utm_source=git)** | Purchase, NY | Hybrid | Apr 10 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[UN Women: Data and Statistics Intern, New York](https://jobright.ai/jobs/info/69d9ca08f748bc5d08a4dd9a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 10 |
-| **[22nd Century Technologies Inc.](https://tscti.com/)** | **[Public Health Data Abstractor/Epidemiology Intern](https://jobright.ai/jobs/info/69d96cdd5356a60f40fd9a15?utm_campaign=1066&utm_source=git)** | Harrisburg, PA | On Site | Apr 10 |
 | **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Canter](https://jobright.ai/jobs/info/69d94358f748bc5d08a4a351?utm_campaign=1066&utm_source=git)** | Duncan, South Carolina, United States | Hybrid | Apr 10 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/69d940a45356a60f40fd87b7?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Apr 10 |
 | **[Ascendis Pharma](http://ascendispharma.com)** | **[Data Science Summer Intern - DSSI](https://jobright.ai/jobs/info/69d940885356a60f40fd8741?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Remote | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Standards & Engagement](https://ulse.org)** | **[Data Science & Engineering Intern](https://jobright.ai/jobs/info/69d93c565356a60f40fd84ed?utm_campaign=1066&utm_source=git)** | Triangle Area | Hybrid | Apr 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/69d91970f748bc5d08a48b3d?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027 | On Site | Apr 10 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69d91922f748bc5d08a48a0f?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Apr 10 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Intern- Test Engineering](https://jobright.ai/jobs/info/69d917d9738f2f099e89fbe4?utm_campaign=1066&utm_source=git)** | Delaware, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
