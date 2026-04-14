@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69dd0a0f9f97a42dc9c3416a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 13 |
 | **[MSX International](http://www.msxi.com)** | **[Computer Science Intern – Data Analytics Team](https://jobright.ai/jobs/info/69dd0a0f9f97a42dc9c34174?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Apr 13 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Intern / ALS - Data Modernization and Analysis](https://jobright.ai/jobs/info/69dd098f738f2f099e8b42c6?utm_campaign=1066&utm_source=git)** | Billerica, MA | On Site | Apr 13 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 13 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 13 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a852d91dfc787e9aa3548a?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 13 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69a7a9f6637232443f64f134?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6969f958639b452fb57ff015?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 13 |
