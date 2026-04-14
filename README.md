@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/69c63b3aaa3c2c1995e0b738?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Apr 14 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ddfa14e34484770f1a078e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dddbf018cf504166e2ab00?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Health Informatics Analyst II (Temporary)](https://jobright.ai/jobs/info/69d797ea869c7e25d858dca3?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 13 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Inventory Data Analyst Intern](https://jobright.ai/jobs/info/69dd61d361f6ed54321fd396?utm_campaign=1066&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 13 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 13 |
 | **[Rubicon](https://www.rubicon.com)** | **[Intern, Contract Data Management](https://jobright.ai/jobs/info/69dd547761f6ed54321fcb59?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 13 |
-| **[Amazon](https://amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadc?utm_campaign=1066&utm_source=git)** | San Francisco, California, USA | On Site | Apr 13 |
-| ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadd?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 13 |
+| **[Amazon](https://amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadd?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 13 |
+| ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadc?utm_campaign=1066&utm_source=git)** | San Francisco, California, USA | On Site | Apr 13 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Applied AI Data Scientist  - JCHI - 138983](https://jobright.ai/jobs/info/69dd540e61f6ed54321fca88?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[IT Technical Analyst - Intern](https://jobright.ai/jobs/info/69dd53e1738f2f099e8b5b7c?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Apr 13 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Data Analyst Intern](https://jobright.ai/jobs/info/69dd521861f6ed54321fc703?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Northcentral Technical College](http://ntc.edu)** | **[Analyst Research AI Data Systems](https://jobright.ai/jobs/info/69dd1b0a5356a60f40fec7c2?utm_campaign=1066&utm_source=git)** | Wausau, WI | On Site | Apr 13 |
 | **[Ontario International Airport](https://www.flyontario.com/)** | **[OIAA Intern - IT](https://jobright.ai/jobs/info/69dd161f61f6ed54321fabba?utm_campaign=1066&utm_source=git)** | Ontario International Airport | On Site | Apr 13 |
 | **[Leidos](https://www.leidos.com)** | **[Epidemiology and Data Management Intern](https://jobright.ai/jobs/info/69dd12fcbc6f6622c991032c?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69dd0a0f9f97a42dc9c3416a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 13 |
 | **[MSX International](http://www.msxi.com)** | **[Computer Science Intern – Data Analytics Team](https://jobright.ai/jobs/info/69dd0a0f9f97a42dc9c34174?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Apr 13 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Intern / ALS - Data Modernization and Analysis](https://jobright.ai/jobs/info/69dd098f738f2f099e8b42c6?utm_campaign=1066&utm_source=git)** | Billerica, MA | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 13 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Apr 12 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 12 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/69bc2a8d4828227293fd9d2d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Apr 12 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 12 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b839adb26b618950f07ec?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 12 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science BI, Intern](https://jobright.ai/jobs/info/69a30ca4359fe034b1ce5c25?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 12 |
 | ↳ | **[Data Science BI, Intern](https://jobright.ai/jobs/info/69a30c7eb600907a96296985?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Intern, Analyst- Information Technology Services](https://jobright.ai/jobs/info/69db8db7f748bc5d08a588e3?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978535a39f7f96cc6d0c05c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 12 |
-| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 11 |
-| **[First American](http://www.firstam.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a22118b600907a96286d7a?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
