@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck Sharp & Dohme Federal Credit Union](https://www.msdfcu.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69dfb2ee4920452a85dced82?utm_campaign=1066&utm_source=git)** | Chalfont, PA, US | On Site | Apr 15 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69dfabc6e34484770f1a9b43?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 15 |
+| **[Matricstek Inc.](www.matricstek.co)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/69dfab8b433ac8430e0e16a7?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 15 |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern -Data Analyst (E2576)](https://jobright.ai/jobs/info/69dfaaff5913ad3398144ec0?utm_campaign=1066&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Apr 15 |
+| **[BBS Automation](https://bbsautomation.com/)** | **[Summer 2026:  Procurement Data Analyst Intern](https://jobright.ai/jobs/info/69dfa91714bf245fc7a6cfe1?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA | On Site | Apr 15 |
+| **[LS Direct](https://www.lsdirect.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69dfa8eb4920452a85dcea91?utm_campaign=1066&utm_source=git)** | Suffern, NY | Hybrid | Apr 15 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfa25714bf245fc7a6cc88?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/69df9f99aba61f141731c5c0?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 15 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69df9f9114bf245fc7a6cbed?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 15 |
@@ -130,14 +136,11 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Data Intern (Data & AI Team)](https://jobright.ai/jobs/info/69de772936823d1b42581239?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 14 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69de73deaba61f1417315006?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Apr 14 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Data Intern (Data & AI Team)](https://jobright.ai/jobs/info/69de734f433ac8430e0d9aac?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
-| **[Tolmar](http://tolmar.com)** | **[Intern Analytics Canada](https://jobright.ai/jobs/info/69de731b18cf504166e2d10e?utm_campaign=1066&utm_source=git)** | Toronto, ON | Remote | Apr 14 |
 | **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69deba155913ad339813f42a?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de6599433ac8430e0d9683?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69dee57318cf504166e3059a?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Apr 14 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Data Analytics & Resources Bureau](https://jobright.ai/jobs/info/69de5ae75913ad339813cbbb?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Apr 14 |
 | **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de5ab9e34484770f1a1898?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | Apr 14 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Quantitative Analytics - Funds Transfer Pricing](https://jobright.ai/jobs/info/69de5aacaba61f1417314778?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 14 |
-| **[Tolmar](http://tolmar.com)** | **[Intern Analytics Canada](https://jobright.ai/jobs/info/69de5aab18cf504166e2c89c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Apr 14 |
 | **[Bendel Tank & Heat Exchanger](https://www.bendel.com)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de5aa318cf504166e2c891?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | Apr 14 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c6bf75f7ff1cd8101d62?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Apr 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Analyst](https://jobright.ai/jobs/info/69c1fd6e75f7ff1cd81070fd?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dddbf018cf504166e2ab00?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Health Informatics Analyst II (Temporary)](https://jobright.ai/jobs/info/69d797ea869c7e25d858dca3?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 13 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/69ddd980aba61f1417312a24?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 13 |
-| **[Keenova](https://www.keenova.com)** | **[Data Warehouse Project Management Intern](https://jobright.ai/jobs/info/69d5dc38366bb95ba5549552?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Apr 13 |
-| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/69ddb1f9e34484770f19e806?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Apr 13 |
-| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dda36c433ac8430e0d5bde?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
