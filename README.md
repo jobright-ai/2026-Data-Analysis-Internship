@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The US Oncology Network](http://www.usoncology.com/)** | **[Part - Time - Precision Medicine Data Science Intern - Dallas, Tx](https://jobright.ai/jobs/info/69df6f2f433ac8430e0e0905?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69cdf99dcdb525785fb92735?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/698d56a70f6f7e7a2ce9343a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Data Coder-Speech Therapy Student (Per Diem Temporary) Jefferson Moss-Magee Rehab](https://jobright.ai/jobs/info/69c2d5e1753c101b21562fab?utm_campaign=1066&utm_source=git)** | Elkins Park, PA | On Site | Apr 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/698d4c80f64d441a164f586f?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 15 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccb2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cd8af5e23def7af55bb77e?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69917ece6ea51a7610f3e74d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| ↳ | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| ↳ | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bcc43645e08b3dc1f98f79?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 14 |
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dddbf018cf504166e2ab00?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Health Informatics Analyst II (Temporary)](https://jobright.ai/jobs/info/69d797ea869c7e25d858dca3?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rubicon](https://www.rubicon.com)** | **[Intern, Contract Data Management](https://jobright.ai/jobs/info/69ded27caba61f1417317f50?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 13 |
 | **[zHealth](https://myzhealth.io)** | **[Data Analytics Intern (Healthcare AI & RCM) (Berkeley Skydeck)](https://jobright.ai/jobs/info/69dd6fc6738f2f099e8b6482?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | On Site | Apr 13 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69dd8d4661f6ed54321fe0bb?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Apr 13 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Data Analyst Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c00bc6f6622c99121f0?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/69dd6adf738f2f099e8b6117?utm_campaign=1066&utm_source=git)** | Issaquah, WA | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
