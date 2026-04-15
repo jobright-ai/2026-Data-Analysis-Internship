@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69df209e18cf504166e32818?utm_campaign=1066&utm_source=git)** | Emeryville, CA | Hybrid | Apr 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69df181d36823d1b4258641f?utm_campaign=1066&utm_source=git)** | Novato, CA | Remote | Apr 14 |
 | **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69df0b16433ac8430e0de8cd?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Data Analytics Engineering Intern](https://jobright.ai/jobs/info/69df04f9aba61f141731965c?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Apr 14 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Inventory Data Analyst Intern](https://jobright.ai/jobs/info/69dd61d361f6ed54321fd396?utm_campaign=1066&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 13 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 13 |
 | **[Rubicon](https://www.rubicon.com)** | **[Intern, Contract Data Management](https://jobright.ai/jobs/info/69dd547761f6ed54321fcb59?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 13 |
-| **[Amazon](https://amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadd?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 13 |
-| ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadc?utm_campaign=1066&utm_source=git)** | San Francisco, California, USA | On Site | Apr 13 |
+| **[Amazon](https://amazon.com)** | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadc?utm_campaign=1066&utm_source=git)** | San Francisco, California, USA | On Site | Apr 13 |
+| ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadd?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Apr 13 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Applied AI Data Scientist  - JCHI - 138983](https://jobright.ai/jobs/info/69dd540e61f6ed54321fca88?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
-| **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[IT Technical Analyst - Intern](https://jobright.ai/jobs/info/69dd53e1738f2f099e8b5b7c?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
