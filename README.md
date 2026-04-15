@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Operations Data & Analytics Intern](https://jobright.ai/jobs/info/69dff9495913ad33981470e0?utm_campaign=1066&utm_source=git)** | IL Elmhurst - 114106 | Hybrid | Apr 15 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69dff2ca5913ad3398146cbe?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Apr 15 |
+| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff27ae34484770f1ab806?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | Hybrid | Apr 15 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff26a4920452a85dd0799?utm_campaign=1066&utm_source=git)** | US-TN-Franklin | Hybrid | Apr 15 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff257aba61f141731e699?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | Hybrid | Apr 15 |
+| ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff2555913ad3398146b5f?utm_campaign=1066&utm_source=git)** | Franklin, TN, US | Hybrid | Apr 15 |
+| **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69dff24814bf245fc7a6ec55?utm_campaign=1066&utm_source=git)** | Cincinnati | On Site | Apr 15 |
+| **[Westwood Holdings Group, Inc.](https://westwoodgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69dff00de34484770f1ab607?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 15 |
+| **[Texas Oncology](http://www.texasoncology.com)** | **[Part - Time - Precision Medicine Data Science Intern - Dallas, Tx](https://jobright.ai/jobs/info/69dfec405913ad33981468af?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69dfe829433ac8430e0e2ffb?utm_campaign=1066&utm_source=git)** | NJ - Voorhees, 601 Laurel Oak Rd | On Site | Apr 15 |
 | **[Klick](https://www.klick.com)** | **[Data Solutions Analyst, Summer 2026](https://jobright.ai/jobs/info/69dfe72a4920452a85dd02fa?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69dfe6e5aba61f141731e1ad?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | Apr 15 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3f14920452a85dd0145?utm_campaign=1066&utm_source=git)** | Concord, MA | Remote | Apr 15 |
 | ↳ | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3e55913ad3398146535?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Apr 15 |
-| **[GTI Energy](https://www.gti.energy/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69dfe38fe34484770f1ab0e7?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 15 |
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Data Governance](https://jobright.ai/jobs/info/69dfde8814bf245fc7a6e42c?utm_campaign=1066&utm_source=git)** | Danville, PA | Remote | Apr 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69dfda61433ac8430e0e29b2?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
 | **[National Ataxia Foundation](http://www.ataxia.org)** | **[SciComm Intern](https://jobright.ai/jobs/info/69dfd7cf5913ad3398146105?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Apr 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69de815718cf504166e2d767?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 14 |
 | ↳ | **[Research Data Intern](https://jobright.ai/jobs/info/69de815418cf504166e2d754?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 14 |
 | **[OpenAI](https://www.openai.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/69de807f433ac8430e0da02f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/69c1ec6379e36d3a847efe57?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Apr 14 |
-| **[Akron Children's](http://www.akronchildrens.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69de7f7ee34484770f1a25fb?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 14 |
-| **[Brazos River Authority](http://www.brazos.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69de7a7b36823d1b4258137e?utm_campaign=1066&utm_source=git)** | Waco,TX,US | On Site | Apr 14 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Data Intern (Data & AI Team)](https://jobright.ai/jobs/info/69de772936823d1b42581239?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 14 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69de73deaba61f1417315006?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Apr 14 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Data Intern (Data & AI Team)](https://jobright.ai/jobs/info/69de734f433ac8430e0d9aac?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
-| **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69deba155913ad339813f42a?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
-| **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de6599433ac8430e0d9683?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
