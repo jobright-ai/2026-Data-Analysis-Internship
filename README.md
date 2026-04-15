@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e006fd433ac8430e0e3fd3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 15 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69e006505913ad3398147781?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 15 |
+| **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e001dbaba61f141731effd?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, United States | Remote | Apr 15 |
+| **[CooperVision](http://coopervision.com)** | **[Global Supply Chain Master Data & Analytics Intern](https://jobright.ai/jobs/info/69e001d3433ac8430e0e3cb4?utm_campaign=1066&utm_source=git)** | Victor, NY | On Site | Apr 15 |
+| **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e00163433ac8430e0e3bc6?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 15 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e0012314bf245fc7a6f38f?utm_campaign=1066&utm_source=git)** | Irving, TX 75062 Vizient Corporate HQ | On Site | Apr 15 |
+| ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69dfffe84920452a85dd0fd6?utm_campaign=1066&utm_source=git)** | Alpharetta, GA 30022 | On Site | Apr 15 |
+| ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69dfffe6e34484770f1abf92?utm_campaign=1066&utm_source=git)** | Washington, DC 20001 | On Site | Apr 15 |
+| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/69dffe03433ac8430e0e3ac9?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[Boyd Group Services Inc.](https://www.boydgroup.com)** | **[Operations Data & Analytics Intern](https://jobright.ai/jobs/info/69dff9495913ad33981470e0?utm_campaign=1066&utm_source=git)** | IL Elmhurst - 114106 | Hybrid | Apr 15 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69dff2ca5913ad3398146cbe?utm_campaign=1066&utm_source=git)** | Remote - California | Remote | Apr 15 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff27ae34484770f1ab806?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | Hybrid | Apr 15 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff26a4920452a85dd0799?utm_campaign=1066&utm_source=git)** | US-TN-Franklin | Hybrid | Apr 15 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff257aba61f141731e699?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | Hybrid | Apr 15 |
@@ -78,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Loonie Times Custom Mascot & Plush](http://www.loonietimes.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69dfd4c65913ad3398145f65?utm_campaign=1066&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Apr 15 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/69dfb7fe5913ad3398145401?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 15 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69ddc0b4e34484770f19f14e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern -Data Analyst (E2576)](https://jobright.ai/jobs/info/69dfb777aba61f141731cd64?utm_campaign=1066&utm_source=git)** | Piscataway, NJ | On Site | Apr 15 |
 | **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Data and Statistics Intern, New York](https://jobright.ai/jobs/info/69da03d6b67cec4f9b0a7a0c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 15 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698beb680f6f7e7a2ce76ef5?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
 | ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ab2c75f7ff1cd80ffa81?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
 | **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69de89fbe34484770f1a2d12?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/69de89b8433ac8430e0da738?utm_campaign=1066&utm_source=git)** | US-CA-REMOTE | Remote | Apr 14 |
-| **[Apex Tool Group, LLC](http://www.apextoolgroup.com/)** | **[Supply Chain Analytics Intern](https://jobright.ai/jobs/info/69c195cb75f7ff1cd80fc016?utm_campaign=1066&utm_source=git)** | Apex, NC | On Site | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | Apr 14 |
-| **[Akron Children's](http://www.akronchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69de815718cf504166e2d767?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 14 |
-| ↳ | **[Research Data Intern](https://jobright.ai/jobs/info/69de815418cf504166e2d754?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 14 |
-| **[OpenAI](https://www.openai.com)** | **[Business Insights Intern](https://jobright.ai/jobs/info/69de807f433ac8430e0da02f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
