@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69dfe829433ac8430e0e2ffb?utm_campaign=1066&utm_source=git)** | NJ - Voorhees, 601 Laurel Oak Rd | On Site | Apr 15 |
+| **[Klick](https://www.klick.com)** | **[Data Solutions Analyst, Summer 2026](https://jobright.ai/jobs/info/69dfe72a4920452a85dd02fa?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
+| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69dfe6e5aba61f141731e1ad?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | Apr 15 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3f14920452a85dd0145?utm_campaign=1066&utm_source=git)** | Concord, MA | Remote | Apr 15 |
+| ↳ | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3e55913ad3398146535?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Apr 15 |
+| **[GTI Energy](https://www.gti.energy/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69dfe38fe34484770f1ab0e7?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 15 |
+| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Data Governance](https://jobright.ai/jobs/info/69dfde8814bf245fc7a6e42c?utm_campaign=1066&utm_source=git)** | Danville, PA | Remote | Apr 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69dfda61433ac8430e0e29b2?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
 | **[National Ataxia Foundation](http://www.ataxia.org)** | **[SciComm Intern](https://jobright.ai/jobs/info/69dfd7cf5913ad3398146105?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Apr 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69c2e3a7ec22f8310ab0dcff?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Data Intern (Data & AI Team)](https://jobright.ai/jobs/info/69de734f433ac8430e0d9aac?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69deba155913ad339813f42a?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de6599433ac8430e0d9683?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Data Analytics & Resources Bureau](https://jobright.ai/jobs/info/69de5ae75913ad339813cbbb?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Apr 14 |
-| **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de5ab9e34484770f1a1898?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | Apr 14 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Quantitative Analytics - Funds Transfer Pricing](https://jobright.ai/jobs/info/69de5aacaba61f1417314778?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 14 |
-| **[Bendel Tank & Heat Exchanger](https://www.bendel.com)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de5aa318cf504166e2c891?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | Apr 14 |
-| **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c6bf75f7ff1cd8101d62?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Apr 14 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Analyst](https://jobright.ai/jobs/info/69c1fd6e75f7ff1cd81070fd?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Apr 14 |
-| **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69d3fc5e891d7b11cfcf618c?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
