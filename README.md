@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/698d56a70f6f7e7a2ce9343a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[Jefferson Health](http://JeffersonHealth.org)** | **[Data Coder-Speech Therapy Student (Per Diem Temporary) Jefferson Moss-Magee Rehab](https://jobright.ai/jobs/info/69c2d5e1753c101b21562fab?utm_campaign=1066&utm_source=git)** | Elkins Park, PA | On Site | Apr 15 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/698d4c80f64d441a164f586f?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 15 |
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineer Intern](https://jobright.ai/jobs/info/69df54fa433ac8430e0e04d6?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69df4daf14bf245fc7a6bd8a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 15 |
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Post Doctoral Research Associate](https://jobright.ai/jobs/info/69df4d6614bf245fc7a6bc9e?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69dd8d4661f6ed54321fe0bb?utm_campaign=1066&utm_source=git)** | Napa, CA | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Analyst Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c00bc6f6622c99121f0?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Data Science](https://jobright.ai/jobs/info/69dd6adf738f2f099e8b6117?utm_campaign=1066&utm_source=git)** | Issaquah, WA | Hybrid | Apr 13 |
-| **[MPHI](https://mphi.org)** | **[Analyst and Operations Coordinator - PRAMS](https://jobright.ai/jobs/info/69d7d51ab861c42857c46a62?utm_campaign=1066&utm_source=git)** | Greater Lansing | Hybrid | Apr 13 |
-| **[EVRAZ North America](http://www.evrazna.com/)** | **[Inventory Data Analyst Intern](https://jobright.ai/jobs/info/69dd61d361f6ed54321fd396?utm_campaign=1066&utm_source=git)** | Pueblo, CO, USA | On Site | Apr 13 |
-| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
