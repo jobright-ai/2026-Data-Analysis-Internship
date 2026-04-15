@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dexter](https://www.dexteraxle.com/)** | **[Customer Data Quality Intern-Summer 2026](https://jobright.ai/jobs/info/69c2ec5c94007a2195deffbf?utm_campaign=1066&utm_source=git)** | Elkhart, IN | On Site | Apr 15 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69dfda61433ac8430e0e29b2?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
+| **[National Ataxia Foundation](http://www.ataxia.org)** | **[SciComm Intern](https://jobright.ai/jobs/info/69dfd7cf5913ad3398146105?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Apr 15 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69c2e3a7ec22f8310ab0dcff?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 15 |
+| **[Loonie Times Custom Mascot & Plush](http://www.loonietimes.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69dfd4c65913ad3398145f65?utm_campaign=1066&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Apr 15 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/69dfb7fe5913ad3398145401?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 15 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69ddc0b4e34484770f19f14e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c6bf75f7ff1cd8101d62?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Apr 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Analyst](https://jobright.ai/jobs/info/69c1fd6e75f7ff1cd81070fd?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Apr 14 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/69d3fc5e891d7b11cfcf618c?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Apr 14 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/696c8e73db26b618950fdc23?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 14 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/698d6c34f64d441a164f7477?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
