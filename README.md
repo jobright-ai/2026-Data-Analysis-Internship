@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keysight Technologies](https://www.keysight.com)** | **[R&D Data Analytics Engineering Intern](https://jobright.ai/jobs/info/69df04f9aba61f141731965c?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69def56d433ac8430e0ddd07?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69dee8955913ad3398140f81?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69dedd585913ad3398140815?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 14 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69dedd53433ac8430e0dce00?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 14 |
-| **[Aedra](https://www.linkedin.com/company/110527319)** | **[Data Analyst - General Interest (2026)](https://jobright.ai/jobs/info/69dedd48aba61f14173182a9?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 14 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ded85918cf504166e302d5?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 14 |
 | **[CARFAX](https://www.carfax.com/)** | **[Competitive Intern – Data Leadership](https://jobright.ai/jobs/info/69decd14e34484770f1a4e3c?utm_campaign=1066&utm_source=git)** | Centreville, Virginia | On Site | Apr 14 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69decc3f433ac8430e0dc7f7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 14 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccb2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cd8af5e23def7af55bb77e?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69917ece6ea51a7610f3e74d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bcc43645e08b3dc1f98f79?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 14 |
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dddbf018cf504166e2ab00?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Health Informatics Analyst II (Temporary)](https://jobright.ai/jobs/info/69d797ea869c7e25d858dca3?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 13 |
