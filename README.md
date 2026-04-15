@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/69c362e8753c101b2157235e?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 15 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69df8eab433ac8430e0e0f29?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 15 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a774872672cb0acb4beb52?utm_campaign=1066&utm_source=git)** | Frisco, TX | On Site | Apr 15 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Management Intern (Remote)](https://jobright.ai/jobs/info/69d5ce9c891d7b11cfd05bbc?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 15 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Part - Time - Precision Medicine Data Science Intern - Dallas, Tx](https://jobright.ai/jobs/info/69df6f2f433ac8430e0e0905?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69913d000cc8ea15f1dbccb2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trader – Master's: 2026](https://jobright.ai/jobs/info/68cd8af5e23def7af55bb77e?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/69917ece6ea51a7610f3e74d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| ↳ | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 14 |
+| ↳ | **[Quantitative Systematic Trader – PhD: 2026](https://jobright.ai/jobs/info/698d57d90f6f7e7a2ce93697?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 14 |
 | **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bcc43645e08b3dc1f98f79?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 14 |
 | **[EyeSouth Partners](http://www.eyesouthpartners.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69dddbf018cf504166e2ab00?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Health Informatics Analyst II (Temporary)](https://jobright.ai/jobs/info/69d797ea869c7e25d858dca3?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/69dda317aba61f141731118d?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | Apr 13 |
 | **[ECS](https://www.ecstech.com)** | **[Junior Data Scientist - Intern](https://jobright.ai/jobs/info/69dda2d08182b27d34740700?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Apr 13 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/69dda2c58182b27d347406c5?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | Apr 13 |
-| **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics](https://jobright.ai/jobs/info/69dd87b7f748bc5d08a602e8?utm_campaign=1066&utm_source=git)** | Madera, CA | On Site | Apr 13 |
-| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/69dda1f34d3bec4144b4ca16?utm_campaign=1066&utm_source=git)** | Pomona, CA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
