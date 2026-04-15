@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69dee8955913ad3398140f81?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69dedd585913ad3398140815?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 14 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69dedd53433ac8430e0dce00?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 14 |
 | **[Aedra](https://www.linkedin.com/company/110527319)** | **[Data Analyst - General Interest (2026)](https://jobright.ai/jobs/info/69dedd48aba61f14173182a9?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 14 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69deba155913ad339813f42a?utm_campaign=1066&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de6599433ac8430e0d9683?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Apr 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69de65875913ad339813d067?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69dee57318cf504166e3059a?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Apr 14 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Data Analytics & Resources Bureau](https://jobright.ai/jobs/info/69de5ae75913ad339813cbbb?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Apr 14 |
 | **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/69de5ab9e34484770f1a1898?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | Apr 14 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Quantitative Analytics - Funds Transfer Pricing](https://jobright.ai/jobs/info/69de5aacaba61f1417314778?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[IT Technical Analyst - Intern](https://jobright.ai/jobs/info/69dd53e1738f2f099e8b5b7c?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Apr 13 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Data Analyst Intern](https://jobright.ai/jobs/info/69dd521861f6ed54321fc703?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[UG2](https://ug2.com/)** | **[Energy Data Analyst (Summer Internship)](https://jobright.ai/jobs/info/69dd5058f748bc5d08a5f225?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 13 |
-| **[BMO](http://www.bmo.com)** | **[Data & AI Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69dd4f63738f2f099e8b5910?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 13 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Temporary Content Analysis/Research Data Coders ? Religion and World Affairs, Pew Research Center](https://jobright.ai/jobs/info/69dd4eb39f97a42dc9c357c6?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
