@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/69df181d36823d1b4258641f?utm_campaign=1066&utm_source=git)** | Novato, CA | Remote | Apr 14 |
+| **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69df0b16433ac8430e0de8cd?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Data Analytics Engineering Intern](https://jobright.ai/jobs/info/69df04f9aba61f141731965c?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69def56d433ac8430e0ddd07?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69dee8955913ad3398140f81?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Economist Intern, AWS Central Economics & Science](https://jobright.ai/jobs/info/69dd545861f6ed54321fcadc?utm_campaign=1066&utm_source=git)** | San Francisco, California, USA | On Site | Apr 13 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Applied AI Data Scientist  - JCHI - 138983](https://jobright.ai/jobs/info/69dd540e61f6ed54321fca88?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[Avera Health](https://www.avera.org/doctors/avera-medical-group/)** | **[IT Technical Analyst - Intern](https://jobright.ai/jobs/info/69dd53e1738f2f099e8b5b7c?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Apr 13 |
-| **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Data Analyst Intern](https://jobright.ai/jobs/info/69dd521861f6ed54321fc703?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[UG2](https://ug2.com/)** | **[Energy Data Analyst (Summer Internship)](https://jobright.ai/jobs/info/69dd5058f748bc5d08a5f225?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
