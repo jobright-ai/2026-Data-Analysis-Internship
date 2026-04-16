@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e014edaba61f141731f7a2?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
+| **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e0144c14bf245fc7a6fd0f?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
+| **[JBG SMITH](https://www.jbgsmith.com/)** | **[Intern](https://jobright.ai/jobs/info/69e01066e34484770f1ac651?utm_campaign=1066&utm_source=git)** | US-MD-Bethesda | On Site | Apr 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69e00f474920452a85dd163f?utm_campaign=1066&utm_source=git)** | Bethesda, MD, US | On Site | Apr 15 |
+| **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69e00aa2aba61f141731f3c8?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 15 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e006fd433ac8430e0e3fd3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69e006505913ad3398147781?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e001dbaba61f141731effd?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, United States | Remote | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Information Technology - Remote](https://jobright.ai/jobs/info/69dea15b5913ad339813e7dd?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 14 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9779e36d3a847eb25a?utm_campaign=1066&utm_source=git)** | Berkeley, CA | Hybrid | Apr 14 |
 | **[AECOM](http://www.aecom.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/69de9c98e34484770f1a3707?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ae9975f7ff1cd80ffc2c?utm_campaign=1066&utm_source=git)** | Fremont, CA | Hybrid | Apr 14 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Quantitative Analytics - Funds Transfer Pricing](https://jobright.ai/jobs/info/69de935418cf504166e2e4cf?utm_campaign=1066&utm_source=git)** | Charlotte Metro | On Site | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 14 |
-| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ab2c75f7ff1cd80ffa81?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
-| **[Badger Infrastructure Solutions](http://www.badgerinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69de89fbe34484770f1a2d12?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
