@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genmab](https://www.genmab.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69c63444aa9a29199e810edd?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Apr 16 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e0f04d6c20aa114953e6dd?utm_campaign=1066&utm_source=git)** | Newton, MA | Hybrid | Apr 16 |
+| **[Prodware](https://www.prodwaregroup.com/he-il/)** | **[Werkstudentin/Werkstudent (m/w/d) - Microsoft Data Analytics & AI (DA&AI)](https://jobright.ai/jobs/info/69e0efe0acc736112f5c0e64?utm_campaign=1066&utm_source=git)** | Greater Hamburg Area | Hybrid | Apr 16 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall 2026 Intern - Data Science](https://jobright.ai/jobs/info/69c458e6d5a1016e98db89ed?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 16 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Risk](https://jobright.ai/jobs/info/69a9d01d9ca4e908ec64fc68?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Apr 16 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Health Disparities Research](https://jobright.ai/jobs/info/69e0e2ad6c20aa114953e289?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 16 |
@@ -64,13 +67,14 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a772e476bbe83d3afad6d3?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Apr 16 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Apr 16 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern](https://jobright.ai/jobs/info/69e0d2e96c20aa114953dc66?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 16 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c4657833eecf310794b5ba?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 16 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69d5d825706f771673ba7415?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 16 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a932ab79f3f4037f43f937?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
-| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bd1ef445e08b3dc1fa3a53?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/69782e0688e2b47213bc32ce?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bd1ef445e08b3dc1fa3a53?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69e0d32dacc736112f5c008b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69df0b16433ac8430e0de8cd?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Data Analytics Engineering Intern](https://jobright.ai/jobs/info/69df04f9aba61f141731965c?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69def56d433ac8430e0ddd07?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69e04e26c5691b27c176c7b2?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Apr 14 |
-| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69dee8955913ad3398140f81?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69dedd585913ad3398140815?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 14 |
-| **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69dedd53433ac8430e0dce00?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
