@@ -132,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[SAIC](http://www.saic.com)** | **[Mission Data Analyst Engineer Intern](https://jobright.ai/jobs/info/69df54fa433ac8430e0e04d6?utm_campaign=1066&utm_source=git)** | Chantilly, VA | On Site | Apr 15 |
 | ↳ | **[Mission Assurance  Data Analyst Intern](https://jobright.ai/jobs/info/69df80e25913ad33981443db?utm_campaign=1066&utm_source=git)** | Chantilly, VA | Hybrid | Apr 15 |
 | **[Excel Campus Activities](http://www.uta.edu/excel/)** | **[Post Doctoral Research Associate](https://jobright.ai/jobs/info/69df4d6614bf245fc7a6bc9e?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Apr 15 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e0978ec17d1d5254335594?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Apr 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69df80925913ad339814429b?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Apr 14 |
 | **[The Home Depot](https://www.homedepot.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/69df2bc5433ac8430e0df619?utm_campaign=1066&utm_source=git)** | Pomona, CA | On Site | Apr 14 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69df209e18cf504166e32818?utm_campaign=1066&utm_source=git)** | Emeryville, CA | Hybrid | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69dec09f5913ad339813fd7f?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Apr 14 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69debdce433ac8430e0dc380?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa53?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc61433ac8430e0dc24c?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
