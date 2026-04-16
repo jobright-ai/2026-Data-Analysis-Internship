@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69d5d825706f771673ba7415?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 16 |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a932ab79f3f4037f43f937?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Analyst Intern- CD](https://jobright.ai/jobs/info/69e05461c17d1d5254333c10?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Apr 15 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69e04dfdc17d1d525433397d?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Data Governance](https://jobright.ai/jobs/info/69dfde8814bf245fc7a6e42c?utm_campaign=1066&utm_source=git)** | Danville, PA | Remote | Apr 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69dfda61433ac8430e0e29b2?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
 | **[National Ataxia Foundation](http://www.ataxia.org)** | **[SciComm Intern](https://jobright.ai/jobs/info/69dfd7cf5913ad3398146105?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Apr 15 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69c2e3a7ec22f8310ab0dcff?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 15 |
 | **[Loonie Times Custom Mascot & Plush](http://www.loonietimes.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69dfd4c65913ad3398145f65?utm_campaign=1066&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Customer Data Quality Intern-Summer 2026](https://jobright.ai/jobs/info/69e08fb3cf5a9e0c33c8727f?utm_campaign=1066&utm_source=git)** | Elkhart, IN | On Site | Apr 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/69dec0b5aba61f14173178be?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69dec09f5913ad339813fd7f?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Apr 14 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69debdce433ac8430e0dc380?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa53?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
