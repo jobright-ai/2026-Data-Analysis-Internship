@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Payer Sciences](https://www.payersciences.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69e158cbff71e82d604b67a1?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Apr 16 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e156b240a62c1fa93b7e80?utm_campaign=1066&utm_source=git)** | Remote - Colorado, US | Remote | Apr 16 |
+| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e156a3d612782e61148299?utm_campaign=1066&utm_source=git)** | Remote - Minnesota, US | Remote | Apr 16 |
+| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e155916c20aa1149540a81?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
+| **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e154976c20aa11495409f0?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
+| **[Medtronic](https://www.medtronic.com)** | **[Strategic Insights & Analytics Intern](https://jobright.ai/jobs/info/69e153ffacc736112f5c31c7?utm_campaign=1066&utm_source=git)** | Brampton, ON | On Site | Apr 16 |
+| **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e15105d612782e6114811d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
+| **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Data Scientist](https://jobright.ai/jobs/info/69e14fd66c20aa11495408ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
+| **[Washington Fruit Growers](https://washfruitgrowers.co)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e14fb66c20aa11495408b0?utm_campaign=1066&utm_source=git)** | Yakima, WA | On Site | Apr 16 |
+| **[Brazos River Authority](http://www.brazos.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e14f67fd1c0456f3fada7e?utm_campaign=1066&utm_source=git)** | Waco, TX | On Site | Apr 16 |
 | **[Tru Consulting](https://www.tru.consulting)** | **[Intern](https://jobright.ai/jobs/info/69e13f50fd1c0456f3fad419?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Lightera](http://www.lightera.com)** | **[IT Data Analyst Summer Intern](https://jobright.ai/jobs/info/69e13f226c20aa11495401f1?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Apr 16 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Data and Evaluation Specialist - Research Scientist 3](https://jobright.ai/jobs/info/69e139b5d612782e61147873?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Apr 16 |
@@ -113,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c4657833eecf310794b5ba?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 16 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69d5d825706f771673ba7415?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 16 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a932ab79f3f4037f43f937?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
+| ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bd1ef445e08b3dc1fa3a53?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
@@ -122,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69e04dfdc17d1d525433397d?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[RTX](http://rtx.com/)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/69e04cae4920452a85dd28f8?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Remote | Apr 15 |
-| **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Operations Data & Analytics Intern](https://jobright.ai/jobs/info/69e04899433ac8430e0e5381?utm_campaign=1066&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e041c45913ad3398148a14?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69e041bc5913ad3398148a0d?utm_campaign=1066&utm_source=git)** | Voorhees, NJ | On Site | Apr 15 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e0300a14bf245fc7a706d3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Oncology](http://www.texasoncology.com)** | **[Part - Time - Precision Medicine Data Science Intern - Dallas, Tx](https://jobright.ai/jobs/info/69dfec405913ad33981468af?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69dfe829433ac8430e0e2ffb?utm_campaign=1066&utm_source=git)** | NJ - Voorhees, 601 Laurel Oak Rd | On Site | Apr 15 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69dfe6e5aba61f141731e1ad?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | Apr 15 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3f14920452a85dd0145?utm_campaign=1066&utm_source=git)** | Concord, MA | Remote | Apr 15 |
-| ↳ | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3e55913ad3398146535?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Apr 15 |
-| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate - Data Governance](https://jobright.ai/jobs/info/69dfde8814bf245fc7a6e42c?utm_campaign=1066&utm_source=git)** | Danville, PA | Remote | Apr 15 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69dfda61433ac8430e0e29b2?utm_campaign=1066&utm_source=git)** | Pensacola, FL | On Site | Apr 15 |
-| **[Loonie Times Custom Mascot & Plush](http://www.loonietimes.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69dfd4c65913ad3398145f65?utm_campaign=1066&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
-| **[Dexter](https://dextergroup.com)** | **[Customer Data Quality Intern-Summer 2026](https://jobright.ai/jobs/info/69e08fb3cf5a9e0c33c8727f?utm_campaign=1066&utm_source=git)** | Elkhart, IN | On Site | Apr 15 |
-| **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Apr 15 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/69dfb7fe5913ad3398145401?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 15 |
-| **[UN Women](http://www.unwomen.org/en)** | **[UN Women: Data and Statistics Intern, New York](https://jobright.ai/jobs/info/69da03d6b67cec4f9b0a7a0c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
