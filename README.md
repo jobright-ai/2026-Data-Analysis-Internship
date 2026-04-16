@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBG SMITH](https://www.jbgsmith.com/)** | **[Intern](https://jobright.ai/jobs/info/69e03eab14bf245fc7a70abb?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e0300a14bf245fc7a706d3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69e02375433ac8430e0e470f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e0234e4920452a85dd1b56?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Remote | Apr 15 |
@@ -67,8 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e0144c14bf245fc7a6fd0f?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[JBG SMITH](https://www.jbgsmith.com/)** | **[Intern](https://jobright.ai/jobs/info/69e01066e34484770f1ac651?utm_campaign=1066&utm_source=git)** | US-MD-Bethesda | On Site | Apr 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69e00f474920452a85dd163f?utm_campaign=1066&utm_source=git)** | Bethesda, MD, US | On Site | Apr 15 |
+| **[Ambulatory Anesthesia Care (Midwest)](https://zzzmd.com/)** | **[Data Analyst Internship (Revenue Cycle & Analytics)](https://jobright.ai/jobs/info/69e0368e5913ad339814878c?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 15 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69e00aa2aba61f141731f3c8?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 15 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e006fd433ac8430e0e3fd3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 15 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e03aea14bf245fc7a70a20?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 15 |
+| ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e006fd433ac8430e0e3fd3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 15 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69e006505913ad3398147781?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e001dbaba61f141731effd?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, United States | Remote | Apr 15 |
 | **[CooperVision](http://coopervision.com)** | **[Global Supply Chain Master Data & Analytics Intern](https://jobright.ai/jobs/info/69e001d3433ac8430e0e3cb4?utm_campaign=1066&utm_source=git)** | Victor, NY | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4aaba61f14173176e2?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4836823d1b425837f2?utm_campaign=1066&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4018cf504166e2f8e4?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
-| **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69deb66c433ac8430e0dc06f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69deb227e34484770f1a4399?utm_campaign=1066&utm_source=git)** | Kanata, ON | Hybrid | Apr 14 |
-| **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69deb1d35913ad339813eebc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, US, 15222 | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
