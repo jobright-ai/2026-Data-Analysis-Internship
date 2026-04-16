@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69e04dfdc17d1d525433397d?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
+| **[RTX](http://www.raytheon.com)** | **[Summer 2026 - Data Science Intern (Remote)](https://jobright.ai/jobs/info/69e04cae4920452a85dd28f8?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Remote | Apr 15 |
+| **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Operations Data & Analytics Intern](https://jobright.ai/jobs/info/69e04899433ac8430e0e5381?utm_campaign=1066&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 15 |
+| **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e041c45913ad3398148a14?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
+| **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69e041bc5913ad3398148a0d?utm_campaign=1066&utm_source=git)** | Voorhees, NJ | On Site | Apr 15 |
 | **[JBG SMITH](https://www.jbgsmith.com/)** | **[Intern](https://jobright.ai/jobs/info/69e03eab14bf245fc7a70abb?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 15 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e0300a14bf245fc7a706d3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69e02375433ac8430e0e470f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
@@ -136,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Kings](http://lakings.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69df0b16433ac8430e0de8cd?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[R&D Data Analytics Engineering Intern](https://jobright.ai/jobs/info/69df04f9aba61f141731965c?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69def56d433ac8430e0ddd07?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 14 |
+| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/69e04e26c5691b27c176c7b2?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Apr 14 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Data Science (LA Kings)](https://jobright.ai/jobs/info/69dee8955913ad3398140f81?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 14 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Retail Operations Data Analyst Intern](https://jobright.ai/jobs/info/69dedd585913ad3398140815?utm_campaign=1066&utm_source=git)** | Emeryville, California | On Site | Apr 14 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Business Data Analyst - Report Automation Focus (Intern)](https://jobright.ai/jobs/info/69dedd53433ac8430e0dce00?utm_campaign=1066&utm_source=git)** | US - Mountain View, CA | On Site | Apr 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/69dec0bf18cf504166e2faa4?utm_campaign=1066&utm_source=git)** | US-SD-Sioux Falls | On Site | Apr 14 |
 | ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/69dec0b5aba61f14173178be?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, US | On Site | Apr 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69dec09f5913ad339813fd7f?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Apr 14 |
-| **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69debdce433ac8430e0dc380?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa53?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc61433ac8430e0dc24c?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc56e34484770f1a477c?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4aaba61f14173176e2?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4836823d1b425837f2?utm_campaign=1066&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc4018cf504166e2f8e4?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
