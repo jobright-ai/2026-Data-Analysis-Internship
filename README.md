@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69e02375433ac8430e0e470f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
+| **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e0234e4920452a85dd1b56?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Remote | Apr 15 |
+| **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e023384920452a85dd1b39?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 15 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Analyst Intern- CD](https://jobright.ai/jobs/info/69e01b614920452a85dd1a58?utm_campaign=1066&utm_source=git)** | Any city, CA, US, 99999 | Hybrid | Apr 15 |
+| **[CooperCompanies](http://www.coopercos.com)** | **[Global Supply Chain Master Data & Analytics Intern](https://jobright.ai/jobs/info/69e0182814bf245fc7a6fe27?utm_campaign=1066&utm_source=git)** | 209 High Point Drive, Victor, NY, 14564, US | On Site | Apr 15 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/69e014edaba61f141731f7a2?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e0144c14bf245fc7a6fd0f?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 | **[JBG SMITH](https://www.jbgsmith.com/)** | **[Intern](https://jobright.ai/jobs/info/69e01066e34484770f1ac651?utm_campaign=1066&utm_source=git)** | US-MD-Bethesda | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69deb227e34484770f1a4399?utm_campaign=1066&utm_source=git)** | Kanata, ON | Hybrid | Apr 14 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69deb1d35913ad339813eebc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, US, 15222 | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69df37e45913ad3398143637?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 14 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology - Remote](https://jobright.ai/jobs/info/69dea161aba61f14173169a9?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 14 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Information Technology - Remote](https://jobright.ai/jobs/info/69dea15b5913ad339813e7dd?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Apr 14 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9779e36d3a847eb25a?utm_campaign=1066&utm_source=git)** | Berkeley, CA | Hybrid | Apr 14 |
-| **[AECOM](http://www.aecom.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/69de9c98e34484770f1a3707?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
