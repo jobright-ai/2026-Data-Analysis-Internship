@@ -99,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[National Ataxia Foundation](http://www.ataxia.org)** | **[SciComm Intern](https://jobright.ai/jobs/info/69dfd7cf5913ad3398146105?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Apr 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69c2e3a7ec22f8310ab0dcff?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 15 |
 | **[Loonie Times Custom Mascot & Plush](http://www.loonietimes.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69dfd4c65913ad3398145f65?utm_campaign=1066&utm_source=git)** | Mississauga, ON | On Site | Apr 15 |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Customer Data Quality Intern-Summer 2026](https://jobright.ai/jobs/info/69e08fb3cf5a9e0c33c8727f?utm_campaign=1066&utm_source=git)** | Elkhart, IN | On Site | Apr 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Apr 15 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/69dfb7fe5913ad3398145401?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 15 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern -Data Analyst (E2576)](https://jobright.ai/jobs/info/69dfb777aba61f141731cd64?utm_campaign=1066&utm_source=git)** | Piscataway, NJ | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69debdce433ac8430e0dc380?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 14 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa53?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc61433ac8430e0dc24c?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69debc56e34484770f1a477c?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
