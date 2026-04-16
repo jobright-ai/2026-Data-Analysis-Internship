@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e0300a14bf245fc7a706d3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69e02375433ac8430e0e470f?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 15 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e0234e4920452a85dd1b56?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Remote | Apr 15 |
 | **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e023384920452a85dd1b39?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69deb66c433ac8430e0dc06f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Apr 14 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69deb227e34484770f1a4399?utm_campaign=1066&utm_source=git)** | Kanata, ON | Hybrid | Apr 14 |
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69deb1d35913ad339813eebc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, US, 15222 | On Site | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69df37e45913ad3398143637?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
