@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Enterprise Business Analytics Internship](https://jobright.ai/jobs/info/69e2968c3ce36005badbec21?utm_campaign=1066&utm_source=git)** | Secaucus, NJ | On Site | Apr 17 |
+| ↳ | **[Enterprise Business Analytics Internship](https://jobright.ai/jobs/info/69e2961afcfcbd43860a3860?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Health Data Visualization Analyst](https://jobright.ai/jobs/info/69e28e4bbe46fa3a4ef57b3f?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 17 |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Data and Engagement Intern (Youth Well-Being)](https://jobright.ai/jobs/info/69e28e2b2f28653593077242?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Apr 17 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/69d6779852a5bf5800128df9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
+| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69a8937579f3f4037f428572?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The Larry H. Miller Company](https://www.lhm.com/)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/69e289573ce36005badbe849?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Apr 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e27274fcfcbd43860a3091?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Apr 17 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69d1923e0b098b7a67082143?utm_campaign=1066&utm_source=git)** | Macon, GA | On Site | Apr 17 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69e289133770bd5361cd8d52?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Enterprise Business Analytics Internship](https://jobright.ai/jobs/info/69e263df5c44d4710fe24fa6?utm_campaign=1066&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 17 |
 | **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Geospatial Data Intern](https://jobright.ai/jobs/info/69e263ccbe46fa3a4ef57005?utm_campaign=1066&utm_source=git)** | Chapel Hill, NC | On Site | Apr 17 |
@@ -122,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69de7f7ee34484770f1a25fb?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Apr 16 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Data Scientist](https://jobright.ai/jobs/info/69a88d4079f3f4037f4266b6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Nautilus Insurance Group (a Berkley Company)](https://www.nautilusinsgroup.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69e12056acc736112f5c1fe0?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 16 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e11a9340a62c1fa93b6a1e?utm_campaign=1066&utm_source=git)** | Newton, MA | Hybrid | Apr 16 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Data Analyst & AI Intern](https://jobright.ai/jobs/info/69e11a616c20aa114953f5b4?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Apr 16 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 16 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Health Science Specialist](https://jobright.ai/jobs/info/69e1169240a62c1fa93b6952?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[PhD Econ Intern, Store Economics and Science](https://jobright.ai/jobs/info/69e0e09c40a62c1fa93b55d3?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a772e476bbe83d3afad6d3?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Apr 16 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Apr 16 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern](https://jobright.ai/jobs/info/69e0d2e96c20aa114953dc66?utm_campaign=1066&utm_source=git)** | United States | On Site | Apr 16 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 DMFI Summer Intern](https://jobright.ai/jobs/info/69c476776f4f855eeda7028b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[Primerica](https://www.primerica.com)** | **[SVM Analytics & Reporting Intern](https://jobright.ai/jobs/info/69c4657833eecf310794b5ba?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 16 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69d5d825706f771673ba7415?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
