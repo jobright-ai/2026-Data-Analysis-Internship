@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Fraser](http://www.westfraser.com/)** | **[Insights Summer Intern](https://jobright.ai/jobs/info/69e16e4fff71e82d604b6f93?utm_campaign=1066&utm_source=git)** | Vancouver, BC | On Site | Apr 16 |
+| **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[CARA Summer Intern](https://jobright.ai/jobs/info/69e16a976c20aa1149541075?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Apr 16 |
+| **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern - CBM Lab](https://jobright.ai/jobs/info/69e167f4acc736112f5c3859?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Payer Sciences](https://www.payersciences.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69e158cbff71e82d604b67a1?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Apr 16 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e156b240a62c1fa93b7e80?utm_campaign=1066&utm_source=git)** | Remote - Colorado, US | Remote | Apr 16 |
 | ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e156a3d612782e61148299?utm_campaign=1066&utm_source=git)** | Remote - Minnesota, US | Remote | Apr 16 |
@@ -67,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Data Scientist](https://jobright.ai/jobs/info/69e14fd66c20aa11495408ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 | **[Washington Fruit Growers](https://washfruitgrowers.co)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e14fb66c20aa11495408b0?utm_campaign=1066&utm_source=git)** | Yakima, WA | On Site | Apr 16 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e14f67fd1c0456f3fada7e?utm_campaign=1066&utm_source=git)** | Waco, TX | On Site | Apr 16 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/69e16e32ff71e82d604b6f4c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
+| ↳ | **[Environmental Data Scientist](https://jobright.ai/jobs/info/69e16e25ff71e82d604b6f2c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
 | **[Tru Consulting](https://www.tru.consulting)** | **[Intern](https://jobright.ai/jobs/info/69e13f50fd1c0456f3fad419?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Lightera](http://www.lightera.com)** | **[IT Data Analyst Summer Intern](https://jobright.ai/jobs/info/69e13f226c20aa11495401f1?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Apr 16 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Data and Evaluation Specialist - Research Scientist 3](https://jobright.ai/jobs/info/69e139b5d612782e61147873?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Apr 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff26a4920452a85dd0799?utm_campaign=1066&utm_source=git)** | US-TN-Franklin | Hybrid | Apr 15 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff257aba61f141731e699?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | Hybrid | Apr 15 |
 | ↳ | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69dff2555913ad3398146b5f?utm_campaign=1066&utm_source=git)** | Franklin, TN, US | Hybrid | Apr 15 |
-| **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69dff24814bf245fc7a6ec55?utm_campaign=1066&utm_source=git)** | Cincinnati | On Site | Apr 15 |
-| **[Westwood Holdings Group, Inc.](https://westwoodgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69dff00de34484770f1ab607?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| **[Texas Oncology](http://www.texasoncology.com)** | **[Part - Time - Precision Medicine Data Science Intern - Dallas, Tx](https://jobright.ai/jobs/info/69dfec405913ad33981468af?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
-| **[Comcast](https://corporate.comcast.com)** | **[Hockey Analytics Summer Intern](https://jobright.ai/jobs/info/69dfe829433ac8430e0e2ffb?utm_campaign=1066&utm_source=git)** | NJ - Voorhees, 601 Laurel Oak Rd | On Site | Apr 15 |
-| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69dfe6e5aba61f141731e1ad?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
