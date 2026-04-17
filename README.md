@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Enterprise Business Analytics Internship](https://jobright.ai/jobs/info/69e263df5c44d4710fe24fa6?utm_campaign=1066&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 17 |
+| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Geospatial Data Intern](https://jobright.ai/jobs/info/69e263ccbe46fa3a4ef57005?utm_campaign=1066&utm_source=git)** | Chapel Hill, NC | On Site | Apr 17 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 17 |
 | **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69e2325a5a16743a729c550a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d87b8b9f97a42dc9c1c9e6?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffdd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Nautilus Insurance Group (a Berkley Company)](https://www.nautilusinsgroup.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69e12056acc736112f5c1fe0?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 16 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e11a9340a62c1fa93b6a1e?utm_campaign=1066&utm_source=git)** | Newton, MA | Hybrid | Apr 16 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Data Analyst & AI Intern](https://jobright.ai/jobs/info/69e11a616c20aa114953f5b4?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Apr 16 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Summer Intern (May-August)](https://jobright.ai/jobs/info/69e119e2ff71e82d604b5234?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Apr 16 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 16 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Health Science Specialist](https://jobright.ai/jobs/info/69e1169240a62c1fa93b6952?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 16 |
 | **[Superior Insurance Partners](https://superiorinsurancepartnersllc.com/)** | **[Data Analyst-Intern](https://jobright.ai/jobs/info/69e110a840a62c1fa93b67ee?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69e109be40a62c1fa93b65a2?utm_campaign=1066&utm_source=git)** | AZ, Scottsdale - 7233 E Butherus Drive | On Site | Apr 16 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Apr 16 |
 | **[Saatchi X](http://www.saatchix.net/)** | **[Intern, Data & Analytics](https://jobright.ai/jobs/info/69e10773acc736112f5c191b?utm_campaign=1066&utm_source=git)** | Springdale, AR | Hybrid | Apr 16 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Summer Intern (May-August)](https://jobright.ai/jobs/info/69e1057b40a62c1fa93b64ea?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Apr 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Research Intern (3-5hrs/week, flexible)](https://jobright.ai/jobs/info/69e1047240a62c1fa93b648d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Apr 16 |
 | **[Medtronic](https://www.medtronic.com)** | **[Strategic Insights & Analytics Intern](https://jobright.ai/jobs/info/69e10308acc736112f5c182e?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 | **[UTIMCO](https://www.utimco.org/)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/69e0f843acc736112f5c13a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69e1ef936c20aa1149545f76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69e0d32dacc736112f5c008b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
