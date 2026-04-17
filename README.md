@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accuray](http://www.accuray.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69a88bec2580d3183f0090be?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Apr 17 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e1ee6c6c20aa1149545e05?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Data and Engagement Intern (Youth Well-Being)](https://jobright.ai/jobs/info/69e1c381d612782e6114a541?utm_campaign=1066&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Medtronic](https://www.medtronic.com)** | **[Strategic Insights & Analytics Intern](https://jobright.ai/jobs/info/69e153ffacc736112f5c31c7?utm_campaign=1066&utm_source=git)** | Brampton, ON | On Site | Apr 16 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Data Scientist](https://jobright.ai/jobs/info/69e14fd66c20aa11495408ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e14f67fd1c0456f3fada7e?utm_campaign=1066&utm_source=git)** | Waco, TX | On Site | Apr 16 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Environmental Data Scientist](https://jobright.ai/jobs/info/69e16e25ff71e82d604b6f2c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
-| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69e16e32ff71e82d604b6f4c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/69e16e32ff71e82d604b6f4c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
+| ↳ | **[Environmental Data Scientist](https://jobright.ai/jobs/info/69e16e25ff71e82d604b6f2c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
 | **[Washington Fruit Growers](https://washfruitgrowers.co)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e14fb66c20aa11495408b0?utm_campaign=1066&utm_source=git)** | Yakima, WA | On Site | Apr 16 |
 | **[Lightera](http://www.lightera.com)** | **[IT Data Analyst Summer Intern](https://jobright.ai/jobs/info/69e13f226c20aa11495401f1?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Apr 16 |
 | **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e15105d612782e6114811d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
@@ -122,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Medtronic](https://www.medtronic.com)** | **[Strategic Insights & Analytics Intern](https://jobright.ai/jobs/info/69e10308acc736112f5c182e?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 16 |
 | **[UTIMCO](https://www.utimco.org/)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/69e0f843acc736112f5c13a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e0f7ea6c20aa114953ec05?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 16 |
 | **[Ampere](http://amperecomputing.com)** | **[Technical Intern, Data Analysis Tool Development](https://jobright.ai/jobs/info/69a779b876bbe83d3afade6a?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[Genmab](https://www.genmab.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69c63444aa9a29199e810edd?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Apr 16 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Bioinformatics Scientist (Postdoc)](https://jobright.ai/jobs/info/69c443bb33eecf31079472c7?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e0234e4920452a85dd1b56?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Remote | Apr 15 |
 | **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e023384920452a85dd1b39?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 15 |
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Global Supply Chain Master Data & Analytics Intern](https://jobright.ai/jobs/info/69e0182814bf245fc7a6fe27?utm_campaign=1066&utm_source=git)** | 209 High Point Drive, Victor, NY, 14564, US | On Site | Apr 15 |
-| **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e0144c14bf245fc7a6fd0f?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
