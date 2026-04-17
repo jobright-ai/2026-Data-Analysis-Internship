@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69e2325a5a16743a729c550a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d87b8b9f97a42dc9c1c9e6?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffdd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63b2483ea553769fd6cab?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 17 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e15105d612782e6114811d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Data and Evaluation Specialist - Research Scientist 3](https://jobright.ai/jobs/info/69e139b5d612782e61147873?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Apr 16 |
 | **[Tru Consulting](https://www.tru.consulting)** | **[Intern](https://jobright.ai/jobs/info/69e13f50fd1c0456f3fad419?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 16 |
-| **[AVEO Oncology](http://www.aveooncology.com)** | **[Summer Intern, Data Analyst](https://jobright.ai/jobs/info/69e1394dff71e82d604b5c2f?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 16 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern, GIS Specialist](https://jobright.ai/jobs/info/69e13910d612782e611476ec?utm_campaign=1066&utm_source=git)** | Campus: Tempe | On Site | Apr 16 |
 | **[First American](http://www.firstam.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69d7fc51b861c42857c478d8?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 16 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | Apr 16 |
@@ -151,8 +151,8 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data Insights AI Summer Intern](https://jobright.ai/jobs/info/69d5d825706f771673ba7415?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 16 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69a932ab79f3f4037f43f937?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Apr 16 |
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/69e20c8fad27d95045be302c?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
+| ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bd1ef445e08b3dc1fa3a53?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
