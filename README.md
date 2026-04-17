@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e1ee6c6c20aa1149545e05?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Data and Engagement Intern (Youth Well-Being)](https://jobright.ai/jobs/info/69e1c381d612782e6114a541?utm_campaign=1066&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Ohio Cat](http://www.ohiocat.com)** | **[Data Warehouse Paid Intern](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423fd?utm_campaign=1066&utm_source=git)** | Broadview Heights, OH | On Site | Apr 16 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bd1ef445e08b3dc1fa3a53?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | ↳ | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698bf70de4f6572f0e43eb4a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Real Estate Analyst Intern](https://jobright.ai/jobs/info/69e1ef936c20aa1149545f76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern - Summer 2026 - Atlanta, GA OR Franklin, TN (Nashville)](https://jobright.ai/jobs/info/69e0d32dacc736112f5c008b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 15 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | Apr 15 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69e04dfdc17d1d525433397d?utm_campaign=1066&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e023384920452a85dd1b39?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 15 |
 | **[CooperCompanies](http://www.coopercos.com/)** | **[Global Supply Chain Master Data & Analytics Intern](https://jobright.ai/jobs/info/69e0182814bf245fc7a6fe27?utm_campaign=1066&utm_source=git)** | 209 High Point Drive, Victor, NY, 14564, US | On Site | Apr 15 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e0144c14bf245fc7a6fd0f?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Apr 15 |
-| **[Ambulatory Anesthesia Care (Midwest)](https://zzzmd.com/)** | **[Data Analyst Internship (Revenue Cycle & Analytics)](https://jobright.ai/jobs/info/69e0368e5913ad339814878c?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Apr 15 |
-| **[Leidos](https://www.leidos.com)** | **[Business Analytics and Automation Intern](https://jobright.ai/jobs/info/69e00aa2aba61f141731f3c8?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
