@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69a8937579f3f4037f428572?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The Larry H. Miller Company](https://www.lhm.com/)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/69e289573ce36005badbe849?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Apr 17 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Insurance Optimization Intern](https://jobright.ai/jobs/info/69c5bf1ee565c26a70014809?utm_campaign=1066&utm_source=git)** | Michigan, United States | Remote | Apr 17 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69e2ad2f2f28653593077a7a?utm_campaign=1066&utm_source=git)** | US-CA-Ontario | On Site | Apr 17 |
-| ↳ | **[IT Analyst Intern](https://jobright.ai/jobs/info/69e2acd4be46fa3a4ef583c8?utm_campaign=1066&utm_source=git)** | Ontario, CA, US | On Site | Apr 17 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69e2acd4be46fa3a4ef583c8?utm_campaign=1066&utm_source=git)** | Ontario, CA, US | On Site | Apr 17 |
+| ↳ | **[IT Analyst Intern](https://jobright.ai/jobs/info/69e2ad2f2f28653593077a7a?utm_campaign=1066&utm_source=git)** | US-CA-Ontario | On Site | Apr 17 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e27274fcfcbd43860a3091?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Apr 17 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69e289133770bd5361cd8d52?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Enterprise Business Analytics Internship](https://jobright.ai/jobs/info/69e263df5c44d4710fe24fa6?utm_campaign=1066&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Apr 17 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e154976c20aa11495409f0?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Data Scientist](https://jobright.ai/jobs/info/69e14fd66c20aa11495408ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[Engineering Intern](https://jobright.ai/jobs/info/69e14f67fd1c0456f3fada7e?utm_campaign=1066&utm_source=git)** | Waco, TX | On Site | Apr 16 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/69e16e32ff71e82d604b6f4c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
-| ↳ | **[Environmental Data Scientist](https://jobright.ai/jobs/info/69e16e25ff71e82d604b6f2c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Environmental Data Scientist](https://jobright.ai/jobs/info/69e16e25ff71e82d604b6f2c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69e16e32ff71e82d604b6f4c?utm_campaign=1066&utm_source=git)** | Edmonton, AB | On Site | Apr 16 |
 | **[Washington Fruit Growers](https://washfruitgrowers.co)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e14fb66c20aa11495408b0?utm_campaign=1066&utm_source=git)** | Yakima, WA | On Site | Apr 16 |
 | **[Lightera](http://www.lightera.com)** | **[IT Data Analyst Summer Intern](https://jobright.ai/jobs/info/69e13f226c20aa11495401f1?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Apr 16 |
 | **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e15105d612782e6114811d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 16 |
