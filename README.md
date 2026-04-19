@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc36c?utm_campaign=1066&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 18 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 18 |
 | **[Zoox](https://www.zoox.com/)** | **[PhD Research Intern, Offline Driving Intelligence](https://jobright.ai/jobs/info/69e438c92664c278c1dd59ab?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Apr 18 |
 | **[Tacit](https://tacit.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d840da9f97a42dc9c1b4b5?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 18 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[New Balance](http://www.newbalance.com)** | **[Sports Research Athlete Insights Intern (12 Months)](https://jobright.ai/jobs/info/69e32fe43770bd5361cdaedc?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 17 |
 | **[Faire](https://www.faire.com)** | **[Data Science Intern (Personalization & Recommender Systems)](https://jobright.ai/jobs/info/69e2ee7c2f28653593078afe?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Apr 17 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/69e2eb34fcfcbd43860a50aa?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 17 |
-| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3386e5c44d4710fe285c7?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 17 |
+| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e338422f28653593079985?utm_campaign=1066&utm_source=git)** | US-FL-Tampa | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f30?utm_campaign=1066&utm_source=git)** | US-VA-Fairfax | On Site | Apr 17 |
-| ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e338422f28653593079985?utm_campaign=1066&utm_source=git)** | US-FL-Tampa | On Site | Apr 17 |
+| ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3386e5c44d4710fe285c7?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f2f?utm_campaign=1066&utm_source=git)** | Tampa, FL, US | On Site | Apr 17 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Revenue Tech and Data Analytics - ATL (Summer 2026)](https://jobright.ai/jobs/info/69e2e151be46fa3a4ef5945a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 17 |
 | **[Schneider Electric](https://www.se.com)** | **[Summer 2026 Business & Data Analyst Intern](https://jobright.ai/jobs/info/69e2d790be46fa3a4ef5913a?utm_campaign=1066&utm_source=git)** | Foxborough (Foxboro), MA | Remote | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Data and Evaluation Specialist - Research Scientist 3](https://jobright.ai/jobs/info/69e139b5d612782e61147873?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Apr 16 |
 | **[First American](http://www.firstam.com)** | **[AI/Data Science Graduate Intern](https://jobright.ai/jobs/info/69d7fc51b861c42857c478d8?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 16 |
 | **[City of Hope](http://www.cityofhope.org)** | **[Intern - Research Data Analyst](https://jobright.ai/jobs/info/69e139aeacc736112f5c2878?utm_campaign=1066&utm_source=git)** | Duarte, CA | On Site | Apr 16 |
-| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
