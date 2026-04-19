@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Operations Intern](https://jobright.ai/jobs/info/69e4e2ae7820c036924cc94b?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Apr 19 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[MCC Data Analyst Intern](https://jobright.ai/jobs/info/69b6681806c1ba00c5485c9d?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 19 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/699171c00f6f7e7a2cedcb13?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85f1891d7b11cfcbc36c?utm_campaign=1066&utm_source=git)** | Anywhere, REMOTE, United States | Remote | Apr 18 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 18 |
 | **[Zoox](https://www.zoox.com/)** | **[PhD Research Intern, Offline Driving Intelligence](https://jobright.ai/jobs/info/69e438c92664c278c1dd59ab?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Apr 18 |
-| **[Tacit](https://tacit.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e4cc037820c036924cc4e9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d840da9f97a42dc9c1b4b5?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| **[Tacit](https://tacit.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d840da9f97a42dc9c1b4b5?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Apr 18 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e4cc037820c036924cc4e9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6fb851b5ad02887388f45?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 18 |
 | **[Michigan Advocacy Program](https://miadvocacy.org/)** | **[Part-Time Data Intern (Ypsilanti, MI)](https://jobright.ai/jobs/info/69e393161ec29c5920b95c88?utm_campaign=1066&utm_source=git)** | REMOTE-United States | Remote | Apr 18 |
@@ -84,15 +85,15 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/69e2eb34fcfcbd43860a50aa?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 17 |
 | **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e338422f28653593079985?utm_campaign=1066&utm_source=git)** | US-FL-Tampa | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f2f?utm_campaign=1066&utm_source=git)** | Tampa, FL, US | On Site | Apr 17 |
-| ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f30?utm_campaign=1066&utm_source=git)** | US-VA-Fairfax | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3386e5c44d4710fe285c7?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 17 |
+| ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f30?utm_campaign=1066&utm_source=git)** | US-VA-Fairfax | On Site | Apr 17 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Revenue Tech and Data Analytics - ATL (Summer 2026)](https://jobright.ai/jobs/info/69e2e151be46fa3a4ef5945a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 17 |
 | **[Schneider Electric](https://www.se.com)** | **[Summer 2026 Business & Data Analyst Intern](https://jobright.ai/jobs/info/69e2d790be46fa3a4ef5913a?utm_campaign=1066&utm_source=git)** | Foxborough (Foxboro), MA | Remote | Apr 17 |
 | **[Arine](https://www.arine.io)** | **[Health Economics and Outcomes Summer Intern](https://jobright.ai/jobs/info/69e451843aa0c4796438e9f9?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Intern](https://jobright.ai/jobs/info/69e2cdcbbe46fa3a4ef58da0?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Apr 17 |
 | **[International Medical Corps](https://internationalmedicalcorps.org/)** | **[Intern-Monitoring & Evaluation](https://jobright.ai/jobs/info/69e4c24d3cfd986aa6f81503?utm_campaign=1066&utm_source=git)** | United States - , US (Primary) | On Site | Apr 17 |
-| **[TicketNetwork](http://www.ticketnetwork.com)** | **[BI Intern](https://jobright.ai/jobs/info/69e4c1d0e0cd471b2f12173f?utm_campaign=1066&utm_source=git)** | South Windsor, CT 06074, USA | On Site | Apr 17 |
-| ↳ | **[BI Intern](https://jobright.ai/jobs/info/69e4c252f8fa2f3ec329dab3?utm_campaign=1066&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 17 |
+| **[TicketNetwork](http://www.ticketnetwork.com)** | **[BI Intern](https://jobright.ai/jobs/info/69e4c252f8fa2f3ec329dab3?utm_campaign=1066&utm_source=git)** | Charlotte, NC 28209, USA | On Site | Apr 17 |
+| ↳ | **[BI Intern](https://jobright.ai/jobs/info/69e4c1d0e0cd471b2f12173f?utm_campaign=1066&utm_source=git)** | South Windsor, CT 06074, USA | On Site | Apr 17 |
 | ↳ | **[BI Intern](https://jobright.ai/jobs/info/69e4c2147820c036924cc118?utm_campaign=1066&utm_source=git)** | Los Angeles, CA 90045, USA | On Site | Apr 17 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/69e2c666fcfcbd43860a4709?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | Apr 17 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Statistical Programmer - QHS Florida](https://jobright.ai/jobs/info/69e2e0de3770bd5361cda7b1?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e156a3d612782e61148299?utm_campaign=1066&utm_source=git)** | Remote - Minnesota, US | Remote | Apr 16 |
 | ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e155916c20aa1149540a81?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
 | **[Equinix](http://www.equinix.com)** | **[Data Analyst AI Intern](https://jobright.ai/jobs/info/69e154976c20aa11495409f0?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 16 |
-| **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[IT Intern - Data Scientist](https://jobright.ai/jobs/info/69e14fd66c20aa11495408ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
