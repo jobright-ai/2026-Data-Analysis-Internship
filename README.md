@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Asian Economics](https://jobright.ai/jobs/info/69e6536fe0cd471b2f124f03?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | Apr 20 |
+| ↳ | **[Summer Intern: Asian Economics](https://jobright.ai/jobs/info/69e6535bf8fa2f3ec32a106e?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Apr 20 |
+| **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Administrator](https://jobright.ai/jobs/info/69e64ce87820c036924cf59a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Scientist Intern (4 Months)](https://jobright.ai/jobs/info/69e64bf09b6eb37e26f7f345?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 20 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Data and BI Specialist - Intern](https://jobright.ai/jobs/info/69e64bed9b6eb37e26f7f32d?utm_campaign=1066&utm_source=git)** | USA - Coral Gables FL 33134 | On Site | Apr 20 |
 | **[Shield AI](http://www.shield.ai)** | **[Intern Summer 2026 - Data Analyst Intern (R4094)](https://jobright.ai/jobs/info/69e64812f8fa2f3ec32a08d0?utm_campaign=1066&utm_source=git)** | Dallas, Texas | On Site | Apr 20 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/69e63deb7820c036924cf116?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | Remote | Apr 20 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e6580af8fa2f3ec32a12a1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 20 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69d41356366bb95ba553a383?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 20 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 20 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 20 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e5eec89b6eb37e26f7db1a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 20 |
@@ -106,7 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e338422f28653593079985?utm_campaign=1066&utm_source=git)** | US-FL-Tampa | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3384dfcfcbd43860a5f2f?utm_campaign=1066&utm_source=git)** | Tampa, FL, US | On Site | Apr 17 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69e3386e5c44d4710fe285c7?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | Apr 17 |
-| **[Stantec](http://www.stantec.com)** | **[Geospatial Analyst](https://jobright.ai/jobs/info/69e649c0f8fa2f3ec32a0abd?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
+| **[Stantec](http://www.stantec.com)** | **[Geospatial Analyst](https://jobright.ai/jobs/info/69e651383aa0c47964393360?utm_campaign=1066&utm_source=git)** | Williamsburg, VA | On Site | Apr 17 |
+| ↳ | **[Geospatial Analyst](https://jobright.ai/jobs/info/69e649c0f8fa2f3ec32a0abd?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 17 |
 | **[Schneider Electric](https://www.se.com)** | **[Summer 2026 Business & Data Analyst Intern](https://jobright.ai/jobs/info/69e2d790be46fa3a4ef5913a?utm_campaign=1066&utm_source=git)** | Foxborough (Foxboro), MA | Remote | Apr 17 |
 | **[Arine](https://www.arine.io)** | **[Health Economics and Outcomes Summer Intern](https://jobright.ai/jobs/info/69e451843aa0c4796438e9f9?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 17 |
 | **[International Medical Corps](https://internationalmedicalcorps.org/)** | **[Intern-Monitoring & Evaluation](https://jobright.ai/jobs/info/69e4c24d3cfd986aa6f81503?utm_campaign=1066&utm_source=git)** | United States - , US (Primary) | On Site | Apr 17 |
@@ -141,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/69b7911c06c1ba00c5494bb4?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Apr 17 |
 | **[Glencore](http://glencore.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/69e2325a5a16743a729c550a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 17 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffdd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
-| **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69c63b2483ea553769fd6cab?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Apr 17 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Apr 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 17 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 17 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Data and Engagement Intern (Youth Well-Being)](https://jobright.ai/jobs/info/69e1c381d612782e6114a541?utm_campaign=1066&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf60f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 16 |
-| **[Ohio Cat](http://www.ohiocat.com)** | **[Data Warehouse Paid Intern](https://jobright.ai/jobs/info/69e1a8b36c20aa11495423fd?utm_campaign=1066&utm_source=git)** | Broadview Heights, OH | On Site | Apr 16 |
-| **[Zoox](https://www.zoox.com/)** | **[Software Engineer Intern, Perception Data](https://jobright.ai/jobs/info/69e198feacc736112f5c454f?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Apr 16 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e18f5cd612782e6114929a?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 16 |
-| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e18f0bfd1c0456f3faec6d?utm_campaign=1066&utm_source=git)** | Colorado, United States | Hybrid | Apr 16 |
-| ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69e18ca06c20aa1149541a79?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Hybrid | Apr 16 |
-| **[SageNet](http://www.sagenet.com/)** | **[AI & Data Strategy Analyst Internship](https://jobright.ai/jobs/info/69e2e52d3ce36005badc03d5?utm_campaign=1066&utm_source=git)** | Tulsa, OK | On Site | Apr 16 |
-| **[State of Florida](http://www.myflorida.com)** | **[OPS Data Analyst - 31902352](https://jobright.ai/jobs/info/69e271ce3ce36005badbe2b7?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
