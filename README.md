@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7c14f0a6e09555302c0a0?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7c149e0cd471b2f12d39d?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Apr 21 |
+| **[LePub](https://www.le.pub/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69cbfffc366bb95ba54ed088?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e7b05f0a6e09555302bd00?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Apr 21 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Facilities Data & Process Analyst Intern](https://jobright.ai/jobs/info/69e7b0160a6e09555302bc34?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 21 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/69e079f3c5691b27c176d997?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Apr 21 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69e788e8f8fa2f3ec32a8580?utm_campaign=1066&utm_source=git)** | Coon Rapids, MN, US | On Site | Apr 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Product Data Analytics - Global Quality & Reliability](https://jobright.ai/jobs/info/69af5a8c749500645093d70b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[Hollingsworth & Vose](https://www.hollingsworth-vose.com)** | **[Data Analytics Intern – Master Data & System Accuracy](https://jobright.ai/jobs/info/69e7820ae0cd471b2f12c115?utm_campaign=1066&utm_source=git)** | East Walpole, MA | On Site | Apr 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Data Analyst Intern (NON-REMOTE)](https://jobright.ai/jobs/info/69e77de20a6e09555302abb9?utm_campaign=1066&utm_source=git)** | Baltimore | Remote | Apr 21 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69e7aff07820c036924d7c34?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 21 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Apr 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69c8e593b773006330b8279d?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Apr 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Operations Intern](https://jobright.ai/jobs/info/69e642dd3aa0c47964392d8b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 18 |
 | **[T1D Exchange](http://www.t1dexchange.org)** | **[QI/Data Project Internship](https://jobright.ai/jobs/info/69e649d77820c036924cf4d8?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 18 |
-| **[Arine](https://www.arine.io)** | **[Health Economics and Outcomes Summer Intern](https://jobright.ai/jobs/info/69e4f6483cfd986aa6f81e6f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Apr 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Operations Intern](https://jobright.ai/jobs/info/69e337633770bd5361cdb7d8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 17 |
-| **[New Balance](http://www.newbalance.com)** | **[Sports Research Athlete Insights Intern (12 Months)](https://jobright.ai/jobs/info/69e32fe43770bd5361cdaedc?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
