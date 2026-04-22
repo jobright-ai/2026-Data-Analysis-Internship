@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Internal Audit Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69e8da6be0cd471b2f1388f2?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Apr 22 |
+| ↳ | **[Internal Audit Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69e8da120a6e095553037024?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69d5ba3fcfdc6132f946427c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Apr 22 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern (Remote)](https://jobright.ai/jobs/info/69af7b42749500645093fb28?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
@@ -93,9 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69e7f8e758811370cb11f8b6?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Apr 21 |
-| **[Verdesian Life Sciences](http://vlsci.com)** | **[Data & AI Intern](https://jobright.ai/jobs/info/69e7f7a1f8fa2f3ec32aa9fd?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Apr 21 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e7f774e0cd471b2f12e979?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Temporary Content Analysis/Research Data Coders – Religion and World Affairs, Pew Research Center](https://jobright.ai/jobs/info/69e7e872f8fa2f3ec32aa51b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e495f8fa2f3ec32aa394?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e4787820c036924d8dda?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7e2dd0a6e09555302cd29?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Apr 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Apr 21 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69e80e303aa0c4796439d99f?utm_campaign=1066&utm_source=git)** | Vaughan, Ontario, Canada, ON, Canada | On Site | Apr 21 |
 | **[Analytica](http://www.analytica.net)** | **[2027 Summer Intern Associate](https://jobright.ai/jobs/info/69e7eb39f8fa2f3ec32aa744?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 21 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate Summer Intern – HPC Operational Analytics](https://jobright.ai/jobs/info/69e6a4f17820c036924d1b20?utm_campaign=1066&utm_source=git)** | Golden, CO | Remote | Apr 20 |
 | **[Gerber Collision & Glass](https://www.gerbercollision.com/)** | **[Operations Data & Analytics Intern](https://jobright.ai/jobs/info/69e6a478e0cd471b2f126e99?utm_campaign=1066&utm_source=git)** | Elmhurst, IL | Hybrid | Apr 20 |
 | **[PS Seasoning](https://www.psseasoning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e69e7af8fa2f3ec32a2e53?utm_campaign=1066&utm_source=git)** | Iron Ridge, WI | On Site | Apr 20 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69e69e483aa0c4796439533c?utm_campaign=1066&utm_source=git)** | Troy, MI, USA | On Site | Apr 20 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Amazon Analytics Intern](https://jobright.ai/jobs/info/69e691b97820c036924d12d9?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Apr 20 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/69e6918c3aa0c47964394f10?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
