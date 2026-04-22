@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69e8994be0cd471b2f136097?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 22 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Asset Inventory Data Analytics Internship](https://jobright.ai/jobs/info/69e86c2d58811370cb1266cd?utm_campaign=1066&utm_source=git)** | Kissimmee, FL | On Site | Apr 21 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69e883d13aa0c479643a3546?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Health Science Specialist](https://jobright.ai/jobs/info/69e84f94e0cd471b2f13109d?utm_campaign=1066&utm_source=git)** | Bronx, NY | On Site | Apr 21 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Apr 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Apr 21 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69e80e303aa0c4796439d99f?utm_campaign=1066&utm_source=git)** | Vaughan, Ontario, Canada, ON, Canada | On Site | Apr 21 |
 | **[Analytica](http://www.analytica.net)** | **[2027 Summer Intern Associate](https://jobright.ai/jobs/info/69e7eb39f8fa2f3ec32aa744?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[FP&A Summer Intern - Business Intelligence](https://jobright.ai/jobs/info/69e6e6807820c036924d2953?utm_campaign=1066&utm_source=git)** | 5050 S Syracuse St, Denver, CO 80237, USA | On Site | Apr 20 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69e6b3d89b6eb37e26f81c65?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 20 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/69e74f61e0cd471b2f12acc8?utm_campaign=1066&utm_source=git)** | Brillion, WI | On Site | Apr 20 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69e74f4b0a6e09555302a0b2?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
