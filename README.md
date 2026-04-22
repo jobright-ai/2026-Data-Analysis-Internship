@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Asset Inventory Data Analytics Internship](https://jobright.ai/jobs/info/69e86c2d58811370cb1266cd?utm_campaign=1066&utm_source=git)** | Kissimmee, FL | On Site | Apr 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Health Science Specialist](https://jobright.ai/jobs/info/69e84f94e0cd471b2f13109d?utm_campaign=1066&utm_source=git)** | Bronx, NY | On Site | Apr 21 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69e848f44b0fa35a707621b9?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 21 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e848bf7820c036924db9d1?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level V](https://jobright.ai/jobs/info/69e7fdb80a6e09555302d742?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
+| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Apr 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69e7f8e758811370cb11f8b6?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Apr 21 |
 | **[Verdesian Life Sciences](http://vlsci.com)** | **[Data & AI Intern](https://jobright.ai/jobs/info/69e7f7a1f8fa2f3ec32aa9fd?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Apr 21 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e7f774e0cd471b2f12e979?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7e2dd0a6e09555302cd29?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e80c773aa0c4796439d929?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e80b5a3aa0c4796439d87f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 21 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7ddcd0a6e09555302c9b9?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7ddc03aa0c4796439c30d?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
 | **[Cobalt](https://www.cobalt.io)** | **[Data Science - Agentic AI Intern](https://jobright.ai/jobs/info/69e7dc7e7820c036924d88b2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Apr 21 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b063cc0b2db6275c043d34?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69caff9d8fc6090c5d4539b1?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Apr 21 |
-| **[The Byng Group](http://www.thebynggroup.com/)** | **[Summer Internship Program 2026](https://jobright.ai/jobs/info/69e80e303aa0c4796439d99f?utm_campaign=1066&utm_source=git)** | Vaughan, Ontario, Canada, ON, Canada | On Site | Apr 21 |
 | **[Analytica](http://www.analytica.net)** | **[2027 Summer Intern Associate](https://jobright.ai/jobs/info/69e7eb39f8fa2f3ec32aa744?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Newsela](http://newsela.com)** | **[Impact Research Intern - Summer 2026](https://jobright.ai/jobs/info/69c5d22183ea553769fd0598?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 21 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/69e6a4e23aa0c479643955e4?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Apr 20 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[FP&A Summer Intern - Data Science](https://jobright.ai/jobs/info/69e6e6309b6eb37e26f826a0?utm_campaign=1066&utm_source=git)** | 5050 S Syracuse St, Denver, CO 80237, USA | On Site | Apr 20 |
 | ↳ | **[FP&A Summer Intern - Business Intelligence](https://jobright.ai/jobs/info/69e6e6807820c036924d2953?utm_campaign=1066&utm_source=git)** | 5050 S Syracuse St, Denver, CO 80237, USA | On Site | Apr 20 |
-| **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69e6daf1f8fa2f3ec32a3cd4?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 20 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e6b3d89b6eb37e26f81c65?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 20 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69e6b3d89b6eb37e26f81c65?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 20 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/69e74f61e0cd471b2f12acc8?utm_campaign=1066&utm_source=git)** | Brillion, WI | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
