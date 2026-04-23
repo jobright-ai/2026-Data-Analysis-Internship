@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/69bfc0a57798f73e35e49dc1?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Apr 22 |
+| **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69e972597820c036924e80f8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Temporary Technician (Lance)](https://jobright.ai/jobs/info/69e6c720e0cd471b2f1276d3?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Apr 22 |
+| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e971883aa0c479643a9ed2?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 22 |
+| **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Data Governance Intern](https://jobright.ai/jobs/info/69e96b2ce0cd471b2f13d447?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e94bfd58811370cb12c679?utm_campaign=1066&utm_source=git)** | USA (remote) | Remote | Apr 22 |
 | **[American Arbitration Association](https://www.adr.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/69e95cd34b0fa35a7076dfab?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e93bc63aa0c479643a8965?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
+| ↳ | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e972777820c036924e81bd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e95cfe3aa0c479643a975c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
 | **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 22 |
 | **[Leidos](https://www.leidos.com)** | **[Internal Audit Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69e95ca14b0fa35a7076de98?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
@@ -67,33 +74,36 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e92ea40a6e09555303a205?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | Apr 22 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e9958811370cb12ba3a?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Apr 22 |
 | ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e753aa0c479643a82ff?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
+| **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e977c90a6e09555303bfff?utm_campaign=1066&utm_source=git)** | Remote, XX, 99999, United States | Remote | Apr 22 |
 | **[Parts Town](https://www.partstown.com)** | **[Insights & Intelligence Intern](https://jobright.ai/jobs/info/69e94a4f7820c036924e71a4?utm_campaign=1066&utm_source=git)** | DuPage County, IL | Hybrid | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956710a6e09555303b36e?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94e853aa0c479643a9094?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a270a6e09555303ad93?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a024b0fa35a7076d5b0?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956d13aa0c479643a94c5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a024b0fa35a7076d5b0?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956a4e0cd471b2f13cb71?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbc?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956f058811370cb12cbef?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9498c7820c036924e70c9?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Apr 22 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e944c27820c036924e6f04?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Apr 22 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e9640458811370cb12d292?utm_campaign=1066&utm_source=git)** | SLC Metro Area | On Site | Apr 22 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e925830a6e095553039b98?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA, US | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e923d458811370cb12b073?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921d6e0cd471b2f13aed1?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f8?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f6?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cb?utm_campaign=1066&utm_source=git)** | Huntsville, AL, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cb?utm_campaign=1066&utm_source=git)** | Huntsville, AL, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04c?utm_campaign=1066&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04b?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d2?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d2?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd558811370cb12a70a?utm_campaign=1066&utm_source=git)** | Rome, NY, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd258811370cb12a6ef?utm_campaign=1066&utm_source=git)** | Panama City, FL, US | On Site | Apr 22 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e979543aa0c479643aa8f0?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, USA Office | On Site | Apr 22 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/697c1bdd1136d179eeefcc70?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e9243e4b0fa35a7076c164?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 22 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e9243e4b0fa35a7076c165?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e4787820c036924d8dda?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7e2dd0a6e09555302cd29?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e80c773aa0c4796439d929?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 21 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e80b5a3aa0c4796439d87f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 21 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7ddcd0a6e09555302c9b9?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Apr 21 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7ddc03aa0c4796439c30d?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
-| **[Cobalt](https://www.cobalt.io)** | **[Data Science - Agentic AI Intern](https://jobright.ai/jobs/info/69e7dc7e7820c036924d88b2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
-| **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Fleet Performance Intern](https://jobright.ai/jobs/info/69e7dbe00a6e09555302c93c?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Apr 21 |
-| **[Wacom Technology Corp.](http://www.wacom.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69e8b4517820c036924e2663?utm_campaign=1066&utm_source=git)** | Vancouver, WA | On Site | Apr 21 |
-| **[InnerVue](https://yourinnervue.com)** | **[Summer Internship: Data Analytics (PostHog)](https://jobright.ai/jobs/info/69e7cd607820c036924d8356?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Apr 21 |
-| **[Classmates®](http://www.classmates.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69e8b17d7820c036924e18a9?utm_campaign=1066&utm_source=git)** | Bellevue, WA, US | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
