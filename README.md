@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[GIS Intern (Summer 2026) - Remote](https://jobright.ai/jobs/info/69ea91e2dc35f7132c4aafcf?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69ea9d60dc35f7132c4ab434?utm_campaign=1066&utm_source=git)** | San Diego, California, US | Hybrid | Apr 23 |
 | **[PMMI: The Association for Packaging and Processing Technologies](https://www.pmmi.org/)** | **[Digital Analytics & AI Research Intern](https://jobright.ai/jobs/info/69ea918b4b0fa35a70775120?utm_campaign=1066&utm_source=git)** | 500 West Madison Street, Chicago, IL, USA | Hybrid | Apr 23 |
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69ea916e0a6e095553041c89?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/69ea80057820c036924ee526?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | Apr 23 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
 | **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Data Analytics & Reporting](https://jobright.ai/jobs/info/69e8709d3aa0c479643a333b?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Apr 23 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern](https://jobright.ai/jobs/info/69dec4e6aba61f1417317a95?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Apr 23 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ea2c167820c036924ec3d1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Clean Vehicles Data Internship (Administrative Intern 1)](https://jobright.ai/jobs/info/69e9c71f0a6e09555303db27?utm_campaign=1066&utm_source=git)** | Lacey, WA | Hybrid | Apr 23 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f5b4b0fa35a7076f851?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | Apr 22 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f537820c036924e92ee?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e7fe0c3aa0c4796439d137?utm_campaign=1066&utm_source=git)** | Utah, United States | Remote | Apr 21 |
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level V](https://jobright.ai/jobs/info/69e7fdb80a6e09555302d742?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
+| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
