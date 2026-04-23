@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 23 |
+| **[AMETEK](http://www.ametek.com)** | **[Data Science and AI Intern](https://jobright.ai/jobs/info/69ce34ef366bb95ba5508eb6?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 23 |
+| **[ProPharma](http://www.propharmagroup.com/)** | **[Intern: Data Analytics & Reporting](https://jobright.ai/jobs/info/69e8709d3aa0c479643a333b?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Apr 23 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern](https://jobright.ai/jobs/info/69dec4e6aba61f1417317a95?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Apr 23 |
-| **[PROJXON](www.projxon.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69e9d5914b0fa35a707703b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Clean Vehicles Data Internship (Administrative Intern 1)](https://jobright.ai/jobs/info/69e9c71f0a6e09555303db27?utm_campaign=1066&utm_source=git)** | Lacey, WA | Hybrid | Apr 23 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f5b4b0fa35a7076f851?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | Apr 22 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f537820c036924e92ee?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Apr 22 |
@@ -95,14 +97,14 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e925830a6e095553039b98?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA, US | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e923d458811370cb12b073?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921d6e0cd471b2f13aed1?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f8?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f6?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f8?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cb?utm_campaign=1066&utm_source=git)** | Huntsville, AL, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04c?utm_campaign=1066&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04b?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04c?utm_campaign=1066&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d2?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd558811370cb12a70a?utm_campaign=1066&utm_source=git)** | Rome, NY, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd258811370cb12a6ef?utm_campaign=1066&utm_source=git)** | Panama City, FL, US | On Site | Apr 22 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69e7f8e758811370cb11f8b6?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Apr 21 |
-| **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e7f774e0cd471b2f12e979?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
