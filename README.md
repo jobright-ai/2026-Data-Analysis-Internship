@@ -57,22 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[GIS Intern (Summer 2026) - Remote](https://jobright.ai/jobs/info/69ea91e2dc35f7132c4aafcf?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
+| **[PMMI: The Association for Packaging and Processing Technologies](https://www.pmmi.org/)** | **[Digital Analytics & AI Research Intern](https://jobright.ai/jobs/info/69ea918b4b0fa35a70775120?utm_campaign=1066&utm_source=git)** | 500 West Madison Street, Chicago, IL, USA | Hybrid | Apr 23 |
+| **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69ea916e0a6e095553041c89?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/69ea80057820c036924ee526?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | Apr 23 |
 | **[Byrne](https://www.byrne.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ea75857820c036924ee247?utm_campaign=1066&utm_source=git)** | Rockford, Michigan, United States | On Site | Apr 23 |
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ea56600a6e095553040478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69ea47e67820c036924ecb2c?utm_campaign=1066&utm_source=git)** | Denver, Colorado, US | On Site | Apr 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Data Science Internship (Summer 2026)](https://jobright.ai/jobs/info/69ea83c37820c036924ee640?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Apr 23 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Analytics Analyst, Development Data, VP Development and Alumni](https://jobright.ai/jobs/info/69ea83604b0fa35a70774dfc?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
 | **[BMO](http://www.bmo.com)** | **[Portfolio Insights Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69ea3cbe3aa0c479643ae677?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 23 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ea3cb758811370cb131e6b?utm_campaign=1066&utm_source=git)** | US CT Shelton, US | On Site | Apr 23 |
+| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea8fe458811370cb133ff5?utm_campaign=1066&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69e8fb464b0fa35a7076a619?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
 | **[S.C. Department of Public Health](https://scdhec.gov)** | **[Advanced Molecular Detection (AMD) Unit Database Intern - (00000000) Midlands](https://jobright.ai/jobs/info/69ea71367820c036924ed99c?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Apr 23 |
-| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern - Business Data Analyst](https://jobright.ai/jobs/info/69ea8363dc35f7132c4aab87?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 23 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ea2cb2dc35f7132c4a89e3?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 23 |
+| **[KCH Transportation](https://www.kchtrans.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69ea8f1edc35f7132c4aad43?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ea8fbf0a6e095553041b6f?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Apr 23 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ea67bc7820c036924ed803?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 23 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e9640458811370cb12d292?utm_campaign=1066&utm_source=git)** | SLC Metro Area | On Site | Apr 22 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e925830a6e095553039b98?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA, US | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e923d458811370cb12b073?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 22 |
-| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e979543aa0c479643aa8f0?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, USA Office | On Site | Apr 22 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/697c1bdd1136d179eeefcc70?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e9243e4b0fa35a7076c164?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e7fe0c3aa0c4796439d137?utm_campaign=1066&utm_source=git)** | Utah, United States | Remote | Apr 21 |
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level V](https://jobright.ai/jobs/info/69e7fdb80a6e09555302d742?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
