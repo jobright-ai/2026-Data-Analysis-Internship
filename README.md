@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e971883aa0c479643a9ed2?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Apr 22 |
 | **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Data Governance Intern](https://jobright.ai/jobs/info/69e96b2ce0cd471b2f13d447?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e94bfd58811370cb12c679?utm_campaign=1066&utm_source=git)** | USA (remote) | Remote | Apr 22 |
-| **[American Arbitration Association](https://www.adr.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/69e95cd34b0fa35a7076dfab?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e93bc63aa0c479643a8965?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
 | ↳ | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e972777820c036924e81bd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e95cfe3aa0c479643a975c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
@@ -80,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94e853aa0c479643a9094?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a270a6e09555303ad93?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956d13aa0c479643a94c5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a024b0fa35a7076d5b0?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956d13aa0c479643a94c5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956a4e0cd471b2f13cb71?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbc?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956f058811370cb12cbef?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
@@ -94,12 +93,12 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921d6e0cd471b2f13aed1?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f8?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f6?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cb?utm_campaign=1066&utm_source=git)** | Huntsville, AL, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04c?utm_campaign=1066&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04b?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d2?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd558811370cb12a70a?utm_campaign=1066&utm_source=git)** | Rome, NY, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd258811370cb12a6ef?utm_campaign=1066&utm_source=git)** | Panama City, FL, US | On Site | Apr 22 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e4787820c036924d8dda?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7e2dd0a6e09555302cd29?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e80c773aa0c4796439d929?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 21 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69e80b5a3aa0c4796439d87f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
