@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Byrne](https://www.byrne.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ea75857820c036924ee247?utm_campaign=1066&utm_source=git)** | Rockford, Michigan, United States | On Site | Apr 23 |
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ea56600a6e095553040478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
@@ -64,7 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
 | **[BMO](http://www.bmo.com)** | **[Portfolio Insights Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69ea3cbe3aa0c479643ae677?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 23 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ea3cb758811370cb131e6b?utm_campaign=1066&utm_source=git)** | US CT Shelton, US | On Site | Apr 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Data Science Internship (Summer 2026)](https://jobright.ai/jobs/info/69ea3a63dc35f7132c4a8a6b?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Apr 23 |
+| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69e8fb464b0fa35a7076a619?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 23 |
+| **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
+| **[S.C. Department of Public Health](https://scdhec.gov)** | **[Advanced Molecular Detection (AMD) Unit Database Intern - (00000000) Midlands](https://jobright.ai/jobs/info/69ea71367820c036924ed99c?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Apr 23 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ea2cb2dc35f7132c4a89e3?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 23 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ea67bc7820c036924ed803?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 23 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level V](https://jobright.ai/jobs/info/69e7fdb80a6e09555302d742?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Apr 21 |
+| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Apr 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/69e7f8e758811370cb11f8b6?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Apr 21 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e7f774e0cd471b2f12e979?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e495f8fa2f3ec32aa394?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7e4787820c036924d8dda?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7e2dd0a6e09555302cd29?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
-| **[Hercules Industries](http://herculesindustries.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69e80c773aa0c4796439d929?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Apr 21 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
