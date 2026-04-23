@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94e853aa0c479643a9094?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a270a6e09555303ad93?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a024b0fa35a7076d5b0?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956d13aa0c479643a94c5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e94a024b0fa35a7076d5b0?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956a4e0cd471b2f13cb71?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956e958811370cb12cbbc?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e956f058811370cb12cbef?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 22 |
@@ -93,14 +93,14 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/69e925830a6e095553039b98?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA, US | Hybrid | Apr 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e923d458811370cb12b073?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 22 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921d6e0cd471b2f13aed1?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f6?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f8?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921687820c036924e59f6?utm_campaign=1066&utm_source=git)** | Charleston, SC, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cb?utm_campaign=1066&utm_source=git)** | Huntsville, AL, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e9215a0a6e0955530396cd?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04c?utm_campaign=1066&utm_source=git)** | McLean, VA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921414b0fa35a7076c04b?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | Apr 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d2?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | Apr 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e921343aa0c479643a77d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd558811370cb12a70a?utm_campaign=1066&utm_source=git)** | Rome, NY, US | On Site | Apr 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69e91fd258811370cb12a6ef?utm_campaign=1066&utm_source=git)** | Panama City, FL, US | On Site | Apr 22 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Evaluations](https://jobright.ai/jobs/info/69cc47b18130af1ac8337933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
