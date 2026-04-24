@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebbc5c58811370cb13c20d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ebb9d77820c036924f66ff?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de31?utm_campaign=1066&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ebb7847820c036924f642f?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 24 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Analytics](https://jobright.ai/jobs/info/69cee6e2398fb071abf8a843?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Northeast Bank](https://www.nebankmn.com/)** | **[Data, Analytics & AI Summer Intern](https://jobright.ai/jobs/info/69eb903ddc35f7132c4b0e72?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Client Reporting](https://jobright.ai/jobs/info/69ebb851dc35f7132c4b2b8f?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Data Science – R&D Operations & Software Test Analytics - Onsite RI 6mo 2026](https://jobright.ai/jobs/info/69eb91184b0fa35a7077c5dc?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 24 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69cf2804cdb525785fb9f104?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Amazon Science](https://www.amazon.science)** | **[Intern - Economics, Navigator Analytics](https://jobright.ai/jobs/info/69eba7e516b2612c2a11db34?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e977c90a6e09555303bfff?utm_campaign=1066&utm_source=git)** | Remote, XX, 99999, United States | Remote | Apr 22 |
 | **[Parts Town](https://www.partstown.com)** | **[Insights & Intelligence Intern](https://jobright.ai/jobs/info/69e94a4f7820c036924e71a4?utm_campaign=1066&utm_source=git)** | DuPage County, IL | Hybrid | Apr 22 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e9640458811370cb12d292?utm_campaign=1066&utm_source=git)** | SLC Metro Area | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
