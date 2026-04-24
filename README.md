@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69eb14c3dc35f7132c4ad596?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Apr 23 |
 | **[Donor Alliance](https://www.donoralliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69eac33a7820c036924ef5e3?utm_campaign=1066&utm_source=git)** | Denver, CO 80230, USA | On Site | Apr 23 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eab844dc35f7132c4ababf?utm_campaign=1066&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | Apr 23 |
 | ↳ | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/69eab80f7820c036924ef3df?utm_campaign=1066&utm_source=git)** | 120 N 200 W, Salt Lake City, UT, 84150, US | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e848bf7820c036924db9d1?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Research Health Science Specialist](https://jobright.ai/jobs/info/69e1169240a62c1fa93b6952?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Apr 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e84fda4b0fa35a707623ad?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 21 |
-| **[NexTech Solutions LLC](https://nextechsol.com/)** | **[Data Analysis and Visualization Intern](https://jobright.ai/jobs/info/69e8b11f4b0fa35a70767d5e?utm_campaign=1066&utm_source=git)** | Tampa, FL 33611, USA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
