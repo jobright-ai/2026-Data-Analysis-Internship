@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebf21f7820c036924f8220?utm_campaign=1066&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebe4cb4b0fa35a7077f602?utm_campaign=1066&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ebd2cf58811370cb13cfbb?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebc9d44b0fa35a7077ecc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e9958811370cb12ba3a?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Apr 22 |
 | ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e753aa0c479643a82ff?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Clinical Feasibility and Analytics Intern](https://jobright.ai/jobs/info/69eae32bdc35f7132c4acbdd?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
-| **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e977c90a6e09555303bfff?utm_campaign=1066&utm_source=git)** | Remote, XX, 99999, United States | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
