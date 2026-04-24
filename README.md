@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebbc5c58811370cb13c20d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 24 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ebd2cf58811370cb13cfbb?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 24 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebc9d44b0fa35a7077ecc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
+| ↳ | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebbc5c58811370cb13c20d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ebb9d77820c036924f66ff?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de31?utm_campaign=1066&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ebb7847820c036924f642f?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e753aa0c479643a82ff?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
 | **[TriNetX](http://trinetx.com)** | **[Clinical Feasibility and Analytics Intern](https://jobright.ai/jobs/info/69eae32bdc35f7132c4acbdd?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 | **[Satellite Healthcare / WellBound](http://satellitehealth.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e977c90a6e09555303bfff?utm_campaign=1066&utm_source=git)** | Remote, XX, 99999, United States | Remote | Apr 22 |
-| **[Parts Town](https://www.partstown.com)** | **[Insights & Intelligence Intern](https://jobright.ai/jobs/info/69e94a4f7820c036924e71a4?utm_campaign=1066&utm_source=git)** | DuPage County, IL | Hybrid | Apr 22 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
