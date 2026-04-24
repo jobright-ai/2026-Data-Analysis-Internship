@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for News, Technology & Innovation - CNTI](https://cnti.org/)** | **[Social Science Research Intern](https://jobright.ai/jobs/info/69eba8537820c036924f5fd2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69eb9a660a6e095553049130?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 24 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb947b16b2612c2a11d514?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
@@ -67,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Data Science – R&D Operations & Software Test Analytics - Onsite RI 6mo 2026](https://jobright.ai/jobs/info/69eb91184b0fa35a7077c5dc?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 24 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69cf2804cdb525785fb9f104?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
+| **[Amazon Science](https://www.amazon.science)** | **[Intern - Economics, Navigator Analytics](https://jobright.ai/jobs/info/69eba7e516b2612c2a11db34?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
+| ↳ | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69eba7554b0fa35a7077d700?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[WOC - Research Health Science Specialist](https://jobright.ai/jobs/info/69eb8a100a6e095553047889?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Sports Researcher – Graduate Hire](https://jobright.ai/jobs/info/69e9d6ef3aa0c479643abdb5?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 24 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb668cdc35f7132c4b0287?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69eb14c3dc35f7132c4ad596?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Apr 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eb56a816b2612c2a11b4b9?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Apr 23 |
 | ↳ | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/69eb56b4dc35f7132c4afdb4?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Apr 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e923d458811370cb12b073?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 22 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e979543aa0c479643aa8f0?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, USA Office | On Site | Apr 22 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Senior Research Analyst](https://jobright.ai/jobs/info/697c1bdd1136d179eeefcc70?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Hybrid | Apr 22 |
-| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e9243e4b0fa35a7076c164?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 22 |
-| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69e9243e4b0fa35a7076c165?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 22 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e8fbde0a6e095553037d6e?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
