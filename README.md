@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Donor Alliance](https://www.donoralliance.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69eac33a7820c036924ef5e3?utm_campaign=1066&utm_source=git)** | Denver, CO 80230, USA | On Site | Apr 23 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eab844dc35f7132c4ababf?utm_campaign=1066&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | Apr 23 |
 | ↳ | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/69eab80f7820c036924ef3df?utm_campaign=1066&utm_source=git)** | 120 N 200 W, Salt Lake City, UT, 84150, US | On Site | Apr 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eaa8910a6e095553042593?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Apr 23 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ea56600a6e095553040478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
+| **[Medica](https://www.medica.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69eac3b03aa0c479643b17b1?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
 | **[CARFAX](https://www.carfax.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69eab72edc35f7132c4aba4a?utm_campaign=1066&utm_source=git)** | Centreville, VA | Hybrid | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69ea47e67820c036924ecb2c?utm_campaign=1066&utm_source=git)** | Denver, Colorado, US | On Site | Apr 23 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41089)](https://jobright.ai/jobs/info/69eaa819dc35f7132c4ab6f9?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Technology](https://jobright.ai/jobs/info/69e847297820c036924db0ef?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Alliance Health](https://www.alliancehealthplan.org/)** | **[Student Internship- Data Governance Analyst (Remote, Morrisville, NC Based)](https://jobright.ai/jobs/info/69e0234e4920452a85dd1b56?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Remote | Apr 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[2026 Summer Games Data Scientist Intern University](https://jobright.ai/jobs/info/69e9b24858811370cb12eaad?utm_campaign=1066&utm_source=git)** | McLean, Virginia, 22107 | On Site | Apr 21 |
-| **[Applied Physical Sciences Corp (APS)](https://www.aphysci.com/)** | **[Data Analytics Intern-Enterprise Data Systems Implementation (REQ 324)](https://jobright.ai/jobs/info/69e80ba158811370cb12038c?utm_campaign=1066&utm_source=git)** | New London County, CT | On Site | Apr 21 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69e805110a6e09555302d98c?utm_campaign=1066&utm_source=git)** | San Diego, California | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
