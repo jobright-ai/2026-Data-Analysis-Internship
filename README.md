@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[WOC - Research Health Science Specialist](https://jobright.ai/jobs/info/69eb8a100a6e095553047889?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69eb84704b0fa35a7077ba5b?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Sports Researcher – Graduate Hire](https://jobright.ai/jobs/info/69e9d6ef3aa0c479643abdb5?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Audit Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69e8da120a6e095553037024?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69d5ba3fcfdc6132f946427c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[PD Data Sciences, CMC Intern](https://jobright.ai/jobs/info/69cbe8d4891d7b11cfca9893?utm_campaign=1066&utm_source=git)** | Somerset, NJ | On Site | Apr 22 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Health Economics and Outcomes Research (HEOR) Intern (Remote)](https://jobright.ai/jobs/info/69af7b42749500645093fb28?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
-| **[OpenX](https://www.openx.com/)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/69b5235c3b74eb1e2c82c49d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 22 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69d6db6f706f771673bae6e8?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
