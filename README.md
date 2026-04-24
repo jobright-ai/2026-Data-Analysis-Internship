@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eaa8910a6e095553042593?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Apr 23 |
+| ↳ | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/69eaa84758811370cb134a62?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Apr 23 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69ea9d60dc35f7132c4ab434?utm_campaign=1066&utm_source=git)** | San Diego, California, US | Hybrid | Apr 23 |
 | **[PMMI: The Association for Packaging and Processing Technologies](https://www.pmmi.org/)** | **[Digital Analytics & AI Research Intern](https://jobright.ai/jobs/info/69ea918b4b0fa35a70775120?utm_campaign=1066&utm_source=git)** | 500 West Madison Street, Chicago, IL, USA | Hybrid | Apr 23 |
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69ea916e0a6e095553041c89?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ea56600a6e095553040478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69ea47e67820c036924ecb2c?utm_campaign=1066&utm_source=git)** | Denver, Colorado, US | On Site | Apr 23 |
+| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41089)](https://jobright.ai/jobs/info/69eaa819dc35f7132c4ab6f9?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Apr 23 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Analytics Analyst, Development Data, VP Development and Alumni](https://jobright.ai/jobs/info/69ea83604b0fa35a70774dfc?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
 | **[BMO](http://www.bmo.com)** | **[Portfolio Insights Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69ea3cbe3aa0c479643ae677?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e848ca4b0fa35a707620fa?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Remote | Apr 21 |
 | **[Phibro Animal Health](http://www.pahc.com/)** | **[Planning and Forecasting Intern](https://jobright.ai/jobs/info/69e7fe5d7820c036924d974d?utm_campaign=1066&utm_source=git)** | Teaneck, NJ | On Site | Apr 21 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e7fe0c3aa0c4796439d137?utm_campaign=1066&utm_source=git)** | Utah, United States | Remote | Apr 21 |
-| **[Public Health Institute](http://www.phi.org)** | **[Intern Level V](https://jobright.ai/jobs/info/69e7fdb80a6e09555302d742?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Apr 21 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f884?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
