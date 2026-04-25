@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ebfc0e0a6e09555304ba77?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 | **[Okland Construction](http://www.okland.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebf5f916b2612c2a11ffed?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebf21f7820c036924f8220?utm_campaign=1066&utm_source=git)** | Canada | Remote | Apr 24 |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ec118edc35f7132c4b55b9?utm_campaign=1066&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebe4cb4b0fa35a7077f602?utm_campaign=1066&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ec02fd58811370cb13e22b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebfde00a6e09555304be72?utm_campaign=1066&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Temporary Technician (Lance)](https://jobright.ai/jobs/info/69e99d717820c036924e91bf?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
 | **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Data Governance Intern](https://jobright.ai/jobs/info/69e96b2ce0cd471b2f13d447?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e94bfd58811370cb12c679?utm_campaign=1066&utm_source=git)** | USA (remote) | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
