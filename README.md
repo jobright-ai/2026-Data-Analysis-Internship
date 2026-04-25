@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69cf2804cdb525785fb9f104?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Amazon Science](https://www.amazon.science)** | **[Intern - Economics, Navigator Analytics](https://jobright.ai/jobs/info/69eba7e516b2612c2a11db34?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | ↳ | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69eba7554b0fa35a7077d700?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[GIS Intern](https://jobright.ai/jobs/info/69cf9709cdb525785fba382f?utm_campaign=1066&utm_source=git)** | Rockwall, TX | On Site | Apr 24 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[WOC - Research Health Science Specialist](https://jobright.ai/jobs/info/69eb8a100a6e095553047889?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69e972597820c036924e80f8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Temporary Technician (Lance)](https://jobright.ai/jobs/info/69e99d717820c036924e91bf?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Apr 22 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
-| **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Data Governance Intern](https://jobright.ai/jobs/info/69e96b2ce0cd471b2f13d447?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
