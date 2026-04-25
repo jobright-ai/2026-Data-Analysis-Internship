@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ebfc0e0a6e09555304ba77?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
+| **[Okland Construction](http://www.okland.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebf5f916b2612c2a11ffed?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebf21f7820c036924f8220?utm_campaign=1066&utm_source=git)** | Canada | Remote | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebe4cb4b0fa35a7077f602?utm_campaign=1066&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
+| **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebfde00a6e09555304be72?utm_campaign=1066&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
+| **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels & Chemicals (Early Career)](https://jobright.ai/jobs/info/69ebfdd5dc35f7132c4b4ef1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ebd2cf58811370cb13cfbb?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebc9d44b0fa35a7077ecc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69ebde5658811370cb13d570?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ebb9d77820c036924f66ff?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de31?utm_campaign=1066&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ebb7847820c036924f642f?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 24 |
+| **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Artificial Intelligence & Credit Risk Analysis)](https://jobright.ai/jobs/info/69ebfd7ddc35f7132c4b4e42?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 24 |
 | **[AMS Industries, Inc.](https://amsindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebaf737820c036924f6379?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Apr 24 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ebaeb8dc35f7132c4b28d8?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69eb9a660a6e095553049130?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e93bc63aa0c479643a8965?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Apr 22 |
 | ↳ | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69e972777820c036924e81bd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e95cfe3aa0c479643a975c?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
-| **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 22 |
-| **[Leidos](https://www.leidos.com)** | **[Internal Audit Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69e95ca14b0fa35a7076de98?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
-| ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e9958811370cb12ba3a?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | Apr 22 |
-| ↳ | **[Data Science / Decision Science Intern](https://jobright.ai/jobs/info/69e92e753aa0c479643a82ff?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Remote | Apr 22 |
-| **[TriNetX](http://trinetx.com)** | **[Clinical Feasibility and Analytics Intern](https://jobright.ai/jobs/info/69eae32bdc35f7132c4acbdd?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
