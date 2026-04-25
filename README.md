@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ed06ebdc35f7132c4b8049?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69ebeef358811370cb13d921?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 25 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ecdad50a6e09555304ee70?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 25 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ec8df458811370cb140256?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ec32e216b2612c2a12171c?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
-| **[DEEP Measures](http://www.deepmeasures.health)** | **[Digital Health Analyst Intern](https://jobright.ai/jobs/info/69ec1eef4b0fa35a70780ff3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Functional Analyst Intern, Chartwells Higher Ed / University of Texas - Dallas](https://jobright.ai/jobs/info/69ec2e394b0fa35a707812a1?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ec0ad57820c036924f8e4c?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ec0ab1dc35f7132c4b5437?utm_campaign=1066&utm_source=git)** | Oregon Town, WI | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea1dc358811370cb13193a?utm_campaign=1066&utm_source=git)** | 50 Horseblock Road, Brookhaven, NY, 11719, US | On Site | Apr 23 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - GIS](https://jobright.ai/jobs/info/69cdb5b3cfdc6132f941ec43?utm_campaign=1066&utm_source=git)** | Sedalia, CO | On Site | Apr 23 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 23 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
