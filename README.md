@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e903167820c036924e48f8?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 25 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 25 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69ecb529dc35f7132c4b72f0?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 25 |
+| **[Weston & Sampson](http://westonandsampson.com)** | **[Field Data Collection Specialist (Temporary/Intern)](https://jobright.ai/jobs/info/69d869a1f4ea471a51fe5787?utm_campaign=1066&utm_source=git)** | Reading, MA | On Site | Apr 25 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69eca8627820c036924fafd1?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 25 |
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern_PTIN5C](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074956?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - GIS](https://jobright.ai/jobs/info/69cdb5b3cfdc6132f941ec43?utm_campaign=1066&utm_source=git)** | Sedalia, CO | On Site | Apr 23 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 23 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 23 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69ea3d700a6e09555303fb0a?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
