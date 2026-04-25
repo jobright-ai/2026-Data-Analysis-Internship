@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ecdad50a6e09555304ee70?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 25 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/69ecd0427820c036924fbcb7?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 25 |
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 25 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69e903167820c036924e48f8?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 25 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Apr 25 |
@@ -113,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[WOC - Research Health Science Specialist](https://jobright.ai/jobs/info/69eb8a100a6e095553047889?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 24 |
 | **[EnerSys](http://enersys.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69cf6164cdb525785fba1bcb?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operation Project Intern (TikTok-PGC-Music-Artist Services) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ce8eeb398fb071abf864cc?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
-| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69eb84704b0fa35a7077ba5b?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 24 |
 | **[EnerSys](http://enersys.com)** | **[AI Supplier Risk Analytics Intern](https://jobright.ai/jobs/info/69ceba32cfdc6132f942b7e3?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Apr 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea1dc358811370cb13193a?utm_campaign=1066&utm_source=git)** | 50 Horseblock Road, Brookhaven, NY, 11719, US | On Site | Apr 23 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Intern - GIS](https://jobright.ai/jobs/info/69cdb5b3cfdc6132f941ec43?utm_campaign=1066&utm_source=git)** | Sedalia, CO | On Site | Apr 23 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 23 |
+| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Data and Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69b21a3dd04c69566c74c670?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 23 |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69ea3d700a6e09555303fb0a?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
