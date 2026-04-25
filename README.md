@@ -125,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
 | **[Medica](https://www.medica.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69eac3b03aa0c479643b17b1?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
+| **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ec52160a6e09555304db03?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41089)](https://jobright.ai/jobs/info/69eaa819dc35f7132c4ab6f9?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Apr 23 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Analytics Analyst, Development Data, VP Development and Alumni](https://jobright.ai/jobs/info/69ea83604b0fa35a70774dfc?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea6785dc35f7132c4a9cae?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Technical Internship (Data/ Web)](https://jobright.ai/jobs/info/69e99d4e4b0fa35a7076f71c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/69bfc0a57798f73e35e49dc1?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Apr 22 |
-| **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69e972597820c036924e80f8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
