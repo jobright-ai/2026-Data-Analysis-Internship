@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69ecb529dc35f7132c4b72f0?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 25 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/69eca8627820c036924fafd1?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 25 |
+| **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern_PTIN5C](https://jobright.ai/jobs/info/69cfeb8a0b098b7a67074956?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ec8df458811370cb140256?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern](https://jobright.ai/jobs/info/69dec4e6aba61f1417317a95?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Apr 23 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Clinical Data Associate)](https://jobright.ai/jobs/info/69eae32316b2612c2a117f87?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 22 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f5b4b0fa35a7076f851?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | Apr 22 |
-| ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f537820c036924e92ee?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
