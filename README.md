@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ec32e216b2612c2a12171c?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Functional Analyst Intern, Chartwells Higher Ed / University of Texas - Dallas](https://jobright.ai/jobs/info/69ec2e394b0fa35a707812a1?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Apr 24 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ec0ad57820c036924f8e4c?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Apr 24 |
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ec0ab1dc35f7132c4b5437?utm_campaign=1066&utm_source=git)** | Oregon Town, WI | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ec03ef7820c036924f8ba2?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 24 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebfde00a6e09555304be72?utm_campaign=1066&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels & Chemicals (Early Career)](https://jobright.ai/jobs/info/69ebfdd5dc35f7132c4b4ef1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Time-Series Signal Processing and Data Analyst Intern](https://jobright.ai/jobs/info/69ebd2cf58811370cb13cfbb?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Apr 24 |
+| **[Intelas](intelashealth.com)** | **[Functional Analyst Intern, Chartwells Higher Ed / University of Texas - Dallas](https://jobright.ai/jobs/info/69ec34ac4b0fa35a7078182d?utm_campaign=1066&utm_source=git)** | Richardson, TX, US | On Site | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebc9d44b0fa35a7077ecc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69ebde5658811370cb13d570?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebbc5c58811370cb13c20d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 24 |
@@ -99,6 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Researcher - PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | ↳ | **[Quantitative Sports Researcher – Graduate Hire](https://jobright.ai/jobs/info/69e9d6ef3aa0c479643abdb5?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Apr 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb668cdc35f7132c4b0287?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
+| **[Flagstop Car Wash](https://www.flagstopcarwash.com)** | **[Business Intelligence & Operations Intern](https://jobright.ai/jobs/info/69ec35d07820c036924f9e5a?utm_campaign=1066&utm_source=git)** | Chester, VA 23831 | On Site | Apr 24 |
 | **[ARUP Laboratories](http://www.aruplab.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69eb14c3dc35f7132c4ad596?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Apr 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/69eb56a816b2612c2a11b4b9?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Apr 23 |
 | ↳ | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/69eb56b4dc35f7132c4afdb4?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Apr 23 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69eafdde58811370cb1362fb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[East Daley Analytics](http://eastdaley.com/)** | **[Energy Market Data Analyst Intern](https://jobright.ai/jobs/info/69eae89c0a6e095553043d2d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Apr 23 |
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
-| **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ea56600a6e095553040478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
 | **[Medica](https://www.medica.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69eac3b03aa0c479643b17b1?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt (41089)](https://jobright.ai/jobs/info/69eaa819dc35f7132c4ab6f9?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea6785dc35f7132c4a9cae?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Technical Internship (Data/ Web)](https://jobright.ai/jobs/info/69e99d4e4b0fa35a7076f71c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/69bfc0a57798f73e35e49dc1?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Apr 22 |
-| **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69e972597820c036924e80f8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Temporary Technician (Lance)](https://jobright.ai/jobs/info/69e99d717820c036924e91bf?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Apr 22 |
-| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
