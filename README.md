@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Northeast Bank](https://www.nebankmn.com/)** | **[Data, Analytics & AI Summer Intern](https://jobright.ai/jobs/info/69eb903ddc35f7132c4b0e72?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cefaf7366bb95ba5511bca?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Data Science – R&D Operations & Software Test Analytics - Onsite RI 6mo 2026](https://jobright.ai/jobs/info/69eb91184b0fa35a7077c5dc?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Apr 24 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Data Analytics](https://jobright.ai/jobs/info/69cf2804cdb525785fb9f104?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Apr 24 |
 | **[Amazon Science](https://www.amazon.science)** | **[Intern - Economics, Navigator Analytics](https://jobright.ai/jobs/info/69eba7e516b2612c2a11db34?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e99f537820c036924e92ee?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Apr 22 |
 | **[Central Ohio Primary Care](https://www.copcp.com/)** | **[Summer Intern – Population Health Analytics](https://jobright.ai/jobs/info/69eb521adc35f7132c4af6d8?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Apr 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea6785dc35f7132c4a9cae?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
-| **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Technical Internship (Data/ Web)](https://jobright.ai/jobs/info/69e99d4e4b0fa35a7076f71c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
