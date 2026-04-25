@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ec8df458811370cb140256?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/69cd823754f00230c6cf1109?utm_campaign=1066&utm_source=git)** | Chicago, London | On Site | Apr 24 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69ec32e216b2612c2a12171c?utm_campaign=1066&utm_source=git)** | Southfield, MI | Hybrid | Apr 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Functional Analyst Intern, Chartwells Higher Ed / University of Texas - Dallas](https://jobright.ai/jobs/info/69ec2e394b0fa35a707812a1?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Apr 24 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ebaeb8dc35f7132c4b28d8?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69eb9a660a6e095553049130?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 24 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69eb947b16b2612c2a11d514?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Northeast Bank](https://www.nebankmn.com/)** | **[Data, Analytics & AI Summer Intern](https://jobright.ai/jobs/info/69eb903ddc35f7132c4b0e72?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Ads Econ](https://jobright.ai/jobs/info/69cf03cb54f00230c6d05c95?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Apr 24 |
