@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 26 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 26 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69edd8cd4b0fa35a70785648?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[West Loop Strategy](https://www.westloop.io)** | **[Data Analytics Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edca9416b2612c2a1254cf?utm_campaign=1066&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ed46d516b2612c2a12422a?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69e8fb464b0fa35a7076a619?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69ea8f1edc35f7132c4aad43?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
+| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ea8fbf0a6e095553041b6f?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
