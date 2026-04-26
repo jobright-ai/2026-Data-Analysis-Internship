@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Apr 26 |
+| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 26 |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ee421d0a6e095553051a99?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ee2ca90a6e09555305179a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 26 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e18b85d612782e611491ca?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 26 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 26 |
@@ -143,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69eafdde58811370cb1362fb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[East Daley Analytics](http://eastdaley.com/)** | **[Energy Market Data Analyst Intern](https://jobright.ai/jobs/info/69eae89c0a6e095553043d2d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Apr 23 |
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
+| **[PMMI: The Association for Packaging and Processing Technologies](https://www.pmmi.org/)** | **[Digital Analytics & AI Research Intern](https://jobright.ai/jobs/info/69ee60acdc35f7132c4ba7f8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
 | **[Medica](https://www.medica.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69eac3b03aa0c479643b17b1?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ec52160a6e09555304db03?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea8fe458811370cb133ff5?utm_campaign=1066&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69e8fb464b0fa35a7076a619?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| **[KCH Transportation](https://www.kchtrans.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69ea8f1edc35f7132c4aad43?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
-| **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ea8fbf0a6e095553041b6f?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Apr 23 |
-| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
