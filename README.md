@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e18b85d612782e611491ca?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 26 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 26 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | **[West Loop Strategy](https://www.westloop.io)** | **[Data Analytics Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edca9416b2612c2a1254cf?utm_campaign=1066&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ed46d516b2612c2a12422a?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b23400ae2a534885e927a8?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69b233f4ae2a534885e92797?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea1dc358811370cb13193a?utm_campaign=1066&utm_source=git)** | 50 Horseblock Road, Brookhaven, NY, 11719, US | On Site | Apr 23 |
-| **[CORE Electric Cooperative](https://core.coop)** | **[Intern - GIS](https://jobright.ai/jobs/info/69cdb5b3cfdc6132f941ec43?utm_campaign=1066&utm_source=git)** | Sedalia, CO | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
