@@ -57,22 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 26 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Apr 26 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 26 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ee421d0a6e095553051a99?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ee2ca90a6e09555305179a?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 26 |
 | **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e18b85d612782e611491ca?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 26 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 26 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 26 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
+| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69edd8cd4b0fa35a70785648?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 26 |
 | **[West Loop Strategy](https://www.westloop.io)** | **[Data Analytics Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edca9416b2612c2a1254cf?utm_campaign=1066&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ed46d516b2612c2a12422a?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
-| **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Planning/Reporting Intern](https://jobright.ai/jobs/info/69ed1d5e4b0fa35a70783e96?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 25 |
-| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ed06ebdc35f7132c4b8049?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Apr 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Inference Economics and Human Agency](https://jobright.ai/jobs/info/69ebeef358811370cb13d921?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 25 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Apr 25 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69b4ca1906c1ba00c5464641?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 25 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ecdad50a6e09555304ee70?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Apr 25 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[GoodRx](https://www.goodrx.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bc0c684828227293fd307a?utm_campaign=1066&utm_source=git)** | Kings County, NY | On Site | Apr 25 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69ebde5658811370cb13d570?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 24 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebbc5c58811370cb13c20d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ebb9d77820c036924f66ff?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Apr 24 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/69ebb7a34b0fa35a7077de31?utm_campaign=1066&utm_source=git)** | AZ - Chandler, US | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ebb7847820c036924f642f?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 24 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Artificial Intelligence & Credit Risk Analysis)](https://jobright.ai/jobs/info/69ebfd7ddc35f7132c4b4e42?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 24 |
 | **[AMS Industries, Inc.](https://amsindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebaf737820c036924f6379?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea8fe458811370cb133ff5?utm_campaign=1066&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69e8fb464b0fa35a7076a619?utm_campaign=1066&utm_source=git)** | Pine Brook, NJ | On Site | Apr 23 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
+| **[KCH Transportation](https://www.kchtrans.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69ea8f1edc35f7132c4aad43?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
