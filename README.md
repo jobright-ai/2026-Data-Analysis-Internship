@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Versor Investments](https://versorinvest.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69efa04cfbe0994a40eb74e7?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[TD](https://www.td.com)** | **[Business Insights & Analytics Co-op/Intern Fall 2026](https://jobright.ai/jobs/info/69ef9b0416b2612c2a12a6f3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
 | **[Almo Corporation](http://www.almo.com)** | **[Logistics & Transportation Intern](https://jobright.ai/jobs/info/69ef97234b0fa35a7078a4a5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud ERP Solution Adoption Business Analyst](https://jobright.ai/jobs/info/69ef8e3a0a6e095553055b16?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
@@ -74,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 26 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Apr 26 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 26 |
-| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ee421d0a6e095553051a99?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 26 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 26 |
+| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 26 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
 | **[West Loop Strategy | AWS Analytics & Migration Consulting](https://www.westloop.io)** | **[Data Analytics Intern Role / West Loop Strategy](https://jobright.ai/jobs/info/69edca9416b2612c2a1254cf?utm_campaign=1066&utm_source=git)** | Loop, WV | On Site | Apr 25 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ed46d516b2612c2a12422a?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 25 |
