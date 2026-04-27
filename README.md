@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mambo Seafood Restaurants](https://www.mamboseafood.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69efcada0a6e0955530573dc?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA | On Site | Apr 27 |
+| **[DEEP Measures](http://www.deepmeasures.health)** | **[Digital Health Analyst Intern](https://jobright.ai/jobs/info/69efc63bfbe0994a40eb8736?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Apr 27 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efc60f4b0fa35a7078bb5a?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 27 |
+| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efc5c9e624fe645d53358e?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 27 |
+| **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efbdd758811370cb1486d2?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Apr 27 |
 | **[SMC³](http://www.smc3.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efbcf7fbe0994a40eb8578?utm_campaign=1066&utm_source=git)** | Peachtree City, GA | On Site | Apr 27 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69efbb9058811370cb148585?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
@@ -119,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern-Economics, WW Integrated Marketing Systems and Intelligence (WIMSI)](https://jobright.ai/jobs/info/69ebb9d77820c036924f66ff?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Apr 24 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ebb7847820c036924f642f?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 24 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Artificial Intelligence & Credit Risk Analysis)](https://jobright.ai/jobs/info/69ebfd7ddc35f7132c4b4e42?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Apr 24 |
-| **[AMS Industries, Inc.](https://amsindustries.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebaf737820c036924f6379?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Apr 24 |
 | **[PrizePicks](https://prizepicks.com)** | **[Business Intelligence Intern - Fall 2026](https://jobright.ai/jobs/info/69eb9a660a6e095553049130?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Apr 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern – Engineering Data Analysis](https://jobright.ai/jobs/info/69b32196ad360c0340a83c0b?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Apr 24 |
 | **[Northeast Bank](https://www.nebankmn.com/)** | **[Data, Analytics & AI Summer Intern](https://jobright.ai/jobs/info/69eb903ddc35f7132c4b0e72?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69ea916e0a6e095553041c89?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[CentralSquare Technologies](https://www.centralsquare.com/)** | **[GIS Intern (Summer 2026) - Remote](https://jobright.ai/jobs/info/69eb0bd5dc35f7132c4ad32a?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/69ea80057820c036924ee526?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | Apr 23 |
-| **[Medtronic](https://www.medtronic.com)** | **[Strategic Insights & Analytics Intern](https://jobright.ai/jobs/info/69eb0bd30a6e0955530440d1?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 23 |
-| **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69eafdde58811370cb1362fb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
-| **[East Daley Analytics](http://eastdaley.com/)** | **[Energy Market Data Analyst Intern](https://jobright.ai/jobs/info/69eae89c0a6e095553043d2d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Apr 23 |
-| **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
