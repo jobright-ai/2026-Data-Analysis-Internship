@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SMC³](http://www.smc3.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efbcf7fbe0994a40eb8578?utm_campaign=1066&utm_source=git)** | Peachtree City, GA | On Site | Apr 27 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69efbb9058811370cb148585?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efaf0efbe0994a40eb7ba1?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina | Hybrid | Apr 27 |
+| **[Onto Innovation](http://www.ontoinnovation.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69efade4fbe0994a40eb7a9a?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Apr 27 |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69efadd4fbe0994a40eb7a58?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 27 |
 | **[Versor Investments](https://versorinvest.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69efa04cfbe0994a40eb74e7?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[TD](https://www.td.com)** | **[Business Insights & Analytics Co-op/Intern Fall 2026](https://jobright.ai/jobs/info/69ef9b0416b2612c2a12a6f3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
 | **[Almo Corporation](http://www.almo.com)** | **[Logistics & Transportation Intern](https://jobright.ai/jobs/info/69ef97234b0fa35a7078a4a5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vancity](http://www.vancity.com)** | **[Member Experience Performance Analytics Intern (7-Month Contract)](https://jobright.ai/jobs/info/69eafdde58811370cb1362fb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 23 |
 | **[East Daley Analytics](http://eastdaley.com/)** | **[Energy Market Data Analyst Intern](https://jobright.ai/jobs/info/69eae89c0a6e095553043d2d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Apr 23 |
 | **[HNTB](http://www.hntb.com/)** | **[GIS Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/69ea6782dc35f7132c4a9c8c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 23 |
-| **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Data Analytics Intern: Young Canada Works (6-month contract)](https://jobright.ai/jobs/info/69ea53507820c036924ecfca?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Apr 23 |
-| **[Medica](https://www.medica.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69eac3b03aa0c479643b17b1?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
-| **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ec52160a6e09555304db03?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Analytics Analyst, Development Data, VP Development and Alumni](https://jobright.ai/jobs/info/69ea83604b0fa35a70774dfc?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 23 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
-| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea8fe458811370cb133ff5?utm_campaign=1066&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
