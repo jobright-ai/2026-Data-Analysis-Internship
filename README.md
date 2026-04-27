@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud ERP Solution Adoption Business Analyst](https://jobright.ai/jobs/info/69ef8e3a0a6e095553055b16?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
+| **[Prior Labs](https://priorlabs.ai/)** | **[Research Scientist Intern (PhD)](https://jobright.ai/jobs/info/69ef858258811370cb146f58?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/69d1d118cdb525785fbb5832?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/69ef84cc16b2612c2a129e2d?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
 | **[IEEE](http://ieee.org)** | **[Summer Intern -Data Analyst , Onsite/hybrid](https://jobright.ai/jobs/info/69ef7e0ee624fe645d53191c?utm_campaign=1066&utm_source=git)** | United States-New Jersey-Piscataway | Hybrid | Apr 27 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Apr 26 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 26 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69ee421d0a6e095553051a99?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 26 |
-| **[Leonardo Worldwide Corporation](https://www.leonardoworldwide.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e18b85d612782e611491ca?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 26 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Apr 26 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6998fc1de0bddb6acac7eef2?utm_campaign=1066&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 26 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation On-Going Intern](https://jobright.ai/jobs/info/69ec52160a6e09555304db03?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Senior Analytics Analyst, Development Data, VP Development and Alumni](https://jobright.ai/jobs/info/69ea83604b0fa35a70774dfc?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Apr 23 |
-| **[Amneal Pharmaceuticals](http://amneal.com/)** | **[2026 Summer Internship - Packaging (NY Ops) Brookhaven, NY](https://jobright.ai/jobs/info/69ea8fe458811370cb133ff5?utm_campaign=1066&utm_source=git)** | Brookhaven, NY | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
