@@ -108,10 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
 | **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efd5a00a6e0955530575ee?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6b?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5c8fbe0994a40eb8a76?utm_campaign=1066&utm_source=git)** | Bethesda, MD | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5c8fbe0994a40eb8a76?utm_campaign=1066&utm_source=git)** | Bethesda, MD | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd60a0a6e09555305769c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69efd4c6e624fe645d533943?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Research Assistant - Prediction Markets Data Collection](https://jobright.ai/jobs/info/69efde6358811370cb148eb3?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efaf0efbe0994a40eb7ba1?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina | Hybrid | Apr 27 |
