@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sallie Mae](https://www.salliemae.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69f05a298feca91f1491a9f2?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Apr 27 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f03663825a315d7ca31894?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 27 |
 | **[Fiserv](http://www.fiserv.com)** | **[Data Analysis - Summer Intern](https://jobright.ai/jobs/info/69f03644825a315d7ca3183f?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Apr 27 |
 | **[TransUnion](http://www.transunion.com)** | **[Identity Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69f03637825a315d7ca317f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 27 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f013a38feca91f149199e6?utm_campaign=1066&utm_source=git)** | USA MD - Sparks - 7 Loveton Circle, US | On Site | Apr 27 |
 | **[DLZ Corporation](https://dlz.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f00a67e624fe645d534e0f?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Audience Data Analysis Intern](https://jobright.ai/jobs/info/69f004b5e624fe645d534c08?utm_campaign=1066&utm_source=git)** | San Marino, US | On Site | Apr 27 |
-| **[Centific](https://www.centific.com)** | **[Summer Intern-1](https://jobright.ai/jobs/info/69efff3e16b2612c2a12d135?utm_campaign=1066&utm_source=git)** | Remote Work( USA), US | Remote | Apr 27 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b060a4dfaeda6ff59a2017?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 27 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69eff57858811370cb14a00a?utm_campaign=1066&utm_source=git)** | Newark, DE, US | Hybrid | Apr 27 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Data & Analytics Analyst Intern](https://jobright.ai/jobs/info/69eff3c9fbe0994a40eb9bb2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 27 |
@@ -98,15 +98,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efc5c9e624fe645d53358e?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 27 |
 | **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efbdd758811370cb1486d2?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Apr 27 |
 | **[SMC³](http://www.smc3.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efbcf7fbe0994a40eb8578?utm_campaign=1066&utm_source=git)** | Peachtree City, GA | On Site | Apr 27 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/69efbb9058811370cb148585?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 27 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efd68f0a6e095553057771?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
 | **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efd5a00a6e0955530575ee?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6b?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd60a0a6e09555305769c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5c8fbe0994a40eb8a76?utm_campaign=1066&utm_source=git)** | Bethesda, MD | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd60a0a6e09555305769c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Remote | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69efd4c6e624fe645d533943?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Research Assistant - Prediction Markets Data Collection](https://jobright.ai/jobs/info/69efde6358811370cb148eb3?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efaf0efbe0994a40eb7ba1?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina | Hybrid | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebe4cb4b0fa35a7077f602?utm_campaign=1066&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ec02fd58811370cb13e22b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebfde00a6e09555304be72?utm_campaign=1066&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
+| **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels & Chemicals (Early Career)](https://jobright.ai/jobs/info/69ebfdd5dc35f7132c4b4ef1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
