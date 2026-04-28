@@ -62,7 +62,8 @@ For a complete list, click the following sortable link below:
 | **[TransUnion](http://www.transunion.com)** | **[Identity Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69f03637825a315d7ca317f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Audience Data Analysis Intern](https://jobright.ai/jobs/info/69f036378feca91f1491a405?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Osi Vision, LLC](https://osivision.com/)** | **[Summer Internship: Healthcare Research](https://jobright.ai/jobs/info/69f0303d825a315d7ca31761?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f047ee825a315d7ca31b86?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f052d6a4aa3545d8a5df21?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
+| ↳ | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f047ee825a315d7ca31b86?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
 | ↳ | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f0286a8feca91f14919d96?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 27 |
 | ↳ | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f027b08feca91f14919d3b?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Apr 27 |
 | ↳ | **[Transportation Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69f02749ecbc8c2f731fe771?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 27 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
 | **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efd5a00a6e0955530575ee?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6b?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd60a0a6e09555305769c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5c8fbe0994a40eb8a76?utm_campaign=1066&utm_source=git)** | Bethesda, MD | Remote | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69efd4c6e624fe645d533943?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gorman & Company](http://gormanusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ebe4cb4b0fa35a7077f602?utm_campaign=1066&utm_source=git)** | Oregon, WI, US | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69ec02fd58811370cb13e22b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 24 |
 | **[AltaML](https://www.altaml.com/)** | **[Associate Data Operations Specialist (Brilliant Harvest) (8mth internship)](https://jobright.ai/jobs/info/69ebfde00a6e09555304be72?utm_campaign=1066&utm_source=git)** | Greater Montreal Metropolitan Area | Remote | Apr 24 |
-| **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels & Chemicals (Early Career)](https://jobright.ai/jobs/info/69ebfdd5dc35f7132c4b4ef1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
