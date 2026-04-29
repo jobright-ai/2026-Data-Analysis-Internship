@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMAX](http://www.imax.com)** | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f243938d8d624381a9ff97?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 29 |
+| **[WorkSpace+](https://workspaceplus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f24152ab4ec4779fff82e6?utm_campaign=1066&utm_source=git)** | De Pere, WI, US | On Site | Apr 29 |
+| **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f23e08ecbc8c2f7320999c?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 29 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69f23df9ab4ec4779fff8286?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 29 |
+| **[One Inc](https://www.oneinc.com)** | **[Intern, Data Visualization & Analytics](https://jobright.ai/jobs/info/69f23cbd825a315d7ca3b86f?utm_campaign=1066&utm_source=git)** | USA | Remote | Apr 29 |
+| **[WB Manufacturing](https://www.wbmfg.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f23c83825a315d7ca3b736?utm_campaign=1066&utm_source=git)** | De Pere, WI, US | On Site | Apr 29 |
+| **[SAIC](http://www.saic.com)** | **[Geo / Earth Data Science Internship](https://jobright.ai/jobs/info/69f23bc8f154d768fbaa5e32?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Apr 29 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/69f23310ab4ec4779fff7ce2?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | Apr 29 |
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/69e85e413aa0c479643a2fc2?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Apr 29 |
-| **[Qube Research & Technologies](https://www.qube-rt.com/)** | **[2026 - Internship, Quantitative Research](https://jobright.ai/jobs/info/69f231fa825a315d7ca3b47a?utm_campaign=1066&utm_source=git)** | Houston | On Site | Apr 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/69b260faa8ac8e70ff66448e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Apr 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service BI Intern](https://jobright.ai/jobs/info/697842e088e2b47213bc5759?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Apr 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[2026 Summer Data Analytics & Actuarial Intern](https://jobright.ai/jobs/info/699d6c62e0bddb6acaccbc44?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 29 |
@@ -118,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f0fbce825a315d7ca35642?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Apr 28 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69f0f50762b48c6838792dac?utm_campaign=1066&utm_source=git)** | HQ - San Diego, CA, US | On Site | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1105db27fee43e8cd7160?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Apr 28 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f11050b27fee43e8cd70ff?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Apr 28 |
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1105c8d8d624381a9a355?utm_campaign=1066&utm_source=git)** | Alaska, United States | On Site | Apr 28 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f11050b27fee43e8cd70ff?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Apr 28 |
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1106cecbc8c2f73203a0b?utm_campaign=1066&utm_source=git)** | Arizona, United States | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Credit Data Analyst - Credit Modeling & Methodology Intern (4 Months)](https://jobright.ai/jobs/info/69f0e78d825a315d7ca34eb0?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 28 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f0e767825a315d7ca34e14?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 28 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Data Analysis - Summer Intern](https://jobright.ai/jobs/info/69efdef54b0fa35a7078c323?utm_campaign=1066&utm_source=git)** | Alpharetta, Georgia, United States of America | On Site | Apr 27 |
 | **[Advanced Regenerative Manufacturing Institute (ARMI) | BioFabUSA](https://www.armiusa.org/)** | **[DTCC Data Science Intern](https://jobright.ai/jobs/info/69efd56d16b2612c2a12bcfd?utm_campaign=1066&utm_source=git)** | 540 North Commercial Street, Manchester, NH, USA | On Site | Apr 27 |
 | **[Busek](http://busek.com)** | **[Summer Internship – ERP/Data Analyst (Finance & Operations)](https://jobright.ai/jobs/info/69efd4f3e624fe645d533953?utm_campaign=1066&utm_source=git)** | Natick, MA | On Site | Apr 27 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69efd430e624fe645d53389b?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Apr 27 |
-| **[TD](https://www.td.com)** | **[Business Insights & Analytics Co-op/Intern Fall 2026](https://jobright.ai/jobs/info/69eff3b2e624fe645d5347ce?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
-| **[Mambo Seafood Restaurants](https://www.mamboseafood.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69efcada0a6e0955530573dc?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA | On Site | Apr 27 |
-| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efc60f4b0fa35a7078bb5a?utm_campaign=1066&utm_source=git)** | Davie, FL | Remote | Apr 27 |
-| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69efc5c9e624fe645d53358e?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Apr 27 |
-| **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efbdd758811370cb1486d2?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
