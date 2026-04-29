@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provation](https://www.provationmedical.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4f8ed366bb95ba5541d68?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 29 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f1d3bbab4ec4779fff6815?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 29 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69f1c9318feca91f1492249e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[IT Analyst - Intern](https://jobright.ai/jobs/info/69f1c913825a315d7ca39e3b?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
@@ -142,10 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efb04ae624fe645d532bdc?utm_campaign=1066&utm_source=git)** | Champaign, IL, US | On Site | Apr 27 |
 | **[10a Labs](https://10alabs.com/)** | **[Research Fellow](https://jobright.ai/jobs/info/69efd5a00a6e0955530575ee?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5784b0fa35a7078be6b?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Apr 27 |
+| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd5c8fbe0994a40eb8a76?utm_campaign=1066&utm_source=git)** | Bethesda, MD | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148af7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd60a0a6e09555305769c?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Remote | Apr 27 |
-| ↳ | **[Research Fellow](https://jobright.ai/jobs/info/69efd55058811370cb148b0d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Research Assistant](https://jobright.ai/jobs/info/69efd4c6e624fe645d533943?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Research Assistant - Prediction Markets Data Collection](https://jobright.ai/jobs/info/69efde6358811370cb148eb3?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efaf0efbe0994a40eb7ba1?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Almo Corporation](http://www.almo.com)** | **[Logistics & Transportation Intern](https://jobright.ai/jobs/info/69ef97234b0fa35a7078a4a5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud ERP Solution Adoption Business Analyst](https://jobright.ai/jobs/info/69ef8e3a0a6e095553055b16?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[Prior Labs](https://priorlabs.ai/)** | **[Research Scientist Intern (PhD)](https://jobright.ai/jobs/info/69ef858258811370cb146f58?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/69d1d118cdb525785fbb5832?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
