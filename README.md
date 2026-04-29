@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Socio-Technical Workflow Analysis](https://jobright.ai/jobs/info/69f21646ecbc8c2f73208c23?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69f20e47f154d768fbaa50de?utm_campaign=1066&utm_source=git)** | US-NJ-Camden | On Site | Apr 29 |
+| ↳ | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69f20d8aab4ec4779fff7116?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Apr 29 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[2026 Summer Data Analytics & Actuarial Intern](https://jobright.ai/jobs/info/699d74e481476f6176b644fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[S&P Global](https://www.spglobal.com)** | **[Data Operations Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69d57367cdb525785fbd0f92?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/69f1f8c28feca91f14922894?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69d4f8ed366bb95ba5541d68?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Apr 29 |
+| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[HSSE Intern](https://jobright.ai/jobs/info/69f20d71ab4ec4779fff70a8?utm_campaign=1066&utm_source=git)** | Morocco, Tangier, 90150, MA | On Site | Apr 29 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f1d3bbab4ec4779fff6815?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 29 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69f1c9318feca91f1492249e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[IT Analyst - Intern](https://jobright.ai/jobs/info/69f1c913825a315d7ca39e3b?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f142088feca91f1491f8aa?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1413aecbc8c2f73204f01?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f140858d8d624381a9b345?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 28 |
-| ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494e?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
+| ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494e?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69f15c748d8d624381a9bbd0?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 28 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f13b03ecbc8c2f73204ba4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69f136098d8d624381a9affa?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 28 |
@@ -101,9 +105,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f0fbce825a315d7ca35642?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Apr 28 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69f0f50762b48c6838792dac?utm_campaign=1066&utm_source=git)** | HQ - San Diego, CA, US | On Site | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1105db27fee43e8cd7160?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Apr 28 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1106cecbc8c2f73203a0b?utm_campaign=1066&utm_source=git)** | Arizona, United States | On Site | Apr 28 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f11050b27fee43e8cd70ff?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Apr 28 |
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1105c8d8d624381a9a355?utm_campaign=1066&utm_source=git)** | Alaska, United States | On Site | Apr 28 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f11050b27fee43e8cd70ff?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Apr 28 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1106cecbc8c2f73203a0b?utm_campaign=1066&utm_source=git)** | Arizona, United States | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Credit Data Analyst - Credit Modeling & Methodology Intern (4 Months)](https://jobright.ai/jobs/info/69f0e78d825a315d7ca34eb0?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Apr 28 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f0e767825a315d7ca34e14?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 28 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science - Multi-Omics intern](https://jobright.ai/jobs/info/69f0e75a8feca91f1491d626?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/69efaf0efbe0994a40eb7ba1?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina | Hybrid | Apr 27 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - CDO, Data Analyst - Enterprise Data Management Solutions Intern (4 Months - Bedford, NS)](https://jobright.ai/jobs/info/69efd42b4b0fa35a7078bd0f?utm_campaign=1066&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 27 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/69efadd4fbe0994a40eb7a58?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Apr 27 |
-| **[Versor Investments](https://versorinvest.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69efa04cfbe0994a40eb74e7?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 27 |
-| **[TD](https://www.td.com)** | **[Business Insights & Analytics Co-op/Intern Fall 2026](https://jobright.ai/jobs/info/69ef9b0416b2612c2a12a6f3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
-| **[Almo Corporation](http://www.almo.com)** | **[Logistics & Transportation Intern](https://jobright.ai/jobs/info/69ef97234b0fa35a7078a4a5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Apr 27 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud ERP Solution Adoption Business Analyst](https://jobright.ai/jobs/info/69ef8e3a0a6e095553055b16?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
