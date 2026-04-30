@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Data Science intern](https://jobright.ai/jobs/info/69f32f75343eef4fb0a994fd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 30 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f2f8fc8feca91f14928f49?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[IT Analyst - Intern](https://jobright.ai/jobs/info/69f2dfea8feca91f14928ba4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[GHG Data Analyst Intern](https://jobright.ai/jobs/info/69f324d4c78b9e4518953885?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAA Mountain West Group](https://mwg.aaa.com/)** | **[Data Analyst Summer Internship](https://jobright.ai/jobs/info/69f12cdeecbc8c2f73203f13?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 28 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Research Intern](https://jobright.ai/jobs/info/69f141ab8feca91f1491f68a?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Credit Data Analyst - Credit Modeling & Methodology Intern (4 Months)](https://jobright.ai/jobs/info/69f118e362b48c6838793cbb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
-| **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Biostatistics)](https://jobright.ai/jobs/info/69f246038feca91f14924113?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
