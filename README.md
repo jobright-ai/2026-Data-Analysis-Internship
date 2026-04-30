@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Assembly Biosciences, Inc.](http://www.assemblybio.com/)** | **[Summer Intern, Bioinformatics and Data Science](https://jobright.ai/jobs/info/69f2bd13ecbc8c2f7320d56f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Apr 29 |
+| **[City of Hope](http://www.cityofhope.org)** | **[Intern - Research Data Analyst (Temporary, Per Diem)](https://jobright.ai/jobs/info/69f2bcf1ecbc8c2f7320d446?utm_campaign=1066&utm_source=git)** | Duarte, CA | On Site | Apr 29 |
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f2a638f154d768fbaa82cd?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f293a8f154d768fbaa7e3c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28bae8feca91f14925917?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[EIO Data Analytics Reports/Dashboard Intern - UNPAID](https://jobright.ai/jobs/info/69f1b98462b48c68387976c8?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
 | **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1104462b48c683879396f?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Apr 28 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Fall 2026](https://jobright.ai/jobs/info/69f12d89825a315d7ca36581?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
-| **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
