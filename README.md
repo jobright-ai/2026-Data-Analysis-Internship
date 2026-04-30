@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f2a638f154d768fbaa82cd?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f293a8f154d768fbaa7e3c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28bae8feca91f14925917?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28b64ab4ec4779fff9b0c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Astrion](https://astrion.us)** | **[Intern, Engineering – LASSO II](https://jobright.ai/jobs/info/69f281748d8d624381aa119a?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 29 |
-| **[Construction Partners](https://www.constructionpartners.net)** | **[Summer Intern - Data Analytics](https://jobright.ai/jobs/info/69f254bfab4ec4779fff88ee?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[ID Logistics Canada](https://www.id-logistics.com/ca/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f254b7ecbc8c2f7320a0c2?utm_campaign=1066&utm_source=git)** | Ajax, Ontario, Canada | On Site | Apr 29 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[CCS Quill Project - Research Assistant](https://jobright.ai/jobs/info/69f25410825a315d7ca3bf05?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Apr 29 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Intern- Data Analytics (Non-OSU Student Assistant)](https://jobright.ai/jobs/info/69f252d28feca91f1492445f?utm_campaign=1066&utm_source=git)** | Columbus Campus, US | On Site | Apr 29 |
@@ -148,13 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/69f135ba8feca91f1491f2e7?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 28 |
 | ↳ | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/69f135b9ecbc8c2f7320499a?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 28 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern](https://jobright.ai/jobs/info/69dec4e6aba61f1417317a95?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Apr 28 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69f12d128feca91f1491ee1d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[AAA Mountain West Group](https://mwg.aaa.com/)** | **[Data Analyst Summer Internship](https://jobright.ai/jobs/info/69f12cdeecbc8c2f73203f13?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 28 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Research Intern](https://jobright.ai/jobs/info/69f141ab8feca91f1491f68a?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Credit Data Analyst - Credit Modeling & Methodology Intern (4 Months)](https://jobright.ai/jobs/info/69f118e362b48c6838793cbb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
-| **[WSP](https://www.wsp.com/en-om/services/mine-infrastructure)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69f118de8feca91f1491e941?utm_campaign=1066&utm_source=git)** | 888 South Figueroa Street, Los Angeles, CA, 90017, US | On Site | Apr 28 |
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Biostatistics)](https://jobright.ai/jobs/info/69f246038feca91f14924113?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 28 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[EIO Data Analytics Reports/Dashboard Intern - UNPAID](https://jobright.ai/jobs/info/69f1b98462b48c68387976c8?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
 | **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1104462b48c683879396f?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Apr 28 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Fall 2026](https://jobright.ai/jobs/info/69f12d89825a315d7ca36581?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
+| **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
