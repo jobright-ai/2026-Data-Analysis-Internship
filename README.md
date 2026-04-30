@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69d6e283706f771673bae9cf?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Digital Health Analytics Intern (Hybrid - San Carlos, CA)](https://jobright.ai/jobs/info/69d6ac6648f0c8161d2fa1c5?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69f15c748d8d624381a9bbd0?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 28 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f13b03ecbc8c2f73204ba4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69f136098d8d624381a9affa?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 28 |
-| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69f135fbb27fee43e8cd7dc2?utm_campaign=1066&utm_source=git)** | Carlisle, PA, 17013, United States | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
