@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f2bd7bab4ec4779fffbe39?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | **[Assembly Biosciences, Inc.](http://www.assemblybio.com/)** | **[Summer Intern, Bioinformatics and Data Science](https://jobright.ai/jobs/info/69f2bd13ecbc8c2f7320d56f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Apr 29 |
 | **[City of Hope](http://www.cityofhope.org)** | **[Intern - Research Data Analyst (Temporary, Per Diem)](https://jobright.ai/jobs/info/69f2bcf1ecbc8c2f7320d446?utm_campaign=1066&utm_source=git)** | Duarte, CA | On Site | Apr 29 |
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f2a638f154d768fbaa82cd?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Structure Therapeutics](https://structuretx.com/)** | **[2026 Summer Intern (Biostatistics)](https://jobright.ai/jobs/info/69f246038feca91f14924113?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | On Site | Apr 28 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[EIO Data Analytics Reports/Dashboard Intern - UNPAID](https://jobright.ai/jobs/info/69f1b98462b48c68387976c8?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
 | **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 28 |
-| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1104462b48c683879396f?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
