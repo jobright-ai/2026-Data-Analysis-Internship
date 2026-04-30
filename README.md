@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f2f8fc8feca91f14928f49?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 29 |
 | **[ATC](http://atcdrivetrain.com)** | **[IT Analyst - Intern](https://jobright.ai/jobs/info/69f2dfea8feca91f14928ba4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
 | **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f2bd7bab4ec4779fffbe39?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | **[Assembly Biosciences, Inc.](http://www.assemblybio.com/)** | **[Summer Intern, Bioinformatics and Data Science](https://jobright.ai/jobs/info/69f2bd13ecbc8c2f7320d56f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Apr 29 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[ATC](http://atcdrivetrain.com)** | **[IT Analyst - Intern](https://jobright.ai/jobs/info/69f1c913825a315d7ca39e3b?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 29 |
 | **[Leidos](https://www.leidos.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69f1867fb27fee43e8cd9846?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 28 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/69f1867c62b48c68387960a3?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Dignity Health](https://www.dignityhealth.org)** | **[Student Research Intern](https://jobright.ai/jobs/info/69f16b1fecbc8c2f732059fb?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Data Analyst Intern (Year Round)](https://jobright.ai/jobs/info/69f1660f8d8d624381a9bf49?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Apr 28 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69f157938feca91f1491fcc9?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Apr 28 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f148e9ecbc8c2f73205252?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f142088feca91f1491f8aa?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1413aecbc8c2f73204f01?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f140858d8d624381a9b345?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 28 |
-| ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494e?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
+| ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f1402962b48c683879494e?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Apr 28 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant - SEAREC Intern II - Grab Lab](https://jobright.ai/jobs/info/69f15c748d8d624381a9bbd0?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 28 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f13b03ecbc8c2f73204ba4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69f136098d8d624381a9affa?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Apr 28 |
