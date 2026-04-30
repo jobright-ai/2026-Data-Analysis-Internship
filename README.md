@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f293a8f154d768fbaa7e3c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
+| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28bae8feca91f14925917?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28b64ab4ec4779fff9b0c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
+| **[MiTek](http://www.mii.com)** | **[Decision Support Intern](https://jobright.ai/jobs/info/69f28a93825a315d7ca3d282?utm_campaign=1066&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | Apr 29 |
+| **[WB Manufacturing](https://www.wbmfg.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f288f48d8d624381aa1535?utm_campaign=1066&utm_source=git)** | De Pere, WI | On Site | Apr 29 |
 | **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f284c4f154d768fbaa787f?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | Apr 29 |
 | **[New York Proton Center](https://www.nyproton.com/)** | **[Healthcare Data Analysis Intern](https://jobright.ai/jobs/info/69f284c28d8d624381aa147e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f28167ab4ec4779fff9681?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
@@ -64,6 +69,9 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern - Data Curation and Research Support - Geothermal Energy](https://jobright.ai/jobs/info/69f279678d8d624381aa1074?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Apr 29 |
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f278548d8d624381aa0ee4?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f277da825a315d7ca3cb04?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e5ab4ec4779fff9ccb?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292d2ecbc8c2f7320b432?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69f268e7ab4ec4779fff8e85?utm_campaign=1066&utm_source=git)** | Warren, NJ | On Site | Apr 29 |
 | **[Astrion](https://astrion.us)** | **[Intern, Engineering – LASSO II](https://jobright.ai/jobs/info/69f281748d8d624381aa119a?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[EIO Data Analytics Reports/Dashboard Intern - UNPAID](https://jobright.ai/jobs/info/69f1b98462b48c68387976c8?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | On Site | Apr 28 |
 | **[New York City Criminal Justice Agency](https://www.nycja.org/)** | **[Data Quality & QA Analyst](https://jobright.ai/jobs/info/69e93aa97820c036924e6a48?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Hybrid | Apr 28 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1104462b48c683879396f?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Apr 28 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Fall 2026](https://jobright.ai/jobs/info/69f12d89825a315d7ca36581?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
-| **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 28 |
-| **[WTW](https://www.wtwco.com)** | **[Early Careers: Data Internship - Summer 2026](https://jobright.ai/jobs/info/69f1087f62b48c68387933e4?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
-| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f103a0825a315d7ca35850?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Apr 28 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f0fbce825a315d7ca35642?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Apr 28 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69f0f50762b48c6838792dac?utm_campaign=1066&utm_source=git)** | HQ - San Diego, CA, US | On Site | Apr 28 |
-| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f1105db27fee43e8cd7160?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Apr 28 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/69f11050b27fee43e8cd70ff?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
