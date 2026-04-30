@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/69f393f0c78b9e45189563ea?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 30 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/69f393eb1f90bd6ae23d0c57?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Apr 30 |
+| **[Allen Brothers 1893](https://www.allenbrothers.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69f393e1343eef4fb0a9bff3?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/69bcc8864828227293feb7d1?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f3762658b23a2329da4897?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 30 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf42f?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive | On Site | Apr 30 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f376011f90bd6ae23cf3cf?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | Apr 30 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f374b7461b9b613a620587?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f374b4461b9b613a620563?utm_campaign=1066&utm_source=git)** | 77026 | On Site | Apr 30 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
-| ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| ↳ | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69d6e283706f771673bae9cf?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/69f1867fb27fee43e8cd9846?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Apr 28 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern - Summer 2026](https://jobright.ai/jobs/info/69f1867c62b48c68387960a3?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Data Analyst Intern (Year Round)](https://jobright.ai/jobs/info/69f1660f8d8d624381a9bf49?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Apr 28 |
-| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Business Analytics Intern – Sales & CX](https://jobright.ai/jobs/info/69f157938feca91f1491fcc9?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Apr 28 |
-| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f148e9ecbc8c2f73205252?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
-| **[Milliman](http://www.milliman.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69f146ed8d8d624381a9b73d?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Mission Technology Solutions (MTS) - Win/Loss Intelligence & Data Analytics Intern](https://jobright.ai/jobs/info/69f14498b27fee43e8cd8586?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia | On Site | Apr 28 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69f142088feca91f1491f8aa?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
