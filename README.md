@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69f4ed48a3d34b4f76f52815?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
+| ↳ | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f5000243a25828a8d161ac?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f28b64ab4ec4779fff9b0c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 29 |
 | **[MiTek](http://www.mii.com)** | **[Decision Support Intern](https://jobright.ai/jobs/info/69f28a93825a315d7ca3d282?utm_campaign=1066&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | Apr 29 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f288f48d8d624381aa1535?utm_campaign=1066&utm_source=git)** | De Pere, WI | On Site | Apr 29 |
-| **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f284c4f154d768fbaa787f?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
