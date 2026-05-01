@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f45a81db88714bcdfad3b5?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
+| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69f456af1f90bd6ae23d4519?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | May 01 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 30 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/69f44972c78b9e4518959e48?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 30 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/69f4409958b23a2329da9f79?utm_campaign=1066&utm_source=git)** | Falls Church Virginia | Hybrid | Apr 30 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f376011f90bd6ae23cf3cf?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | Apr 30 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f374b7461b9b613a620587?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f374b4461b9b613a620563?utm_campaign=1066&utm_source=git)** | 77026 | On Site | Apr 30 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
-| ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| ↳ | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69d6e283706f771673bae9cf?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Internship Fall 2026 - DPHM Analytics Intern](https://jobright.ai/jobs/info/69d7b447738f2f099e8969b2?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f278548d8d624381aa0ee4?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f277da825a315d7ca3cb04?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e5ab4ec4779fff9ccb?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
-| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292d2ecbc8c2f7320b432?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69f268e7ab4ec4779fff8e85?utm_campaign=1066&utm_source=git)** | Warren, NJ | On Site | Apr 29 |
 | **[Astrion](https://astrion.us)** | **[Intern, Engineering – LASSO II](https://jobright.ai/jobs/info/69f281748d8d624381aa119a?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f2460c8d8d624381aa00d1?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Apr 29 |
 | ↳ | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f245ff8feca91f149240f8?utm_campaign=1066&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Apr 29 |
 | ↳ | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f245fbecbc8c2f73209b35?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Apr 29 |
-| ↳ | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f245e2825a315d7ca3ba39?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Apr 29 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/69e950683aa0c479643a91fd?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
