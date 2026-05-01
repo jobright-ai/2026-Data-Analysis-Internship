@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | May 01 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Data & Analytics (Milwaukee, WI)](https://jobright.ai/jobs/info/69d83e5af4ea471a51fe4c64?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | May 01 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69f49b43a3d34b4f76f50971?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Remote | May 01 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
 | **[Acuity](https://www.acuityinc.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f278548d8d624381aa0ee4?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f277da825a315d7ca3cb04?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e5ab4ec4779fff9ccb?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
-| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292d2ecbc8c2f7320b432?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69f268e7ab4ec4779fff8e85?utm_campaign=1066&utm_source=git)** | Warren, NJ | On Site | Apr 29 |
 | **[Astrion](https://astrion.us)** | **[Intern, Engineering – LASSO II](https://jobright.ai/jobs/info/69f281748d8d624381aa119a?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
-| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 29 |
-| **[ID Logistics Canada](https://www.id-logistics.com/ca/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f254b7ecbc8c2f7320a0c2?utm_campaign=1066&utm_source=git)** | Ajax, Ontario, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
