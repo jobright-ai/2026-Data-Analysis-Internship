@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69f49b43a3d34b4f76f50971?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Remote | May 01 |
+| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
+| **[Acuity](https://www.acuityinc.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
+| **[Netflix](https://www.netflix.com)** | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69d8b16ef748bc5d08a44e36?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | May 01 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2a916b600907a96290e0e?utm_campaign=1066&utm_source=git)** | Santa Isabel, CO | Hybrid | May 01 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Utility Performance Data Analytics](https://jobright.ai/jobs/info/69d879089f97a42dc9c1c972?utm_campaign=1066&utm_source=git)** | Iowa City, IA | On Site | May 01 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f47eed12f2811ab5a5e88f?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
 | **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d83771738f2f099e89b791?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | May 01 |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f49b5581706a5bd2161d17?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | May 01 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f45a81db88714bcdfad3b5?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69f456af1f90bd6ae23d4519?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | May 01 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 30 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f376011f90bd6ae23cf3cf?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | Apr 30 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f374b7461b9b613a620587?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f374b4461b9b613a620563?utm_campaign=1066&utm_source=git)** | 77026 | On Site | Apr 30 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
-| ↳ | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/69eb4b134b0fa35a7077a280?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
+| ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69d6e283706f771673bae9cf?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Apr 30 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Internship Fall 2026 - DPHM Analytics Intern](https://jobright.ai/jobs/info/69d7b447738f2f099e8969b2?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 29 |
 | **[ID Logistics Canada](https://www.id-logistics.com/ca/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f254b7ecbc8c2f7320a0c2?utm_campaign=1066&utm_source=git)** | Ajax, Ontario, Canada | On Site | Apr 29 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Intern- Data Analytics (Non-OSU Student Assistant)](https://jobright.ai/jobs/info/69f252d28feca91f1492445f?utm_campaign=1066&utm_source=git)** | Columbus Campus, US | On Site | Apr 29 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f24d878feca91f14924384?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f24d868feca91f14924382?utm_campaign=1066&utm_source=git)** | Pullman - One, US | On Site | Apr 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/6979802d0791bc1d723027d6?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f24611ab4ec4779fff8556?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
