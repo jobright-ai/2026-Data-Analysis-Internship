@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2a916b600907a96290e0e?utm_campaign=1066&utm_source=git)** | Santa Isabel, CO | Hybrid | May 01 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Utility Performance Data Analytics](https://jobright.ai/jobs/info/69d879089f97a42dc9c1c972?utm_campaign=1066&utm_source=git)** | Iowa City, IA | On Site | May 01 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f47eed12f2811ab5a5e88f?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
 | **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d83771738f2f099e89b791?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | May 01 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f45a81db88714bcdfad3b5?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/69f4409958b23a2329da9f79?utm_campaign=1066&utm_source=git)** | Falls Church Virginia | Hybrid | Apr 30 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f43a3e461b9b613a625fc6?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Apr 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/69f423e7c78b9e4518959671?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 30 |
-| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f406cc1f90bd6ae23d3518?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 30 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Institutional Research Intern 1](https://jobright.ai/jobs/info/69f405501f90bd6ae23d3444?utm_campaign=1066&utm_source=git)** | Dowagiac, MI | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f40505c78b9e4518958fe8?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 30 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science/AI&I Intern (Bachelors degree level)](https://jobright.ai/jobs/info/69f3f7b6c78b9e4518958dc9?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f24d868feca91f14924382?utm_campaign=1066&utm_source=git)** | Pullman - One, US | On Site | Apr 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/6979802d0791bc1d723027d6?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f24611ab4ec4779fff8556?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 29 |
-| ↳ | **[Data Scientist Intern (New Graduates)](https://jobright.ai/jobs/info/69f2460c8d8d624381aa00d1?utm_campaign=1066&utm_source=git)** | North Vancouver, British Columbia, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
