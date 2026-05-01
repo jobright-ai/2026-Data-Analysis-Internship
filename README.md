@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/69f3e3791f90bd6ae23d26fa?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d9321f90bd6ae23d1d7c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d8e8461b9b613a624602?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Data Visualization & Analysis Intern](https://jobright.ai/jobs/info/69f3d8c51f90bd6ae23d1c45?utm_campaign=1066&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 30 |
@@ -65,6 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69f3d1796942c746fa694e1b?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/69f3d0d5461b9b613a624022?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/69f3d0c96942c746fa694c82?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Apr 30 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern, Data Analytics & BI](https://jobright.ai/jobs/info/69f3df9f343eef4fb0a9eb4a?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/69f3e39fc78b9e4518958883?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 30 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | Apr 30 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 30 |
 | **[Waterton Global Resource Management, Inc.](http://watertonglobal.com)** | **[Industrial Data and Reporting Intern](https://jobright.ai/jobs/info/69f3ba8158b23a2329da7c93?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/69d55d4f366bb95ba55445b8?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | Apr 29 |
 | **[ID Logistics Canada](https://www.id-logistics.com/ca/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f254b7ecbc8c2f7320a0c2?utm_campaign=1066&utm_source=git)** | Ajax, Ontario, Canada | On Site | Apr 29 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[CCS Quill Project - Research Assistant](https://jobright.ai/jobs/info/69f25410825a315d7ca3bf05?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Apr 29 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Intern- Data Analytics (Non-OSU Student Assistant)](https://jobright.ai/jobs/info/69f252d28feca91f1492445f?utm_campaign=1066&utm_source=git)** | Columbus Campus, US | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Decision Sciences](https://jobright.ai/jobs/info/69b084f4749500645096ef9a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f24d878feca91f14924384?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service BI Intern](https://jobright.ai/jobs/info/697842e088e2b47213bc5759?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Apr 29 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/69f22437ecbc8c2f73208f2a?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Apr 29 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/69ccc18d54f00230c6ce9b5f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 29 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ba8e3606c1ba00c54ca133?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Apr 29 |
-| **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
