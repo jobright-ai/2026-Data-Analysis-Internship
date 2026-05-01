@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f406cc1f90bd6ae23d3518?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Apr 30 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Institutional Research Intern 1](https://jobright.ai/jobs/info/69f405501f90bd6ae23d3444?utm_campaign=1066&utm_source=git)** | Dowagiac, MI | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f40505c78b9e4518958fe8?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 30 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Colorado State Patrol (CSP) - Vehicular Crimes Analysis Unit Capstone Internship](https://jobright.ai/jobs/info/69f3f7c46942c746fa69625d?utm_campaign=1066&utm_source=git)** | Lakewood, CO | Hybrid | Apr 30 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Robust.AI](https://robust.ai)** | **[Data Nerd (Internship)](https://jobright.ai/jobs/info/69f278548d8d624381aa0ee4?utm_campaign=1066&utm_source=git)** | San Carlos, CA | On Site | Apr 29 |
 | **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f277da825a315d7ca3cb04?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e5ab4ec4779fff9ccb?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
-| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292d2ecbc8c2f7320b432?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f295778d8d624381aa1979?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292d2ecbc8c2f7320b432?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Data Science Summer Internship](https://jobright.ai/jobs/info/69f268e7ab4ec4779fff8e85?utm_campaign=1066&utm_source=git)** | Warren, NJ | On Site | Apr 29 |
 | **[Astrion](https://astrion.us)** | **[Intern, Engineering – LASSO II](https://jobright.ai/jobs/info/69f281748d8d624381aa119a?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Apr 29 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Career Path Intern-Graduate, Data Science](https://jobright.ai/jobs/info/69f25c73825a315d7ca3c0db?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMAX](http://www.imax.com)** | **[Intern, Enterprise Transformation](https://jobright.ai/jobs/info/69f243938d8d624381a9ff97?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, CA | On Site | Apr 29 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f24152ab4ec4779fff82e6?utm_campaign=1066&utm_source=git)** | De Pere, WI, US | On Site | Apr 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/69f25bf4ecbc8c2f7320a0dc?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 29 |
-| **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f23e08ecbc8c2f7320999c?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
