@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/69f6744bdb88714bcdfb65ba?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | May 02 |
+| **[Origence](https://origence.com/)** | **[Voice of Customer Analytics Intern](https://jobright.ai/jobs/info/69f679ddb1fc847fc1ae3592?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Data Analytics & Resources Bureau](https://jobright.ai/jobs/info/69f6539181706a5bd2168c26?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[Geisinger](https://www.geisinger.org)** | **[GME Analytics & Dashboard Development Intern](https://jobright.ai/jobs/info/69f65376a3d34b4f76f585cc?utm_campaign=1066&utm_source=git)** | Wilkes-Barre, PA | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Summer Intern - Data Analytics & Resources Bureau](https://jobright.ai/jobs/info/69f653710b36ff0354754e46?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 30 |
 | **[Waterton Global Resource Management, Inc.](http://watertonglobal.com)** | **[Industrial Data and Reporting Intern](https://jobright.ai/jobs/info/69f3ba8158b23a2329da7c93?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eagle River Water and Sanitation District](https://www.erwsd.org/)** | **[Digital Intelligence Intern](https://jobright.ai/jobs/info/69f3ad38c78b9e4518956cf5?utm_campaign=1066&utm_source=git)** | Remote - CO 81657 | Remote | Apr 30 |
-| **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Healthcare Informatics Intern- Fall 2026](https://jobright.ai/jobs/info/69f3acc26942c746fa693596?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Apr 30 |
-| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/69bba7ec06c1ba00c54e3e9b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
