@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69d9c0325356a60f40fdc195?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f5d39fa3d34b4f76f567a2?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | May 02 |
 | **[NetApp](http://netapp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69f5ebdc0b36ff0354753bd2?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | May 02 |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69bc75745b89c002acf235ff?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | May 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69d9603b869c7e25d859aa2d?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69d9c078738f2f099e8a4479?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/69f1352d8feca91f1491f0c2?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f3762658b23a2329da4897?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 30 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf42f?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive | On Site | Apr 30 |
-| **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69f376011f90bd6ae23cf3cf?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
