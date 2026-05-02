@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cresset](https://cressetcapital.com/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/69f5520512f2811ab5a643b1?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 01 |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/69f54cfddb88714bcdfb328b?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | May 01 |
 | **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/69f5484743a25828a8d181d2?utm_campaign=1066&utm_source=git)** | Oakland, California, United States | Hybrid | May 01 |
 | **[BBYO](https://www.bbyo.org)** | **[Survey and Data Analysis Internship](https://jobright.ai/jobs/info/69f5447612f2811ab5a64123?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
 | **[The US Oncology Network](http://www.usoncology.com/)** | **[Summer Intern - Informatics Department](https://jobright.ai/jobs/info/69f53cbfa3d34b4f76f54774?utm_campaign=1066&utm_source=git)** | Peoria, IL | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2026](https://jobright.ai/jobs/info/69af09d9749500645093760a?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Apr 30 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Data Analyst Intern - Returns](https://jobright.ai/jobs/info/69f34aecc78b9e45189543cf?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
