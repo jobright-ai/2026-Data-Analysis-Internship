@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Science & Analytics Intern (NCS) - BCIT](https://jobright.ai/jobs/info/69d988c29f97a42dc9c2221b?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | May 02 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Data Reporting Analyst](https://jobright.ai/jobs/info/69d99601738f2f099e8a29a4?utm_campaign=1066&utm_source=git)** | Nashville, TN | Remote | May 02 |
 | **[Nasuni](https://www.nasuni.com)** | **[Data Science Intern - SaaS Customer Experience Analytics](https://jobright.ai/jobs/info/69bd0c5ab10602456281f237?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | May 02 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/69d9c0325356a60f40fdc195?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/69bcc8864828227293feb7d1?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Apr 30 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | Apr 30 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f3762658b23a2329da4897?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Apr 30 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf42f?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
