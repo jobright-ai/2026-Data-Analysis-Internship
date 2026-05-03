@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f47eed12f2811ab5a5e88f?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
 | **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d83771738f2f099e89b791?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | May 01 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f45a81db88714bcdfad3b5?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
+| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f6a1b70b36ff03547560c6?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Apr 30 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 30 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/69f44972c78b9e4518959e48?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 30 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 3](https://jobright.ai/jobs/info/69f4409958b23a2329da9f79?utm_campaign=1066&utm_source=git)** | Falls Church Virginia | Hybrid | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | Apr 30 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 30 |
 | **[Waterton Global Resource Management, Inc.](http://watertonglobal.com)** | **[Industrial Data and Reporting Intern](https://jobright.ai/jobs/info/69f3ba8158b23a2329da7c93?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
-| **[Eagle River Water and Sanitation District](https://www.erwsd.org/)** | **[Digital Intelligence Intern](https://jobright.ai/jobs/info/69f3ad38c78b9e4518956cf5?utm_campaign=1066&utm_source=git)** | Remote - CO 81657 | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
