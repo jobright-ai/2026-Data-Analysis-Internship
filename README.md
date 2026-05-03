@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 03 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[BI Developer Intern - Onsite in Dallas, TX](https://jobright.ai/jobs/info/69bdffb0482822729300b6b2?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Talent Insights](https://jobright.ai/jobs/info/69f6b06bb1fc847fc1ae43b6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | May 02 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/69f6744bdb88714bcdfb65ba?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | May 02 |
@@ -95,9 +96,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f5296081706a5bd21650d6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | May 01 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship](https://jobright.ai/jobs/info/69f51e1312f2811ab5a6318c?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | On Site | May 01 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Data Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69f51d97db88714bcdfb20ca?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
-| **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69f53c0312f2811ab5a63f75?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 01 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69f51cac81706a5bd2164d75?utm_campaign=1066&utm_source=git)** | Santa Fe Springs, CA | On Site | May 01 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money](https://jobright.ai/jobs/info/69f5108d0b36ff035475059e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 01 |
+| **[TriNetX](http://trinetx.com)** | **[Global Data Intern](https://jobright.ai/jobs/info/69f75827b1fc847fc1ae6036?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f50c76db88714bcdfb1acd?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Innovive Health](https://innovivehealth.com)** | **[Business Intelligence Intern (Medford)](https://jobright.ai/jobs/info/69f5068543a25828a8d1690f?utm_campaign=1066&utm_source=git)** | Medford, MA, USA | On Site | May 01 |
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/69aedb856b21de023e5fe9ab?utm_campaign=1066&utm_source=git)** | New York | On Site | Apr 30 |
 | **[Waterton Global Resource Management, Inc.](http://watertonglobal.com)** | **[Industrial Data and Reporting Intern](https://jobright.ai/jobs/info/69f3ba8158b23a2329da7c93?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Eagle River Water and Sanitation District](https://www.erwsd.org/)** | **[Digital Intelligence Intern](https://jobright.ai/jobs/info/69f3ad38c78b9e4518956cf5?utm_campaign=1066&utm_source=git)** | Remote - CO 81657 | Remote | Apr 30 |
-| **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Healthcare Informatics Intern- Fall 2026](https://jobright.ai/jobs/info/69f3acc26942c746fa693596?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
