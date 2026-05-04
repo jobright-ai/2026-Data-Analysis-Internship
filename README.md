@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | May 03 |
+| **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
+| **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 03 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bd9459b1060245628287a6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | May 03 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 03 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[BI Developer Intern - Onsite in Dallas, TX](https://jobright.ai/jobs/info/69bdffb0482822729300b6b2?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 03 |
@@ -106,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69f4ed48a3d34b4f76f52815?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69f3d6d4c78b9e4518957db1?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69f3d1796942c746fa694e1b?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Apr 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/69f3d0d5461b9b613a624022?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Apr 30 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/69f3d0c96942c746fa694c82?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Apr 30 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern, Data Analytics & BI](https://jobright.ai/jobs/info/69f3df9f343eef4fb0a9eb4a?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
