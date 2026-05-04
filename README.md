@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howard County Public School System](https://www.hcpss.org/)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/69f8f922582f810f9c8cf927?utm_campaign=1066&utm_source=git)** | Mendenhall Building, US | On Site | May 04 |
+| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f8740b36ff035475c4b7?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f85f81706a5bd216fa35?utm_campaign=1066&utm_source=git)** | 360 Main St, Suite 2710, Winnipeg, Manitoba, Canada | Hybrid | May 04 |
+| **[Loopback Health](http://www.loopbackanalytics.com)** | **[RWD Data Analyst Intern](https://jobright.ai/jobs/info/69f8f81cdb88714bcdfbcd16?utm_campaign=1066&utm_source=git)** | Dallas, Texas, United States | Hybrid | May 04 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Data Transformation](https://jobright.ai/jobs/info/69f8f04d582f810f9c8cef87?utm_campaign=1066&utm_source=git)** | 201 South College Street 20th Floor, Charlotte, NC, 28244, US | On Site | May 04 |
 | **[Ambulatory Anesthesia Care (Midwest)](https://zzzmd.com/)** | **[Data Analyst Internship (Revenue Cycle & Analytics)](https://jobright.ai/jobs/info/69f8e5c1582f810f9c8ce9a3?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | May 04 |
 | **[Sharecare](https://www.sharecare.com)** | **[BI Analytics Intern - Remote](https://jobright.ai/jobs/info/69f8e5a9a3d34b4f76f5e470?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | May 04 |
 | ↳ | **[BI Analytics Intern - Remote](https://jobright.ai/jobs/info/69f8e540b1fc847fc1ae8fa7?utm_campaign=1066&utm_source=git)** | BAM - Atlanta, GA, US | Remote | May 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - CDO, Reference Data Analyst Intern (4 Months - Bedford, NS)](https://jobright.ai/jobs/info/69f8e468582f810f9c8ce76a?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | On Site | May 04 |
+| **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c6a940aa3c2c1995e111ea?utm_campaign=1066&utm_source=git)** | Holmdel, NJ | Hybrid | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I– 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8de7ea3d34b4f76f5e143?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, CAN, CA | On Site | May 04 |
 | ↳ | **[Data Scientist I– 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8de7da3d34b4f76f5e140?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
 | **[Easterseals MORC](http://www.eastersealsmorc.org)** | **[Student Intern - Reporting and Business Intelligence (RBI)](https://jobright.ai/jobs/info/69f8dd1c582f810f9c8ce618?utm_campaign=1066&utm_source=git)** | Auburn Hills, Michigan, United States | Remote | May 04 |
@@ -77,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 04 |
 | **[BMO](http://www.bmo.com)** | **[Cloud Business & Strategy Analytics Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834c9a3d34b4f76f5cbad?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| ↳ | **[Technical Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8f909582f810f9c8cf8dd?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8246a0b36ff035475904d?utm_campaign=1066&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- AD Data Initiative Driver Projects](https://jobright.ai/jobs/info/69e12fedfd1c0456f3facefd?utm_campaign=1066&utm_source=git)** | Seattle WA | On Site | May 03 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
@@ -129,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69f4ed48a3d34b4f76f52815?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Netflix](https://www.netflix.com)** | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/69d8b16ef748bc5d08a44e36?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | May 01 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Tool Lifecycle Analyst Internship (Puerto Rico)](https://jobright.ai/jobs/info/69a2a916b600907a96290e0e?utm_campaign=1066&utm_source=git)** | Santa Isabel, CO | Hybrid | May 01 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Utility Performance Data Analytics](https://jobright.ai/jobs/info/69d879089f97a42dc9c1c972?utm_campaign=1066&utm_source=git)** | Iowa City, IA | On Site | May 01 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f47eed12f2811ab5a5e88f?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
-| **[Imerys](https://imerys.com/)** | **[S&T Data Solidation & AI Analysis - Intern](https://jobright.ai/jobs/info/69d83771738f2f099e89b791?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | May 01 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f45a81db88714bcdfad3b5?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | May 01 |
-| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69f6a1b70b36ff03547560c6?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Apr 30 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 30 |
-| **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/69f44972c78b9e4518959e48?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
