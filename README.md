@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training and Internship Program](https://jobright.ai/jobs/info/69f9ef02db88714bcdfc0401?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 05 |
 | **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/69f4c64b12f2811ab5a60b9a?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Governance, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fef582f810f9c8d1a2e?utm_campaign=1066&utm_source=git)** | Toronto, CA | On Site | May 04 |
+| **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa5ff20b36ff03547620eb?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 04 |
 | **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69f090ee62b48c683879012b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/69f9286d81706a5bd2170ee7?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Performance Lab Year-Round Part-time Intern](https://jobright.ai/jobs/info/69f4d3b7a3d34b4f76f51d23?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69f4c8d4a3d34b4f76f51902?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e85?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7bcdb88714bcdfafd69?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Forecast Intern](https://jobright.ai/jobs/info/69f4c6b643a25828a8d1498d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
