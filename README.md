@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69f9275b582f810f9c8d0d1d?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA, US, 92708 | On Site | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69f4ed48a3d34b4f76f52815?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 04 |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 04 |
 | **[Howard County Public School System](https://www.hcpss.org/)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/69f8f922582f810f9c8cf927?utm_campaign=1066&utm_source=git)** | Mendenhall Building, US | On Site | May 04 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f8740b36ff035475c4b7?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | May 04 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/69f8f85f81706a5bd216fa35?utm_campaign=1066&utm_source=git)** | 360 Main St, Suite 2710, Winnipeg, Manitoba, Canada | Hybrid | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/69f4c64b12f2811ab5a60b9a?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 01 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69f49b43a3d34b4f76f50971?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Remote | May 01 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
-| **[Acuity](https://www.acuityinc.com)** | **[Summer Internship - Sourcing COE](https://jobright.ai/jobs/info/6997eaafe0bddb6acac6cf62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
