@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clemens Food Group](http://clemensfoodgroup.com)** | **[Master Data Intern](https://jobright.ai/jobs/info/69fa2a83582f810f9c8d476d?utm_campaign=1066&utm_source=git)** | Hatfield, Pennsylvania, United States | On Site | May 05 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern (Full-Time)](https://jobright.ai/jobs/info/69fa286b81706a5bd2174255?utm_campaign=1066&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | May 05 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern (Full-Time)](https://jobright.ai/jobs/info/69fa2802582f810f9c8d4682?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | May 05 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Data Steward / Summer Grad Intern](https://jobright.ai/jobs/info/69fa1e90db88714bcdfc139e?utm_campaign=1066&utm_source=git)** | MANHATTAN | On Site | May 05 |
 | **[Dekko](http://www.dekko.com)** | **[Data Scientist - Intern](https://jobright.ai/jobs/info/69fa134e0b36ff035476068b?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fa123edb88714bcdfc1050?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | May 05 |
@@ -84,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[CentralReach](http://www.centralreach.com)** | **[Internship - Jr. Analyst, CRM Data & Analytics](https://jobright.ai/jobs/info/69c6a940aa3c2c1995e111ea?utm_campaign=1066&utm_source=git)** | Holmdel, NJ | Hybrid | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I– 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8de7ea3d34b4f76f5e143?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, CAN, CA | On Site | May 04 |
 | ↳ | **[Data Scientist I– 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8de7da3d34b4f76f5e140?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
-| **[Easterseals MORC](http://www.eastersealsmorc.org)** | **[Student Intern - Reporting and Business Intelligence (RBI)](https://jobright.ai/jobs/info/69f8dd1c582f810f9c8ce618?utm_campaign=1066&utm_source=git)** | Auburn Hills, Michigan, United States | Remote | May 04 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c21c582f810f9c8ce183?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN, CA | Hybrid | May 04 |
+| ↳ | **[Data Scientist – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c21c582f810f9c8ce183?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN, CA | Hybrid | May 04 |
 | ↳ | **[Data Scientist – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c1f881706a5bd216e1fb?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN, CA | Hybrid | May 04 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Data Science Intern – Investigations Section - Regional Investigations (RBLAC & HQ) and Investigations Support Team (IST), (three internship posts)](https://jobright.ai/jobs/info/69f8bcca81706a5bd216e07c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | May 04 |
 | **[UNDP](http://www.undp.org)** | **[Data Science Intern – Investigations Section - Regional Investigations (RBLAC & HQ) and Investigations Support Team (IST), (three internship posts)](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86f4?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | May 04 |
@@ -143,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Innovive Health](https://innovivehealth.com)** | **[Business Intelligence Intern (Medford)](https://jobright.ai/jobs/info/69f5068543a25828a8d1690f?utm_campaign=1066&utm_source=git)** | Medford, MA, USA | On Site | May 01 |
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e85?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 01 |
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7bcdb88714bcdfafd69?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Forecast Intern](https://jobright.ai/jobs/info/69f4c6b643a25828a8d1498d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Data Administrative Analyst - Intern](https://jobright.ai/jobs/info/69c37be994007a2195dffdca?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812adb49964d25b5e40386?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
