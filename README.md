@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concerto Renal Services](https://www.concertors.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69fa4701b1fc847fc1aef5d4?utm_campaign=1066&utm_source=git)** | Corporate Illinois - Lincolnwood, IL 60712 | On Site | May 05 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/69fa3805b1fc847fc1aeecf5?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Clemens Food Group](http://clemensfoodgroup.com)** | **[Master Data Intern](https://jobright.ai/jobs/info/69fa2a83582f810f9c8d476d?utm_campaign=1066&utm_source=git)** | Hatfield, Pennsylvania, United States | On Site | May 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern (Full-Time)](https://jobright.ai/jobs/info/69fa286b81706a5bd2174255?utm_campaign=1066&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | May 05 |
@@ -143,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Innovive Health](https://innovivehealth.com)** | **[Business Intelligence Intern (Medford)](https://jobright.ai/jobs/info/69f5068543a25828a8d1690f?utm_campaign=1066&utm_source=git)** | Medford, MA, USA | On Site | May 01 |
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7bcdb88714bcdfafd69?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 | **[Surfline\Wavetrak, Inc.](http://www.surfline.com)** | **[Forecast Intern](https://jobright.ai/jobs/info/69f4c6b643a25828a8d1498d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Data Administrative Analyst - Intern](https://jobright.ai/jobs/info/69c37be994007a2195dffdca?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 01 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812adb49964d25b5e40386?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
