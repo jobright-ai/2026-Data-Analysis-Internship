@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training and Internship Program](https://jobright.ai/jobs/info/69f9ef02db88714bcdfc0401?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 05 |
 | **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/69f4c64b12f2811ab5a60b9a?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Governance, Fall 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fef582f810f9c8d1a2e?utm_campaign=1066&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69f090ee62b48c683879012b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 04 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[BBYO](https://www.bbyo.org)** | **[Survey and Data Analysis Internship](https://jobright.ai/jobs/info/69f52afe12f2811ab5a63954?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f529d2a3d34b4f76f53f91?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f5296081706a5bd21650d6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | May 01 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship](https://jobright.ai/jobs/info/69f51e1312f2811ab5a6318c?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | On Site | May 01 |
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Data Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/69f51d97db88714bcdfb20ca?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69f51cac81706a5bd2164d75?utm_campaign=1066&utm_source=git)** | Santa Fe Springs, CA | On Site | May 01 |
 | **[TriNetX](http://trinetx.com)** | **[Global Data Intern](https://jobright.ai/jobs/info/69f75827b1fc847fc1ae6036?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | May 01 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Innovive Health](https://innovivehealth.com)** | **[Business Intelligence Intern (Medford)](https://jobright.ai/jobs/info/69f5068543a25828a8d1690f?utm_campaign=1066&utm_source=git)** | Medford, MA, USA | On Site | May 01 |
 | **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
-| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
+| ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76b0381706a5bd216c07e?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
