@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCAN](https://www.thescangroup.org/)** | **[Data Scientist Intern - Graduate](https://jobright.ai/jobs/info/69fa648c582f810f9c8d59d1?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | Hybrid | May 05 |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa641ba3d34b4f76f653c1?utm_campaign=1066&utm_source=git)** | McKinney, Texas, US | On Site | May 05 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/69fa4b2d582f810f9c8d54f7?utm_campaign=1066&utm_source=git)** | United States | Remote | May 05 |
 | **[Concerto Renal Services](https://www.concertors.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69fa4701b1fc847fc1aef5d4?utm_campaign=1066&utm_source=git)** | Corporate Illinois - Lincolnwood, IL 60712 | On Site | May 05 |
+| **[MSX International](http://www.msxi.com)** | **[Computer Science Intern – Data Analytics Team](https://jobright.ai/jobs/info/69dd09de738f2f099e8b4367?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | May 05 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/69fa3805b1fc847fc1aeecf5?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Clemens Food Group](http://clemensfoodgroup.com)** | **[Master Data Intern](https://jobright.ai/jobs/info/69fa2a83582f810f9c8d476d?utm_campaign=1066&utm_source=git)** | Hatfield, Pennsylvania, United States | On Site | May 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern (Full-Time)](https://jobright.ai/jobs/info/69fa286b81706a5bd2174255?utm_campaign=1066&utm_source=git)** | 3201 N Garden Dr, Lehi, UT, 84048, US | On Site | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Performance Lab Year-Round Part-time Intern](https://jobright.ai/jobs/info/69f4d3b7a3d34b4f76f51d23?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | May 01 |
 | **[MATSYS Inc.](https://matsys.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69f4cccc81706a5bd21631be?utm_campaign=1066&utm_source=git)** | Sterling, Virginia, United States | On Site | May 01 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/69f4c8d4a3d34b4f76f51902?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
-| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7c581706a5bd2162e85?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 01 |
-| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/69f4c7bcdb88714bcdfafd69?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
