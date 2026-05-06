@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fbaa9286d5cd46527d7a55?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | May 06 |
+| ↳ | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fba84cffa73664aeb0175d?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 06 |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69fba796ffa73664aeb016f4?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | May 06 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fb9e4e38179b6f1ae7a318?utm_campaign=1066&utm_source=git)** | Aliso Viejo, CA | On Site | May 06 |
 | **[Invest in Canada | Investir au Canada](https://www.investcanada.ca)** | **[Business Intelligence Student](https://jobright.ai/jobs/info/69fb9e4438179b6f1ae7a30b?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 06 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ded85918cf504166e302d5?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb58ae18b94b2515be1c86?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Data Analysis Internship](https://jobright.ai/jobs/info/69fb58a7ffa73664aeafefb4?utm_campaign=1066&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 06 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/69c349c7753c101b2156ee15?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Pediatrics - Neurology NRI Bioinformatics (Part-time)](https://jobright.ai/jobs/info/69fb9a91d21cf86d1e3d4334?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c6bf75f7ff1cd8101d62?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | May 06 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/69fb206986d5cd46527d2c3b?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/69dec27b36823d1b42583adc?utm_campaign=1066&utm_source=git)** | Greater Sioux Falls Area | On Site | May 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 06 |
-| **[Intermedia Intelligent Communications](https://www.intermedia.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69bcc43645e08b3dc1f98f79?utm_campaign=1066&utm_source=git)** | California, United States | Remote | May 06 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern- Data Research Job ID : 276839](https://jobright.ai/jobs/info/69fb582887a4820e6da87810?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 06 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/69f1352d8feca91f1491f0c2?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb5089d21cf86d1e3d1bfe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 05 |
@@ -138,14 +139,15 @@ For a complete list, click the following sortable link below:
 | **[Payactiv](https://www.payactiv.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fb275f18b94b2515bdf9cc?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | May 04 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/69fb20c3d21cf86d1e3cff58?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[National Organization for Rare Disorders](http://rarediseases.org/)** | **[Membership Data & Insights Intern](https://jobright.ai/jobs/info/69faecd9e156000841154d57?utm_campaign=1066&utm_source=git)** | Danbury, CT | Remote | May 04 |
-| **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Research Assistant - BCTI - PNRK](https://jobright.ai/jobs/info/69fb200686d5cd46527d2b68?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
+| **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Research Assistant - BCTI - CPT](https://jobright.ai/jobs/info/69fbb29238179b6f1ae7ad10?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
+| ↳ | **[Research Assistant - BCTI - PNRK](https://jobright.ai/jobs/info/69fb200686d5cd46527d2b68?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
 | **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa5ff20b36ff03547620eb?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 04 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Data Transformation](https://jobright.ai/jobs/info/69fae6e038179b6f1ae73467?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | May 04 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Fall 2026)](https://jobright.ai/jobs/info/69fae849d21cf86d1e3cdfa0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69f090ee62b48c683879012b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/69f9286d81706a5bd2170ee7?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
-| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69fae76086d5cd46527d0e70?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69fae8e238179b6f1ae73936?utm_campaign=1066&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 04 |
+| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69fae8e238179b6f1ae73936?utm_campaign=1066&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69fae76086d5cd46527d0e70?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[Sharecare](https://www.sharecare.com)** | **[BI Analytics Intern - Remote](https://jobright.ai/jobs/info/69fae90338179b6f1ae739b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
 | **[Humber College](http://www.humber.ca/)** | **[Research Assistant - BCTI - CPT](https://jobright.ai/jobs/info/69fb3a12d21cf86d1e3d1240?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f8740b36ff035475c4b7?utm_campaign=1066&utm_source=git)** | 170 University Ave, Suite 600, Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[UNDP Careers](https://www.undp.org)** | **[Data Science Intern – Investigations Section - Regional Investigations (RBLAC & HQ) and Investigations Support Team (IST), (three internship posts)](https://jobright.ai/jobs/info/69fad9b2d21cf86d1e3cd400?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | May 04 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69f8f85f81706a5bd216fa35?utm_campaign=1066&utm_source=git)** | 360 Main St, Suite 2710, Winnipeg, Manitoba, Canada | Hybrid | May 04 |
-| **[Loopback Health](http://www.loopbackanalytics.com)** | **[RWD Data Analyst Intern](https://jobright.ai/jobs/info/69f8f81cdb88714bcdfbcd16?utm_campaign=1066&utm_source=git)** | Dallas, Texas, United States | Hybrid | May 04 |
-| **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Data Transformation](https://jobright.ai/jobs/info/69f8f04d582f810f9c8cef87?utm_campaign=1066&utm_source=git)** | 201 South College Street 20th Floor, Charlotte, NC, 28244, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
