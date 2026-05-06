@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Fall 2026)](https://jobright.ai/jobs/info/69fae849d21cf86d1e3cdfa0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69f090ee62b48c683879012b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/69f9286d81706a5bd2170ee7?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
-| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69fae8e238179b6f1ae73936?utm_campaign=1066&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69fae76086d5cd46527d0e70?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
+| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69fae76086d5cd46527d0e70?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69fae8e238179b6f1ae73936?utm_campaign=1066&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 04 |
 | **[Sharecare](https://www.sharecare.com)** | **[BI Analytics Intern - Remote](https://jobright.ai/jobs/info/69fae90338179b6f1ae739b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | May 04 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
 | **[Humber College](http://www.humber.ca/)** | **[Research Assistant - BCTI - CPT](https://jobright.ai/jobs/info/69fb3a12d21cf86d1e3d1240?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
