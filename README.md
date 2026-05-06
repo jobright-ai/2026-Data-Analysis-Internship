@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69fa89d881706a5bd2176325?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | May 05 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Data Scientist Intern - Graduate](https://jobright.ai/jobs/info/69fa648c582f810f9c8d59d1?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | Hybrid | May 05 |
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa641ba3d34b4f76f653c1?utm_campaign=1066&utm_source=git)** | McKinney, Texas, US | On Site | May 05 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/69fa4b2d582f810f9c8d54f7?utm_campaign=1066&utm_source=git)** | United States | Remote | May 05 |
@@ -108,6 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8f909582f810f9c8cf8dd?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8246a0b36ff035475904d?utm_campaign=1066&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Fall 2026)](https://jobright.ai/jobs/info/69f91e3adb88714bcdfbde7a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | May 03 |
+| **[Keel](https://keelusa.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fa9be386d5cd46527cf21a?utm_campaign=1066&utm_source=git)** | Ladson, SC | On Site | May 03 |
+| **[SES Satellites](http://www.ses.com)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69fa98f5db88714bcdfc386b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 03 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 03 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 03 |
 | **[XPO](https://www.xpo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69bd9459b1060245628287a6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76aad582f810f9c8cbfa4?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 01 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d526a3d34b4f76f5210b?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | May 01 |
-| ↳ | **[Summer 2026 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/69f4d48612f2811ab5a614b7?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | May 01 |
-| **[National Grid](https://www.nationalgrid.com)** | **[Performance Lab Year-Round Part-time Intern](https://jobright.ai/jobs/info/69f4d3b7a3d34b4f76f51d23?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | May 01 |
-| **[MATSYS Inc.](https://matsys.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69f4cccc81706a5bd21631be?utm_campaign=1066&utm_source=git)** | Sterling, Virginia, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
