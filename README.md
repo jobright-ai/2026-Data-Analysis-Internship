@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69fa89d881706a5bd2176325?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | May 05 |
+| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/69dfe3e55913ad3398146535?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | May 05 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Data Scientist Intern - Graduate](https://jobright.ai/jobs/info/69fa648c582f810f9c8d59d1?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | Hybrid | May 05 |
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa641ba3d34b4f76f653c1?utm_campaign=1066&utm_source=git)** | McKinney, Texas, US | On Site | May 05 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/69fa4b2d582f810f9c8d54f7?utm_campaign=1066&utm_source=git)** | United States | Remote | May 05 |
@@ -106,6 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/69f8b336582f810f9c8cdf04?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive1 Mercedes-Drive | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 04 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fabd88e156000841153185?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
+| ↳ | **[Velocity - Data Scientist Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fabd70e15600084115314b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[BMO](http://www.bmo.com)** | **[Cloud Business & Strategy Analytics Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834c9a3d34b4f76f5cbad?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Technical Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8f909582f810f9c8cf8dd?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f8246a0b36ff035475904d?utm_campaign=1066&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TriNetX](http://trinetx.com)** | **[Global Data Intern](https://jobright.ai/jobs/info/69f75827b1fc847fc1ae6036?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | Hybrid | May 01 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f50c76db88714bcdfb1acd?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 01 |
 | **[Innovive Health](https://innovivehealth.com)** | **[Business Intelligence Intern (Medford)](https://jobright.ai/jobs/info/69f5068543a25828a8d1690f?utm_campaign=1066&utm_source=git)** | Medford, MA, USA | On Site | May 01 |
-| **[U.S. Geological Survey (USGS)](http://astrogeology.usgs.gov/)** | **[Field/Lab Data Collection and Analysis](https://jobright.ai/jobs/info/69f52d9a12f2811ab5a6399c?utm_campaign=1066&utm_source=git)** | Kearneysville, WV | On Site | May 01 |
-| **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/69f4e664a3d34b4f76f525d6?utm_campaign=1066&utm_source=git)** | Austin, TX, US | On Site | May 01 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/69f76ae0db88714bcdfb9414?utm_campaign=1066&utm_source=git)** | Irving, TX, US | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
