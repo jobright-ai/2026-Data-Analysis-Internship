@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Fall 2026](https://jobright.ai/jobs/info/69fbf685a5949019c55b210a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[FHNF INTERN](https://jobright.ai/jobs/info/69fbf079a5949019c55b1d92?utm_campaign=1066&utm_source=git)** | Syosset, NY | On Site | May 06 |
+| **[SCAN](https://www.thescangroup.org/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69fc1639a5949019c55b3161?utm_campaign=1066&utm_source=git)** | Long Beach, CA | On Site | May 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, in Data Visualization (Fall 2026)](https://jobright.ai/jobs/info/69fc0754c39b9a66c0c55f92?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 06 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69e67c2be0cd471b2f125ecb?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf682a5949019c55b20fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 06 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Daisy Brand](http://daisybrand.com)** | **[Senior BI Developer](https://jobright.ai/jobs/info/69fb483487a4820e6da86cd0?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | May 05 |
 | **[WhiteWater](http://whitewatermidstream.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/69fb21e687a4820e6da855a4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 05 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Data Analytics, Intern](https://jobright.ai/jobs/info/69fb1e7018b94b2515bdf4ca?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | May 05 |
-| **[Blidz](https://home.blidz.com)** | **[Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/69fa4b2d582f810f9c8d54f7?utm_campaign=1066&utm_source=git)** | United States | Remote | May 05 |
 | **[Concerto Renal Services](https://www.concertors.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69fa4701b1fc847fc1aef5d4?utm_campaign=1066&utm_source=git)** | Corporate Illinois - Lincolnwood, IL 60712 | On Site | May 05 |
 | **[CrowdPlat](http://crowdplat.com)** | **[Research Analyst Intern - Summer / Fall 2026 - 100% Remote](https://jobright.ai/jobs/info/69fb509118b94b2515be1435?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | May 05 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | May 05 |
