@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fca76a432a3c4da8dfe4a3?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | May 07 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fc83a0432a3c4da8dfd155?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | May 07 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e041c45913ad3398148a14?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | May 07 |
 | **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69fc438bd6f1e3068d8effad?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 05 |
 | **[Veristat](http://www.veristat.com)** | **[Biostatistics & Programming Intern](https://jobright.ai/jobs/info/69fb10cf38179b6f1ae74f1b?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | On Site | May 05 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/69f9ffc9db88714bcdfc0b99?utm_campaign=1066&utm_source=git)** | Toronto | On Site | May 05 |
-| **[MADE BY GATHER](https://madebygather.com)** | **[Sales Data Analyst & Operations Intern](https://jobright.ai/jobs/info/69f9fcdf81706a5bd2173522?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
