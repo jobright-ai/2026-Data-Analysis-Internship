@@ -57,20 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Fall 2026](https://jobright.ai/jobs/info/69fbf685a5949019c55b210a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 06 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[FHNF INTERN](https://jobright.ai/jobs/info/69fbf079a5949019c55b1d92?utm_campaign=1066&utm_source=git)** | Syosset, NY | On Site | May 06 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69e67c2be0cd471b2f125ecb?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf682a5949019c55b20fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 06 |
+| **[Liberty Latin America](https://www.lla.com/)** | **[Intern - Digital](https://jobright.ai/jobs/info/69fbf68d3160b250eb1babd1?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | May 06 |
+| **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Fall 2026](https://jobright.ai/jobs/info/69fbef8876c60e7b70af0df6?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 06 |
+| **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69cf43e4366bb95ba5514bc4?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | May 06 |
+| **[Julius Clinical](http://www.juliusclinical.com)** | **[Medical Informatics Intern - US](https://jobright.ai/jobs/info/69fbf6b8a5949019c55b21cb?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fbaa9286d5cd46527d7a55?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | May 06 |
 | ↳ | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fba84cffa73664aeb0175d?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 06 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69fba796ffa73664aeb016f4?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | May 06 |
+| **[SCAN](https://www.thescangroup.org/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69fbf14a3802c7621fd8e6c9?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | On Site | May 06 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fb9e4e38179b6f1ae7a318?utm_campaign=1066&utm_source=git)** | Aliso Viejo, CA | On Site | May 06 |
 | **[Invest in Canada | Investir au Canada](https://www.investcanada.ca)** | **[Business Intelligence Student](https://jobright.ai/jobs/info/69fb9e4438179b6f1ae7a30b?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 06 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb0270d?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | May 06 |
 | **[Gasser Chair](http://gasserchair.com)** | **[Data Analytics / Systems Intern](https://jobright.ai/jobs/info/69fb9718d21cf86d1e3d3fbc?utm_campaign=1066&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 06 |
+| **[JHNA](http://jhna.com/)** | **[DTCC Data Science Intern](https://jobright.ai/jobs/info/69fbf61bc39b9a66c0c5591d?utm_campaign=1066&utm_source=git)** | Manchester, NH | On Site | May 06 |
 | **[BB Living](https://bblivingresidential.com)** | **[AI Development Data Analytics Intern](https://jobright.ai/jobs/info/69fbeb1a76c60e7b70aef781?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 06 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[VBD Surveillance Data Analysis Intern](https://jobright.ai/jobs/info/69fb914a38179b6f1ae794e4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | May 06 |
 | **[Prison Fellowship](https://www.prisonfellowship.org/)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/69fb8d9b87a4820e6da88e6e?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ae9975f7ff1cd80ffc2c?utm_campaign=1066&utm_source=git)** | Fremont, CA | Hybrid | May 06 |
+| ↳ | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1ad4679e36d3a847eb3d8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | May 06 |
 | **[Penn State University](http://psu.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69fb8bbf18b94b2515be326d?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | May 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - Enterprise BI & Integration, Remote](https://jobright.ai/jobs/info/69fb8af687a4820e6da88c60?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Remote | May 06 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Research Intern](https://jobright.ai/jobs/info/69fb880d38179b6f1ae79025?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, US | On Site | May 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Assistant - BCTI - PNRK](https://jobright.ai/jobs/info/69fb200686d5cd46527d2b68?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
 | **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa5ff20b36ff03547620eb?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 04 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Data Transformation](https://jobright.ai/jobs/info/69fae6e038179b6f1ae73467?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | May 04 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Fall 2026)](https://jobright.ai/jobs/info/69fae849d21cf86d1e3cdfa0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 04 |
-| **[Avanade](http://www.avanade.com)** | **[Workplace Research Lead](https://jobright.ai/jobs/info/69f090ee62b48c683879012b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 04 |
-| **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/69f9286d81706a5bd2170ee7?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
-| **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69fae76086d5cd46527d0e70?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/69fae8e238179b6f1ae73936?utm_campaign=1066&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 04 |
-| **[Sharecare](https://www.sharecare.com)** | **[BI Analytics Intern - Remote](https://jobright.ai/jobs/info/69fae90338179b6f1ae739b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | May 04 |
-| **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/69f38eec58b23a2329da5ea9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 04 |
-| **[Humber College](http://www.humber.ca/)** | **[Research Assistant - BCTI - CPT](https://jobright.ai/jobs/info/69fb3a12d21cf86d1e3d1240?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
-| ↳ | **[Research Assistant - BCTI - PNRK](https://jobright.ai/jobs/info/69fae42f18b94b2515bdd338?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
-| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 04 |
-| **[Howard County Public School System](https://www.hcpss.org/)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/69f8f922582f810f9c8cf927?utm_campaign=1066&utm_source=git)** | Mendenhall Building, US | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
