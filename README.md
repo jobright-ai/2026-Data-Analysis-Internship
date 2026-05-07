@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 06 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Research Intern](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb0270d?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb277?utm_campaign=1066&utm_source=git)** | Hayward, CA | Hybrid | May 06 |
-| **[Gasser Chair](http://gasserchair.com)** | **[Data Analytics / Systems Intern](https://jobright.ai/jobs/info/69fb9718d21cf86d1e3d3fbc?utm_campaign=1066&utm_source=git)** | 4136 Logan Way, Youngstown, OH, USA | On Site | May 06 |
 | **[JHNA](http://jhna.com/)** | **[DTCC Data Science Intern](https://jobright.ai/jobs/info/69fbf61bc39b9a66c0c5591d?utm_campaign=1066&utm_source=git)** | Manchester, NH | On Site | May 06 |
 | **[BB Living](https://bblivingresidential.com)** | **[AI Development Data Analytics Intern](https://jobright.ai/jobs/info/69fbeb1a76c60e7b70aef781?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 06 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1aa9f79e36d3a847eb275?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/69f4d42712f2811ab5a61377?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 05 |
 | **[Veristat](http://www.veristat.com)** | **[Biostatistics & Programming Intern](https://jobright.ai/jobs/info/69fb10cf38179b6f1ae74f1b?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | On Site | May 05 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/69f9ffc9db88714bcdfc0b99?utm_campaign=1066&utm_source=git)** | Toronto | On Site | May 05 |
+| **[MADE BY GATHER](https://madebygather.com)** | **[Sales Data Analyst & Operations Intern](https://jobright.ai/jobs/info/69f9fcdf81706a5bd2173522?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
