@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Customer Insights Intern - Fall 2026](https://jobright.ai/jobs/info/69fc338d4ab6391714fd3fc3?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 06 |
 | **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Fall 2026](https://jobright.ai/jobs/info/69fbf685a5949019c55b210a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[FHNF INTERN](https://jobright.ai/jobs/info/69fbf079a5949019c55b1d92?utm_campaign=1066&utm_source=git)** | Syosset, NY | On Site | May 06 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Research Intern](https://jobright.ai/jobs/info/69fc1cc3a5949019c55b329c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Organization for Rare Disorders](http://rarediseases.org/)** | **[Membership Data & Insights Intern](https://jobright.ai/jobs/info/69faecd9e156000841154d57?utm_campaign=1066&utm_source=git)** | Danbury, CT | Remote | May 04 |
 | **[Faculty of Applied Sciences & Technology at Humber Polytechnic](https://appliedtechnology.humber.ca/)** | **[Research Assistant - BCTI - CPT](https://jobright.ai/jobs/info/69fbb29238179b6f1ae7ad10?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
 | ↳ | **[Research Assistant - BCTI - PNRK](https://jobright.ai/jobs/info/69fb200686d5cd46527d2b68?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 04 |
-| **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fa5ff20b36ff03547620eb?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
