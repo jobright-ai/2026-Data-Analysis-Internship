@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/69fe6d116bcf315dc8f57b0d?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin, United States of America | Hybrid | May 08 |
+| **[AUVSI — Association for Uncrewed Vehicle Systems International](http://www.auvsi.org/)** | **[Research Intern](https://jobright.ai/jobs/info/69fe6a4b7714cd50b910106e?utm_campaign=1066&utm_source=git)** | Arlington, VA | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/69fe6609f363bc4dc339e850?utm_campaign=1066&utm_source=git)** | Towson, MD, US | Hybrid | May 08 |
 | ↳ | **[Collections Data Analytst Intern](https://jobright.ai/jobs/info/69fe65844b9bbf21744b1412?utm_campaign=1066&utm_source=git)** | La Crosse, WI, US | Hybrid | May 08 |
 | ↳ | **[Claims Intelligence Platform Intern](https://jobright.ai/jobs/info/69fe62b2ad691a11f34ed6d5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, US | Hybrid | May 08 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/69fc6cfab113035a9f8e89f2?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69fc6ad9b113035a9f8e8340?utm_campaign=1066&utm_source=git)** | Ontario, CA, US | On Site | May 06 |
 | **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 06 |
-| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 06 |
 | ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc2736b788e7e7a5c24ea?utm_campaign=1066&utm_source=git)** | UT | Hybrid | May 06 |
+| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[BI & Technology Summer 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/69fc5fbdab1b7e27b9fa39da?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | On Site | May 06 |
 | ↳ | **[Intern, Research & Data Analytics (Fall 2026)](https://jobright.ai/jobs/info/69fc5a13cf5c6d3100697590?utm_campaign=1066&utm_source=git)** | DC, US | Hybrid | May 06 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69fc5689ab1b7e27b9fa35d7?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69fba796ffa73664aeb016f4?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | May 06 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69fbf14a3802c7621fd8e6c9?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | On Site | May 06 |
 | **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fb9e4e38179b6f1ae7a318?utm_campaign=1066&utm_source=git)** | Aliso Viejo, CA | On Site | May 06 |
-| **[Invest in Canada | Investir au Canada](https://www.investcanada.ca)** | **[Business Intelligence Student](https://jobright.ai/jobs/info/69fb9e4438179b6f1ae7a30b?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 06 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern - Business Data Analytics](https://jobright.ai/jobs/info/69c1a75675f7ff1cd80ff388?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
