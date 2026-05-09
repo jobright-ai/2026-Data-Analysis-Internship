@@ -85,7 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Audactus LLC](www.audactus.com)** | **[Intern Analyst](https://jobright.ai/jobs/info/69fda4fa52e2b44f558ac162?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/69fd9ef1ad691a11f34ea0fb?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst  - Paid Summer Internship](https://jobright.ai/jobs/info/69fd65f36bcf315dc8f51731?utm_campaign=1066&utm_source=git)** | Nashville, TN, US | On Site | May 07 |
+| **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Data Science](https://jobright.ai/jobs/info/69c458e6d5a1016e98db89ed?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | May 07 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Intern](https://jobright.ai/jobs/info/69fd19675cff890b03f3624e?utm_campaign=1066&utm_source=git)** | Remote - Nationwide, US | Remote | May 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69a7605476bbe83d3afac293?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/69fd120b666f063d3d6d313a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 | **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fd0febb113035a9f8ee370?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | May 07 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fd0f975cff890b03f35d7b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 07 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/69fcf654666f063d3d6d22b8?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Research Intern- Confer](https://jobright.ai/jobs/info/69fcf513432a3c4da8e00763?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | **[Integrity Express Logistics](https://www.ielfreight.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e0300a14bf245fc7a706d3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 07 |
-| **[MN8 Energy](https://mn8energy.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/69fcdfb7432a3c4da8dffc48?utm_campaign=1066&utm_source=git)** | Boca Raton, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Quality Intern - Remote](https://jobright.ai/jobs/info/69fcda83666f063d3d6d1357?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Engineering Intelligence Intern](https://jobright.ai/jobs/info/69fcda826b788e7e7a5c30c8?utm_campaign=1066&utm_source=git)** | Andover, MA, US | On Site | May 07 |
 | ↳ | **[Data and Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69fcda315cff890b03f33f51?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Arclin](http://arclin.com)** | **[Internship-Commercial Intelligence Analyst](https://jobright.ai/jobs/info/69fcd231b113035a9f8ebddd?utm_campaign=1066&utm_source=git)** | Alpharetta, Georgia, United States | Hybrid | May 07 |
 | **[Prodware](https://www.prodwaregroup.com/he-il/)** | **[Werkstudentin/Werkstudent (m/w/d) - Microsoft Data Analytics & AI (DA&AI)](https://jobright.ai/jobs/info/69e0efe0acc736112f5c0e64?utm_campaign=1066&utm_source=git)** | Greater Hamburg Area | Hybrid | May 07 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Data Scientist](https://jobright.ai/jobs/info/69a88d4079f3f4037f4266b6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 07 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc6f432a3c4da8dffa66?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Hybrid | May 07 |
-| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc30666f063d3d6d1548?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | May 07 |
+| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc30666f063d3d6d1548?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | May 07 |
+| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc6f432a3c4da8dffa66?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Hybrid | May 07 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc746b788e7e7a5c329f?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst Intern - Remote](https://jobright.ai/jobs/info/69fcbe1d5cff890b03f331ac?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/69f6207e582f810f9c8c86d7?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 07 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/69fc6cfab113035a9f8e89f2?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69fc6ad9b113035a9f8e8340?utm_campaign=1066&utm_source=git)** | Ontario, CA, US | On Site | May 06 |
 | **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 06 |
-| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc2736b788e7e7a5c24ea?utm_campaign=1066&utm_source=git)** | UT | Hybrid | May 06 |
 | ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 06 |
+| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc2736b788e7e7a5c24ea?utm_campaign=1066&utm_source=git)** | UT | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[BI & Technology Summer 2026 Internship - Charlotte, NC](https://jobright.ai/jobs/info/69fc5fbdab1b7e27b9fa39da?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | On Site | May 06 |
 | ↳ | **[Intern, Research & Data Analytics (Fall 2026)](https://jobright.ai/jobs/info/69fc5a13cf5c6d3100697590?utm_campaign=1066&utm_source=git)** | DC, US | Hybrid | May 06 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69fc5689ab1b7e27b9fa35d7?utm_campaign=1066&utm_source=git)** | Honolulu, HI, US | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fba84cffa73664aeb0175d?utm_campaign=1066&utm_source=git)** | Fort Myers, FL | On Site | May 06 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Data Analytics Intern (Summer 26)](https://jobright.ai/jobs/info/69fba796ffa73664aeb016f4?utm_campaign=1066&utm_source=git)** | Lehi, UT | Remote | May 06 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/69fbf14a3802c7621fd8e6c9?utm_campaign=1066&utm_source=git)** | Long Beach Office 3800, US | On Site | May 06 |
-| **[NeoGenomics Laboratories](http://www.neogenomics.com)** | **[AI Finance Innovation Intern](https://jobright.ai/jobs/info/69fb9e4e38179b6f1ae7a318?utm_campaign=1066&utm_source=git)** | Aliso Viejo, CA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
