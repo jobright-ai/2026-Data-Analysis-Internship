@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 09 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/69e2c666fcfcbd43860a4709?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | May 09 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69c5d25faa3c2c1995e050a4?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Maintenance Analysis Intern, Summer 2026](https://jobright.ai/jobs/info/69ff29bd74b5407dd4673cb1?utm_campaign=1066&utm_source=git)** | Rockville Maryland | On Site | May 09 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffdd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -140,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Arclin](http://arclin.com)** | **[Internship-Commercial Intelligence Analyst](https://jobright.ai/jobs/info/69fcd231b113035a9f8ebddd?utm_campaign=1066&utm_source=git)** | Alpharetta, Georgia, United States | Hybrid | May 07 |
 | **[Prodware](https://www.prodwaregroup.com/he-il/)** | **[Werkstudentin/Werkstudent (m/w/d) - Microsoft Data Analytics & AI (DA&AI)](https://jobright.ai/jobs/info/69e0efe0acc736112f5c0e64?utm_campaign=1066&utm_source=git)** | Greater Hamburg Area | Hybrid | May 07 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Data Scientist](https://jobright.ai/jobs/info/69a88d4079f3f4037f4266b6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 07 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc746b788e7e7a5c329f?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | May 07 |
-| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc30666f063d3d6d1548?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | May 07 |
+| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc30666f063d3d6d1548?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | May 07 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc6f432a3c4da8dffa66?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Hybrid | May 07 |
+| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69fcdc746b788e7e7a5c329f?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst Intern - Remote](https://jobright.ai/jobs/info/69fcbe1d5cff890b03f331ac?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/69f6207e582f810f9c8c86d7?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 07 |
 | **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fca76a432a3c4da8dfe4a3?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | May 07 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e041c45913ad3398148a14?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | May 07 |
-| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69fc438bd6f1e3068d8effad?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
