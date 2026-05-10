@@ -109,7 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[Whataburger](http://www.whataburger.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fdfeca7714cd50b90fd6d2?utm_campaign=1066&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903, US | Hybrid | May 08 |
 | **[LIMRA](http://www.limra.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fdfa6bad691a11f34eb232?utm_campaign=1066&utm_source=git)** | Windsor, CT (Hybrid) | Hybrid | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69fdf25aad691a11f34eaf19?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/6a009d55fa1aa73213d9062b?utm_campaign=1066&utm_source=git)** | Redmond, WA, US | Hybrid | May 08 |
+| ↳ | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69fdf25aad691a11f34eaf19?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | May 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69d0c7bc54f00230c6d1647b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | May 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 08 |
 | **[Audactus](www.audactus.com)** | **[Intern Analyst](https://jobright.ai/jobs/info/69fda4fa52e2b44f558ac162?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 07 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 IT Summer Internship / Nutley, NJ, USA](https://jobright.ai/jobs/info/69e04dffc17d1d5254333987?utm_campaign=1066&utm_source=git)** | Nutley, NJ | On Site | May 07 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/69e041c45913ad3398148a14?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | May 07 |
-| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/69fc438bd6f1e3068d8effad?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
