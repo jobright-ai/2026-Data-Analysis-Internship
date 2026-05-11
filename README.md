@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Data Science Researcher](https://jobright.ai/jobs/info/6a011e74fa1aa73213d919da?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 10 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 10 |
+| **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 10 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Analytics & Reporting Department](https://jobright.ai/jobs/info/69c6f71ee565c26a700248ec?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | May 10 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Aviation Pilot Data Analyst](https://jobright.ai/jobs/info/68cb7e58efdec76df36bd656?utm_campaign=1066&utm_source=git)** | Olathe, KS | On Site | May 10 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/69f6207e582f810f9c8c86d7?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bailey](https://www.baileycompany.com)** | **[Data Analyst  - Paid Summer Internship](https://jobright.ai/jobs/info/69fcc25f938a651755f96664?utm_campaign=1066&utm_source=git)** | Nashville,TN,US | On Site | May 07 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern - Paid](https://jobright.ai/jobs/info/69e0d2e96c20aa114953dc66?utm_campaign=1066&utm_source=git)** | United States | On Site | May 07 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fc83a0432a3c4da8dfd155?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | May 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a9351679f3f4037f43fe31?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 07 |
-| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69bcc88d45e08b3dc1f992a2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
