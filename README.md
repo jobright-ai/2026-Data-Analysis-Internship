@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
+| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training & Internship Program](https://jobright.ai/jobs/info/6a01c873c4b08448a0b204af?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Data Scientist](https://jobright.ai/jobs/info/69a88d4079f3f4037f4266b6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst Intern - Remote](https://jobright.ai/jobs/info/69fcbe1d5cff890b03f331ac?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 | **[LG Energy Solution Vertech, Inc.](https://lgensol-vt.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fca76a432a3c4da8dfe4a3?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | May 07 |
-| **[Sharecare](https://www.sharecare.com)** | **[Data Analyst Intern - Remote](https://jobright.ai/jobs/info/69fcc0c05cff890b03f3330a?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | May 07 |
-| ↳ | **[Data Analyst Intern - Remote](https://jobright.ai/jobs/info/69fcc0c26b788e7e7a5c231b?utm_campaign=1066&utm_source=git)** | BAM - Atlanta, GA, US | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
