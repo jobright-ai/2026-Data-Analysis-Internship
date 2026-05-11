@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DSD Consultancy](dsdconsultancy.com)** | **[Junior Analyst Intern](https://jobright.ai/jobs/info/6a014d08fa1aa73213d922f5?utm_campaign=1066&utm_source=git)** | Rancho Cucamonga, CA | Remote | May 10 |
 | **[GenPark](https://genpark.ai)** | **[Data Science Researcher](https://jobright.ai/jobs/info/6a011e74fa1aa73213d919da?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 10 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 10 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Data Science](https://jobright.ai/jobs/info/69c4bc2033eecf3107952661?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | On Site | May 07 |
 | **[Bailey](https://www.baileycompany.com)** | **[Data Analyst  - Paid Summer Internship](https://jobright.ai/jobs/info/69fcc25f938a651755f96664?utm_campaign=1066&utm_source=git)** | Nashville,TN,US | On Site | May 07 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern - Paid](https://jobright.ai/jobs/info/69e0d2e96c20aa114953dc66?utm_campaign=1066&utm_source=git)** | United States | On Site | May 07 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fc83a0432a3c4da8dfd155?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
