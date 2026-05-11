@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 08 |
 | **[Lee Spring](http://leespring.com)** | **[Part time Intern](https://jobright.ai/jobs/info/69febc6fcdb965044a8646ad?utm_campaign=1066&utm_source=git)** | Lee Spring Brooklyn - Brooklyn, NY 11220 | On Site | May 08 |
 | **[Cresset](https://cressetcapital.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69febc11d0dc596b8d119dfe?utm_campaign=1066&utm_source=git)** | Chicago Office - Chicago, IL 60606 | On Site | May 08 |
-| **[MedEvolve, LLC](http://medevolve.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69febb9415859e57591cf444?utm_campaign=1066&utm_source=git)** | Remote- US - Little Rock, AR 722017220 | Remote | May 08 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/69feba90373fc1347f2d0845?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Commercial Intelligence Intern](https://jobright.ai/jobs/info/69feb80815859e57591cf2cd?utm_campaign=1066&utm_source=git)** | Janesville, WI, US | On Site | May 08 |
 | **[New York City Police Department](http://www.nyc.gov/nypd)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/69b01b3bdfaeda6ff599695c?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | May 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - Data Science](https://jobright.ai/jobs/info/69c4bc2033eecf3107952661?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | On Site | May 07 |
 | **[Bailey](https://www.baileycompany.com)** | **[Data Analyst  - Paid Summer Internship](https://jobright.ai/jobs/info/69fcc25f938a651755f96664?utm_campaign=1066&utm_source=git)** | Nashville,TN,US | On Site | May 07 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern - Paid](https://jobright.ai/jobs/info/69e0d2e96c20aa114953dc66?utm_campaign=1066&utm_source=git)** | United States | On Site | May 07 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69fc83a0432a3c4da8dfd155?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
