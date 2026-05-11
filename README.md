@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a02598f3053db70a1177653?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a024a173053db70a1176834?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Hybrid | May 11 |
 | ↳ | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a0249cbdf52f1450d84972b?utm_campaign=1066&utm_source=git)** | US-VA-Reston | Hybrid | May 11 |
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0249b3df52f1450d8496f0?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | May 11 |
@@ -70,12 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Qlarant](https://www.qlarant.com/)** | **[Summer 2026 Intern - Data Analytics](https://jobright.ai/jobs/info/6a0223963053db70a1174a98?utm_campaign=1066&utm_source=git)** | CA Home Based, Remote, CA, US | Remote | May 11 |
 | **[Centennial Advisers](https://centennialadvisers.com)** | **[Data Analysis Internship](https://jobright.ai/jobs/info/6a021eae238f143e83530866?utm_campaign=1066&utm_source=git)** | Long Beach, CA | On Site | May 11 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a021d4ec4b08448a0b22cfc?utm_campaign=1066&utm_source=git)** | 1 Continental Dr, Auburn Hills, MI 48326, USA | On Site | May 11 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | May 11 |
 | **[Wesley Housing](https://wesleyhousing.org/)** | **[Summer Intern - Affordable Housing Asset Management & Data Analytics](https://jobright.ai/jobs/info/6a020b503053db70a11741c2?utm_campaign=1066&utm_source=git)** | Alexandria,VA,US | Hybrid | May 11 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Consumer Insights Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a020abcc2ffb31f453695e5?utm_campaign=1066&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[Platform Intelligence Intern](https://jobright.ai/jobs/info/6a0207b4c4b08448a0b2249c?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | May 11 |
 | **[US Med-Equip](http://usmedequip.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020722238f143e8352fe96?utm_campaign=1066&utm_source=git)** | TX USME Services Center  - Houston , TX 77041 | On Site | May 11 |
-| **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
-| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
+| **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
+| ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015d15a0eddc08c239f3cc?utm_campaign=1066&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Econ Intern, SP Support Science](https://jobright.ai/jobs/info/69fe273e4b9bbf21744ae92d?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | May 08 |
 | **[NEI Electric Power Engineering, Inc.](https://www.neiengineering.com/)** | **[Business Intelligence & Data Engineering Intern](https://jobright.ai/jobs/info/69fe135ead691a11f34eba45?utm_campaign=1066&utm_source=git)** | Colorado - Lakewood, CO 80215 | Hybrid | May 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69d0c815891d7b11cfcdf910?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | May 08 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | May 08 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 08 |
 | **[Whataburger](http://www.whataburger.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69fe0c22f363bc4dc339b311?utm_campaign=1066&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903, US | Hybrid | May 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69d07b49cfdc6132f943bc01?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Economist Intern, Stores Ads Science](https://jobright.ai/jobs/info/69fcf7d1666f063d3d6d241e?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | May 07 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/69fcf654666f063d3d6d22b8?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Research Intern- Confer](https://jobright.ai/jobs/info/69fcf513432a3c4da8e00763?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
-| ↳ | **[Data Quality Intern - Remote](https://jobright.ai/jobs/info/69fcda83666f063d3d6d1357?utm_campaign=1066&utm_source=git)** | United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
