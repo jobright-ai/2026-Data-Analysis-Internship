@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a038f2c22395b6dc6d95f39?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
+| **[Northeast Arc](https://ne-arc.org/)** | **[Intern - GIS Research Assistant](https://jobright.ai/jobs/info/6a038ecdf3d6cc51d6377e8a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 12 |
+| **[IGT](http://www.probability.co.uk)** | **[Payments Data & Analytics Intern - Rhode Island](https://jobright.ai/jobs/info/6a0386f48ecfd93cd9c0f272?utm_campaign=1066&utm_source=git)** | Providence, RI, US, 02903 | On Site | May 12 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a03849f22395b6dc6d95542?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6fb851b5ad02887388f45?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[SOTI](http://www.soti.net/)** | **[Data Scientist  Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a037eb2ed6a637463f507dd?utm_campaign=1066&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 12 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[VBD Surveillance Data Analysis Intern](https://jobright.ai/jobs/info/6a037eab22395b6dc6d94edd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | May 12 |
@@ -130,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
-| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
-| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 10 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015d15a0eddc08c239f3cc?utm_campaign=1066&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
 | ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015cf43053db70a1170555?utm_campaign=1066&utm_source=git)** | Lévis, CA | Hybrid | May 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Summer Undergrad Data Science Intern](https://jobright.ai/jobs/info/6a02c29022395b6dc6d8dfd9?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 09 |
 | **[Earth Genome](https://www.earthgenome.org)** | **[Summer Intern – Data Science / Earth Index Core Technology](https://jobright.ai/jobs/info/69ff072ea0eddc08c23973c9?utm_campaign=1066&utm_source=git)** | United States | Remote | May 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 09 |
-| **[Amazon Science](https://www.amazon.science)** | **[Economist Intern, Stores Ads Science](https://jobright.ai/jobs/info/6a02c6f7ed6a637463f49370?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 09 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a02b8527c753c287f6dfe5a?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/69fef50dc4b08448a0b1649a?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, US | On Site | May 09 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cf62b48c683879451f?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
