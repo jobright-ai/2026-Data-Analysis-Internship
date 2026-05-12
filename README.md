@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[US Med-Equip](http://usmedequip.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020722238f143e8352fe96?utm_campaign=1066&utm_source=git)** | TX USME Services Center  - Houston , TX 77041 | On Site | May 11 |
 | **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
 | ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a02e38abc4184089f22d095?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | May 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Research Intern - Post-Training](https://jobright.ai/jobs/info/6a009d55fa1aa73213d9062b?utm_campaign=1066&utm_source=git)** | Redmond, WA, US | Hybrid | May 08 |
 | ↳ | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69fdf25aad691a11f34eaf19?utm_campaign=1066&utm_source=git)** | San Diego, CA, US | On Site | May 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Junior Report Writer Intern - Summer 2026](https://jobright.ai/jobs/info/69d0c7bc54f00230c6d1647b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | May 08 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Transversal Change Analyst – Graduate](https://jobright.ai/jobs/info/69a986e7f6c22f2e3686759e?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
