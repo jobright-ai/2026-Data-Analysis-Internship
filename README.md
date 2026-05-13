@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[US Med-Equip](http://usmedequip.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020722238f143e8352fe96?utm_campaign=1066&utm_source=git)** | TX USME Services Center  - Houston , TX 77041 | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03048ced6a637463f4b828?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02f7716c07461fe16fef35?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02ff4322395b6dc6d8fad0?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03035dbc4184089f22e092?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02ff4322395b6dc6d8fad0?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
