@@ -146,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
-| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
-| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 10 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015d15a0eddc08c239f3cc?utm_campaign=1066&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
 | ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015cf43053db70a1170555?utm_campaign=1066&utm_source=git)** | Lévis, CA | Hybrid | May 10 |
