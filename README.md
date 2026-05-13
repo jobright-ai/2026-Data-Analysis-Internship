@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Fixed Income Research and Data Analysis Intern Job ID : 277505](https://jobright.ai/jobs/info/6a04f43ef3d6cc51d6384a59?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 13 |
 | **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a04e1ddf3d6cc51d638414d?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | May 13 |
+| **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04f461f3d6cc51d6384b17?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 13 |
+| **[Ratehub.ca](http://www.ratehub.ca)** | **[Analytics Engineer Intern - 8 month contract](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 13 |
 | **[Valley View](http://www.vvh.org/)** | **[Student Clinical Data Intern](https://jobright.ai/jobs/info/6a04d32bf3d6cc51d6383a6a?utm_campaign=1066&utm_source=git)** | Glenwood Springs, CO | On Site | May 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a04d309f3d6cc51d63839d6?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd15f3d6cc51d6382e71?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0249b3df52f1450d8496f0?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | May 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Reporting & Analytics)](https://jobright.ai/jobs/info/6a024324c2ffb31f4536bad4?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | May 11 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0242f9238f143e83532764?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | May 11 |
-| **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a030bd8bc4184089f22e5d0?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 11 |
-| **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 11 |
-| **[Zoox](https://www.zoox.com/)** | **[Platform Intelligence Intern](https://jobright.ai/jobs/info/6a030c2dbc4184089f22e7ee?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
