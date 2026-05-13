@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phibro Animal Health](http://www.pahc.com/)** | **[Planning and Forecasting Intern](https://jobright.ai/jobs/info/69e7fe5d7820c036924d974d?utm_campaign=1066&utm_source=git)** | Teaneck, NJ | On Site | May 13 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e81943f8fa2f3ec32ab7b6?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | May 13 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 13 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0424d17c753c287f6ed5ba?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services – Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/6a04203a7c753c287f6ed39b?utm_campaign=1066&utm_source=git)** | Clifton, NJ | On Site | May 12 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03db96f811a04369605ffc?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/6a03d54ff3d6cc51d637a078?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a03d1997c753c287f6ea8b4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
+| **[The Dorm](https://thedorm.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a04940a7c753c287f6f142b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Sault Area Hospital](http://www.sah.on.ca)** | **[Research Intern – Research Office – Temporary Full Time](https://jobright.ai/jobs/info/6a03c67c6c07461fe1707507?utm_campaign=1066&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | May 12 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Spring 2027)](https://jobright.ai/jobs/info/6a03c5fd7c753c287f6ea3e4?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c44122395b6dc6d97ca0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[US Med-Equip](http://usmedequip.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020722238f143e8352fe96?utm_campaign=1066&utm_source=git)** | TX USME Services Center  - Houston , TX 77041 | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03048ced6a637463f4b828?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02f7716c07461fe16fef35?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02ff4322395b6dc6d8fad0?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
-| ↳ | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03035dbc4184089f22e092?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
