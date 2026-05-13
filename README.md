@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Danfoss](https://www.danfoss.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6a03ffcf22395b6dc6d99887?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | May 12 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services – Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/6a03f8c6bc4184089f236ff1?utm_campaign=1066&utm_source=git)** | Clifton, New Jersey, US | On Site | May 12 |
 | **[Trata (YC W25)](https://www.trytrata.com/)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03dec4f811a043696060f4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03db96f811a04369605ffc?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/6a03d54ff3d6cc51d637a078?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[Platform Intelligence Intern](https://jobright.ai/jobs/info/6a030c2dbc4184089f22e7ee?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | May 11 |
 | **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a030935ed6a637463f4bb68?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a02ff09bc4184089f22db69?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205, US | On Site | May 11 |
-| ↳ | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a02ff096c07461fe16ff24c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a02ff096c07461fe16ff24c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
+| ↳ | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a02ff09bc4184089f22db69?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205, US | On Site | May 11 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6a022571238f143e83530cbd?utm_campaign=1066&utm_source=git)** | San Jose, US | Hybrid | May 11 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Data and Business Intelligence Analyst, Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a02251bc2ffb31f45369fab?utm_campaign=1066&utm_source=git)** | Toronto, CA | Hybrid | May 11 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Consumer Insights Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a030a756c07461fe16ffbdf?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[US Med-Equip](http://usmedequip.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020722238f143e8352fe96?utm_campaign=1066&utm_source=git)** | TX USME Services Center  - Houston , TX 77041 | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03048ced6a637463f4b828?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02f7716c07461fe16fef35?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03035dbc4184089f22e092?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02ff4322395b6dc6d8fad0?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 11 |
+| ↳ | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a03035dbc4184089f22e092?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | **[UHIN](https://uhin.org/)** | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fcc231432a3c4da8dfed21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 11 |
 | ↳ | **[Intern CHIE (Clinical Health Information Exchange)](https://jobright.ai/jobs/info/69fc342d4ab6391714fd4217?utm_campaign=1066&utm_source=git)** | United States | On Site | May 11 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a02e38abc4184089f22d095?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | May 11 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015d15a0eddc08c239f3cc?utm_campaign=1066&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
 | ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015cf43053db70a1170555?utm_campaign=1066&utm_source=git)** | Lévis, CA | Hybrid | May 10 |
 | **[University of Utah](http://utah.edu)** | **[Summer Undergrad Data Science Intern](https://jobright.ai/jobs/info/6a02d0b6ed6a637463f4a182?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 10 |
-| **[Super.com](https://www.super.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020693c4b08448a0b223e9?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 10 |
-| ↳ | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a020868df52f1450d846ee8?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Data Analytics Intern, Risk & Fraud](https://jobright.ai/jobs/info/6a020868df52f1450d846ee8?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 10 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a020693c4b08448a0b223e9?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 10 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 10 |
-| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Data-Driven Estimation and Control for Spatiotemporal Dynamics](https://jobright.ai/jobs/info/6a02cebced6a637463f49e4c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 10 |
-| **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/69abe29b2747003c3d51c8b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
