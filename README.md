@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03db96f811a04369605ffc?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/6a03d54ff3d6cc51d637a078?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a03d1997c753c287f6ea8b4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
+| **[Washington Commanders](http://www.commanders.com/)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/6a04e1767c753c287f6f44e2?utm_campaign=1066&utm_source=git)** | College Park, MD | On Site | May 12 |
 | **[The Dorm](https://thedorm.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a04940a7c753c287f6f142b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Sault Area Hospital](http://www.sah.on.ca)** | **[Research Intern – Research Office – Temporary Full Time](https://jobright.ai/jobs/info/6a03c67c6c07461fe1707507?utm_campaign=1066&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | May 12 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Spring 2027)](https://jobright.ai/jobs/info/6a03c5fd7c753c287f6ea3e4?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[Platform Intelligence Intern](https://jobright.ai/jobs/info/6a030c2dbc4184089f22e7ee?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | May 11 |
 | **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a030935ed6a637463f4bb68?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a02ff096c07461fe16ff24c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
