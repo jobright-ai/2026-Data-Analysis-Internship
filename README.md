@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03a8d98ecfd93cd9c109aa?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a03b5c9f3d6cc51d63794d9?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | May 12 |
+| **[IGT](http://www.probability.co.uk)** | **[Payments Data & Analytics Intern - Rhode Island](https://jobright.ai/jobs/info/6a03b5218ecfd93cd9c11177?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | May 12 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03b063f3d6cc51d63791f5?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
+| **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a03b0618ecfd93cd9c10ef6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 12 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cd22395b6dc6d9649d?utm_campaign=1066&utm_source=git)** | US-GA-Norcross | On Site | May 12 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cb22395b6dc6d96496?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 12 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a038f2c22395b6dc6d95f39?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
@@ -137,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - ACE Business Insights](https://jobright.ai/jobs/info/6a019695fa1aa73213d93a9b?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69ab6899142d5b4265fca1ba?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69b412013b74eb1e2c811c70?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 11 |
-| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
-| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | May 10 |
+| ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d57ef3d6cc51d63710c0?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | May 10 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/69eb4c034b0fa35a7077a684?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 10 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015d15a0eddc08c239f3cc?utm_campaign=1066&utm_source=git)** | Montréal, CA | Hybrid | May 10 |
 | ↳ | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a015cf43053db70a1170555?utm_campaign=1066&utm_source=git)** | Lévis, CA | Hybrid | May 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/69f6207e582f810f9c8c86d7?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | May 09 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69e67c2be0cd471b2f125ecb?utm_campaign=1066&utm_source=git)** | United States | Remote | May 09 |
 | **[Samba TV](http://www.samba.tv)** | **[Measurement Science Intern](https://jobright.ai/jobs/info/69c72b6fe565c26a70026b44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 09 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/69e2c666fcfcbd43860a4709?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | May 09 |
-| **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffdd?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 09 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9d4951f59c56275e286e8?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
