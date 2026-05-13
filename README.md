@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a04e1ddf3d6cc51d638414d?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | May 13 |
 | **[Valley View](http://www.vvh.org/)** | **[Student Clinical Data Intern](https://jobright.ai/jobs/info/6a04d32bf3d6cc51d6383a6a?utm_campaign=1066&utm_source=git)** | Glenwood Springs, CO | On Site | May 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a04d309f3d6cc51d63839d6?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd15f3d6cc51d6382e71?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a030bd8bc4184089f22e5d0?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 11 |
 | **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern, Data & AI Enablement (Fall/September 2025, 8+ Months)](https://jobright.ai/jobs/info/69f8afebdb88714bcdfbb1ed?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[Platform Intelligence Intern](https://jobright.ai/jobs/info/6a030c2dbc4184089f22e7ee?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | May 11 |
-| **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a030935ed6a637463f4bb68?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
