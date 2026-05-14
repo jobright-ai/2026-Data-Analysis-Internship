@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a0555ecf3d6cc51d638877b?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 13 |
+| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a0555ebf3d6cc51d6388779?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 13 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555866c07461fe1715b2e?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 13 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 13 |
 | **[Bosch](http://www.bosch.com)** | **[Supply Chain Data & Analytics Intern (Power BI / SQL / Python)](https://jobright.ai/jobs/info/6a05425ebc4184089f24421c?utm_campaign=1066&utm_source=git)** | 15000 N Haggerty Rd, Plymouth, MI 48170, USA | Hybrid | May 13 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a053a4cfbf3d169d3c5d6b9?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - Enterprise BI & Integration, Remote](https://jobright.ai/jobs/info/6a0413797c753c287f6ec10f?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Remote | May 11 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6a04148e6c07461fe170999c?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Reporting & Analytics)](https://jobright.ai/jobs/info/6a04106ef3d6cc51d637bf6e?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 11 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a0280ba238f143e83534570?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | May 11 |
-| ↳ | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a028078fa1aa73213d9a7aa?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 11 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/69f135cb62b48c6838794504?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
