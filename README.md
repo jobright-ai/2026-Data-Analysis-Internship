@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06166b6c07461fe171c316?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
+| **[Elara Caring](https://www.elara.com)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/6a0626857c753c287f6ffbd9?utm_campaign=1066&utm_source=git)** | Dallas, Texas, 75234 | On Site | May 14 |
+| **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[CMC Statistician Intern](https://jobright.ai/jobs/info/6a06242cf3d6cc51d638ff55?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 14 |
+| **[Peachtree Group](https://www.peachtreegroup.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a062065a88ea73abf7f7884?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | May 14 |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06177f7c753c287f6ff10b?utm_campaign=1066&utm_source=git)** | Frisco, TX | On Site | May 14 |
+| ↳ | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06166b6c07461fe171c316?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[CMC Statistician Intern](https://jobright.ai/jobs/info/6a0612d4a88ea73abf7f6e1f?utm_campaign=1066&utm_source=git)** | Cambridge, Ma | On Site | May 14 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[SPL Intern](https://jobright.ai/jobs/info/6a061145f3d6cc51d638e6a6?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | May 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Assessment Intern](https://jobright.ai/jobs/info/6a061098320bff2205ea76e6?utm_campaign=1066&utm_source=git)** | Michigan Language Assessment office, Ann Arbor, MI | Hybrid | May 14 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8227c753c287f6fb829?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8217c753c287f6fb828?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 14 |
-| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Dorm](https://thedorm.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a04940a7c753c287f6f142b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Sault Area Hospital](http://www.sah.on.ca)** | **[Research Intern – Research Office – Temporary Full Time](https://jobright.ai/jobs/info/6a03c67c6c07461fe1707507?utm_campaign=1066&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | May 12 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Spring 2027)](https://jobright.ai/jobs/info/6a03c5fd7c753c287f6ea3e4?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | May 12 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c44122395b6dc6d97ca0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
-| ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
-| **[University of Florida](https://www.ufl.edu)** | **[STAS Evaluation Intern](https://jobright.ai/jobs/info/6a050d947c753c287f6f637c?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | May 12 |
-| **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04ae796c07461fe170fb67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
