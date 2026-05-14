@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Fall 2026](https://jobright.ai/jobs/info/6a052d1ebc4184089f24346a?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 13 |
+| ↳ | **[Middle East Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a052ce4f3d6cc51d6387191?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 13 |
+| **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Woodland Hills, CA](https://jobright.ai/jobs/info/6a052b477c753c287f6f72a0?utm_campaign=1066&utm_source=git)** | US - CA - WdlndHills-6301 | Hybrid | May 13 |
+| ↳ | **[Data Science Intern- Woodland Hills, CA](https://jobright.ai/jobs/info/6a052b467c753c287f6f729f?utm_campaign=1066&utm_source=git)** | US - CA - Woodland Hills | Hybrid | May 13 |
+| ↳ | **[Data Science Intern- Woodland Hills, CA](https://jobright.ai/jobs/info/6a052b447c753c287f6f729e?utm_campaign=1066&utm_source=git)** | US - CA - WdlndHills-6303 | Hybrid | May 13 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/6a05285a6c07461fe171445c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a052417f3d6cc51d6387023?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | May 13 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a051009f3d6cc51d638634e?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Data and Business Intelligence Analyst, Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a04137a7c753c287f6ec112?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a04140e7c753c287f6ec32e?utm_campaign=1066&utm_source=git)** | Twin Cities Area | On Site | May 11 |
 | ↳ | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a0413e7bc4184089f237daa?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | May 11 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate IT Internship - Data Analyst (NC)](https://jobright.ai/jobs/info/6a02660fdf52f1450d84a973?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | Hybrid | May 11 |
-| ↳ | **[College to Corporate IT Internship - Data Analysis (PA)](https://jobright.ai/jobs/info/6a02660dc4b08448a0b261e7?utm_campaign=1066&utm_source=git)** | Malvern, PA, US | Hybrid | May 11 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025e7ec4b08448a0b26005?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
-| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Research Intern, CCSE](https://jobright.ai/jobs/info/6a0311b46c07461fe170065b?utm_campaign=1066&utm_source=git)** | Kennesaw, GA | On Site | May 11 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0312f3ed6a637463f4c820?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
