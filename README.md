@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bosch](http://www.bosch.com)** | **[Supply Chain Data & Analytics Intern (Power BI / SQL / Python)](https://jobright.ai/jobs/info/6a05425ebc4184089f24421c?utm_campaign=1066&utm_source=git)** | 15000 N Haggerty Rd, Plymouth, MI 48170, USA | Hybrid | May 13 |
+| **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a053a4cfbf3d169d3c5d6b9?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Fall 2026](https://jobright.ai/jobs/info/6a052d1ebc4184089f24346a?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 13 |
 | ↳ | **[Middle East Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a052ce4f3d6cc51d6387191?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 13 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Woodland Hills, CA](https://jobright.ai/jobs/info/6a052b477c753c287f6f72a0?utm_campaign=1066&utm_source=git)** | US - CA - WdlndHills-6301 | Hybrid | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a028078fa1aa73213d9a7aa?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/69f135cb62b48c6838794504?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 11 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Data and Business Intelligence Analyst, Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a04137a7c753c287f6ec112?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a04140e7c753c287f6ec32e?utm_campaign=1066&utm_source=git)** | Twin Cities Area | On Site | May 11 |
-| ↳ | **[AI Data Scientist Intern](https://jobright.ai/jobs/info/6a0413e7bc4184089f237daa?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
