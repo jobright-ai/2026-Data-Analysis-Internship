@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/6a0516e8f3d6cc51d63867cb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/6a05285a6c07461fe171445c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a052417f3d6cc51d6387023?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | May 13 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a051009f3d6cc51d638634e?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Korean Peninsula Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a05075e4373b07358a39795?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | ↳ | **[Russia & Ukraine Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a050751f3d6cc51d6385fdd?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a025e7ec4b08448a0b26005?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Research Intern, CCSE](https://jobright.ai/jobs/info/6a0311b46c07461fe170065b?utm_campaign=1066&utm_source=git)** | Kennesaw, GA | On Site | May 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0312f3ed6a637463f4c820?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | May 11 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6a041387f811a0436960755e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
