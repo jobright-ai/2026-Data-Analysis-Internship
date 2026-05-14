@@ -109,8 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Ratehub.ca](http://www.ratehub.ca)** | **[Analytics Engineer Intern - 8 month contract](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 13 |
 | **[Valley View](http://www.vvh.org/)** | **[Student Clinical Data Intern](https://jobright.ai/jobs/info/6a04d32bf3d6cc51d6383a6a?utm_campaign=1066&utm_source=git)** | Glenwood Springs, CO | On Site | May 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a04d309f3d6cc51d63839d6?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
-| **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd15f3d6cc51d6382e71?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
-| ↳ | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd11f3d6cc51d6382e6f?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | May 13 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | May 13 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | May 13 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e848bf7820c036924db9d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037ddbed6a637463f50683?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 12 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d947c753c287f6e76a8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d8d22395b6dc6d94e7c?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 12 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d69f3d6cc51d63770e6?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a036f876c07461fe1703c55?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
