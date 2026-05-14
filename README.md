@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fapon](http://www.faponbiotech.com/)** | **[Bioinformatics Summer Intern](https://jobright.ai/jobs/info/6a059077f3d6cc51d6389e3d?utm_campaign=1066&utm_source=git)** | Pleasanton, CA, USA | On Site | May 14 |
+| **[US Claro](https://www.usclaro.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a058f46bc4184089f245f9a?utm_campaign=1066&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 14 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a058f45bc4184089f245f99?utm_campaign=1066&utm_source=git)** | US-FL- | Remote | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a058ba9f3d6cc51d6389c5b?utm_campaign=1066&utm_source=git)** | San Jose | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Risk Analytics Solutions Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a0577837c753c287f6f981d?utm_campaign=1066&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[Silicon Valley Clean Energy](https://www.svcleanenergy.org/)** | **[Demand Flexibility Analytics Intern](https://jobright.ai/jobs/info/6a056f31bc4184089f245272?utm_campaign=1066&utm_source=git)** | Sunnyvale,CA,US | Hybrid | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/69e6a4e23aa0c479643955e4?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | May 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0329a3f3d6cc51d6373c0c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/6a032dfe6c07461fe1701391?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | May 11 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a04110bf3d6cc51d637c214?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | May 11 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a04199b6c07461fe1709fce?utm_campaign=1066&utm_source=git)** | United States | Remote | May 11 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a032a79ed6a637463f4d0d4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
