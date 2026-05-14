@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/6a062f96f3d6cc51d639083c?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 14 |
+| **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/6a062e917c753c287f70021c?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | May 14 |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/6a062e136c07461fe171d392?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 14 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a0628236c07461fe171cece?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[Elara Caring](https://www.elara.com)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/6a0626857c753c287f6ffbd9?utm_campaign=1066&utm_source=git)** | Dallas, Texas, 75234 | On Site | May 14 |
 | **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[CMC Statistician Intern](https://jobright.ai/jobs/info/6a06242cf3d6cc51d638ff55?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 14 |
 | **[Peachtree Group](https://www.peachtreegroup.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a062065a88ea73abf7f7884?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | May 14 |
@@ -73,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/6a060ac97c753c287f6fe52e?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | May 14 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT/Business Intelligence Intern](https://jobright.ai/jobs/info/6a0607baa88ea73abf7f6515?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | May 14 |
 | **[Community Impact](https://communityimpact.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6a0601b76c07461fe171b3f7?utm_campaign=1066&utm_source=git)** | Pflugerville,TX,US | Hybrid | May 14 |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06287ef3d6cc51d6390156?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[SPL Intern](https://jobright.ai/jobs/info/6a05f788320bff2205ea67ea?utm_campaign=1066&utm_source=git)** | 9130 S. Dadeland Blvd, Miami, FL, 33156, US | On Site | May 14 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Data Governance Intern](https://jobright.ai/jobs/info/69e96b2ce0cd471b2f13d447?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 14 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8227c753c287f6fb829?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8217c753c287f6fb828?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 14 |
-| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trata (YC W25)](https://www.trytrata.com/)** | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03dec4f811a043696060f4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
 | ↳ | **[Research Scientist Intern](https://jobright.ai/jobs/info/6a03db96f811a04369605ffc?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/6a03d54ff3d6cc51d637a078?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a03d1997c753c287f6ea8b4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[Washington Commanders](http://www.commanders.com/)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/6a04e1767c753c287f6f44e2?utm_campaign=1066&utm_source=git)** | College Park, MD | On Site | May 12 |
-| **[The Dorm](https://thedorm.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a04940a7c753c287f6f142b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
-| **[Sault Area Hospital](http://www.sah.on.ca)** | **[Research Intern – Research Office – Temporary Full Time](https://jobright.ai/jobs/info/6a03c67c6c07461fe1707507?utm_campaign=1066&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | May 12 |
-| **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Spring 2027)](https://jobright.ai/jobs/info/6a03c5fd7c753c287f6ea3e4?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
