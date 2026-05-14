@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
-| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
+| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c3f3d6cc51d638a180?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Fapon](http://www.faponbiotech.com/)** | **[Bioinformatics Summer Intern](https://jobright.ai/jobs/info/6a059077f3d6cc51d6389e3d?utm_campaign=1066&utm_source=git)** | Pleasanton, CA, USA | On Site | May 14 |
 | **[US Claro](https://www.usclaro.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a058f46bc4184089f245f9a?utm_campaign=1066&utm_source=git)** | UNAVAILABLE, FL, US | Remote | May 14 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Russia & Ukraine Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a050751f3d6cc51d6385fdd?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | ↳ | **[Middle East Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a0507506c07461fe1713381?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | ↳ | **[Geospatial Intelligence and National Security Technologies Internship Fall 2026](https://jobright.ai/jobs/info/6a050746bc4184089f242291?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Fixed Income Research and Data Analysis Intern Job ID : 277505](https://jobright.ai/jobs/info/6a04f43ef3d6cc51d6384a59?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 13 |
 | **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a04e1ddf3d6cc51d638414d?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | May 13 |
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04f461f3d6cc51d6384b17?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | **[Ratehub.ca](http://www.ratehub.ca)** | **[Analytics Engineer Intern - 8 month contract](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Intern](https://jobright.ai/jobs/info/69e67c653cfd986aa6f86057?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 12 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Bioinformatics Intern, Prenatal](https://jobright.ai/jobs/info/69e6d5953aa0c4796439615a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | May 12 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/6a0318e2ed6a637463f4c8ae?utm_campaign=1066&utm_source=git)** | United States | Remote | May 12 |
+| **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/69e6a4e23aa0c479643955e4?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
