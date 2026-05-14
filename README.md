@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
+| ↳ | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8e7a90a6e09555303735d?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8227c753c287f6fb829?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8217c753c287f6fb828?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
 | ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c3f3d6cc51d638a180?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 14 |
@@ -138,10 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d947c753c287f6e76a8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | May 12 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d8d22395b6dc6d94e7c?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 12 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037d69f3d6cc51d63770e6?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 12 |
-| **[CME Group](http://www.cmegroup.com)** | **[Product Data Analytics Intern](https://jobright.ai/jobs/info/6a0378316c07461fe17044ad?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a036f876c07461fe1703c55?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[Quadric](https://quadric.ai)** | **[Data Science Intern - Model Optimization](https://jobright.ai/jobs/info/6a036e76ed6a637463f4f962?utm_campaign=1066&utm_source=git)** | Burlingame, CA | On Site | May 12 |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69e746fbe0cd471b2f12aad2?utm_campaign=1066&utm_source=git)** | Newton, MA | Hybrid | May 12 |
 | **[Nexus Energy Inc.](https://www.nexusenergycanada.com)** | **[Junior Data Analyst Intern](https://jobright.ai/jobs/info/69dd521861f6ed54321fc703?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Quadric](https://quadric.ai)** | **[Data Science Intern - Model Optimization](https://jobright.ai/jobs/info/6a03608bf3d6cc51d637611a?utm_campaign=1066&utm_source=git)** | Burlingame, California, United States | On Site | May 12 |
 | **[Imperial PFS](https://www.ipfs.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a035c096c07461fe1703451?utm_campaign=1066&utm_source=git)** | Edwardsville, IL | On Site | May 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milacron](https://www.milacron.com)** | **[Information Technology (Data and AI) Intern](https://jobright.ai/jobs/info/69e6cf6ee0cd471b2f1278a3?utm_campaign=1066&utm_source=git)** | Batavia, OH | On Site | May 12 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Clinical Data Science Electrophysiology - Biostatistics Intern](https://jobright.ai/jobs/info/6a034a1c22395b6dc6d930b3?utm_campaign=1066&utm_source=git)** | Irvine, California, United States of America | Hybrid | May 12 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Amazon Analytics Intern](https://jobright.ai/jobs/info/69e691b97820c036924d12d9?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | May 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Scientist Intern (4 Months)](https://jobright.ai/jobs/info/69e681d27820c036924d0e6c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
-| **[Digital Realty](http://www.digitalrealty.com)** | **[Intern](https://jobright.ai/jobs/info/69e67c653cfd986aa6f86057?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 12 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Bioinformatics Intern, Prenatal](https://jobright.ai/jobs/info/69e6d5953aa0c4796439615a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | May 12 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/6a0318e2ed6a637463f4c8ae?utm_campaign=1066&utm_source=git)** | United States | Remote | May 12 |
-| **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/69e6a4e23aa0c479643955e4?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
