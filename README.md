@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 13 |
 | **[Bosch](http://www.bosch.com)** | **[Supply Chain Data & Analytics Intern (Power BI / SQL / Python)](https://jobright.ai/jobs/info/6a05425ebc4184089f24421c?utm_campaign=1066&utm_source=git)** | 15000 N Haggerty Rd, Plymouth, MI 48170, USA | Hybrid | May 13 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a053a4cfbf3d169d3c5d6b9?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Fall 2026](https://jobright.ai/jobs/info/6a052d1ebc4184089f24346a?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 13 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[STAS Evaluation Intern](https://jobright.ai/jobs/info/6a050d947c753c287f6f637c?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | May 12 |
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04ae796c07461fe170fb67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a03b5c9f3d6cc51d63794d9?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | May 12 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03b063f3d6cc51d63791f5?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a03b0618ecfd93cd9c10ef6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 12 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03a82022395b6dc6d96d9b?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cd22395b6dc6d9649d?utm_campaign=1066&utm_source=git)** | US-GA-Norcross | On Site | May 12 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cb22395b6dc6d96496?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 12 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a038f2c22395b6dc6d95f39?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a0280ba238f143e83534570?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | May 11 |
 | ↳ | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a028078fa1aa73213d9a7aa?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/69f135cb62b48c6838794504?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 11 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Data and Business Intelligence Analyst, Intern (Fall 2026, 12 months)](https://jobright.ai/jobs/info/6a04137a7c753c287f6ec112?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
