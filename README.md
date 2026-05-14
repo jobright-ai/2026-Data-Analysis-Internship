@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Korean Peninsula Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a05075e4373b07358a39795?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
+| ↳ | **[Russia & Ukraine Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a050751f3d6cc51d6385fdd?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
+| ↳ | **[Middle East Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a0507506c07461fe1713381?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
+| ↳ | **[Geospatial Intelligence and National Security Technologies Internship Fall 2026](https://jobright.ai/jobs/info/6a050746bc4184089f242291?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Fixed Income Research and Data Analysis Intern Job ID : 277505](https://jobright.ai/jobs/info/6a04f43ef3d6cc51d6384a59?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | May 13 |
 | **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a04e1ddf3d6cc51d638414d?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | May 13 |
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04f461f3d6cc51d6384b17?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6a041387f811a0436960755e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a02598f3053db70a1177653?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a024a173053db70a1176834?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Hybrid | May 11 |
-| ↳ | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a0249cbdf52f1450d84972b?utm_campaign=1066&utm_source=git)** | US-VA-Reston | Hybrid | May 11 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0249b3df52f1450d8496f0?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | May 11 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Reporting & Analytics)](https://jobright.ai/jobs/info/6a024324c2ffb31f4536bad4?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | May 11 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0242f9238f143e83532764?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
