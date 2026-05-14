@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/6a0516e8f3d6cc51d63867cb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a051009f3d6cc51d638634e?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Korean Peninsula Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a05075e4373b07358a39795?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | ↳ | **[Russia & Ukraine Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a050751f3d6cc51d6385fdd?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 | ↳ | **[Middle East Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a0507506c07461fe1713381?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
@@ -67,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Ratehub.ca](http://www.ratehub.ca)** | **[Analytics Engineer Intern - 8 month contract](https://jobright.ai/jobs/info/6a04f96c6c07461fe17125f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 13 |
 | **[Valley View](http://www.vvh.org/)** | **[Student Clinical Data Intern](https://jobright.ai/jobs/info/6a04d32bf3d6cc51d6383a6a?utm_campaign=1066&utm_source=git)** | Glenwood Springs, CO | On Site | May 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a04d309f3d6cc51d63839d6?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
-| **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd15f3d6cc51d6382e71?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
-| ↳ | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd11f3d6cc51d6382e6f?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | May 13 |
+| **[OCHIN, Inc.](https://ochin.org)** | **[INTERN - DATA ANALYTICS](https://jobright.ai/jobs/info/6a04cd11f3d6cc51d6382e6f?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | May 13 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | May 13 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | May 13 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e848bf7820c036924db9d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Spring 2027)](https://jobright.ai/jobs/info/6a03c5fd7c753c287f6ea3e4?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c44122395b6dc6d97ca0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
+| **[University of Florida](https://www.ufl.edu)** | **[STAS Evaluation Intern](https://jobright.ai/jobs/info/6a050d947c753c287f6f637c?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | May 12 |
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04ae796c07461fe170fb67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a03b5c9f3d6cc51d63794d9?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | May 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03b063f3d6cc51d63791f5?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Research Intern, CCSE](https://jobright.ai/jobs/info/6a0311b46c07461fe170065b?utm_campaign=1066&utm_source=git)** | Kennesaw, GA | On Site | May 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Grad Degree Intern (GIH Research - Data Science)](https://jobright.ai/jobs/info/6a0312f3ed6a637463f4c820?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | May 11 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6a041387f811a0436960755e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a02598f3053db70a1177653?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | May 11 |
-| **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a024a173053db70a1176834?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
