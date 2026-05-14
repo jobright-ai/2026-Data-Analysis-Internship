@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04ae796c07461fe170fb67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a03b5c9f3d6cc51d63794d9?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | May 12 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a03b0618ecfd93cd9c10ef6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 12 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/6a03a82022395b6dc6d96d9b?utm_campaign=1066&utm_source=git)** | Sterling, VA | On Site | May 12 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cd22395b6dc6d9649d?utm_campaign=1066&utm_source=git)** | US-GA-Norcross | On Site | May 12 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cb22395b6dc6d96496?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 12 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a038f2c22395b6dc6d95f39?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - Enterprise BI & Integration, Remote](https://jobright.ai/jobs/info/6a0413797c753c287f6ec10f?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Remote | May 11 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6a04148e6c07461fe170999c?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | May 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Reporting & Analytics)](https://jobright.ai/jobs/info/6a04106ef3d6cc51d637bf6e?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 11 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a0280ba238f143e83534570?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
