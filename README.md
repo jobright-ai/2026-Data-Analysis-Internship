@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06166b6c07461fe171c316?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
+| **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[CMC Statistician Intern](https://jobright.ai/jobs/info/6a0612d4a88ea73abf7f6e1f?utm_campaign=1066&utm_source=git)** | Cambridge, Ma | On Site | May 14 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[SPL Intern](https://jobright.ai/jobs/info/6a061145f3d6cc51d638e6a6?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | May 14 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Assessment Intern](https://jobright.ai/jobs/info/6a061098320bff2205ea76e6?utm_campaign=1066&utm_source=git)** | Michigan Language Assessment office, Ann Arbor, MI | Hybrid | May 14 |
+| ↳ | **[Assessment Intern](https://jobright.ai/jobs/info/6a06108e320bff2205ea76e0?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | May 14 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a060c32bc4184089f24a4b4?utm_campaign=1066&utm_source=git)** | Newton, MA | Hybrid | May 14 |
+| **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/6a060c06a88ea73abf7f67d4?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
+| **[Tencent](https://www.tencent.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a060bac7c753c287f6fe619?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | May 14 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a060ace7c753c287f6fe54d?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | May 14 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern - Engineering (Business Intelligence)](https://jobright.ai/jobs/info/6a060ac97c753c287f6fe52e?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | May 14 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT/Business Intelligence Intern](https://jobright.ai/jobs/info/6a0607baa88ea73abf7f6515?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | May 14 |
-| **[Zolve](https://zolve.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6a0607af7c753c287f6fe4b1?utm_campaign=1066&utm_source=git)** | Roseland, NJ | Remote | May 14 |
 | **[Community Impact](https://communityimpact.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6a0601b76c07461fe171b3f7?utm_campaign=1066&utm_source=git)** | Pflugerville,TX,US | Hybrid | May 14 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[SPL Intern](https://jobright.ai/jobs/info/6a05f788320bff2205ea67ea?utm_campaign=1066&utm_source=git)** | 9130 S. Dadeland Blvd, Miami, FL, 33156, US | On Site | May 14 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69e972747820c036924e81a4?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
@@ -84,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
-| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
+| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c3f3d6cc51d638a180?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Fapon](http://www.faponbiotech.com/)** | **[Bioinformatics Summer Intern](https://jobright.ai/jobs/info/6a059077f3d6cc51d6389e3d?utm_campaign=1066&utm_source=git)** | Pleasanton, CA, USA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a058ba9f3d6cc51d6389c5b?utm_campaign=1066&utm_source=git)** | San Jose | On Site | May 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
 | **[University of Florida](https://www.ufl.edu)** | **[STAS Evaluation Intern](https://jobright.ai/jobs/info/6a050d947c753c287f6f637c?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | May 12 |
 | **[Blumen](https://www.blumensystems.com)** | **[GIS & Permit Data Analyst Intern - Summer '26](https://jobright.ai/jobs/info/6a04ae796c07461fe170fb67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 12 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a03b5c9f3d6cc51d63794d9?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | May 12 |
-| **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a03b0618ecfd93cd9c10ef6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 12 |
-| **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cd22395b6dc6d9649d?utm_campaign=1066&utm_source=git)** | US-GA-Norcross | On Site | May 12 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0395cb22395b6dc6d96496?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 12 |
-| **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a038f2c22395b6dc6d95f39?utm_campaign=1066&utm_source=git)** | Las Vegas, NV, US | On Site | May 12 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a03849f22395b6dc6d95542?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 12 |
-| **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c6fb851b5ad02887388f45?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 12 |
-| **[SOTI](http://www.soti.net/)** | **[Data Scientist  Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a037eb2ed6a637463f507dd?utm_campaign=1066&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 12 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a037ddbed6a637463f50683?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
