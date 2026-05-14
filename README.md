@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BCI](https://www.bci.ca/)** | **[Risk Analytics Solutions Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a0577837c753c287f6f981d?utm_campaign=1066&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[Silicon Valley Clean Energy](https://www.svcleanenergy.org/)** | **[Demand Flexibility Analytics Intern](https://jobright.ai/jobs/info/6a056f31bc4184089f245272?utm_campaign=1066&utm_source=git)** | Sunnyvale,CA,US | Hybrid | May 13 |
 | **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a0555ecf3d6cc51d638877b?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 13 |
 | ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a0555ebf3d6cc51d6388779?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 13 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a0555866c07461fe1715b2e?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 13 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e7fe0c3aa0c4796439d137?utm_campaign=1066&utm_source=git)** | Utah, United States | Remote | May 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Fall 2026](https://jobright.ai/jobs/info/69f12d89825a315d7ca36581?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 13 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e770d57820c036924d65f7?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 13 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a057d556c07461fe17169f3?utm_campaign=1066&utm_source=git)** | Spokane, WA | On Site | May 13 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0424d17c753c287f6ed5ba?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | May 13 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services – Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/6a04203a7c753c287f6ed39b?utm_campaign=1066&utm_source=git)** | Clifton, NJ | On Site | May 12 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e7f811a043696080c9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a04199b6c07461fe1709fce?utm_campaign=1066&utm_source=git)** | United States | Remote | May 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Information Technology - HYBRID](https://jobright.ai/jobs/info/6a032a79ed6a637463f4d0d4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | May 11 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year Round - Enterprise BI & Integration, Remote](https://jobright.ai/jobs/info/6a0413797c753c287f6ec10f?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Remote | May 11 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6a04148e6c07461fe170999c?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | May 11 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Reporting & Analytics)](https://jobright.ai/jobs/info/6a04106ef3d6cc51d637bf6e?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 11 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a0280ba238f143e83534570?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
