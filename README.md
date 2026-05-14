@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8ecbae0cd471b2f138eb9?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8ecc73aa0c479643a5b1e?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
+| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a05d594bc4184089f247db6?utm_campaign=1066&utm_source=git)** | St. Louis, MO, US | Hybrid | May 14 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
-| ↳ | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8e7a90a6e09555303735d?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8227c753c287f6fb829?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8217c753c287f6fb828?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate Summer Intern – HPC Operational Analytics](https://jobright.ai/jobs/info/69e6a4f17820c036924d1b20?utm_campaign=1066&utm_source=git)** | Golden, CO | Remote | May 12 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0358576c07461fe17030bf?utm_campaign=1066&utm_source=git)** | Saint Louis, Missouri, United States | On Site | May 12 |
 | **[Milacron](https://www.milacron.com)** | **[Information Technology (Data and AI) Intern](https://jobright.ai/jobs/info/69e6cf6ee0cd471b2f1278a3?utm_campaign=1066&utm_source=git)** | Batavia, OH | On Site | May 12 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Clinical Data Science Electrophysiology - Biostatistics Intern](https://jobright.ai/jobs/info/6a034a1c22395b6dc6d930b3?utm_campaign=1066&utm_source=git)** | Irvine, California, United States of America | Hybrid | May 12 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Amazon Analytics Intern](https://jobright.ai/jobs/info/69e691b97820c036924d12d9?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
