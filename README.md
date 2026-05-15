@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mambo Seafood Restaurants](https://www.mamboseafood.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a076fd6a203b1052e43aa1c?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA | On Site | May 15 |
+| **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a076f9a3b54ed42d74cd6a0?utm_campaign=1066&utm_source=git)** | Sacramento,CA,US | On Site | May 15 |
+| **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Data & AI](https://jobright.ai/jobs/info/6a076b46a203b1052e43a6b6?utm_campaign=1066&utm_source=git)** | Gainesville, GA | On Site | May 15 |
+| **[Segal](https://www.segalco.com)** | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b178f3e371eb61769f9?utm_campaign=1066&utm_source=git)** | Glendale 500 N. Brand Blvd, Suite 1400 | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f6?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f3?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f2?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f7?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f5?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f4?utm_campaign=1066&utm_source=git)** | US-CA-Glendale | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b148f3e371eb61769f1?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a076985a203b1052e43a482?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | May 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | May 15 |
 | **[Docugami](http://docugami.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/6a076161403fc339507e3634?utm_campaign=1066&utm_source=git)** | Seattle-area | On Site | May 15 |
@@ -102,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/69f136098d8d624381a9affa?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 15 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703d24a0a6a7e7d820431?utm_campaign=1066&utm_source=git)** | San Francisco, California | Remote | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern, Geotab Ace (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a0703d29f57175bd581e73c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703d14a0a6a7e7d82042c?utm_campaign=1066&utm_source=git)** | Arizona | Remote | May 15 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703d14a0a6a7e7d82042d?utm_campaign=1066&utm_source=git)** | North Carolina | Remote | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern, Geotab Ace (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a0703d19f57175bd581e72c?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Data Scientist Intern, Geotab Ace (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a0703d19f57175bd581e727?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | May 15 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703d14a0a6a7e7d82042d?utm_campaign=1066&utm_source=git)** | North Carolina | Remote | May 15 |
+| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703d14a0a6a7e7d82042c?utm_campaign=1066&utm_source=git)** | Arizona | Remote | May 15 |
+| **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern, Geotab Ace (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a0703d19f57175bd581e727?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | May 15 |
+| ↳ | **[Data Scientist Intern, Geotab Ace (Fall/September 2026, 8+ Months)](https://jobright.ai/jobs/info/6a0703d19f57175bd581e72c?utm_campaign=1066&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703cf4a0a6a7e7d820420?utm_campaign=1066&utm_source=git)** | Utah | Remote | May 15 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703cf4a0a6a7e7d82041a?utm_campaign=1066&utm_source=git)** | Colorado | Remote | May 15 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a0703cf4a0a6a7e7d82041f?utm_campaign=1066&utm_source=git)** | California | Remote | May 15 |
@@ -143,18 +154,7 @@ For a complete list, click the following sortable link below:
 | **[BBYO](https://www.bbyo.org)** | **[Survey and Data Analysis Internship](https://jobright.ai/jobs/info/69f52afe12f2811ab5a63954?utm_campaign=1066&utm_source=git)** | United States | Remote | May 15 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a06fc569f57175bd581c2c0?utm_campaign=1066&utm_source=git)** | Pleasanton, CA (HQ) | On Site | May 15 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a06fc519f57175bd581c2ab?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | May 15 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | May 15 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 15 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 15 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 15 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a06fb43152f493123c4a83b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 15 |
-| **[Cobalt](https://www.cobalt.io)** | **[Data Science - Agentic AI Intern](https://jobright.ai/jobs/info/69e7dac07820c036924d879b?utm_campaign=1066&utm_source=git)** | United States | Remote | May 15 |
-| **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/69fcf654666f063d3d6d22b8?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 15 |
-| **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship (Collecting Applications)](https://jobright.ai/jobs/info/6968374d1703f05405a9e4c2?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 15 |
-| ↳ | **[Summer 2026 Internship (Collecting Applications)](https://jobright.ai/jobs/info/6a06fa204a0a6a7e7d81d621?utm_campaign=1066&utm_source=git)** | Washington DC | On Site | May 15 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | May 15 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
