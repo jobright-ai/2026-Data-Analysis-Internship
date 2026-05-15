@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tube Supply](https://www.tubesupply.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a06c2f64b07a86277876ebc?utm_campaign=1066&utm_source=git)** | US-TX-Houston | On Site | May 14 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a06c2f54b07a86277876eb8?utm_campaign=1066&utm_source=git)** | Houston | On Site | May 14 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a06c2f54b07a86277876eba?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | May 14 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Environmental, Health, & Safety Data, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a06b5526c07461fe1721f0f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Clinical Data Science Intern](https://jobright.ai/jobs/info/6a0692edf3d6cc51d63946ec?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 14 |
 | **[New Brunswick Counseling & Burlington Counseling Center](http://www.nbcounselingcenter.org/)** | **[Health Research & Data Intern](https://jobright.ai/jobs/info/6a0688fca88ea73abf7fc852?utm_campaign=1066&utm_source=git)** | New Brunswick, New Jersey, United States | On Site | May 14 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a064dbb6c07461fe171f028?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level IV](https://jobright.ai/jobs/info/6a0649dbf3d6cc51d6391d3d?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a064962a88ea73abf7fa16c?utm_campaign=1066&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 14 |
-| **[The Huntington](http://www.huntington.org/)** | **[Audience Data Analysis Intern](https://jobright.ai/jobs/info/6a064943a88ea73abf7fa0ca?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Environmental, Health, & Safety Data, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a06493aa88ea73abf7fa092?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[GIA (Gemological Institute of America)](https://www.gia.edu)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a064924a88ea73abf7f9ffd?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a064901f3d6cc51d6391b8c?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 14 |
@@ -76,14 +78,14 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6a06412e7c753c287f7011c8?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a066ef3bc4184089f24fa10?utm_campaign=1066&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a066ef8f3d6cc51d63938d1?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a066c6da88ea73abf7fbb9a?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a066c6da88ea73abf7fbb99?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a066c6da88ea73abf7fbb9a?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d9df3d6cc51d6391652?utm_campaign=1066&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d9af3d6cc51d6391650?utm_campaign=1066&utm_source=git)** | Calgary - 8th Ave SW, CA | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164c?utm_campaign=1066&utm_source=git)** | Oakville, CA | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164f?utm_campaign=1066&utm_source=git)** | Vancouver, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164d?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164f?utm_campaign=1066&utm_source=git)** | Vancouver, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164e?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest, CA | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164c?utm_campaign=1066&utm_source=git)** | Oakville, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d98f3d6cc51d639164b?utm_campaign=1066&utm_source=git)** | Halifax - Mumford Rd, CA | Hybrid | May 14 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a067eac7c753c287f703a20?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | May 14 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/6a063abda88ea73abf7f96b1?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027, US | On Site | May 14 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e901567820c036924e4681?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 14 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8227c753c287f6fb829?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8217c753c287f6fb828?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 14 |
-| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb827?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 14 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[ADAS Data Analytics Intern](https://jobright.ai/jobs/info/6a05285a6c07461fe171445c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a052417f3d6cc51d6387023?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | May 13 |
 | **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern - Telugu & English Required](https://jobright.ai/jobs/info/6a06446e6c07461fe171e638?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | May 13 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Korean Peninsula Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a05075e4373b07358a39795?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
-| ↳ | **[Russia & Ukraine Intelligence Analysis Internship Fall 2026](https://jobright.ai/jobs/info/6a050751f3d6cc51d6385fdd?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
