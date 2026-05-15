@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elara Caring](https://www.elara.com)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/6a065d596c07461fe171fcd0?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 14 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a064dbb6c07461fe171f028?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 14 |
 | **[Public Health Institute](http://www.phi.org)** | **[Intern Level IV](https://jobright.ai/jobs/info/6a0649dbf3d6cc51d6391d3d?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a064962a88ea73abf7fa16c?utm_campaign=1066&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | May 14 |
@@ -71,12 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6a06412e7c753c287f7011c8?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | May 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d9df3d6cc51d6391652?utm_campaign=1066&utm_source=git)** | Toronto - Bay St, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d9af3d6cc51d6391650?utm_campaign=1066&utm_source=git)** | Calgary - 8th Ave SW, CA | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164d?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | May 14 |
-| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164f?utm_campaign=1066&utm_source=git)** | Vancouver, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164e?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164c?utm_campaign=1066&utm_source=git)** | Oakville, CA | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164d?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St, CA | Hybrid | May 14 |
+| ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d99f3d6cc51d639164f?utm_campaign=1066&utm_source=git)** | Vancouver, CA | Hybrid | May 14 |
 | ↳ | **[Co-op or Intern, Data & Analytics (September 2026)](https://jobright.ai/jobs/info/6a063d98f3d6cc51d639164b?utm_campaign=1066&utm_source=git)** | Halifax - Mumford Rd, CA | Hybrid | May 14 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Insights and Analytics Intern - Miramar, FL.](https://jobright.ai/jobs/info/6a063abda88ea73abf7f96b1?utm_campaign=1066&utm_source=git)** | USA, Florida, Miramar, 33027, US | On Site | May 14 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/6a065a627c753c287f7029fb?utm_campaign=1066&utm_source=git)** | Barnes, CA | Hybrid | May 14 |
 | **[Integrity](https://www.integrity.com)** | **[Research Analyst Intern (Part-Time)](https://jobright.ai/jobs/info/6a062f96f3d6cc51d639083c?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 14 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analysis Intern](https://jobright.ai/jobs/info/6a062e917c753c287f70021c?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | May 14 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/6a062e136c07461fe171d392?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | May 14 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a05c8207c753c287f6fb826?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 14 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8eb4358811370cb128f8a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69e9289c0a6e095553039bd6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
-| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246497?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive | On Site | May 14 |
+| ↳ | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6a05a48dbc4184089f246496?utm_campaign=1066&utm_source=git)** | 1 Mercedes Benz Drive, Vance, Alabama, United States of America | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c3f3d6cc51d638a180?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Fapon](http://www.faponbiotech.com/)** | **[Bioinformatics Summer Intern](https://jobright.ai/jobs/info/6a059077f3d6cc51d6389e3d?utm_campaign=1066&utm_source=git)** | Pleasanton, CA, USA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a058ba9f3d6cc51d6389c5b?utm_campaign=1066&utm_source=git)** | San Jose | On Site | May 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valley View](http://www.vvh.org/)** | **[Student Clinical Data Intern](https://jobright.ai/jobs/info/6a04d32bf3d6cc51d6383a6a?utm_campaign=1066&utm_source=git)** | Glenwood Springs, CO | On Site | May 13 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a04d309f3d6cc51d63839d6?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 13 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f883?utm_campaign=1066&utm_source=git)** | California, United States | Remote | May 13 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/69e819efe0cd471b2f12f885?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | May 13 |
-| **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69e848bf7820c036924db9d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
