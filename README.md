@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | May 16 |
 | **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 16 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | May 16 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a086af88f3e371eb618037b?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 16 |
@@ -64,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Data Science Intern (4 Months)](https://jobright.ai/jobs/info/69ebc9d44b0fa35a7077ecc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 16 |
 | **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a085edd403fc339507ed945?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 16 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Software Developer in Statistical Analysis - Fall 2026 Internship](https://jobright.ai/jobs/info/6a08524e939a5f01db958d53?utm_campaign=1066&utm_source=git)** | Apex, NC | Hybrid | May 16 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6a0851713b54ed42d74d6b81?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6a0851713b54ed42d74d6b82?utm_campaign=1066&utm_source=git)** | AZ, Scottsdale - 7233 E Butherus Drive | On Site | May 16 |
 | ↳ | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6a0851713b54ed42d74d6b80?utm_campaign=1066&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| ↳ | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6a0851713b54ed42d74d6b82?utm_campaign=1066&utm_source=git)** | AZ, Scottsdale - 7233 E Butherus Drive | On Site | May 16 |
+| ↳ | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6a0851713b54ed42d74d6b81?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5d?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
 | ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5e?utm_campaign=1066&utm_source=git)** | US-SD-Sioux Falls | On Site | May 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/6a085127a203b1052e4438c3?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | May 16 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a5939a5f01db9586a3?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 16 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a5939a5f01db9586a2?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 16 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a4939a5f01db95869c?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 16 |
-| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856a?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
-| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856e?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
+| **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856e?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
+| ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856a?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a08503a3b54ed42d74d67bf?utm_campaign=1066&utm_source=git)** | Washington, DC, DC, US | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a08503a3b54ed42d74d67c0?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0850353b54ed42d74d6796?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | May 16 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6a084e09a203b1052e442eec?utm_campaign=1066&utm_source=git)** | US-TX-Dayton | On Site | May 16 |
 | ↳ | **[Data Analytics Internship](https://jobright.ai/jobs/info/6a084e08a203b1052e442ee6?utm_campaign=1066&utm_source=git)** | Dayton, TX, US | On Site | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a084d0d3b54ed42d74d5f3e?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc7?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc8?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 16 |
+| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc7?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | **[Tube Supply](https://www.tubesupply.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5c?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026 | On Site | May 16 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5d?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026, US | On Site | May 16 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c73939a5f01db957c58?utm_campaign=1066&utm_source=git)** | US-TX-Houston | On Site | May 16 |
@@ -137,10 +138,10 @@ For a complete list, click the following sortable link below:
 | **[Segal](https://www.segalco.com)** | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b178f3e371eb61769f9?utm_campaign=1066&utm_source=git)** | Glendale 500 N. Brand Blvd, Suite 1400 | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f5?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f2?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 15 |
-| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f7?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f3?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 15 |
-| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f4?utm_campaign=1066&utm_source=git)** | US-CA-Glendale | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f6?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f7?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f4?utm_campaign=1066&utm_source=git)** | US-CA-Glendale | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b148f3e371eb61769f1?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | May 15 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a076985a203b1052e43a482?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | May 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HITLAB](http://www.hitlab.org)** | **[Intern](https://jobright.ai/jobs/info/6a070e4624dcb03739f1fbff?utm_campaign=1066&utm_source=git)** | United States | Remote | May 15 |
 | **[Protagonist](http://www.protagonist.io)** | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07096c1f7fa33581c9b8ec?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | ↳ | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69cd4371cdb525785fb86082?utm_campaign=1066&utm_source=git)** | Washington DC | Hybrid | May 15 |
-| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68804e999f72804245709287?utm_campaign=1066&utm_source=git)** | New York | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
