@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/6a0ba9950411d7417a1b3234?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | May 18 |
 | **[NexCore Group](http://nexcoregroup.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0ba0604d93203636872e78?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | May 18 |
 | **[Capital Bank, N.A.](http://www.capitalbankmd.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0b9a050411d7417a1b2d80?utm_campaign=1066&utm_source=git)** | Rockville, MD | Hybrid | May 18 |
 | **[Charlton Athletic Community Trust](https://cact.org.uk/)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/6a0b80ed538d03366dc86339?utm_campaign=1066&utm_source=git)** | Stamping Ground, KY | On Site | May 18 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Ferrovial Construction](https://www.ferrovial.com/en/f-agroman/)** | **[Digital Construction & Data Management Intern](https://jobright.ai/jobs/info/6a0b6dd9963f7a67d95cf9a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Community Analytics Intern](https://jobright.ai/jobs/info/6a0b6aa20411d7417a1b0a3b?utm_campaign=1066&utm_source=git)** | Virginia, United States | Remote | May 18 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Community Development Intern](https://jobright.ai/jobs/info/6a0b6236a235d749afa84c45?utm_campaign=1066&utm_source=git)** | St. Louis, MO, US | Hybrid | May 18 |
-| **[NexCore Group](http://nexcoregroup.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a0b606022d0d34036c8b97b?utm_campaign=1066&utm_source=git)** | Denver, CO 80202, USA | On Site | May 18 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Community Analytics Intern](https://jobright.ai/jobs/info/6a0b5510963f7a67d95ce65a?utm_campaign=1066&utm_source=git)** | US - VA - Remote, US | Remote | May 18 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0b529e538d03366dc83fe0?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | May 18 |
 | **[Matson Logistics](http://www.matsonlogistics.com)** | **[Software Development and Data Analytics Intern](https://jobright.ai/jobs/info/6a0b4c8e0411d7417a1af5bd?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | May 18 |
@@ -94,14 +94,13 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | May 17 |
 | **[IMAX](http://www.imax.com)** | **[Intern, IT Enterprise Applications](https://jobright.ai/jobs/info/69ec03ef7820c036924f8ba2?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | May 16 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | May 16 |
-| **[Kikoff](https://kikoff.com/)** | **[Data Intern](https://jobright.ai/jobs/info/69d04353cfdc6132f9439d57?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 16 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bf05c3482822729301b54b?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | May 16 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a086af88f3e371eb618037b?utm_campaign=1066&utm_source=git)** | Norcross, GA, US | On Site | May 16 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a086af78f3e371eb618037a?utm_campaign=1066&utm_source=git)** | US-GA-Norcross | On Site | May 16 |
 | **[Onyx CenterSource](https://www.onyxcentersource.com/)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a085edd403fc339507ed945?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 16 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Software Developer in Statistical Analysis - Fall 2026 Internship](https://jobright.ai/jobs/info/6a08524e939a5f01db958d53?utm_campaign=1066&utm_source=git)** | Apex, NC | Hybrid | May 16 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5d?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
-| ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5e?utm_campaign=1066&utm_source=git)** | US-SD-Sioux Falls | On Site | May 16 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5e?utm_campaign=1066&utm_source=git)** | US-SD-Sioux Falls | On Site | May 16 |
+| ↳ | **[IT Governance Analytics Intern](https://jobright.ai/jobs/info/6a0851353b54ed42d74d6a5d?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, US | On Site | May 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/6a085127a203b1052e4438c3?utm_campaign=1066&utm_source=git)** | Fairfax, VA, US | On Site | May 16 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/6a085126a203b1052e4438b6?utm_campaign=1066&utm_source=git)** | US-FL-Tampa | On Site | May 16 |
 | ↳ | **[GIS Analyst Intern](https://jobright.ai/jobs/info/6a085125a203b1052e4438af?utm_campaign=1066&utm_source=git)** | Tampa, FL, US | On Site | May 16 |
@@ -109,13 +108,13 @@ For a complete list, click the following sortable link below:
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a085102a203b1052e443816?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | May 16 |
 | ↳ | **[Temporary Intern - Data Analytics](https://jobright.ai/jobs/info/6a085100a203b1052e44380b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a6939a5f01db9586a6?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 16 |
-| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a5939a5f01db9586a2?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 16 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a5939a5f01db9586a3?utm_campaign=1066&utm_source=git)** | US-GA-Kennesaw | On Site | May 16 |
+| ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a5939a5f01db9586a2?utm_campaign=1066&utm_source=git)** | Kennesaw, GA, US | On Site | May 16 |
 | ↳ | **[Data Scientist/Artificial Intelligence (AI) Intern](https://jobright.ai/jobs/info/6a0850a4939a5f01db95869c?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | May 16 |
 | **[LMI](http://www.lmi.org)** | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856a?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Data Scientist Intern – Passport Demand Forecasting (Summer 2026)](https://jobright.ai/jobs/info/6a085040939a5f01db95856e?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
-| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a08503a3b54ed42d74d67c0?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a08503a3b54ed42d74d67bf?utm_campaign=1066&utm_source=git)** | Washington, DC, DC, US | On Site | May 16 |
+| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a08503a3b54ed42d74d67c0?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0850353b54ed42d74d6796?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | May 16 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a0850333b54ed42d74d6780?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 16 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084f91a203b1052e443429?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | May 16 |
@@ -133,12 +132,12 @@ For a complete list, click the following sortable link below:
 | **[Steel Dynamics Flat Roll Group](https://stld.steeldynamics.com/flat-roll/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6a084e09a203b1052e442eec?utm_campaign=1066&utm_source=git)** | US-TX-Dayton | On Site | May 16 |
 | ↳ | **[Data Analytics Internship](https://jobright.ai/jobs/info/6a084e08a203b1052e442ee6?utm_campaign=1066&utm_source=git)** | Dayton, TX, US | On Site | May 16 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a084d0d3b54ed42d74d5f3e?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc7?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 16 |
 | ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc8?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 16 |
-| **[Tube Supply](https://www.tubesupply.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5d?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026, US | On Site | May 16 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5c?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026 | On Site | May 16 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c73939a5f01db957c59?utm_campaign=1066&utm_source=git)** | Houston | On Site | May 16 |
+| ↳ | **[Fall Intern: Housing Center](https://jobright.ai/jobs/info/6a084cfea203b1052e442dc7?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 16 |
+| **[Tube Supply](https://www.tubesupply.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5c?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026 | On Site | May 16 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c74939a5f01db957c5d?utm_campaign=1066&utm_source=git)** | 6000 Jensen Drive, Houston, TX 77026, US | On Site | May 16 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c73939a5f01db957c58?utm_campaign=1066&utm_source=git)** | US-TX-Houston | On Site | May 16 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c73939a5f01db957c59?utm_campaign=1066&utm_source=git)** | Houston | On Site | May 16 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a084c72939a5f01db957c55?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | May 16 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Data Analyst Intern-Strategic Business Initiatives](https://jobright.ai/jobs/info/6a081c8e939a5f01db95654a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 16 |
 | **[Syntax Data](https://www.syntaxdata.com)** | **[Classification Data Validation Intern](https://jobright.ai/jobs/info/6a07cf313b54ed42d74d1fad?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | May 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Balanced Body](https://www.pilates.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6a076f9a3b54ed42d74cd6a0?utm_campaign=1066&utm_source=git)** | Sacramento,CA,US | On Site | May 15 |
 | **[Segal](https://www.segalco.com)** | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b178f3e371eb61769f9?utm_campaign=1066&utm_source=git)** | Glendale 500 N. Brand Blvd, Suite 1400 | On Site | May 15 |
 | ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f3?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | May 15 |
+| ↳ | **[Intern, Data Analytics (Summer 2026) - Actuarial Technology & Retirement](https://jobright.ai/jobs/info/6a076b168f3e371eb61769f7?utm_campaign=1066&utm_source=git)** | US-GA-Atlanta | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
