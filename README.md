@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](http://www.dragosupply.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69d6e283706f771673bae9cf?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | May 21 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699ecd15ce78e77b4fe4725b?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/6a0d5a30a235d749afa959bb?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 21 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/6a0ee8a972b52f7225f39610?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - Data Privacy Analyst (FamilySearch)](https://jobright.ai/jobs/info/6a0e7549c152ac7824486dcb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Global Economy and Development](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb55?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
 | ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 20 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | May 20 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 20 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | May 20 |
@@ -142,19 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cf31c0411d7417a1be1fb?utm_campaign=1066&utm_source=git)** | Charlotte Metro | Hybrid | May 19 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a0cf30f0411d7417a1be1ed?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 19 |
 | **[Deckers Brands](http://deckers.com)** | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf06a0411d7417a1be0f8?utm_campaign=1066&utm_source=git)** | US - Arizona Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f6?utm_campaign=1066&utm_source=git)** | US - Oregon Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f5?utm_campaign=1066&utm_source=git)** | US - Texas Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0ef?utm_campaign=1066&utm_source=git)** | US - Wisconsin Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f0?utm_campaign=1066&utm_source=git)** | US - New York Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f1?utm_campaign=1066&utm_source=git)** | US - Minnesota Remote, US | Remote | May 19 |
-| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f4?utm_campaign=1066&utm_source=git)** | US - Connecticut Remote, US | Remote | May 19 |
 | ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf06a0411d7417a1be0f7?utm_campaign=1066&utm_source=git)** | US - Colorado Remote, US | Remote | May 19 |
 | ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f2?utm_campaign=1066&utm_source=git)** | US - Massachusetts Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f4?utm_campaign=1066&utm_source=git)** | US - Connecticut Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0ef?utm_campaign=1066&utm_source=git)** | US - Wisconsin Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f5?utm_campaign=1066&utm_source=git)** | US - Texas Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f6?utm_campaign=1066&utm_source=git)** | US - Oregon Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f0?utm_campaign=1066&utm_source=git)** | US - New York Remote, US | Remote | May 19 |
+| ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f1?utm_campaign=1066&utm_source=git)** | US - Minnesota Remote, US | Remote | May 19 |
 | ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0f3?utm_campaign=1066&utm_source=git)** | US - California Remote, US | Remote | May 19 |
 | ↳ | **[Loyalty Analytics Intern - Global](https://jobright.ai/jobs/info/6a0cf0690411d7417a1be0ee?utm_campaign=1066&utm_source=git)** | US - New Jersey Remote, US | Remote | May 19 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a0ce728963f7a67d95dcea9?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | On Site | May 19 |
 | **[City of Loveland](https://www.lovgov.org)** | **[Intern III - Electric Utility Data Analysis Invitation Only](https://jobright.ai/jobs/info/6a0ce56f963f7a67d95dcc71?utm_campaign=1066&utm_source=git)** | Loveland, Colorado, United States | On Site | May 19 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/6a0cd8eb22d0d34036c993d2?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | May 19 |
-| **[Balanced Body](https://www.pilates.com/)** | **[Data And Reporting Intern](https://jobright.ai/jobs/info/6a0ccfaf22d0d34036c98a0e?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | May 19 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a0ccfaa963f7a67d95dbe12?utm_campaign=1066&utm_source=git)** | SLC Metro Area | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
