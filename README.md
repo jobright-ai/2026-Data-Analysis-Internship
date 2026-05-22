@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UJA Federation of Greater Toronto](https://www.jewishtoronto.com/)** | **[Research and Data Analyst-Intern](https://jobright.ai/jobs/info/6a0fc40972b52f7225f404a6?utm_campaign=1066&utm_source=git)** | North York, Ontario, Canada | On Site | May 21 |
+| **[Fisher Associates](http://fisherassoc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc23680bf0430c76363ac?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | May 21 |
+| ↳ | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc1fa9f654b3359ce8212?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | May 21 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Community Analytics Intern](https://jobright.ai/jobs/info/6a0b6aa20411d7417a1b0a3b?utm_campaign=1066&utm_source=git)** | Virginia, United States | Remote | May 21 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/6a0f9e6a72b52f7225f3f49d?utm_campaign=1066&utm_source=git)** | Toronto | On Site | May 21 |
 | **[State of Utah](http://www.utah.gov/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6a0f984812f8b43cf39807be?utm_campaign=1066&utm_source=git)** | Taylorsville, UT | Hybrid | May 21 |
@@ -120,19 +123,18 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Global Economy and Development](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb55?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
 | ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | May 20 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | May 20 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | May 20 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | May 20 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0e4988beb4d73cb6230e76?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | May 20 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a02f7716c07461fe16fef35?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 20 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a0e43a409ecfd704b3e791e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 20 |
 | **[Dayforce](https://www.dayforce.com)** | **[Data Analyst Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a0e404ac152ac78244850e4?utm_campaign=1066&utm_source=git)** | Canada | Remote | May 20 |
-| **[LiveRamp](http://www.liveramp.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6a0e3b3c83d71442898175bf?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - Data Privacy Analyst (FamilySearch)](https://jobright.ai/jobs/info/6a0e32ffc152ac78244845e3?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 20 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0e316109ecfd704b3e6b58?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 20 |
 | ↳ | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0e323d80bf0430c762a7fe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cognicion LLC](https://www.cognicion.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a0e0364beb4d73cb622e0c0?utm_campaign=1066&utm_source=git)** | Richmond, VA 232194074, United States | On Site | May 20 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a0e0351beb4d73cb622e0b2?utm_campaign=1066&utm_source=git)** | Richmond, Virginia, United States | On Site | May 20 |
 | **[Switch](https://www.switch.com)** | **[Data Analyst Intern    Join Us & Make a Difference](https://jobright.ai/jobs/info/6a0dfeda83d71442898148c2?utm_campaign=1066&utm_source=git)** | United States | Remote | May 20 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6a0dfd1d83d7144289814795?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | May 20 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Socio-Technical Workflow Analysis](https://jobright.ai/jobs/info/69f21646ecbc8c2f73208c23?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
