@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a11b50d69bd827926af4659?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a11b4a812f8b43cf398b2e9?utm_campaign=1066&utm_source=git)** | MANHATTAN | Remote | May 23 |
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198ca12f8b43cf398abe2?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a1191089f654b3359cf13d1?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | May 21 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
-| **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/6a0ee8a972b52f7225f39610?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
