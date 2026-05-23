@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New York](http://www1.nyc.gov)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a118ba712f8b43cf398a96c?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 23 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160be619335383fb3787f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 23 |
 | ↳ | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160bd619335383fb3787e?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a1126f712f8b43cf39898c8?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | May 22 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6a1110b4619335383fb36753?utm_campaign=1066&utm_source=git)** | Winchester, VA | On Site | May 20 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
 | ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 20 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
