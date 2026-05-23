@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a1126f712f8b43cf39898c8?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | May 22 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a1126f612f8b43cf39898c7?utm_campaign=1066&utm_source=git)** | CAN - Vancouver | On Site | May 22 |
 | **[EV Realty](https://www.evrealtyus.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6a11148c83d714428982a58e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 22 |
 | **[Aleut Federal](https://aleutfederal.com)** | **[Intern](https://jobright.ai/jobs/info/6a10e02783d7144289828e32?utm_campaign=1066&utm_source=git)** | United States | Remote | May 22 |
 | **[Faire](https://www.faire.com/careers)** | **[Data Science Intern](https://jobright.ai/jobs/info/69ab98122747003c3d512241?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | May 22 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - Data Privacy Analyst (FamilySearch)](https://jobright.ai/jobs/info/6a0e7549c152ac7824486dcb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | May 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Global Economy and Development](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb55?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6a1110b4619335383fb36753?utm_campaign=1066&utm_source=git)** | Winchester, VA | On Site | May 20 |
-| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
-| ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 20 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 20 |
+| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
+| ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
