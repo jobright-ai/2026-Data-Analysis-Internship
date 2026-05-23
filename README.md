@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198ca12f8b43cf398abe2?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
 | ↳ | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198c912f8b43cf398abe1?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a1194559fdbf21f36cb42fc?utm_campaign=1066&utm_source=git)** | Keller, TX, US | On Site | May 23 |
+| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | May 23 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a118ba712f8b43cf398a96c?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 23 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160be619335383fb3787f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 23 |
 | ↳ | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160bd619335383fb3787e?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Real Estate Lending Business Analyst)](https://jobright.ai/jobs/info/6a10103b72b52f7225f4165d?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 22 |
 | **[Whissle AI](https://whissle.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a100b3e83d7144289823beb?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Remote | May 22 |
 | **[ReasonCore AI](https://www.reasoncore.ai)** | **[AI Data Intern](https://jobright.ai/jobs/info/6a104e3e9f654b3359ceadaa?utm_campaign=1066&utm_source=git)** | United States | Remote | May 22 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
 | **[Texas Democratic Party](http://www.txdemocrats.org)** | **[Intern](https://jobright.ai/jobs/info/6a0fdb2380bf0430c7636b6e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Fisher Associates](http://fisherassoc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc23680bf0430c76363ac?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | May 21 |
 | ↳ | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc1fa9f654b3359ce8212?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 | **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/6a0ee8a972b52f7225f39610?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 21 |
-| **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a108c7e69bd827926aef133?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
