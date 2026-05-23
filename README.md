@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a11b50d69bd827926af4659?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a11b4a812f8b43cf398b2e9?utm_campaign=1066&utm_source=git)** | MANHATTAN | Remote | May 23 |
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198ca12f8b43cf398abe2?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | May 21 |
 | **[PlayCore](http://www.playcore.com/)** | **[CORE Data Service Lab Intern - PlayCore](https://jobright.ai/jobs/info/6a0f638d83d714428981f812?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | May 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/69f25bf4ecbc8c2f7320a0dc?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | May 21 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6a0f42e080bf0430c7632218?utm_campaign=1066&utm_source=git)** | Rochester, MN | Remote | May 21 |
 | **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f2bd7bab4ec4779fffbe39?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - ISE Planning Info/Data Systems, Hybrid](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e10?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | May 21 |
 | **[Federal Home Loan Bank of Topeka](http://fhlbtopeka.com)** | **[Member Solutions Intern](https://jobright.ai/jobs/info/6a0f3ea983d714428981e04f?utm_campaign=1066&utm_source=git)** | Topeka, Kansas, US | On Site | May 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a1191089f654b3359cf13d1?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | May 21 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
+| **[City of New York](http://www1.nyc.gov)** | **[Summer Graduate Intern](https://jobright.ai/jobs/info/6a0ee8a972b52f7225f39610?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
