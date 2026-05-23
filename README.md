@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160be619335383fb3787f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 23 |
+| ↳ | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a1160bd619335383fb3787e?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[Visier Inc.](http://www.visier.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a1126f712f8b43cf39898c8?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | May 22 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a1126f612f8b43cf39898c7?utm_campaign=1066&utm_source=git)** | CAN - Vancouver | On Site | May 22 |
 | **[EV Realty](https://www.evrealtyus.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6a11148c83d714428982a58e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | May 22 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Protagonist](http://www.protagonist.io)** | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1062d083d7144289825dad?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 22 |
 | ↳ | **[Computational Social Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1062bc83d7144289825d95?utm_campaign=1066&utm_source=git)** | Washington DC | Hybrid | May 22 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/69f44972c78b9e4518959e48?utm_campaign=1066&utm_source=git)** | United States | Remote | May 22 |
-| **[VSP Vision](https://vspglobal.com/)** | **[Internship , Data Analytics](https://jobright.ai/jobs/info/69f49b43a3d34b4f76f50971?utm_campaign=1066&utm_source=git)** | Lewisville, TX | Remote | May 22 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6982874e348f733a5c356f8c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 22 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Utility Performance Data Analytics](https://jobright.ai/jobs/info/6a0f416880bf0430c763215d?utm_campaign=1066&utm_source=git)** | Iowa City, IA | On Site | May 22 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a0f99cc72b52f7225f3f3f8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | May 22 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Real Estate Lending Business Analyst)](https://jobright.ai/jobs/info/6a10103b72b52f7225f4165d?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 22 |
 | **[Whissle AI](https://whissle.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a100b3e83d7144289823beb?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Remote | May 22 |
 | **[ReasonCore AI](https://www.reasoncore.ai)** | **[AI Data Intern](https://jobright.ai/jobs/info/6a104e3e9f654b3359ceadaa?utm_campaign=1066&utm_source=git)** | United States | Remote | May 22 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | **[Texas Democratic Party](http://www.txdemocrats.org)** | **[Intern](https://jobright.ai/jobs/info/6a0fdb2380bf0430c7636b6e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Fisher Associates](http://fisherassoc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc23680bf0430c76363ac?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | May 21 |
 | ↳ | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc1fa9f654b3359ce8212?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Global Economy and Development](https://jobright.ai/jobs/info/6a0e6dd580bf0430c762cb55?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 20 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6a1110b4619335383fb36753?utm_campaign=1066&utm_source=git)** | Winchester, VA | On Site | May 20 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8faa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | May 20 |
-| ↳ | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a0e4dfc47fea1610bca8fab?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
