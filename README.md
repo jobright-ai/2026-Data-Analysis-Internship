@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a1207eb9f654b3359cf233d?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 23 |
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
+| **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Center](https://jobright.ai/jobs/info/69d99147f748bc5d08a4bee1?utm_campaign=1066&utm_source=git)** | Duncan, SC | Hybrid | May 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a11b50d69bd827926af4659?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a11b4a812f8b43cf398b2e9?utm_campaign=1066&utm_source=git)** | MANHATTAN | Remote | May 23 |
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198ca12f8b43cf398abe2?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Real Estate Lending Business Analyst)](https://jobright.ai/jobs/info/6a10103b72b52f7225f4165d?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | May 22 |
 | **[Whissle AI](https://whissle.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a100b3e83d7144289823beb?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Remote | May 22 |
 | **[ReasonCore AI](https://www.reasoncore.ai)** | **[AI Data Intern](https://jobright.ai/jobs/info/6a104e3e9f654b3359ceadaa?utm_campaign=1066&utm_source=git)** | United States | Remote | May 22 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | May 21 |
 | **[Texas Democratic Party](http://www.txdemocrats.org)** | **[Intern](https://jobright.ai/jobs/info/6a0fdb2380bf0430c7636b6e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Fisher Associates](http://fisherassoc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc23680bf0430c76363ac?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | May 21 |
 | ↳ | **[GIS Intern](https://jobright.ai/jobs/info/6a0fc1fa9f654b3359ce8212?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699ecd15ce78e77b4fe4725b?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/6a0d5a30a235d749afa959bb?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 21 |
 | **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a1191089f654b3359cf13d1?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | May 21 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
