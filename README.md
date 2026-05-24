@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a1207eb9f654b3359cf233e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | May 23 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a1207eb9f654b3359cf233d?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 23 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Center](https://jobright.ai/jobs/info/69d99147f748bc5d08a4bee1?utm_campaign=1066&utm_source=git)** | Duncan, SC | Hybrid | May 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a11b50d69bd827926af4659?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a11b4a812f8b43cf398b2e9?utm_campaign=1066&utm_source=git)** | MANHATTAN | Remote | May 23 |
