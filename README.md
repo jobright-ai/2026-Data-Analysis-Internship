@@ -59,11 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a1207eb9f654b3359cf233e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | May 23 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a1207eb9f654b3359cf233d?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 23 |
-| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
+| **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c3?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a11ec679f654b3359cf20c4?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
 | **[AFL](http://www.AFLglobal.com)** | **[AI/BI Intern- Data Center](https://jobright.ai/jobs/info/69d99147f748bc5d08a4bee1?utm_campaign=1066&utm_source=git)** | Duncan, SC | Hybrid | May 23 |
 | **[Industrial Electric Mfg. (IEM)](http://iemfg.com)** | **[Intern - Productivity Data & Industrial Events](https://jobright.ai/jobs/info/6a11b50d69bd827926af4659?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee, United States | On Site | May 23 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Data Warehouse)](https://jobright.ai/jobs/info/6a11b4a812f8b43cf398b2e9?utm_campaign=1066&utm_source=git)** | MANHATTAN | Remote | May 23 |
+| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812adb49964d25b5e40386?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | May 23 |
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198ca12f8b43cf398abe2?utm_campaign=1066&utm_source=git)** | New York City | On Site | May 23 |
 | ↳ | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6a1198c912f8b43cf398abe1?utm_campaign=1066&utm_source=git)** | New York | On Site | May 23 |
 | **[City of Keller](http://www.cityofkeller.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a1194559fdbf21f36cb42fc?utm_campaign=1066&utm_source=git)** | Keller, TX, US | On Site | May 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e5ab4ec4779fff9ccb?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699ecd15ce78e77b4fe4725b?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | May 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/6a0d5a30a235d749afa959bb?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 21 |
-| **[CTR, Cryogenic Technology Resources](https://ctrinc.org)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a1191089f654b3359cf13d1?utm_campaign=1066&utm_source=git)** | Cleveland, OH, US | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
