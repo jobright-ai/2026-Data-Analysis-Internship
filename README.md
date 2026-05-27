@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Costello Medical](https://www.costellomedical.com)** | **[Statistician Intern](https://jobright.ai/jobs/info/6a172ab3d6a04f21602e3ad0?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | May 27 |
 | **[USA Hockey](http://usahockey.com/)** | **[Intern, Data and Analytics Membership Services](https://jobright.ai/jobs/info/6a171b801430333075ccd5fe?utm_campaign=1066&utm_source=git)** | Colorado, USA | Hybrid | May 27 |
 | ↳ | **[Intern, Data and Analytics Membership Services](https://jobright.ai/jobs/info/6a171b781430333075ccd5df?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | May 27 |
 | **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - Temp](https://jobright.ai/jobs/info/6a171347b091c7417c4fa431?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | May 27 |
@@ -117,8 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a15a4431935fa61b3c698dc?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Remote | May 26 |
 | ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a15a104dc845f4be5bd7449?utm_campaign=1066&utm_source=git)** | Columbus, OH | Remote | May 26 |
 | ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a159df30073182bd92ab20d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | May 26 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Data Science/AIML Engineering Summer Intern](https://jobright.ai/jobs/info/6a159b35554b0e12c05840ed?utm_campaign=1066&utm_source=git)** | US-VA-Fort Belvoir | On Site | May 26 |
-| ↳ | **[Data Science/AIML Engineering Summer Intern](https://jobright.ai/jobs/info/6a159b26554b0e12c05840e9?utm_campaign=1066&utm_source=git)** | Fort Belvoir, VA, US | On Site | May 26 |
 | **[PSECU](http://psecu.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a1599ad1935fa61b3c69645?utm_campaign=1066&utm_source=git)** | Harrisburg, PA, US | Hybrid | May 26 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[High School Research Intern](https://jobright.ai/jobs/info/69fada6487a4820e6da8277f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 26 |
@@ -144,17 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a13645112f8b43cf398ef6a?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | May 24 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428c83d7144289830650?utm_campaign=1066&utm_source=git)** | USA - District of Columbia - Washington, US | On Site | May 24 |
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428c83d714428983064f?utm_campaign=1066&utm_source=git)** | USA - Alaska - FIELD, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983064e?utm_campaign=1066&utm_source=git)** | USA - Oregon, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830641?utm_campaign=1066&utm_source=git)** | USA - Alabama, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830642?utm_campaign=1066&utm_source=git)** | USA - Texas, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063a?utm_campaign=1066&utm_source=git)** | USA - North Carolina, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983064a?utm_campaign=1066&utm_source=git)** | USA - South Carolina, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830645?utm_campaign=1066&utm_source=git)** | USA - Virginia, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830649?utm_campaign=1066&utm_source=git)** | USA - Vermont, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830643?utm_campaign=1066&utm_source=git)** | USA - Georgia - FIELD, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063e?utm_campaign=1066&utm_source=git)** | USA - Tennessee, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983064d?utm_campaign=1066&utm_source=git)** | USA - Hawaii - FIELD, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063c?utm_campaign=1066&utm_source=git)** | USA - West Virginia, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830647?utm_campaign=1066&utm_source=git)** | USA - Arizona, US | On Site | May 24 |
 | ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063d?utm_campaign=1066&utm_source=git)** | USA - Utah, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830648?utm_campaign=1066&utm_source=git)** | USA - New York - New York, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830646?utm_campaign=1066&utm_source=git)** | USA - Pennsylvania, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830642?utm_campaign=1066&utm_source=git)** | USA - Texas, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830647?utm_campaign=1066&utm_source=git)** | USA - Arizona, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983064c?utm_campaign=1066&utm_source=git)** | USA - Puerto Rico, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830641?utm_campaign=1066&utm_source=git)** | USA - Alabama, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063b?utm_campaign=1066&utm_source=git)** | USA - South Dakota, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830644?utm_campaign=1066&utm_source=git)** | USA - North Dakota, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983064a?utm_campaign=1066&utm_source=git)** | USA - South Carolina, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063c?utm_campaign=1066&utm_source=git)** | USA - West Virginia, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830645?utm_campaign=1066&utm_source=git)** | USA - Virginia, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063e?utm_campaign=1066&utm_source=git)** | USA - Tennessee, US | On Site | May 24 |
+| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d714428983063f?utm_campaign=1066&utm_source=git)** | USA - Oklahoma, US | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
