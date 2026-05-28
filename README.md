@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highlight](http://highlighttech.com/)** | **[International Advancement Intern](https://jobright.ai/jobs/info/6a17c3a7da08264614c9038d?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | May 27 |
+| **[Cummings Electrical](http://cummingselec.com)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a17ba7e81fe455c705ab41c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a17ba53b7e0a45039a9d2b6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17b6761430333075cd3724?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | May 27 |
+| **[Knauf North America](http://www.knaufnorthamerica.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a17b50f1430333075cd36cc?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b06881fe455c705ab159?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cf62b48c683879451f?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 27 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a179773f45c6530ce9ae0b0?utm_campaign=1066&utm_source=git)** | San Antonio, TX, US | On Site | May 27 |
-| ↳ | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a17976df45c6530ce9ae0ae?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | May 27 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17904ab091c7417c4ffdc4?utm_campaign=1066&utm_source=git)** | Akron, OH, USA | On Site | May 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a1785f6f45c6530ce9ad4d3?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[Voltus](https://www.voltus.co)** | **[Residential Data Analyst Intern](https://jobright.ai/jobs/info/6a1781211430333075cd1ba5?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a17397c1430333075ccee19?utm_campaign=1066&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 27 |
-| **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a16a441a429fd279da99a71?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | May 27 |
 | **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/6a166cae554b0e12c058be41?utm_campaign=1066&utm_source=git)** | San Luis Obispo, California, United States | On Site | May 26 |
 | ↳ | **[Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/6a165e861b2f6918b0e31786?utm_campaign=1066&utm_source=git)** | San Luis Obispo, CA | On Site | May 26 |
 | **[Valuable Insight](valuable-insight.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/6a1653671935fa61b3c70ae2?utm_campaign=1066&utm_source=git)** | Coral Springs, FL | On Site | May 26 |
@@ -108,8 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Service Operations Data Analyst Intern](https://jobright.ai/jobs/info/6a161d3aa429fd279da95dbd?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a160b6b0073182bd92af96f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IT R&I Data Science Intern](https://jobright.ai/jobs/info/6a160ad1554b0e12c0588b1a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | May 26 |
-| **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a160a8d1935fa61b3c6e213?utm_campaign=1066&utm_source=git)** | US-PA-Pittsburgh | On Site | May 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a160a8c1935fa61b3c6e212?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, US | On Site | May 26 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6a1605cb554b0e12c058886f?utm_campaign=1066&utm_source=git)** | Princeton, NJ, US | On Site | May 26 |
 | **[United Digestive](https://www.uniteddigestive.com)** | **[Research Intern (66969)](https://jobright.ai/jobs/info/6a1603f3554b0e12c058876a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 26 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a160112a429fd279da94ab6?utm_campaign=1066&utm_source=git)** | East Rutherford, New Jersey, USA, US | On Site | May 26 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - ISE Planning Info/Data Systems, Hybrid](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e10?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | May 25 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 25 |
 | **[Sysco Canada Inc.](http://www.sysco.ca)** | **[FSQA Intern/Student](https://jobright.ai/jobs/info/6a147334738a270c8bfa7bfb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 25 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a146467738a270c8bfa79b4?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 25 |
-| ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a146466738a270c8bfa79b3?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 25 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cc62b48c6838794509?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 25 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdd9f654b3359cf73d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 24 |
 | ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdc9f654b3359cf73cf?utm_campaign=1066&utm_source=git)** | NYC | Remote | May 24 |
+| **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a13789312f8b43cf398f169?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
