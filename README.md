@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a18511417492d3a389b4408?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 28 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf682a5949019c55b20fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Integrated Supply Chain) USA (Summer 2026)](https://jobright.ai/jobs/info/6a15b63a128680351d9639c4?utm_campaign=1066&utm_source=git)** | Perrysburg, OH | On Site | May 28 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | May 28 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 28 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a14ae13dc845f4be5bd2c48?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 28 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1830e6abc8f63abac758f2?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805ef54962c1bb4b06788?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 28 |
+| **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a1852c56243320e8d1628d1?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 27 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a17d7ddf45c6530ce9affc7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/6a180e506be92a6820d1535d?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 27 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - ISE Planning Info/Data Systems, Hybrid](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e10?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | May 27 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b06881fe455c705ab159?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cf62b48c683879451f?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 27 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17904ab091c7417c4ffdc4?utm_campaign=1066&utm_source=git)** | Akron, OH, USA | On Site | May 27 |
+| **[NexTech Solutions LLC](https://nextechsol.com/)** | **[Data Science Bias Detection & Model Evaluation Intern with Security Clearance](https://jobright.ai/jobs/info/6a1854ed17492d3a389b4585?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | May 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a1785f6f45c6530ce9ad4d3?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[Voltus](https://www.voltus.co)** | **[Residential Data Analyst Intern](https://jobright.ai/jobs/info/6a1781211430333075cd1ba5?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
 | **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/6a177c8bf45c6530ce9ad276?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a15a104dc845f4be5bd7449?utm_campaign=1066&utm_source=git)** | Columbus, OH | Remote | May 26 |
 | ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a159df30073182bd92ab20d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | May 26 |
 | **[PSECU](http://psecu.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a1599ad1935fa61b3c69645?utm_campaign=1066&utm_source=git)** | Harrisburg, PA, US | Hybrid | May 26 |
-| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[High School Research Intern](https://jobright.ai/jobs/info/69fada6487a4820e6da8277f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | May 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bd1e45b106024562820acb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 26 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6a14ff36128680351d95f15b?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | May 25 |
-| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a14d987bc9bff375af024e0?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
