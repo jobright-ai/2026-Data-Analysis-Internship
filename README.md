@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b06881fe455c705ab159?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cf62b48c683879451f?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 27 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a179773f45c6530ce9ae0b0?utm_campaign=1066&utm_source=git)** | San Antonio, TX, US | On Site | May 27 |
 | ↳ | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a17976df45c6530ce9ae0ae?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | May 27 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17904ab091c7417c4ffdc4?utm_campaign=1066&utm_source=git)** | Akron, OH, USA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cc62b48c6838794509?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 25 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdd9f654b3359cf73d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 24 |
 | ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdc9f654b3359cf73cf?utm_campaign=1066&utm_source=git)** | NYC | Remote | May 24 |
-| **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a13789312f8b43cf398f169?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 24 |
-| ↳ | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a13788f12f8b43cf398f167?utm_campaign=1066&utm_source=git)** | Oakland, California, United States | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
