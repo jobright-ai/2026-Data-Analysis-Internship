@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Data Analytics / Data Visualization Internship (Fall 2026)](https://jobright.ai/jobs/info/6a188aaeabc8f63abac79d4d?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | May 28 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744617492d3a389b655f?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a186b6654a441713ae844b7?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | May 28 |
 | ↳ | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a186b4e54a441713ae84480?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACT 4 SA](act4sa.org)** | **[Paid Data Research Intern](https://jobright.ai/jobs/info/6a161f26128680351d968291?utm_campaign=1066&utm_source=git)** | United States | Remote | May 26 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Service Operations Data Analyst Intern](https://jobright.ai/jobs/info/6a161d3aa429fd279da95dbd?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a160b6b0073182bd92af96f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 26 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IT R&I Data Science Intern](https://jobright.ai/jobs/info/6a160ad1554b0e12c0588b1a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
