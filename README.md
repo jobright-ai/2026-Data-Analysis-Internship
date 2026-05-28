@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Summer Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a18744617492d3a389b655f?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 28 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a186b6654a441713ae844b7?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | May 28 |
+| ↳ | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a186b4e54a441713ae84480?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 28 |
+| **[Labelbox](https://labelbox.com)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6a186aed6243320e8d1641f7?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | May 28 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Data Analytics / Data Visualization Internship (Fall 2026)](https://jobright.ai/jobs/info/6a18683bdbc80963f9343582?utm_campaign=1066&utm_source=git)** | Lincoln, NE, US | On Site | May 28 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Data Scientist, Intern (Remote)](https://jobright.ai/jobs/info/6a185d1354a441713ae83a27?utm_campaign=1066&utm_source=git)** | 875 Greentree Rd, Pittsburgh, PA, 15220, US | Remote | May 28 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6a185cc8abc8f63abac77ae5?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | May 28 |
@@ -66,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/6a185c0617492d3a389b5112?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
 | **[LMI](http://www.lmi.org)** | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185babdbc80963f9342c5e?utm_campaign=1066&utm_source=git)** | Washington, DC, DC, US | On Site | May 28 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185baadbc80963f9342c5d?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | May 28 |
-| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c56?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 28 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c4d?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 28 |
+| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c56?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 28 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185b8617492d3a389b4fe8?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 28 |
 | **[Urban Science](http://urbanscience.com/)** | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a185b736243320e8d1633e5?utm_campaign=1066&utm_source=git)** | US-VA-Reston | Hybrid | May 28 |
 | ↳ | **[Data Driven Analysis Intern-Summer 2026- Reston, VA (Washington D.C.)](https://jobright.ai/jobs/info/6a185b6c6243320e8d1633c0?utm_campaign=1066&utm_source=git)** | Reston, VA, US | Hybrid | May 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACT 4 SA](act4sa.org)** | **[Paid Data Research Intern](https://jobright.ai/jobs/info/6a161f26128680351d968291?utm_campaign=1066&utm_source=git)** | United States | Remote | May 26 |
 | **[Kestra Medical Technologies, Inc.](https://kestramedical.com/)** | **[Service Operations Data Analyst Intern](https://jobright.ai/jobs/info/6a161d3aa429fd279da95dbd?utm_campaign=1066&utm_source=git)** | Kirkland, WA | Hybrid | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a160b6b0073182bd92af96f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 26 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IT R&I Data Science Intern](https://jobright.ai/jobs/info/6a160ad1554b0e12c0588b1a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | May 26 |
-| **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6a1605cb554b0e12c058886f?utm_campaign=1066&utm_source=git)** | Princeton, NJ, US | On Site | May 26 |
-| **[United Digestive](https://www.uniteddigestive.com)** | **[Research Intern (66969)](https://jobright.ai/jobs/info/6a1603f3554b0e12c058876a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 26 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a160112a429fd279da94ab6?utm_campaign=1066&utm_source=git)** | East Rutherford, New Jersey, USA, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
