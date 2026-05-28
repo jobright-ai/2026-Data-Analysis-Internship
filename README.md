@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a17d2f8f45c6530ce9afe1c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a17d2901430333075cd451b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
+| **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a17cfa981fe455c705abfcb?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | May 27 |
+| **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a17cc36f45c6530ce9afbf9?utm_campaign=1066&utm_source=git)** | US-PA-Pittsburgh | On Site | May 27 |
+| **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a084e508f3e371eb617eede?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 27 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a17cc20da08264614c90734?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 27 |
+| **[NEC de Colombia](http://co.nec.com/)** | **[Biometric Research Intern](https://jobright.ai/jobs/info/6a17c59dda08264614c9051a?utm_campaign=1066&utm_source=git)** | Folsom CA | On Site | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[International Advancement Intern](https://jobright.ai/jobs/info/6a17c3a7da08264614c9038d?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | May 27 |
 | **[Cummings Electrical](http://cummingselec.com)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a17ba7e81fe455c705ab41c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a17ba53b7e0a45039a9d2b6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a14ae13dc845f4be5bd2c48?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 25 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a14ad23dc845f4be5bd2bfe?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | May 25 |
 | ↳ | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a14ad19dc845f4be5bd2bf8?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 25 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - ISE Planning Info/Data Systems, Hybrid](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e10?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | May 25 |
-| **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/69a233f0b600907a9628802a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | May 25 |
-| **[Sysco Canada Inc.](http://www.sysco.ca)** | **[FSQA Intern/Student](https://jobright.ai/jobs/info/6a147334738a270c8bfa7bfb?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 25 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cc62b48c6838794509?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 25 |
-| **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdd9f654b3359cf73d1?utm_campaign=1066&utm_source=git)** | United States | Remote | May 24 |
-| ↳ | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6a13cbdc9f654b3359cf73cf?utm_campaign=1066&utm_source=git)** | NYC | Remote | May 24 |
-| **[Everlaw](http://everlaw.com)** | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a13789312f8b43cf398f169?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
