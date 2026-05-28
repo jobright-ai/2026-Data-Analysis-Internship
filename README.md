@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a17d7ddf45c6530ce9affc7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
+| **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a17d51c5b0a497d5210f95f?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 27 |
 | **[Planned Parenthood of Orange and San Bernardino Counties](http://www.plannedparenthood.org/orange-san-bernardino)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a17d2f8f45c6530ce9afe1c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a17d2901430333075cd451b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a17cfa981fe455c705abfcb?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a14ef49bc9bff375af02811?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | May 25 |
 | **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a14d987bc9bff375af024e0?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | May 25 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a14ae13dc845f4be5bd2c48?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 25 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a14ad23dc845f4be5bd2bfe?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | May 25 |
-| ↳ | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a14ad19dc845f4be5bd2bf8?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
