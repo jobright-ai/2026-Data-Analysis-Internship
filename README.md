@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a1785f6f45c6530ce9ad4d3?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
+| **[Voltus](https://www.voltus.co)** | **[Residential Data Analyst Intern](https://jobright.ai/jobs/info/6a1781211430333075cd1ba5?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
+| **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/6a177c8bf45c6530ce9ad276?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 27 |
 | **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a176ef5f45c6530ce9accb3?utm_campaign=1066&utm_source=git)** | Pleasanton, CA (HQ) | On Site | May 27 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a176ee7f45c6530ce9acc8d?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | May 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a175eb2f45c6530ce9ac084?utm_campaign=1066&utm_source=git)** | US, CA, Santa Clara, US | On Site | May 27 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GTM Data Analyst Intern](https://jobright.ai/jobs/info/6a13788f12f8b43cf398f167?utm_campaign=1066&utm_source=git)** | Oakland, California, United States | On Site | May 24 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6a1377f39f654b3359cf6061?utm_campaign=1066&utm_source=git)** | San Diego | Hybrid | May 24 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a13645112f8b43cf398ef6a?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | May 24 |
-| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428c83d7144289830650?utm_campaign=1066&utm_source=git)** | USA - District of Columbia - Washington, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428c83d714428983064f?utm_campaign=1066&utm_source=git)** | USA - Alaska - FIELD, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830641?utm_campaign=1066&utm_source=git)** | USA - Alabama, US | On Site | May 24 |
-| ↳ | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428b83d7144289830644?utm_campaign=1066&utm_source=git)** | USA - North Dakota, US | On Site | May 24 |
+| **[BD](https://www.bd.com)** | **[Business Data Analytics Intern, Channel Coverage](https://jobright.ai/jobs/info/6a13428c83d714428983064f?utm_campaign=1066&utm_source=git)** | USA - Alaska - FIELD, US | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
