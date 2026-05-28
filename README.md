@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fc36c09fc67a0b39f474f0?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | May 28 |
+| **[60 Decibels](https://www.60decibels.com/)** | **[Summer Internship, Senior Signal Associate](https://jobright.ai/jobs/info/6a1832e2abc8f63abac75c19?utm_campaign=1066&utm_source=git)** | New York Office | Hybrid | May 28 |
+| ↳ | **[Summer Internship, Senior Signal Associate](https://jobright.ai/jobs/info/6a1832deabc8f63abac75c16?utm_campaign=1066&utm_source=git)** | United States | Remote | May 28 |
+| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a14ae13dc845f4be5bd2c48?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | May 28 |
+| **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1830e6abc8f63abac758f2?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 28 |
 | **[PCI Government Services LLC](https://www.pci-gs.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b5dbc80963f93409f0?utm_campaign=1066&utm_source=git)** | US-NC-Charlotte | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b4dbc80963f93409ef?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b3dbc80963f93409ee?utm_campaign=1066&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b2dbc80963f93409ec?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | Hybrid | May 28 |
-| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b2dbc80963f93409ed?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b2dbc80963f93409eb?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | May 28 |
+| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a1823b2dbc80963f93409ed?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a1805ef54962c1bb4b06788?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a17d7ddf45c6530ce9affc7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/6a180e506be92a6820d1535d?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a8a3dc845f4be5bd7613?utm_campaign=1066&utm_source=git)** | Colorado | Remote | May 26 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a8a0dc845f4be5bd7611?utm_campaign=1066&utm_source=git)** | Utah | Remote | May 26 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a89bdc845f4be5bd760f?utm_campaign=1066&utm_source=git)** | Arizona | Remote | May 26 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a89adc845f4be5bd760e?utm_campaign=1066&utm_source=git)** | North Carolina | Remote | May 26 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a899dc845f4be5bd760d?utm_campaign=1066&utm_source=git)** | San Francisco, California | Remote | May 26 |
-| ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a15a893dc845f4be5bd760c?utm_campaign=1066&utm_source=git)** | California | Remote | May 26 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Intern, Data Research](https://jobright.ai/jobs/info/6a15a5320073182bd92ab38c?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 26 |
-| ↳ | **[Intern, Data Research](https://jobright.ai/jobs/info/6a15a4431935fa61b3c698dc?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
