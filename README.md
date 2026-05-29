@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | May 29 |
+| **[PlusAI](http://plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern III](https://jobright.ai/jobs/info/6a19c6cdc2a87d6cd3dfb6a3?utm_campaign=1066&utm_source=git)** | Allentown, PA | Hybrid | May 29 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Asian Economics](https://jobright.ai/jobs/info/6a19c5c49111f771d1a08497?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | May 29 |
 | ↳ | **[Fall Intern: Asian Economics](https://jobright.ai/jobs/info/6a19c5bf9111f771d1a08495?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / AfterSales Data Analyst](https://jobright.ai/jobs/info/6a1748f6f45c6530ce9aaf40?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | May 27 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/6a174073f45c6530ce9aaa6a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Data Scientist, Summer Intern](https://jobright.ai/jobs/info/6a0ff8f912f8b43cf39826df?utm_campaign=1066&utm_source=git)** | Long Beach, CA | Remote | May 27 |
-| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1736b11430333075cceb35?utm_campaign=1066&utm_source=git)** | Chicago | On Site | May 27 |
-| ↳ | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1736aa1430333075cceae1?utm_campaign=1066&utm_source=git)** | New York | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
