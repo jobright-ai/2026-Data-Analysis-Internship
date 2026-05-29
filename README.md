@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The State University of New York](http://www.suny.edu/)** | **[Slate Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | May 29 |
+| **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | May 29 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a1983e32b206f3955eae50c?utm_campaign=1066&utm_source=git)** | United States | Remote | May 29 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a1983d92b206f3955eae508?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | May 29 |
 | **[BigBear.ai](https://www.bigbear.ai)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a197a3f547e292ae1392638?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | May 29 |
@@ -70,11 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a192eb9c2a87d6cd3df78ee?utm_campaign=1066&utm_source=git)** | Lavaca St, Austin, Texas, United States | On Site | May 28 |
 | ↳ | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a192e9bc2a87d6cd3df789c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 28 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a1915bf17492d3a389bc02f?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 28 |
-| **[Safe Fleet](https://www.safefleet.net)** | **[Data Analyst Intern - CRM Implementation](https://jobright.ai/jobs/info/6a18f243c2a87d6cd3df5eea?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | May 28 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Pregnancy Risk Assessment Monitoring System (PRAMS) Intern](https://jobright.ai/jobs/info/6a18d83617492d3a389ba0cc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 28 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern (Intern Program)](https://jobright.ai/jobs/info/6a18d5276243320e8d1682da?utm_campaign=1066&utm_source=git)** | Beachwood, OH | Remote | May 28 |
 | **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a18c83954a441713ae88140?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 28 |
-| **[Aptar](https://www.aptar.com/pharmaceutical/)** | **[Engineering - Data Analyst Intern](https://jobright.ai/jobs/info/6a18c75bc2a87d6cd3df4b57?utm_campaign=1066&utm_source=git)** | Cary, IL, US, 60013 | On Site | May 28 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a18c086dbc80963f93474aa?utm_campaign=1066&utm_source=git)** | New York | On Site | May 28 |
 | **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a18bc9d54a441713ae87827?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | **[ALPFA Inc - Association of Latino Professionals For America](http://alpfa.org)** | **[Data & Analytics Intern (Technology) - Remote (TX, FL, SC, PA)](https://jobright.ai/jobs/info/6a18a36a17492d3a389b85da?utm_campaign=1066&utm_source=git)** | Austin, TX | Remote | May 28 |
@@ -88,8 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a186b4e54a441713ae84480?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 28 |
 | **[Labelbox](https://labelbox.com)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6a186aed6243320e8d1641f7?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | May 28 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Data Analytics / Data Visualization Internship (Fall 2026)](https://jobright.ai/jobs/info/6a18683bdbc80963f9343582?utm_campaign=1066&utm_source=git)** | Lincoln, NE, US | On Site | May 28 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6a185cc8abc8f63abac77ae5?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | May 28 |
-| ↳ | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6a185cc2abc8f63abac77ae0?utm_campaign=1066&utm_source=git)** | US-NJ-Camden | On Site | May 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Data Scientist Intern - Redondo Beach CA](https://jobright.ai/jobs/info/6a185c3a6243320e8d163621?utm_campaign=1066&utm_source=git)** | United States-California-Redondo Beach, US | On Site | May 28 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a185c23dbc80963f9342e33?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 28 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/6a185c0617492d3a389b5112?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
@@ -100,15 +98,15 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185b8617492d3a389b4fe8?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 28 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b23dbc80963f9342a4e?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b20dbc80963f9342a45?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | Hybrid | May 28 |
-| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a38?utm_campaign=1066&utm_source=git)** | US-NC-Charlotte | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a39?utm_campaign=1066&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
+| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a38?utm_campaign=1066&utm_source=git)** | US-NC-Charlotte | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1ddbc80963f9342a36?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1bdbc80963f9342a30?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314a?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a18598717492d3a389b4a25?utm_campaign=1066&utm_source=git)** | US-PA-Pittsburgh | On Site | May 28 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
-| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
+| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594617492d3a389b48ba?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594517492d3a389b48b8?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a1858b76243320e8d162bf3?utm_campaign=1066&utm_source=git)** | US-MD-Nottingham | On Site | May 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - Temp](https://jobright.ai/jobs/info/6a171347b091c7417c4fa431?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | May 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb5089d21cf86d1e3d1bfe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6a16ee2af45c6530ce9a73d8?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | May 27 |
+| **[Rundoo](https://www.rundoo.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69fb2add18b94b2515be01b5?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a17397c1430333075ccee19?utm_campaign=1066&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
