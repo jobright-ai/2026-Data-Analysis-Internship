@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a192eb9c2a87d6cd3df78ee?utm_campaign=1066&utm_source=git)** | Lavaca St, Austin, Texas, United States | On Site | May 28 |
+| ↳ | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a192e9bc2a87d6cd3df789c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 28 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a1915bf17492d3a389bc02f?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 28 |
 | **[Safe Fleet](https://www.safefleet.net)** | **[Data Analyst Intern - CRM Implementation](https://jobright.ai/jobs/info/6a18f243c2a87d6cd3df5eea?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | May 28 |
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Pregnancy Risk Assessment Monitoring System (PRAMS) Intern](https://jobright.ai/jobs/info/6a18d83617492d3a389ba0cc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valuable Insight](valuable-insight.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/6a1653671935fa61b3c70ae2?utm_campaign=1066&utm_source=git)** | Coral Springs, FL | On Site | May 26 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6a0a38bc3b54ed42d74df0cb?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | May 26 |
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Active Public Markets (September 2026 - December 2026)](https://jobright.ai/jobs/info/6a1678091b2f6918b0e32492?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 26 |
-| **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a164bc6128680351d9698c1?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | Hybrid | May 26 |
-| **[Varaha](https://www.varaha.earth)** | **[Data Validation Intern (Odia Speakers)](https://jobright.ai/jobs/info/6a17308cd6a04f21602e3cdb?utm_campaign=1066&utm_source=git)** | Indiana, United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
