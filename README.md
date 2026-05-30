@@ -59,8 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/6a1a0fccc2a87d6cd3dfd3af?utm_campaign=1066&utm_source=git)** | Toronto | On Site | May 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Scientist Intern - Redondo Beach CA](https://jobright.ai/jobs/info/6a1a0fb5e24ef3652582942a?utm_campaign=1066&utm_source=git)** | Redondo Beach, CA | On Site | May 29 |
-| **[Boeing](https://www.boeing.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a18511417492d3a389b4408?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| **[Boeing](https://www.boeing.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185111c2a87d6cd3def28c?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Fall 2026)](https://jobright.ai/jobs/info/6a1a06ed6b135014dbc87a53?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | May 29 |
+| **[Certified Group](https://www.certifiedgroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a1a22386b135014dbc8876e?utm_campaign=1066&utm_source=git)** | Melville, NY | On Site | May 29 |
 | **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | May 29 |
 | **[PlusAI](http://plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern III](https://jobright.ai/jobs/info/6a19c6cdc2a87d6cd3dfb6a3?utm_campaign=1066&utm_source=git)** | Allentown, PA | Hybrid | May 29 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a199e869111f771d1a06b84?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/6a15a8b3128680351d962e08?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 29 |
 | ↳ | **[Intelligence Internship](https://jobright.ai/jobs/info/6a15a8b0128680351d962e04?utm_campaign=1066&utm_source=git)** | Washington, D.C. | On Site | May 29 |
+| **[Prodware](https://www.prodwaregroup.com/he-il/)** | **[Werkstudentin/Werkstudent (m/w/d) - Microsoft Data Analytics & AI (DA&AI)](https://jobright.ai/jobs/info/69e0efe0acc736112f5c0e64?utm_campaign=1066&utm_source=git)** | Greater Hamburg Area | Hybrid | May 29 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Slate Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8d?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | May 29 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | May 29 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a1983e32b206f3955eae50c?utm_campaign=1066&utm_source=git)** | United States | Remote | May 29 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1bdbc80963f9342a30?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314a?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
-| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
+| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594617492d3a389b48ba?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594517492d3a389b48b8?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
 | **[60 Decibels](https://www.60decibels.com/)** | **[Summer Internship, Senior Signal Associate](https://jobright.ai/jobs/info/6a18997817492d3a389b7dea?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - Temp](https://jobright.ai/jobs/info/6a175577d6a04f21602e5edf?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a1754391430333075cd02ae?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 27 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / AfterSales Data Analyst](https://jobright.ai/jobs/info/6a1748f6f45c6530ce9aaf40?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | May 27 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/6a174073f45c6530ce9aaa6a?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
-| **[SCAN](https://www.thescangroup.org/)** | **[Data Scientist, Summer Intern](https://jobright.ai/jobs/info/6a0ff8f912f8b43cf39826df?utm_campaign=1066&utm_source=git)** | Long Beach, CA | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
