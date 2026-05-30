@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 30 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a110d1469bd827926af21b4?utm_campaign=1066&utm_source=git)** | United States | Remote | May 30 |
+| ↳ | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 30 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a1ac5c92b206f3955eb64f9?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | May 30 |
 | **[DZYNE Technologies](http://dzynetech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0fb14680bf0430c7635e2d?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | May 30 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training And Internship Program](https://jobright.ai/jobs/info/6a1a9d21547e292ae1399874?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 30 |
 | **[Duke University](http://www.duke.edu)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/6a1a848ec2a87d6cd3dffedb?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | May 29 |
 | **[Arine](https://www.arine.io)** | **[Health Economics and Outcomes Summer Intern](https://jobright.ai/jobs/info/6a1a8397547e292ae13992ac?utm_campaign=1066&utm_source=git)** | Arine - Remote | Remote | May 29 |
-| **[Boeing](https://www.boeing.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185111c2a87d6cd3def28c?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| **[Boeing](https://www.boeing.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a18511417492d3a389b4408?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
 | **[Lifescience Dynamics Limited](http://www.lifesciencedynamics.com/)** | **[Internship, CA (July - Sept 2026)](https://jobright.ai/jobs/info/6a1a0fccc2a87d6cd3dfd3af?utm_campaign=1066&utm_source=git)** | Toronto | On Site | May 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Data Scientist Intern - Redondo Beach CA](https://jobright.ai/jobs/info/6a1a0fb5e24ef3652582942a?utm_campaign=1066&utm_source=git)** | Redondo Beach, CA | On Site | May 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Analyst, Digital Communication (Fall 2026)](https://jobright.ai/jobs/info/6a1a06ed6b135014dbc87a53?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | May 29 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1bdbc80963f9342a30?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314a?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
-| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
+| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594617492d3a389b48ba?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594517492d3a389b48b8?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
 | **[60 Decibels](https://www.60decibels.com/)** | **[Summer Internship, Senior Signal Associate](https://jobright.ai/jobs/info/6a18997817492d3a389b7dea?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Data Analysis Intern, Applied System Engineering - Fall 2026](https://jobright.ai/jobs/info/6a1785f6f45c6530ce9ad4d3?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 27 |
 | **[Voltus](https://www.voltus.co)** | **[Residential Data Analyst Intern](https://jobright.ai/jobs/info/6a1781211430333075cd1ba5?utm_campaign=1066&utm_source=git)** | United States | Remote | May 27 |
 | **[Brose Group](https://www.brose.com/)** | **[Business Analytics Intern - Sales Data (Year-round / On-site)](https://jobright.ai/jobs/info/6a177c8bf45c6530ce9ad276?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 27 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a176ef5f45c6530ce9accb3?utm_campaign=1066&utm_source=git)** | Pleasanton, CA (HQ) | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
