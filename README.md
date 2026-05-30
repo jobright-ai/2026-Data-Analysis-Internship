@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 30 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 30 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69c42802d5a1016e98db32da?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a1ac5c92b206f3955eb64f9?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | May 30 |
 | **[DZYNE Technologies](http://dzynetech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a0fb14680bf0430c7635e2d?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | May 30 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/6a185c0617492d3a389b5112?utm_campaign=1066&utm_source=git)** | US-NY-New York | Hybrid | May 28 |
 | **[LMI](http://www.lmi.org)** | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185babdbc80963f9342c5e?utm_campaign=1066&utm_source=git)** | Washington, DC, DC, US | On Site | May 28 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185baadbc80963f9342c5d?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | May 28 |
-| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c56?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 28 |
 | ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c4d?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | May 28 |
+| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/6a185ba9dbc80963f9342c56?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | May 28 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185b8617492d3a389b4fe8?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 28 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b23dbc80963f9342a4e?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b20dbc80963f9342a45?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | Hybrid | May 28 |
@@ -127,10 +127,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a38?utm_campaign=1066&utm_source=git)** | US-NC-Charlotte | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1ddbc80963f9342a36?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1bdbc80963f9342a30?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314a?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
-| ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
-| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
-| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
+| ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314a?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
+| **[ServiceLink](https://www.svclnk.com)** | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5f?utm_campaign=1066&utm_source=git)** | US-TX-Plano | On Site | May 28 |
+| ↳ | **[Business Intelligence Intern, Information Technology](https://jobright.ai/jobs/info/6a1859726243320e8d162d5a?utm_campaign=1066&utm_source=git)** | Plano, TX, US | On Site | May 28 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594617492d3a389b48ba?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a18594517492d3a389b48b8?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | May 28 |
 | **[60 Decibels](https://www.60decibels.com/)** | **[Summer Internship, Senior Signal Associate](https://jobright.ai/jobs/info/6a18997817492d3a389b7dea?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | May 28 |
