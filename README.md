@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1830e6abc8f63abac758f2?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 30 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11344?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | May 30 |
-| ↳ | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11343?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | May 30 |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11343?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | May 30 |
+| ↳ | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11344?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | May 30 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Data Analysis Internship](https://jobright.ai/jobs/info/6a1b43c16b135014dbc8e29a?utm_campaign=1066&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 30 |
 | ↳ | **[Data Analysis Internship](https://jobright.ai/jobs/info/6a1b43be6b135014dbc8e298?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | May 30 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Data Analytics / Data Visualization Internship (Fall 2026)](https://jobright.ai/jobs/info/6a1b377f547e292ae139c9a3?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | May 30 |
