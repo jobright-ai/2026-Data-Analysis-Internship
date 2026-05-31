@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DNV](https://www.dnv.com/)** | **[PowerBI Developer Intern](https://jobright.ai/jobs/info/6a1ba5482b206f3955eba1b8?utm_campaign=1066&utm_source=git)** | Corvallis, OR, United States | Hybrid | May 30 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a1b9fc0547e292ae139e338?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | May 30 |
 | **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1830e6abc8f63abac758f2?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | May 30 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11344?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | May 30 |
 | ↳ | **[Intern, Research](https://jobright.ai/jobs/info/6a1b6df39111f771d1a11343?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | May 30 |
@@ -129,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a185b8617492d3a389b4fe8?utm_campaign=1066&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 28 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b23dbc80963f9342a4e?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b20dbc80963f9342a45?utm_campaign=1066&utm_source=git)** | Charlotte, NC, US | Hybrid | May 28 |
-| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a39?utm_campaign=1066&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a38?utm_campaign=1066&utm_source=git)** | US-NC-Charlotte | Hybrid | May 28 |
+| ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1edbc80963f9342a39?utm_campaign=1066&utm_source=git)** | US-DC-Washington | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1ddbc80963f9342a36?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | May 28 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a185b1bdbc80963f9342a30?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | May 28 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | May 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cummings Electrical](http://cummingselec.com)** | **[Business Services Intern - DATA WAREHOUSE](https://jobright.ai/jobs/info/6a1892c8abc8f63abac7a132?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 27 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17b6761430333075cd3724?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a17b06881fe455c705ab159?utm_campaign=1066&utm_source=git)** | Seattle | On Site | May 27 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/69f135cf62b48c683879451f?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | May 27 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17904ab091c7417c4ffdc4?utm_campaign=1066&utm_source=git)** | Akron, OH, USA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
