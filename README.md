@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillpointe](http://www.hillpointe.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1830e6abc8f63abac758f2?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Jun 03 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0706b84a0a6a7e7d8218bd?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Jun 03 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a0707fa4a0a6a7e7d821fe3?utm_campaign=1066&utm_source=git)** | Winter Park | On Site | Jun 03 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69e76bd6e0cd471b2f12b833?utm_campaign=1066&utm_source=git)** | Winter Park, FL | On Site | Jun 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0329a3f3d6cc51d6373c0c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 03 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a1ffdfb902d19201c7afd11?utm_campaign=1066&utm_source=git)** |  Miami | On Site | Jun 03 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a1ffdfb902d19201c7afd12?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 03 |
+| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1c9a40547e292ae13a1d27?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Jun 03 |
 | **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Sustainment Data and Analytics (Onsite)](https://jobright.ai/jobs/info/6a1ff213338c012305116872?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Jun 03 |
 | **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1fe3aa4bdf8a5a96bce0ee?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 03 |
 | ↳ | **[Life Sciences Summer Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1fe3aa4bdf8a5a96bce0ed?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 03 |
@@ -66,17 +74,17 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a1faa0ec5277c00c6487e84?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | Jun 02 |
 | ↳ | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a1fa9fec5277c00c6487e74?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jun 02 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a0a88bd403fc339507f72c8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 02 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 02 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 02 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 02 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 02 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 02 |
 | **[Ambulatory Anesthesia Care (Midwest)](https://zzzmd.com/)** | **[Data Analyst Internship (Revenue Cycle & Analytics)](https://jobright.ai/jobs/info/6a1f8de7a507373dff6c1cce?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 02 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern](https://jobright.ai/jobs/info/6a160112a429fd279da94ab6?utm_campaign=1066&utm_source=git)** | East Rutherford, New Jersey, USA, US | On Site | Jun 02 |
 | **[BlueLabs](https://bluelabs.com)** | **[Reporting Fellow](https://jobright.ai/jobs/info/6a1f56c5dce5db1256d146e4?utm_campaign=1066&utm_source=git)** | Washington D.C. | Hybrid | Jun 02 |
@@ -84,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a1f557ca507373dff6c00bf?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a1f557ba507373dff6c00bd?utm_campaign=1066&utm_source=git)** |  Miami | On Site | Jun 02 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f5182b61b2c65b37b1449?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 02 |
-| ↳ | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f461c804915678116886c?utm_campaign=1066&utm_source=git)** | US-Remote Location | Remote | Jun 02 |
 | ↳ | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f461c804915678116886d?utm_campaign=1066&utm_source=git)** | UNAVAILABLE, Remote Location, US | Remote | Jun 02 |
+| ↳ | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f461c804915678116886c?utm_campaign=1066&utm_source=git)** | US-Remote Location | Remote | Jun 02 |
 | **[Legacy.com](https://www.legacy.com/)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f42abdce5db1256d13c5e?utm_campaign=1066&utm_source=git)** | UNAVAILABLE, Remote Location, US | Remote | Jun 02 |
 | ↳ | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a1f42aadce5db1256d13c5d?utm_campaign=1066&utm_source=git)** | US-Remote Location | Remote | Jun 02 |
 | **[Kelvolta](https://kelvolta.com/)** | **[Summer Data & Analytics Intern — Energy Tech](https://jobright.ai/jobs/info/6a1f41a0c5277c00c6484afd?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 02 |
@@ -95,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[ABA Centers of America](https://abacenters.com)** | **[Operations Data Analyst Intern](https://jobright.ai/jobs/info/6a1f2d0b09442629a6857e74?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, Florida, United States | Remote | Jun 02 |
 | ↳ | **[Operations Data Analyst Intern](https://jobright.ai/jobs/info/6a1f2a58b61b2c65b37afe43?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | Remote | Jun 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Undergraduate Year Round - ISE Planning Info/Data Systems, Hybrid](https://jobright.ai/jobs/info/6a0f418a9f654b3359ce3e10?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Jun 02 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research](https://jobright.ai/jobs/info/6a0e231d80bf0430c7629e43?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jun 02 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a1e2dda9111f771d1a1dab5?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jun 02 |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a1e2dda9111f771d1a1dab5?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jun 02 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a175e2e9005d858e94f9389?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Jun 02 |
+| ↳ | **[Intern, Research](https://jobright.ai/jobs/info/6a0e231d80bf0430c7629e43?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jun 02 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Scientist Year Round Intern - BS/MS degree (Santa Clara, CA)](https://jobright.ai/jobs/info/6a1f089e8049156781166119?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jun 02 |
 | **[The Southeast Permanente Medical Group](https://www.tspmg.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6a1f072b804915678116602d?utm_campaign=1066&utm_source=git)** | Regional, Georgia, 30305, USA(US) | On Site | Jun 02 |
 | **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a1f0427c5277c00c648229a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 02 |
@@ -118,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/6a1e3b23e24ef3652583cacc?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Jun 01 |
 | **[Stantec](http://www.stantec.com)** | **[Graduate Research Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/6a1e3696e24ef3652583c98f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Management Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a1f435cc5277c00c6484bcf?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 01 |
-| **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a1983d92b206f3955eae508?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jun 01 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a1983e32b206f3955eae50c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 01 |
+| **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/6a1983e32b206f3955eae50c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 01 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a1983d92b206f3955eae508?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jun 01 |
 | **[SHEGLAM](https://www.sheglam.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6a1e17e06b135014dbc9a951?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern - Temporary](https://jobright.ai/jobs/info/6a1e1298c2a87d6cd3e0fdf2?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | On Site | Jun 01 |
 | ↳ | **[Research Intern - Temporary](https://jobright.ai/jobs/info/6a1e128ec2a87d6cd3e0fdea?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jun 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | On Site | Jun 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Scientist Year Round Intern - BS/MS degree (Santa Clara, CA)](https://jobright.ai/jobs/info/6a1db497e24ef36525839419?utm_campaign=1066&utm_source=git)** | Santa Clara,CA, US | On Site | Jun 01 |
 | **[GTS](http://gtsx.com)** | **[Quantitative Trading Intern - Summer 2027 Internship](https://jobright.ai/jobs/info/6a1dd552b524ae49285a8e06?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern: Cancer Registry](https://jobright.ai/jobs/info/6a1da622e24ef36525838d06?utm_campaign=1066&utm_source=git)** | 200 Piedmont Ave. SE Atlanta, GA | On Site | Jun 01 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Clinical Data Science Electrophysiology - Biostatistics Intern](https://jobright.ai/jobs/info/6a1da2c9c2a87d6cd3e0c8ff?utm_campaign=1066&utm_source=git)** | Irvine, California, United States of America | Hybrid | Jun 01 |
-| **[Maine Connectivity Authority](https://www.maineconnectivity.org)** | **[Data & Spatial Analysis Research Intern](https://jobright.ai/jobs/info/6a1da0409111f771d1a19b35?utm_campaign=1066&utm_source=git)** | Portland, Maine Metropolitan Area | Hybrid | Jun 01 |
-| **[Stealth](https://www.timelyai.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a1d7ee6c2a87d6cd3e0bb75?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 01 |
-| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic – Quantitative Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74afb524ae49285a6460?utm_campaign=1066&utm_source=git)** | Boston | On Site | Jun 01 |
-| ↳ | **[Quantic – Quantitative Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74aeb524ae49285a645e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 01 |
-| ↳ | **[Quantic - PhD Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74a6c2a87d6cd3e0b854?utm_campaign=1066&utm_source=git)** | Boston | On Site | Jun 01 |
-| ↳ | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a1d74a1c2a87d6cd3e0b84c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
