@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision AQ](http://www.precisionaq.com)** | **[HEOR Intern, Real-World Evidence](https://jobright.ai/jobs/info/69e8ecc73aa0c479643a5b1e?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 05 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a22a92c757ade085b6ac89e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Fulton Analytics](https://www.fultonanalytics.com/)** | **[DATA ASSOCIATE (INTERNSHIP)](https://jobright.ai/jobs/info/6a22a60614de9460dc842cbb?utm_campaign=1066&utm_source=git)** | St Paul, MN | Remote | Jun 05 |
 | **[UNDP](http://www.undp.org)** | **[Statistics Intern](https://jobright.ai/jobs/info/6a2294b06624e500cad09ac0?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Statistics Intern](https://jobright.ai/jobs/info/6a228fc194d89a1392b521f3?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[United Nations](https://www.un.org/)** | **[Statistics Intern](https://jobright.ai/jobs/info/6a22886c4576ad60e9a7a802?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 05 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a2285e394d89a1392b52025?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Jun 05 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a2285e394d89a1392b52024?utm_campaign=1066&utm_source=git)** | Pleasanton, CA (HQ) | On Site | Jun 05 |
+| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a2285e394d89a1392b52024?utm_campaign=1066&utm_source=git)** | Pleasanton, CA (HQ) | On Site | Jun 05 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a2285e394d89a1392b52025?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Jun 05 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Statistics Intern](https://jobright.ai/jobs/info/6a227fed4576ad60e9a7a5a2?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 05 |
 | **[ProCogia](http://procogia.com/)** | **[AI Intern - R, SAS](https://jobright.ai/jobs/info/6a22671f4576ad60e9a7a109?utm_campaign=1066&utm_source=git)** | Vancouver | On Site | Jun 04 |
 | ↳ | **[AI Intern - R, SAS](https://jobright.ai/jobs/info/6a2267134576ad60e9a7a101?utm_campaign=1066&utm_source=git)** | Canada-Vancouver | On Site | Jun 04 |
@@ -101,22 +102,22 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a185a4254a441713ae8314b?utm_campaign=1066&utm_source=git)** | US-NY-Syracuse | On Site | Jun 03 |
 | ↳ | **[Applied Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a2107ac902d19201c7b5d93?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 03 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a21067c3a5f0145f4c1808f?utm_campaign=1066&utm_source=git)** | US-DC-Washington | On Site | Jun 03 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a9?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a6?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174aa?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a7?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 03 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a9?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc93?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 03 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a5?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 03 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 03 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174aa?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 03 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Intelligence Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a210003ca8f0b365d7a4733?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 03 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a20cbd23a5f0145f4c16f6c?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 03 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a20c2f84bdf8a5a96bd2e14?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 03 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Scientist](https://jobright.ai/jobs/info/6a2098abca8f0b365d7a2389?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
-| ↳ | **[Temporary Intern - Data Scientist](https://jobright.ai/jobs/info/6a2098abca8f0b365d7a2387?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jun 03 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data Scientist](https://jobright.ai/jobs/info/6a2098abca8f0b365d7a2387?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jun 03 |
+| ↳ | **[Temporary Intern - Data Scientist](https://jobright.ai/jobs/info/6a2098abca8f0b365d7a2389?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a20b2624bdf8a5a96bd29f2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 03 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Data Analytics and Front Office Support Job ID : 278203](https://jobright.ai/jobs/info/6a209caaca8f0b365d7a24f4?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a1ffdfb902d19201c7afd12?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 03 |
 | ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a1ffdfb902d19201c7afd11?utm_campaign=1066&utm_source=git)** |  Miami | On Site | Jun 03 |
 | **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a1c9a40547e292ae13a1d27?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Jun 03 |
-| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - Sustainment Data and Analytics (Onsite)](https://jobright.ai/jobs/info/6a1ff213338c012305116872?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
