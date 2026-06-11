@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 11 |
 | **[tiket.com](https://www.tiket.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2a96572cde2824469c24e5?utm_campaign=1066&utm_source=git)** | Headquarters, ID | Hybrid | Jun 11 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 11 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 11 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Socio-Technical Workflow Analysis](https://jobright.ai/jobs/info/69f21646ecbc8c2f73208c23?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Jun 10 |
 | **[App Science®](https://www.appsci.io/)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6a29a09cd3ec8317fe13f69d?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Jun 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Analyst and Research Intern (Unpaid Intern)](https://jobright.ai/jobs/info/6a299f7bc07d4b6ae1c41c59?utm_campaign=1066&utm_source=git)** | Orange County | On Site | Jun 10 |
-| **[ArchWell Health](https://archwellhealth.com)** | **[Strategy-Intern, Data and Analytics](https://jobright.ai/jobs/info/6a299cbf495d985b99424ac4?utm_campaign=1066&utm_source=git)** | Nashville, TN, USA | On Site | Jun 10 |
 | **[Northbridge Companies](https://northbridgecommunities.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/6a298c71d3ec8317fe13ea90?utm_campaign=1066&utm_source=git)** | Northbridge Company Home Office - Burlington, MA | On Site | Jun 10 |
 | **[FreshDirect](http://freshdirect.com)** | **[Growth Data Analytics Internship](https://jobright.ai/jobs/info/6a296f572cde2824469bc0b7?utm_campaign=1066&utm_source=git)** | Bronx, NY | On Site | Jun 10 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a197013547e292ae139259e?utm_campaign=1066&utm_source=git)** | Dallas, TX 75380-0147, USA | Remote | Jun 10 |
@@ -95,17 +95,17 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2026, Research Internship, Global Economy and Development (2026-3861)](https://jobright.ai/jobs/info/6a287d2dfd37e62bb47a9848?utm_campaign=1066&utm_source=git)** | US-DC-Washington | Hybrid | Jun 09 |
 | **[Colorado Department of Public Health and Environment](https://www.colorado.gov/cdphe)** | **[Internship - Student Data Analyst.](https://jobright.ai/jobs/info/6a287b8440ac8e32932a1e94?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jun 09 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a0eeb25619335383fb28180?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a6?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a9?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174aa?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 09 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 09 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ab?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a7?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a5?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a6?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 09 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Remote Sensing Intern](https://jobright.ai/jobs/info/6a2875b27061b51a3a5f6028?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, US | Remote | Jun 09 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a28730940ac8e32932a19cb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario , Canada | Remote | Jun 09 |
 | ↳ | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a28730540ac8e32932a19c6?utm_campaign=1066&utm_source=git)** | Bay Area, CA, United States of America | Remote | Jun 09 |
