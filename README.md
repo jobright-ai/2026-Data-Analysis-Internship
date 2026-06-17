@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[11:11 Media](http://www.parishilton.com)** | **[11:11 Data & AI Intern - Fall 2026](https://jobright.ai/jobs/info/6a31ddec0ff23769fdb20db5?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Jun 16 |
+| **[FRALOCK](http://www.fralock.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a31da5e5958816970017470?utm_campaign=1066&utm_source=git)** | Lenthor Engineering Inc, Milpitas, CA, US | On Site | Jun 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a31c90735e80310003a95f8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jun 16 |
 | **[FRALOCK](http://www.fralock.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a31c4e3e7b7d514a3bd5860?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jun 16 |
 | **[Duke University](http://ceint.duke.edu)** | **[CLINICAL RESEARCH INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31ba112ee3ac1b4bef0d85?utm_campaign=1066&utm_source=git)** | Durham, NC, US | On Site | Jun 16 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jun 12 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States](https://jobright.ai/jobs/info/6a29e5ad2cde2824469bf4b0?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a2c831c7cd40a338fae6d09?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/69f44972c78b9e4518959e48?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Internship: Gas Compressor Data Analyst](https://jobright.ai/jobs/info/6a2c3f73a1d15e3c552fac47?utm_campaign=1066&utm_source=git)** | San Diego, California, US | On Site | Jun 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698e70e90f6f7e7a2cea8390?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Jun 12 |
 | **[Disc Medicine](https://www.discmedicine.com)** | **[CMC Inventory Centralization Intern](https://jobright.ai/jobs/info/6a2c4b7ac260bb1b8ae15a88?utm_campaign=1066&utm_source=git)** | Massachusetts - Hybrid | Hybrid | Jun 12 |
@@ -130,16 +131,16 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Scientist, Global Pricing Analytics (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8492cde2824469c7122?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship – Data Scientist, Commercial Audience Science (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82ac07d4b6ae1c4b5c1?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[GSA](http://www.gsacapital.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a2bba570ad4053b108cce5a?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 11 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a5?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a7?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a6?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ab?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 11 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d64?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc94?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174aa?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a7?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a03849f22395b6dc6d95542?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 11 |
 | **[Public Health Solutions](https://www.healthsolutions.org)** | **[Data Analyses Intern](https://jobright.ai/jobs/info/6a2b1cd9c07d4b6ae1c49540?utm_campaign=1066&utm_source=git)** | Long Island City, NY, US | Hybrid | Jun 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Confirmis](http://www.confirmis.com/)** | **[Media News Risk & Intelligence (Paid Internship)](https://jobright.ai/jobs/info/6a2ace000ad4053b108c8c93?utm_campaign=1066&utm_source=git)** | Idaho, United States | Hybrid | Jun 11 |
 | **[Goodwill Industries International](http://www.goodwill.org)** | **[Intern, Data Analytics-Mission Data & Grants](https://jobright.ai/jobs/info/6a2ac51e0ad4053b108c8a10?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Jun 11 |
 | ↳ | **[Intern, Data Analytics-Mission Data & Grants](https://jobright.ai/jobs/info/6a2ac51a0ad4053b108c8a0c?utm_campaign=1066&utm_source=git)** | Maryland, Rockville, MD, US | Hybrid | Jun 11 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Fall 2026)](https://jobright.ai/jobs/info/6a2b9bc40ad4053b108cc8b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
