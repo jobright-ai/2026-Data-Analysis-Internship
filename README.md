@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pareto Connect](https://apply.trypareto.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a342d3c1232144fb155e977?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 18 |
+| **[Munters](https://www.munters.com/)** | **[Sourcing and Sustainability Data Intern](https://jobright.ai/jobs/info/6a3425ce649fdf16292f450f?utm_campaign=1066&utm_source=git)** | US - Amesbury (MA), US | On Site | Jun 18 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a341e3d1232144fb155e454?utm_campaign=1066&utm_source=git)** | Remote, Virginia, United States | Remote | Jun 18 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 18 |
 | **[Leidos](http://www.revealimaging.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a34128829c90c607e4dd1a6?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Jun 18 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Quantitative Research & Trading Intern – Fall 2026](https://jobright.ai/jobs/info/6a336c0b910b734910715083?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
-| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
 | **[(page refresh)](http://www.docugami.com/)** | **[Data Science PhD Intern Kirkland, Washington, United States](https://jobright.ai/jobs/info/6a335029ce501060b5ced00a?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[PACCAR](http://www.paccar.com/)** | **[Data Scientist - Fall Internship 2026](https://jobright.ai/jobs/info/6a334d1c7f3fdd180d4c64ea?utm_campaign=1066&utm_source=git)** | Lewisville, TX | On Site | Jun 17 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jun 17 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6a0a38bc3b54ed42d74df0cb?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Jun 17 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Intern Business Analytics](https://jobright.ai/jobs/info/6a32991f29c90c607e4d72d5?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
 | **[Limex](http://whotrades.com/feed)** | **[Trading Research Intern](https://jobright.ai/jobs/info/6a33f3e91232144fb155d6cf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Fall 2026 Internship](https://jobright.ai/jobs/info/6a32af1cce501060b5ce9b74?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Jun 17 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[High School Research Intern](https://jobright.ai/jobs/info/69fada6487a4820e6da8277f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jun 16 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jun 15 |
 | ↳ | **[Data Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305391eace377055eb5b12?utm_campaign=1066&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 15 |
-| **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6a30644aeace377055eb620b?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Jun 15 |
 | **[IQVIA](https://www.iqvia.com)** | **[Internship, Real Estate Analytics](https://jobright.ai/jobs/info/6a30307b89f8f147d373400b?utm_campaign=1066&utm_source=git)** | Wayne, PA, United States of America | Hybrid | Jun 15 |
 | **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/6a30402ceace377055eb546d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a302be989f8f147d3733cf1?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
