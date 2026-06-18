@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
+| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| **[(page refresh)](http://www.docugami.com/)** | **[Data Science PhD Intern Kirkland, Washington, United States](https://jobright.ai/jobs/info/6a335029ce501060b5ced00a?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[PACCAR](http://www.paccar.com/)** | **[Data Scientist - Fall Internship 2026](https://jobright.ai/jobs/info/6a334d1c7f3fdd180d4c64ea?utm_campaign=1066&utm_source=git)** | Lewisville, TX | On Site | Jun 17 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jun 17 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Scientist - Fall Internship 2026](https://jobright.ai/jobs/info/6a333f2c29c90c607e4dad45?utm_campaign=1066&utm_source=git)** | Lewisville, TX, US, 75067 | On Site | Jun 17 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
-| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
 | **[IQVIA](https://www.iqvia.com)** | **[Internship, Real Estate Analytics](https://jobright.ai/jobs/info/6a3081fdeace377055eb6cf2?utm_campaign=1066&utm_source=git)** | Wayne, PA | Hybrid | Jun 17 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a32c3437f3fdd180d4c3361?utm_campaign=1066&utm_source=git)** | New York, NY, USA | Hybrid | Jun 17 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jun 15 |
 | ↳ | **[Data Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305391eace377055eb5b12?utm_campaign=1066&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jun 15 |
 | **[Goodwill of Colorado](https://goodwillcolorado.org)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6a30644aeace377055eb620b?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | On Site | Jun 15 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op (Summer 2027 Internship)](https://jobright.ai/jobs/info/6a315fa3e7b7d514a3bd3193?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 15 |
 | **[IQVIA](https://www.iqvia.com)** | **[Internship, Real Estate Analytics](https://jobright.ai/jobs/info/6a30307b89f8f147d373400b?utm_campaign=1066&utm_source=git)** | Wayne, PA, United States of America | Hybrid | Jun 15 |
 | **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/6a30402ceace377055eb546d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a302be989f8f147d3733cf1?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 15 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a20f1254bdf8a5a96bd3ca2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 13 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7a9e1b67cec4f9b095564?utm_campaign=1066&utm_source=git)** | Remote - Nationwide | Remote | Jun 13 |
-| **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States](https://jobright.ai/jobs/info/6a29e5a21de59e0682a8244d?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Jun 13 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jun 13 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Data Intern](https://jobright.ai/jobs/info/6a2c72d2f1751b183c818938?utm_campaign=1066&utm_source=git)** | Cheektowaga, New York, United States | Hybrid | Jun 13 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
@@ -148,13 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Scientist, Global Pricing Analytics (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8492cde2824469c7122?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship – Data Scientist, Commercial Audience Science (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82ac07d4b6ae1c4b5c1?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[GSA](http://www.gsacapital.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a2bba570ad4053b108cce5a?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 11 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc91?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a6?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f98f078fec52738a2d1d?utm_campaign=1066&utm_source=git)** | US-Chicago | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174aa?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06fbda24dcb03739f1bc92?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f994078fec52738a2d4e?utm_campaign=1066&utm_source=git)** | CA-Toronto | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f998078fec52738a2d66?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ad?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 11 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a5?utm_campaign=1066&utm_source=git)** | US-Seattle | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a06f997078fec52738a2d62?utm_campaign=1066&utm_source=git)** | US-SF-HQ | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ab?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jun 11 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd0a3a5f0145f4c174a7?utm_campaign=1066&utm_source=git)** | US-NYC | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a20dd123a5f0145f4c174ac?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 11 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69f534bddb88714bcdfb2c85?utm_campaign=1066&utm_source=git)** | San Francisco, New York City, Seattle, Chicago | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
