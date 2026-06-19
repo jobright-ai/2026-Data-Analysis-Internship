@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a34ffeb7f3fdd180d4cc375?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[SD Solutions, LLC](http://www.sdsolutionsllc.com)** | **[Data Analyst (Paid Intern)](https://jobright.ai/jobs/info/6a3473b329c90c607e4df550?utm_campaign=1066&utm_source=git)** | Luray, VA, USA | Remote | Jun 18 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a346b85f6b55d12c791cbc1?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Jun 18 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Epidemiologist Grad Intern](https://jobright.ai/jobs/info/6a3463891232144fb155fd58?utm_campaign=1066&utm_source=git)** | Tacoma-Pierce County Health Department, WA | On Site | Jun 18 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Quantitative Research & Trading Intern – Fall 2026](https://jobright.ai/jobs/info/6a336c0b910b734910715083?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
-| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
 | **[(page refresh)](http://www.docugami.com/)** | **[Data Science PhD Intern Kirkland, Washington, United States](https://jobright.ai/jobs/info/6a335029ce501060b5ced00a?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jun 17 |
 | **[IQVIA](https://www.iqvia.com)** | **[Internship, Real Estate Analytics](https://jobright.ai/jobs/info/6a3081fdeace377055eb6cf2?utm_campaign=1066&utm_source=git)** | Wayne, PA | Hybrid | Jun 17 |
@@ -152,6 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Centific](https://www.centific.com)** | **[PhD Applied Research Intern](https://jobright.ai/jobs/info/6a2c4db5a1d15e3c552fb1c2?utm_campaign=1066&utm_source=git)** | Remote Work( USA), US | Remote | Jun 12 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c49e3a1d15e3c552fb040?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/6a2906fd2d6c332ee52e966b?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Jun 12 |
-| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/69bba7ec06c1ba00c54e3e9b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 12 |
-| **[EV Realty](https://www.evrealtyus.com)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6a10bcf569bd827926af02fd?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
