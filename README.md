@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moog Inc.](http://www.moog.es)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/6a3573231232144fb15633e0?utm_campaign=1066&utm_source=git)** | Buffalo, NY, US | On Site | Jun 19 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a356d511232144fb1563206?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 19 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Report Developer, Analytics & Insights (Internship)](https://jobright.ai/jobs/info/6a356cb7f6b55d12c791fbd0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a355cbd1232144fb1562deb?utm_campaign=1066&utm_source=git)** | 1 Continental Dr, Auburn Hills, MI 48326, USA | On Site | Jun 19 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb58ae18b94b2515be1c86?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6a26c3c9ca77fd3096d2324c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 18 |
 | **[Bybit](https://www.bybit.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fbd7649fdf16292f3570?utm_campaign=1066&utm_source=git)** | APAC - Remote | Remote | Jun 18 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69e2a41a3770bd5361cd940f?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69e2a41a3770bd5361cd940f?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17b6761430333075cd3724?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
@@ -142,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Data Intern](https://jobright.ai/jobs/info/6a2c72d2f1751b183c818938?utm_campaign=1066&utm_source=git)** | Cheektowaga, New York, United States | Hybrid | Jun 13 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce0a093df201d07b2b36?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 12 |
-| **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
