@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - Temp](https://jobright.ai/jobs/info/6a25c9624239a435388827b7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jun 18 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6a26c3c9ca77fd3096d2324c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 18 |
 | **[Bybit](https://www.bybit.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fbd7649fdf16292f3570?utm_campaign=1066&utm_source=git)** | APAC - Remote | Remote | Jun 18 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69e2a41a3770bd5361cd940f?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69e2a41a3770bd5361cd940f?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/6a17b6761430333075cd3724?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
@@ -151,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jun 12 |
 | **[Centific](https://www.centific.com)** | **[PhD Applied Research Intern](https://jobright.ai/jobs/info/6a2c4db5a1d15e3c552fb1c2?utm_campaign=1066&utm_source=git)** | Remote Work( USA), US | Remote | Jun 12 |
-| **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c49e3a1d15e3c552fb040?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jun 12 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/6a2906fd2d6c332ee52e966b?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
