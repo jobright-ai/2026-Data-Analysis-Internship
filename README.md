@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a32c3437f3fdd180d4c3361?utm_campaign=1066&utm_source=git)** | New York, NY, USA | Hybrid | Jun 17 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bdb1e7b10602456282a892?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 17 |
-| **[AARP](http://www.aarp.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
-| ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6a0a38bc3b54ed42d74df0cb?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a2c14d77cd40a338fae48c6?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower, US | Hybrid | Jun 12 |
 | **[Aday](http://www.thisisaday.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6a2c144cd3ec94183f4bb164?utm_campaign=1066&utm_source=git)** | USA, NY | On Site | Jun 12 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 12 |
-| **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafc?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
