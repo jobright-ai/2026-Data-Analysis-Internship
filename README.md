@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a355cbd1232144fb1562deb?utm_campaign=1066&utm_source=git)** | 1 Continental Dr, Auburn Hills, MI 48326, USA | On Site | Jun 19 |
+| **[BMO](http://www.bmo.com)** | **[Engagement & Enablement Specialist, Fall 2026 (Co-op/Internship)  -  4 months](https://jobright.ai/jobs/info/6a354cba7f3fdd180d4cce67?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 19 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fc36c09fc67a0b39f474f0?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30cb9aeace377055eb7a5e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a341e3d1232144fb155e454?utm_campaign=1066&utm_source=git)** | Remote, Virginia, United States | Remote | Jun 18 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb5089d21cf86d1e3d1bfe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | ↳ | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb58ae18b94b2515be1c86?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - Temp](https://jobright.ai/jobs/info/6a25c9624239a435388827b7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jun 18 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6a26c3c9ca77fd3096d2324c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 18 |
 | **[Bybit](https://www.bybit.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fbd7649fdf16292f3570?utm_campaign=1066&utm_source=git)** | APAC - Remote | Remote | Jun 18 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/69e2a41a3770bd5361cd940f?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
@@ -140,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce0a093df201d07b2b36?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 12 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jun 12 |
-| **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a2c831c7cd40a338fae6d09?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
