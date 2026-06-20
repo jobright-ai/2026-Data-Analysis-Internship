@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a35a29ace501060b5cf52bf?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 19 |
 | **[Moog Inc.](http://www.moog.es)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/6a3573231232144fb15633e0?utm_campaign=1066&utm_source=git)** | Buffalo, NY, US | On Site | Jun 19 |
 | **[Qsentia.com](https://www.qsentia.com/)** | **[Quantitative Research Intern ll](https://jobright.ai/jobs/info/6a3592287f3fdd180d4ce10c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
-| **[University Hospitals](https://www.uhhospitals.org/)** | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358db329c90c607e4e2b08?utm_campaign=1066&utm_source=git)** | 3605 Warrensville Center Road, Shaker Heights, Ohio, United States | On Site | Jun 19 |
-| ↳ | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358db329c90c607e4e2b07?utm_campaign=1066&utm_source=git)** | Shaker Heights, Ohio, United States | On Site | Jun 19 |
+| **[University Hospitals](https://www.uhhospitals.org/)** | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358db329c90c607e4e2b07?utm_campaign=1066&utm_source=git)** | Shaker Heights, Ohio, United States | On Site | Jun 19 |
+| ↳ | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358db329c90c607e4e2b08?utm_campaign=1066&utm_source=git)** | 3605 Warrensville Center Road, Shaker Heights, Ohio, United States | On Site | Jun 19 |
 | ↳ | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358dac29c90c607e4e2b03?utm_campaign=1066&utm_source=git)** | 3605 Warrensville Center Road | On Site | Jun 19 |
 | ↳ | **[IT Intern (Data Science)](https://jobright.ai/jobs/info/6a358daa29c90c607e4e2b01?utm_campaign=1066&utm_source=git)** | United States-Ohio-Shaker Heights | On Site | Jun 19 |
 | **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a356d511232144fb1563206?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 19 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a32c3437f3fdd180d4c3361?utm_campaign=1066&utm_source=git)** | New York, NY, USA | Hybrid | Jun 17 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bdb1e7b10602456282a892?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 17 |
-| **[AARP](http://www.aarp.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
-| ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 17 |
@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern/Co-op](https://jobright.ai/jobs/info/6a2eb4ca7cd40a338faea962?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 14 |
 | **[Sunwater Capital](http://sunwatercapital.com )** | **[Fall Congressional Research Intern](https://jobright.ai/jobs/info/6a2df25ed3ec94183f4c02dc?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Jun 13 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a20f1254bdf8a5a96bd3ca2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
-| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69d7fddf9f97a42dc9c194be?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
