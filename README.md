@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 20 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 20 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern III](https://jobright.ai/jobs/info/6a2dbf9ef1751b183c81b603?utm_campaign=1066&utm_source=git)** | Allentown, PA | Hybrid | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30d520eace377055eb7cee?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30cb5a43732c05812e3b4c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Quantitative Research & Trading Intern – Fall 2026](https://jobright.ai/jobs/info/6a336c0b910b734910715083?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
-| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
-| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134c?utm_campaign=1066&utm_source=git)** | South San Francisco, California, United States | Hybrid | Jun 17 |
+| ↳ | **[Supply Chain & Data Analytics Intern](https://jobright.ai/jobs/info/6a33357a649fdf16292f134d?utm_campaign=1066&utm_source=git)** | San Diego, California, United States | Hybrid | Jun 17 |
 | **[(page refresh)](http://www.docugami.com/)** | **[Data Science PhD Intern Kirkland, Washington, United States](https://jobright.ai/jobs/info/6a335029ce501060b5ced00a?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Jun 17 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jun 17 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
