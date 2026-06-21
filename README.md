@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 20 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 20 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern III](https://jobright.ai/jobs/info/6a2dbf9ef1751b183c81b603?utm_campaign=1066&utm_source=git)** | Allentown, PA | Hybrid | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30d520eace377055eb7cee?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
 | ↳ | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30cb5a43732c05812e3b4c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
@@ -104,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a32c3437f3fdd180d4c3361?utm_campaign=1066&utm_source=git)** | New York, NY, USA | Hybrid | Jun 17 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bdb1e7b10602456282a892?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 17 |
-| **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| **[AARP](http://www.aarp.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 17 |
