@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Availity](http://www.availity.com)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6a3990ed1232144fb156c020?utm_campaign=1066&utm_source=git)** | Remote - United States, US | Remote | Jun 22 |
+| **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge)](https://jobright.ai/jobs/info/6a39a087649fdf16293020ce?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Jun 22 |
+| **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a399e63214ae004c7a1fad3?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 22 |
+| **[Center for Biological Diversity](http://www.biologicaldiversity.org/)** | **[GHG Data Analyst Intern](https://jobright.ai/jobs/info/6a399e2d1232144fb156c685?utm_campaign=1066&utm_source=git)** | Remote, Florida, United States | Remote | Jun 22 |
 | **[BIGO](https://www.bigo.sg)** | **[Data Analytics Intern ( User Growth function)](https://jobright.ai/jobs/info/6a389d93ce501060b5cf9c83?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 22 |
 | **[Chainalysis Government Solutions](https://www.chainalysis.com/government/)** | **[Investigations & Data Analysis Internship](https://jobright.ai/jobs/info/6a398705214ae004c7a1f257?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 22 |
@@ -74,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a37f8f6a0f3e56e86d6d6d5?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 21 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a301bdcafabbe533fb890b9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a3771e3649fdf16292fd2f5?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 20 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Report Developer (Intern), Analytics and Insights](https://jobright.ai/jobs/info/6a35ddf0ce501060b5cf597d?utm_campaign=1066&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Jun 19 |
 | **[Moog Inc.](http://www.moog.es)** | **[Intern, IT Computer Science - Data Analytics](https://jobright.ai/jobs/info/6a3573231232144fb15633e0?utm_campaign=1066&utm_source=git)** | Buffalo, NY, US | On Site | Jun 19 |
 | **[Chainalysis Government Solutions](https://www.chainalysis.com/government/)** | **[Internship Program – Investigations & Data Analysis](https://jobright.ai/jobs/info/6a38b40dce501060b5cf9ea5?utm_campaign=1066&utm_source=git)** | Washington, D.C. - Remote | Remote | Jun 19 |
-| **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a356d511232144fb1563206?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 19 |
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Report Developer, Analytics & Insights (Internship)](https://jobright.ai/jobs/info/6a356cb7f6b55d12c791fbd0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fc36c09fc67a0b39f474f0?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Jun 19 |
