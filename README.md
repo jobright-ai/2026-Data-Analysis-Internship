@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 18 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 18 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a341e3d1232144fb155e454?utm_campaign=1066&utm_source=git)** | Remote, Virginia, United States | Remote | Jun 18 |
-| **[Tacoma-Pierce County Health Department](https://www.tpchd.org)** | **[Epidemiologist Grad Intern](https://jobright.ai/jobs/info/6a3956371232144fb156a9a7?utm_campaign=1066&utm_source=git)** | Tacoma, WA | On Site | Jun 18 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb5089d21cf86d1e3d1bfe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | ↳ | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb58ae18b94b2515be1c86?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6a26c3c9ca77fd3096d2324c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 18 |
@@ -146,7 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Simplify Compliance](http://www.simplifycompliance.com/)** | **[Data Acquisition Analyst Intern](https://jobright.ai/jobs/info/6a3194b235e80310003a7efd?utm_campaign=1066&utm_source=git)** | Rockville, MD | Hybrid | Jun 16 |
 | **[ProCogia](http://procogia.com/)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6a3190ac0ff23769fdb1eaeb?utm_campaign=1066&utm_source=git)** | Vancouver, BC (on-site) | On Site | Jun 16 |
 | **[Synchrony](https://www.synchrony.com/)** | **[BLP Intern – Data Analytics](https://jobright.ai/jobs/info/6a314aae35e80310003a6456?utm_campaign=1066&utm_source=git)** | Stamford Hub, US | Hybrid | Jun 16 |
-| **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Front-End Dashboarding](https://jobright.ai/jobs/info/6a31496fe7b7d514a3bd2bc3?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 16 |
-| ↳ | **[Internship Data & Analytics - MarkTech](https://jobright.ai/jobs/info/6a31496de7b7d514a3bd2bc2?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 16 |
-| ↳ | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a31496a35e80310003a6404?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
