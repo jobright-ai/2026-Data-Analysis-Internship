@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jun 23 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Student Data Analyst](https://jobright.ai/jobs/info/6a3b13d3649fdf16293073b4?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jun 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Analyst - Graduate Level Internship](https://jobright.ai/jobs/info/6a3b092706a4fd4b1fac01b4?utm_campaign=1066&utm_source=git)** | Town Center: 211 East Pleasant Run Road, DeSoto, TX | On Site | Jun 23 |
+| **[LangPal](https://www.lang-pal.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a3b1c34797099171917d422?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 23 |
 | **[PerformLine](http://www.performline.com)** | **[Operations Internship](https://jobright.ai/jobs/info/6a3ae69d649fdf1629306461?utm_campaign=1066&utm_source=git)** | Hybrid (Morristown, NJ) | Hybrid | Jun 23 |
 | **[Bybit](https://www.bybit.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fbd7649fdf16292f3570?utm_campaign=1066&utm_source=git)** | APAC - Remote | Remote | Jun 23 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Performance Analytics Intern (12 Months)](https://jobright.ai/jobs/info/6a39a64a649fdf16293023bc?utm_campaign=1066&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 23 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Alamo Group Inc.](http://alamo-group.com)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/6a2ec4cd7cd40a338faeaa99?utm_campaign=1066&utm_source=git)** | New Braunfels, TX | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
+| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3a95cedd879c60912af730?utm_campaign=1066&utm_source=git)** | Black Hawk, IA | On Site | Jun 23 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 23 |
 | **[FUJITSU LIMITED（JAPAN）](https://www.fujitsu.com/jp/)** | **[Intern Researcher](https://jobright.ai/jobs/info/6a3ae85f649fdf1629306530?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
@@ -108,7 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a37f8f6a0f3e56e86d6d6d5?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 21 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a1a65cde24ef3652582b863?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a301bdcafabbe533fb890b9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a3771e3649fdf16292fd2f5?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jun 20 |
@@ -148,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jun 17 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jun 17 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/69bdb1e7b10602456282a892?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 17 |
-| **[AARP](http://www.aarp.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
-| ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
+| ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 17 |
