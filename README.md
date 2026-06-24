@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primera Engineers](https://primeraeng.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/6a3b2e53797099171917d814?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 23 |
+| **[IMEG](http://www.imegcorp.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3b2a1906a4fd4b1fac0997?utm_campaign=1066&utm_source=git)** | Rock Island, IL, US | On Site | Jun 23 |
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jun 23 |
 | **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Internship - Student Data Analyst](https://jobright.ai/jobs/info/6a3b13d3649fdf16293073b4?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jun 23 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Analyst - Graduate Level Internship](https://jobright.ai/jobs/info/6a3b092706a4fd4b1fac01b4?utm_campaign=1066&utm_source=git)** | Town Center: 211 East Pleasant Run Road, DeSoto, TX | On Site | Jun 23 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Centerfield](http://www.centerfield.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a39cdd86484fb75f2b33af0?utm_campaign=1066&utm_source=git)** | Los Angeles, California | Hybrid | Jun 22 |
 | **[Steer](https://in.steergroup.com/)** | **[Intern (Economic Development Data Analyst)](https://jobright.ai/jobs/info/6a39dbe706a4fd4b1fabc51c?utm_campaign=1066&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 22 |
 | ↳ | **[Intern (Economic Development Data Analyst)](https://jobright.ai/jobs/info/6a39d2ca214ae004c7a20ac4?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Jun 22 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Scientist Year Round Intern - BS/MS degree (Santa Clara, CA)](https://jobright.ai/jobs/info/6a260f80d46c0f79960893b7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jun 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Geographic Information Systems (GIS) Intern - Fall 2026](https://jobright.ai/jobs/info/6a39be45f6b55d12c792a01b?utm_campaign=1066&utm_source=git)** | Wake County Wake, United States of America | On Site | Jun 22 |
 | **[VHB](https://www.vhb.com/)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a397ce1214ae004c7a1ee0b?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | Jun 22 |
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge)](https://jobright.ai/jobs/info/6a39a087649fdf16293020ce?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Jun 22 |
@@ -106,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Integrity and Safety) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a37f8f6a0f3e56e86d6d6d5?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/6a310cfa43732c05812e45a4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 17 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a32d282ce501060b5cea7cd?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 17 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 17 |
-| **[Zone 5 Technologies](https://www.zone5tech.com)** | **[Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/6a166cae554b0e12c058be41?utm_campaign=1066&utm_source=git)** | San Luis Obispo, California, United States | On Site | Jun 17 |
-| **[PlusAI](http://plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
