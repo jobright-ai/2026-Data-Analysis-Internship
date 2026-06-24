@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nuro](https://nuro.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a3c387f8bfad862bc9998bd?utm_campaign=1066&utm_source=git)** | Mountain View, California (HQ) | On Site | Jun 24 |
 | **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3c1d0b122f340d29cec961?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 | **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a3c1a44882f121f56a334f9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 24 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3c0e45d261407de97fc28b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 24 |
@@ -78,11 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Protagonist](http://www.protagonist.io)** | **[Socio-Cultural Analyst Intern (Strong Writing & Research Skills)](https://jobright.ai/jobs/info/6a3ae686dd879c60912b0ec9?utm_campaign=1066&utm_source=git)** | Washington DC | Hybrid | Jun 23 |
 | **[Advantest](http://www.advantest.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a3ad9b9dd879c60912b0bf2?utm_campaign=1066&utm_source=git)** | 3061 Zanker Road, San Jose, CA95134 | On Site | Jun 23 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a13c2c512f8b43cf39900f8?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jun 23 |
-| **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Data & Technology (September 2026 - April 2027)](https://jobright.ai/jobs/info/6a1e41e5dce5db1256d0e22a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 23 |
 | **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Revenue Operations Analytics Intern](https://jobright.ai/jobs/info/6a3ac78006a4fd4b1fabecad?utm_campaign=1066&utm_source=git)** | Westlake, US | On Site | Jun 23 |
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
-| **[Liberty Bay Credit Union](https://lbcu.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3ab5a106a4fd4b1fabe6d4?utm_campaign=1066&utm_source=git)** | Braintree, Massachusetts, United States | On Site | Jun 23 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3ab3d3797099171917b284?utm_campaign=1066&utm_source=git)** | Braintree, MA | On Site | Jun 23 |
 | **[IMEG, formally Northern Engineering & Consulting, Inc.](https://neciusa.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3ab03e797099171917b124?utm_campaign=1066&utm_source=git)** | Black Hawk, IA | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
@@ -115,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a301bdcafabbe533fb890b9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
@@ -150,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Bernstein - Quantitative Research & Trading Intern – Fall 2026](https://jobright.ai/jobs/info/6a336c0b910b734910715083?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
