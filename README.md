@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Provider Data Reporting](https://jobright.ai/jobs/info/6a3caf3f4d047136e093177f?utm_campaign=1066&utm_source=git)** | USA, TN, Chattanooga, Remote, US | Remote | Jun 24 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[Stantec](http://www.stantec.com)** | **[Data Scientist Intern - Water (Fall 2026)](https://jobright.ai/jobs/info/6a3c59b2882f121f56a347b9?utm_campaign=1066&utm_source=git)** | 9797 Aero Drive, San Diego, CA, 92123, US | Remote | Jun 24 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
@@ -143,7 +144,4 @@ For a complete list, click the following sortable link below:
 | **[International Health Alliance](https://ihahealthcare.com)** | **[Clinical & Global Health Research Internship (Remote)](https://jobright.ai/jobs/info/6a345947649fdf16292f5818?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 18 |
 | **[Munters](https://www.munters.com/)** | **[Sourcing and Sustainability Data Intern](https://jobright.ai/jobs/info/6a3425ce649fdf16292f450f?utm_campaign=1066&utm_source=git)** | US - Amesbury (MA), US | On Site | Jun 18 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 18 |
-| **[Affinius Capital](https://affiniuscapital.com)** | **[Summer 2027 Data Scientist Intern](https://jobright.ai/jobs/info/6a2b091c1de59e0682a879d0?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jun 18 |
-| **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 18 |
-| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
