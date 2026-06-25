@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3c1d0b122f340d29cec961?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Stantec](http://www.stantec.com)** | **[Data Scientist Intern - Water (Fall 2026)](https://jobright.ai/jobs/info/6a3c59b2882f121f56a347b9?utm_campaign=1066&utm_source=git)** | 9797 Aero Drive, San Diego, CA, 92123, US | Remote | Jun 24 |
-| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 24 |
+| **[Intel](http://www.intel.com)** | **[Data Science and Analytics Intern](https://jobright.ai/jobs/info/6a3c84878bfad862bc99aa44?utm_campaign=1066&utm_source=git)** | Hillsboro, OR | On Site | Jun 24 |
 | **[Nuro](https://nuro.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a3c387f8bfad862bc9998bd?utm_campaign=1066&utm_source=git)** | Mountain View, California (HQ) | On Site | Jun 24 |
+| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Data Analytics](https://jobright.ai/jobs/info/6a3c79add261407de97fdca7?utm_campaign=1066&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jun 24 |
+| **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
+| **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3c1d0b122f340d29cec961?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 24 |
 | **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a3c1a44882f121f56a334f9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 24 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3c0e45d261407de97fc28b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training & Internship](https://jobright.ai/jobs/info/6a3c059e882f121f56a32fc8?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 24 |
@@ -147,6 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fb58ae18b94b2515be1c86?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6a26c3c9ca77fd3096d2324c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 18 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6a1385a9619335383fb3cfe8?utm_campaign=1066&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Jun 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
-| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
