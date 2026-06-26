@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a22e1f214de9460dc843838?utm_campaign=1066&utm_source=git)** | 0177 - Plant 177 - Worcester MA - Worcester, MA 01607 | On Site | Jun 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a3e7636d261407de980328c?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 26 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Governance)](https://jobright.ai/jobs/info/6a3e9b50122f340d29cf3c5e?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | On Site | Jun 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Fall 2026](https://jobright.ai/jobs/info/6a3aaa0c797099171917af63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jun 26 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3022bfeace377055eb486d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
@@ -106,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
+| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 23 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3a93b106a4fd4b1fabdd2e?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
 | **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/6a297df6c07d4b6ae1c40ba7?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Jun 23 |
