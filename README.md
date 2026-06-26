@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
 | **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Clinical Research Data Entry Intern - Remote US](https://jobright.ai/jobs/info/6a3d925d122f340d29cf14c5?utm_campaign=1066&utm_source=git)** | Tennessee, United States | Remote | Jun 25 |
 | **[ESAB Corporation](https://esabcorporation.com)** | **[Data Analytics Intern - Operations & Supply Chain](https://jobright.ai/jobs/info/6a3d78cc4d047136e0933c20?utm_campaign=1066&utm_source=git)** | Denton, TX | On Site | Jun 25 |
 | **[Stantec](http://www.stantec.com)** | **[Data Scientist Intern - Water (Fall 2026)](https://jobright.ai/jobs/info/6a3c59b2882f121f56a347b9?utm_campaign=1066&utm_source=git)** | 9797 Aero Drive, San Diego, CA, 92123, US | Remote | Jun 25 |
 | **[University Health Network](https://www.uhn.ca/OurHospitals/PrincessMargaret)** | **[Junior Report Developer (Intern), Analytics and Insights](https://jobright.ai/jobs/info/6a35dd31ce501060b5cf5882?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 25 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
 | **[Lumerate](https://lumerate.com)** | **[Data Intern](https://jobright.ai/jobs/info/6a3d4bb14d047136e0932ced?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[Massachusetts Life Sciences Center](http://www.masslifesciences.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a3d425ed261407de97ff8df?utm_campaign=1066&utm_source=git)** | Waltham, Massachusetts, United States | Hybrid | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 25 |
@@ -69,13 +69,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Provider Data Reporting](https://jobright.ai/jobs/info/6a3caf3f4d047136e093177f?utm_campaign=1066&utm_source=git)** | USA, TN, Chattanooga, Remote, US | Remote | Jun 24 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[Intel](http://www.intel.com)** | **[Data Science and Analytics Intern](https://jobright.ai/jobs/info/6a3c84878bfad862bc99aa44?utm_campaign=1066&utm_source=git)** | Hillsboro, OR | On Site | Jun 24 |
 | **[Nuro](https://nuro.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a3c387f8bfad862bc9998bd?utm_campaign=1066&utm_source=git)** | Mountain View, California (HQ) | On Site | Jun 24 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Data Analytics](https://jobright.ai/jobs/info/6a3c79add261407de97fdca7?utm_campaign=1066&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jun 24 |
 | **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
@@ -128,9 +127,9 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a301bdcafabbe533fb890b9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
