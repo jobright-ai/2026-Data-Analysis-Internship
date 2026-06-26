@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis](https://jobright.ai/jobs/info/6a3eaf8678237a036d5e4f22?utm_campaign=1066&utm_source=git)** | Montreal, Canada | Hybrid | Jun 26 |
 | **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a22e1f214de9460dc843838?utm_campaign=1066&utm_source=git)** | 0177 - Plant 177 - Worcester MA - Worcester, MA 01607 | On Site | Jun 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a3e7636d261407de980328c?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 26 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Governance)](https://jobright.ai/jobs/info/6a3e9b50122f340d29cf3c5e?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | On Site | Jun 26 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a301bdcafabbe533fb890b9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern III](https://jobright.ai/jobs/info/6a2dbf9ef1751b183c81b603?utm_campaign=1066&utm_source=git)** | Allentown, PA | Hybrid | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30d520eace377055eb7cee?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30e12189f8f147d3737205?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 20 |
-| **[Echelon Insights](http://echeloninsights.com/)** | **[Echelon Fellowship (Internship)](https://jobright.ai/jobs/info/6a35de2729c90c607e4e3ab9?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
