@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
+| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a40727e9dd7f954cafe80d0?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 27 |
+| ↳ | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Automation Internship](https://jobright.ai/jobs/info/6a4045f91afc66714d3c9d33?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training & Internship](https://jobright.ai/jobs/info/6a40008d9dd7f954cafe79e9?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 27 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
+| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 23 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3a93b106a4fd4b1fabdd2e?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
 | **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/6a297df6c07d4b6ae1c40ba7?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Jun 23 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jun 21 |
