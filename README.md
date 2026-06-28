@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quadrillion Labs](https://quadrillion.io/)** | **[Research Intern](https://jobright.ai/jobs/info/6a40a4a716b1493953283876?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a40727e9dd7f954cafe80d0?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 27 |
 | ↳ | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training & Internship](https://jobright.ai/jobs/info/6a40008d9dd7f954cafe79e9?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 27 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
+| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69eb93994b0fa35a7077cec1?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a0628236c07461fe171cece?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06d6e14f290f7450ea3879?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jun 27 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Researcher - Summer Internship](https://jobright.ai/jobs/info/6a3f3de34d047136e093912c?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
@@ -137,16 +139,11 @@ For a complete list, click the following sortable link below:
 | **[BIGO](https://www.bigo.sg)** | **[Data Analytics Intern ( User Growth function)](https://jobright.ai/jobs/info/6a389d93ce501060b5cf9c83?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 22 |
 | **[Chainalysis Government Solutions](https://www.chainalysis.com/government/)** | **[Investigations & Data Analysis Internship](https://jobright.ai/jobs/info/6a398705214ae004c7a1f257?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 22 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Geospatial Information Systems (GIS) Graduate Program Intern](https://jobright.ai/jobs/info/6a39715b214ae004c7a1e960?utm_campaign=1066&utm_source=git)** | City Hall, 15670 NE 85th St, Redmond, WA | On Site | Jun 22 |
 | **[BMO](http://www.bmo.com)** | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a397e27214ae004c7a1eeb2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | ↳ | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a394f7e6484fb75f2b30b1e?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2864691dbd8437bebcade5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 22 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/69e2c666fcfcbd43860a4709?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | Jun 21 |
-| **[ND Health and Human Services](https://www.hhs.nd.gov)** | **[Research Evaluation and Outcomes Intern](https://jobright.ai/jobs/info/6a39e1e51232144fb156d972?utm_campaign=1066&utm_source=git)** | Bismarck, ND | On Site | Jun 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 | **[Find Community Connection Project](https://www.findccproject.org/)** | **[Data Analyst Intern/Volunteer (NJ)](https://jobright.ai/jobs/info/6a38295029c90c607e4e742a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jun 21 |
 | ↳ | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a3824d4f6b55d12c7925138?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a0710244a0a6a7e7d822dd2?utm_campaign=1066&utm_source=git)** | Greater Seattle area | Hybrid | Jun 21 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
