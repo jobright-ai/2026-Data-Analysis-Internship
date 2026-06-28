@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a4123099dd7f954cafe8999?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 28 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a4117ccb526a24fc3131607?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
 | **[Quadrillion Labs](https://quadrillion.io/)** | **[Research Intern](https://jobright.ai/jobs/info/6a40a4a716b1493953283876?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
@@ -145,5 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a394f7e6484fb75f2b30b1e?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2864691dbd8437bebcade5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 22 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/69e2c666fcfcbd43860a4709?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | Jun 21 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a29da6bc07d4b6ae1c4352a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
