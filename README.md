@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Automation Internship](https://jobright.ai/jobs/info/6a4045f91afc66714d3c9d33?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Training & Internship](https://jobright.ai/jobs/info/6a40008d9dd7f954cafe79e9?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 27 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a0628236c07461fe171cece?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06d6e14f290f7450ea3879?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jun 27 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Researcher - Summer Internship](https://jobright.ai/jobs/info/6a3f3de34d047136e093912c?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 26 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
