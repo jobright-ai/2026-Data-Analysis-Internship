@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a42e07fa5e15b106837a8c9?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 | **[TONYMOLY USA](http://www.tonymoly.us)** | **[AI & Business Intelligence Intern](https://jobright.ai/jobs/info/6a42cca11cc9cc2b12fecdbc?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
