@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
+| **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
-| **[Pareto Connect](https://apply.trypareto.ai/)** | **[Research Intern (Remote)](https://jobright.ai/jobs/info/6a42b4241cc9cc2b12fec7c8?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/6a428fac6faf756060967180?utm_campaign=1066&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 29 |
 | **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2?utm_campaign=1066&utm_source=git)** | Arvada Office - Arvada, CO 80003 | On Site | Jun 29 |
 | ↳ | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac65cdbedbf5680c71045?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 23 |
 | **[Advantest](http://www.advantest.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a3ad9b9dd879c60912b0bf2?utm_campaign=1066&utm_source=git)** | 3061 Zanker Road, San Jose, CA95134 | On Site | Jun 23 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a13c2c512f8b43cf39900f8?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jun 23 |
-| **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Revenue Operations Analytics Intern](https://jobright.ai/jobs/info/6a3ac78006a4fd4b1fabecad?utm_campaign=1066&utm_source=git)** | Westlake, US | On Site | Jun 23 |
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
