@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TONYMOLY USA](http://www.tonymoly.us)** | **[AI & Business Intelligence Intern](https://jobright.ai/jobs/info/6a42cca11cc9cc2b12fecdbc?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a290542883c0d3be6545609?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jun 29 |
+| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2a6cb50c4972328e7e8b6e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jun 29 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/6a428fac6faf756060967180?utm_campaign=1066&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 29 |
 | **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2?utm_campaign=1066&utm_source=git)** | Arvada Office - Arvada, CO 80003 | On Site | Jun 29 |
-| ↳ | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a29053c7061b51a3a5f92f3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jun 29 |
+| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a4123099dd7f954cafe8999?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
@@ -127,11 +131,10 @@ For a complete list, click the following sortable link below:
 | **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
 | **[TransTech Group](http://www.transtechgroup.com/)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a0f3d5472b52f7225f3bfe4?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Hybrid | Jun 23 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Data & Analytics - Back-end Google Cloud](https://jobright.ai/jobs/info/6a3aa28506a4fd4b1fabe17a?utm_campaign=1066&utm_source=git)** | Headquarters International, NL | Hybrid | Jun 23 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde8c2a87d6cd3e0d5d8?utm_campaign=1066&utm_source=git)** | Remote Site, US | Remote | Jun 23 |
+| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jun 23 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 23 |
 | **[Research Foundation of The City University of New York](https://www.rfcuny.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3a93b106a4fd4b1fabdd2e?utm_campaign=1066&utm_source=git)** | New York, NY, US | On Site | Jun 23 |
 | **[407 ETR](https://407etr.com)** | **[Data Governance Intern (May - August)](https://jobright.ai/jobs/info/6a297df6c07d4b6ae1c40ba7?utm_campaign=1066&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Jun 23 |
 | **[State Farm](https://www.statefarm.com)** | **[Fall 2026 Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6a3a91ca06a4fd4b1fabdc9c?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | Jun 23 |
-| **[Centerfield](http://www.centerfield.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a39cdd86484fb75f2b33af0?utm_campaign=1066&utm_source=git)** | Los Angeles, California | Hybrid | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
