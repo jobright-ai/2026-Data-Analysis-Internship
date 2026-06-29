@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 22 |
 | **[BMO](http://www.bmo.com)** | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a397e27214ae004c7a1eeb2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 22 |
 | ↳ | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a394f7e6484fb75f2b30b1e?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2864691dbd8437bebcade5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
