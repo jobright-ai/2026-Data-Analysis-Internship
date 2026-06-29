@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a4123099dd7f954cafe8999?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
@@ -136,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Steer](https://in.steergroup.com/)** | **[Intern (Economic Development Data Analyst)](https://jobright.ai/jobs/info/6a39dbe706a4fd4b1fabc51c?utm_campaign=1066&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 22 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Scientist Year Round Intern - BS/MS degree (Santa Clara, CA)](https://jobright.ai/jobs/info/6a260f80d46c0f79960893b7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jun 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Geographic Information Systems (GIS) Intern - Fall 2026](https://jobright.ai/jobs/info/6a39be45f6b55d12c792a01b?utm_campaign=1066&utm_source=git)** | Wake County Wake, United States of America | On Site | Jun 22 |
-| **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoD SkillBridge)](https://jobright.ai/jobs/info/6a39a087649fdf16293020ce?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Jun 22 |
-| **[CECP](https://cecp.co)** | **[Corporate Insights & Research 2026 Intern](https://jobright.ai/jobs/info/6a399e63214ae004c7a1fad3?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
