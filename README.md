@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/6a428fac6faf756060967180?utm_campaign=1066&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 29 |
+| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2?utm_campaign=1066&utm_source=git)** | Arvada Office - Arvada, CO 80003 | On Site | Jun 29 |
+| ↳ | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a4123099dd7f954cafe8999?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
@@ -133,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Centerfield](http://www.centerfield.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a39cdd86484fb75f2b33af0?utm_campaign=1066&utm_source=git)** | Los Angeles, California | Hybrid | Jun 22 |
 | **[Steer](https://in.steergroup.com/)** | **[Intern (Economic Development Data Analyst)](https://jobright.ai/jobs/info/6a39dbe706a4fd4b1fabc51c?utm_campaign=1066&utm_source=git)** | Pittsburgh, Pennsylvania, United States | Hybrid | Jun 22 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Scientist Year Round Intern - BS/MS degree (Santa Clara, CA)](https://jobright.ai/jobs/info/6a260f80d46c0f79960893b7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jun 22 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Geographic Information Systems (GIS) Intern - Fall 2026](https://jobright.ai/jobs/info/6a39be45f6b55d12c792a01b?utm_campaign=1066&utm_source=git)** | Wake County Wake, United States of America | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
