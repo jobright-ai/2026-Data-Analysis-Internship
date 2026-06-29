@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a4123099dd7f954cafe8999?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
 | **[Quadrillion Labs](https://quadrillion.io/)** | **[Research Intern](https://jobright.ai/jobs/info/6a40a4a716b1493953283876?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
@@ -139,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[BIGO](https://www.bigo.sg)** | **[Data Analytics Intern ( User Growth function)](https://jobright.ai/jobs/info/6a389d93ce501060b5cf9c83?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 22 |
 | **[Chainalysis Government Solutions](https://www.chainalysis.com/government/)** | **[Investigations & Data Analysis Internship](https://jobright.ai/jobs/info/6a398705214ae004c7a1f257?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 22 |
 | **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a02d5797c753c287f6e14d8?utm_campaign=1066&utm_source=git)** | Lévis, Quebec, Canada | Hybrid | Jun 22 |
-| **[BMO](http://www.bmo.com)** | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a397e27214ae004c7a1eeb2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 22 |
-| ↳ | **[Database Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a394f7e6484fb75f2b30b1e?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
