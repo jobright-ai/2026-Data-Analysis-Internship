@@ -132,8 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Primera Engineers](https://primeraeng.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/6a3b2e53797099171917d814?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 23 |
 | **[Alamo Group Inc.](http://alamo-group.com)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/6a430b51a5e15b106837b0d0?utm_campaign=1066&utm_source=git)** | New Braunfels, TX | On Site | Jun 23 |
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jun 23 |
-| **[PerformLine](http://www.performline.com)** | **[Operations Internship](https://jobright.ai/jobs/info/6a3ae69d649fdf1629306461?utm_campaign=1066&utm_source=git)** | Hybrid (Morristown, NJ) | Hybrid | Jun 23 |
-| **[BMW Group](https://www.bmwgroup-werke.com)** | **[Performance Analytics Intern (12 Months)](https://jobright.ai/jobs/info/6a39a64a649fdf16293023bc?utm_campaign=1066&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jun 23 |
-| **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a3ae996dd879c60912b1033?utm_campaign=1066&utm_source=git)** | Newark, New Jersey | On Site | Jun 23 |
-| **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac65cdbedbf5680c71045?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
