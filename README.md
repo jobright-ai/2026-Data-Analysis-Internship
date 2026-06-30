@@ -58,9 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
-| ↳ | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 30 |
+| **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[DATA INTELLIGENCE INTERN](https://jobright.ai/jobs/info/6a43f5b757ffc22029405c7e?utm_campaign=1066&utm_source=git)** | Boca Raton,Florida,United States | On Site | Jun 30 |
 | **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a43d47457ffc22029403c7b?utm_campaign=1066&utm_source=git)** | OCALI | Hybrid | Jun 30 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2b0681c07d4b6ae1c48c4c?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jun 30 |
 | **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343b9b649fdf16292f4c85?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 30 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a42e07fa5e15b106837a8c9?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a290542883c0d3be6545609?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jun 29 |
