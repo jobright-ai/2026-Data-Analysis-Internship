@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
+| **[State of Tennessee](http://www.comptroller.tn.gov)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
 | **[City of New York](http://www1.nyc.gov)** | **[Data Steward / Summer Grad Intern](https://jobright.ai/jobs/info/6a433e3f501d340b4a82ed1f?utm_campaign=1066&utm_source=git)** | New York City, NY | On Site | Jun 29 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
@@ -137,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a3ae996dd879c60912b1033?utm_campaign=1066&utm_source=git)** | Newark, New Jersey | On Site | Jun 23 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac65cdbedbf5680c71045?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 23 |
 | **[Advantest](http://www.advantest.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a3ad9b9dd879c60912b0bf2?utm_campaign=1066&utm_source=git)** | 3061 Zanker Road, San Jose, CA95134 | On Site | Jun 23 |
-| **[Desjardins](https://www.desjardins.com/ca/about-us/desjardins/governance-democracy/structure/desjardins-securities/)** | **[Data internship, Fall 2026](https://jobright.ai/jobs/info/6a13c2c512f8b43cf39900f8?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jun 23 |
-| **[EXL](http://www.exlservice.com)** | **[Intern](https://jobright.ai/jobs/info/6a3ac2addbedbf5680c70f02?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, United States | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
