@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a43c6c665e80d3c99f28f76?utm_campaign=1066&utm_source=git)** | Oklahoma City, Oklahoma, US | On Site | Jun 30 |
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
 | **[State of Tennessee](https://www.tn.gov/didd.html)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
