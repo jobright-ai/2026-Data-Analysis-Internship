@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
+| **[Sumeru Inc](https://sumeru.us/)** | **[Business Intelligence Analyst- Intern](https://jobright.ai/jobs/info/6a43ffa8105260150b7206db?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jun 30 |
+| **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
+| ↳ | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[DATA INTELLIGENCE INTERN](https://jobright.ai/jobs/info/6a43f5b757ffc22029405c7e?utm_campaign=1066&utm_source=git)** | Boca Raton,Florida,United States | On Site | Jun 30 |
 | **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a43d47457ffc22029403c7b?utm_campaign=1066&utm_source=git)** | OCALI | Hybrid | Jun 30 |
 | **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 29 |
-| **[Wesley Housing](https://wesleyhousing.org/)** | **[Summer Intern - Affordable Housing Asset Management & Data Analytics](https://jobright.ai/jobs/info/6a4322b13a9004648946a978?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Jun 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a3bab3b122f340d29ceb287?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3b7e38dbedbf5680c73c95?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 23 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/6a3b2e53797099171917d814?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
