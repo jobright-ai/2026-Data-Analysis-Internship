@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
+| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 29 |
+| **[Wesley Housing](https://wesleyhousing.org/)** | **[Summer Intern - Affordable Housing Asset Management & Data Analytics](https://jobright.ai/jobs/info/6a4322b13a9004648946a978?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Jun 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
