@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a43d47457ffc22029403c7b?utm_campaign=1066&utm_source=git)** | OCALI | Hybrid | Jun 30 |
+| **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343b9b649fdf16292f4c85?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 30 |
+| **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a43c6c665e80d3c99f28f76?utm_campaign=1066&utm_source=git)** | Oklahoma City, Oklahoma, US | On Site | Jun 30 |
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
 | **[State of Tennessee](https://www.tn.gov/didd.html)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis](https://jobright.ai/jobs/info/6a3eaf8678237a036d5e4f22?utm_campaign=1066&utm_source=git)** | Montreal, Canada | Hybrid | Jun 26 |
 | **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[RTI International](http://www.rti.org)** | **[Finance & Accounting AI/Data Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a3ecb374d047136e0937ae0?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jun 26 |
-| **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 26 |
 | **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a22e1f214de9460dc843838?utm_campaign=1066&utm_source=git)** | 0177 - Plant 177 - Worcester MA - Worcester, MA 01607 | On Site | Jun 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a3e7636d261407de980328c?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Fall 2026](https://jobright.ai/jobs/info/6a3aaa0c797099171917af63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jun 26 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
