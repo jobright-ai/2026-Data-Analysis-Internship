@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sumeru Inc](https://sumeru.us/)** | **[Business Intelligence Analyst- Intern](https://jobright.ai/jobs/info/6a43ffa8105260150b7206db?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jun 30 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | ↳ | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[The GEO Group, Inc.](http://www.geogroup.com)** | **[DATA INTELLIGENCE INTERN](https://jobright.ai/jobs/info/6a43f5b757ffc22029405c7e?utm_campaign=1066&utm_source=git)** | Boca Raton,Florida,United States | On Site | Jun 30 |
@@ -74,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a42e07fa5e15b106837a8c9?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
-| **[TONYMOLY USA](http://www.tonymoly.us)** | **[AI & Business Intelligence Intern](https://jobright.ai/jobs/info/6a42cca11cc9cc2b12fecdbc?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a290542883c0d3be6545609?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jun 29 |
