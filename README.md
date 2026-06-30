@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VWH Capital Management, LP](https://www.vwhcapital.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a137e769fdbf21f36cb90de?utm_campaign=1066&utm_source=git)** | 500 Crescent Ct, Dallas, TX 75201, USA | On Site | Jun 30 |
+| **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
+| **[Sedgwick](http://www.sedgwick.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a4427ae105260150b72118d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Jun 30 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 30 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[RTI Health Solutions](https://rtihs.org/)** | **[Finance & Accounting AI/Data Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a423ef9557b3862f15e0982?utm_campaign=1066&utm_source=git)** | Durham, North Carolina, United States | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2ff20feace377055eb3b56?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
-| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Clinical Research Data Entry Intern - Remote US](https://jobright.ai/jobs/info/6a3d925d122f340d29cf14c5?utm_campaign=1066&utm_source=git)** | Tennessee, United States | Remote | Jun 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Intelligence Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a210003ca8f0b365d7a4733?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 25 |
 | **[Lumerate](https://lumerate.com)** | **[Data Intern](https://jobright.ai/jobs/info/6a3d4bb14d047136e0932ced?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[Massachusetts Life Sciences Center](http://www.masslifesciences.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a3d425ed261407de97ff8df?utm_campaign=1066&utm_source=git)** | Waltham, Massachusetts, United States | Hybrid | Jun 25 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
