@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a445b4465e80d3c99f2c753?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a445b4065e80d3c99f2c752?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 | **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 30 |
 | **[VWH Capital Management, LP](https://www.vwhcapital.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a137e769fdbf21f36cb90de?utm_campaign=1066&utm_source=git)** | 500 Crescent Ct, Dallas, TX 75201, USA | On Site | Jun 30 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 29 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
@@ -135,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[OT - Data Analytics Intern](https://jobright.ai/jobs/info/6a3bee20882f121f56a32a9d?utm_campaign=1066&utm_source=git)** | Beaver, PA | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 24 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a3bab3b122f340d29ceb287?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
