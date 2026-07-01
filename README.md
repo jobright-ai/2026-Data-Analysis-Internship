@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duravant](http://www.duravant.com/)** | **[Intern - Data](https://jobright.ai/jobs/info/6a4525a43dbab558e29a04e5?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
+| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Data Analysis Specialist Intern](https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092?utm_campaign=1066&utm_source=git)** | Mesquite, TX | On Site | Jul 01 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 01 |
 | **[Aon](http://www.aon.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44aad60153061b8b3e0c77?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
@@ -107,11 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 26 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern - Fall Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6a3eedde4d047136e09384f7?utm_campaign=1066&utm_source=git)** | Columbia, MD, United States | Remote | Jun 26 |
 | **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis](https://jobright.ai/jobs/info/6a3eaf8678237a036d5e4f22?utm_campaign=1066&utm_source=git)** | Montreal, Canada | Hybrid | Jun 26 |
-| **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[RTI International](http://www.rti.org)** | **[Finance & Accounting AI/Data Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a3ecb374d047136e0937ae0?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jun 26 |
 | **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a22e1f214de9460dc843838?utm_campaign=1066&utm_source=git)** | 0177 - Plant 177 - Worcester MA - Worcester, MA 01607 | On Site | Jun 26 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Fall 2026](https://jobright.ai/jobs/info/6a3e7636d261407de980328c?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jun 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Fall 2026](https://jobright.ai/jobs/info/6a3aaa0c797099171917af63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jun 26 |
+| **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Operations Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3022bfeace377055eb486d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | **[RTI Health Solutions](https://rtihs.org/)** | **[Finance & Accounting AI/Data Innovation Intern - Summer 2026](https://jobright.ai/jobs/info/6a423ef9557b3862f15e0982?utm_campaign=1066&utm_source=git)** | Durham, North Carolina, United States | On Site | Jun 26 |
@@ -132,6 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Provider Data Reporting](https://jobright.ai/jobs/info/6a3caf3f4d047136e093177f?utm_campaign=1066&utm_source=git)** | USA, TN, Chattanooga, Remote, US | Remote | Jun 24 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
-| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Data Analytics](https://jobright.ai/jobs/info/6a3c79add261407de97fdca7?utm_campaign=1066&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jun 24 |
-| **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
