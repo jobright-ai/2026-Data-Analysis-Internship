@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
 | **[BlueCross BlueShield of Tennessee](http://www.bcbst.com)** | **[Intern - Provider Data Reporting](https://jobright.ai/jobs/info/6a3caf3f4d047136e093177f?utm_campaign=1066&utm_source=git)** | USA, TN, Chattanooga, Remote, US | Remote | Jun 24 |
-| **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
