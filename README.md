@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 30 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jun 30 |
 | **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a43d47457ffc22029403c7b?utm_campaign=1066&utm_source=git)** | OCALI | Hybrid | Jun 30 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2b0681c07d4b6ae1c48c4c?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jun 30 |
 | **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Little Red Door Cancer Agency](https://www.littlereddoor.org)** | **[Data Specialist Intern](https://jobright.ai/jobs/info/6a3d608478237a036d5e0f74?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
 | **[Panels](https://usepanels.com)** | **[Data Operations Intern](https://jobright.ai/jobs/info/6a3c1414882f121f56a3336f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[OT - Data Analytics Intern](https://jobright.ai/jobs/info/6a3bee20882f121f56a32a9d?utm_campaign=1066&utm_source=git)** | Beaver, PA | On Site | Jun 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
