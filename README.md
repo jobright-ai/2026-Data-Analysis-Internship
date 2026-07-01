@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Data Analytics](https://jobright.ai/jobs/info/6a3c79add261407de97fdca7?utm_campaign=1066&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jun 24 |
 | **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 24 |
-| **[Little Red Door Cancer Agency](https://www.littlereddoor.org)** | **[Data Specialist Intern](https://jobright.ai/jobs/info/6a3d608478237a036d5e0f74?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
