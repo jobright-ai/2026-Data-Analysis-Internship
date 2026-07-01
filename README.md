@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 30 |
 | **[VWH Capital Management, LP](https://www.vwhcapital.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a137e769fdbf21f36cb90de?utm_campaign=1066&utm_source=git)** | 500 Crescent Ct, Dallas, TX 75201, USA | On Site | Jun 30 |
-| **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a4444b5b156014e414bc165?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jun 30 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a4427ae105260150b72118d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Jun 30 |
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops-Intern](https://jobright.ai/jobs/info/6a43fb4f0153061b8b3ded58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/69d05892cdb525785fba9918?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 30 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 24 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6a3bab3b122f340d29ceb287?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jun 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3b7e38dbedbf5680c73c95?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
