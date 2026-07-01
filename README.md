@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jun 24 |
 | **[Little Red Door Cancer Agency](https://www.littlereddoor.org)** | **[Data Specialist Intern](https://jobright.ai/jobs/info/6a3d608478237a036d5e0f74?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 24 |
-| **[Panels](https://usepanels.com)** | **[Data Operations Intern](https://jobright.ai/jobs/info/6a3c1414882f121f56a3336f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
