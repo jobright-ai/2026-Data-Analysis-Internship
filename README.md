@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrity](https://www.integrity.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a46a6103dbab558e29a80a5?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Data Science & Predictive Lead Intelligence Internship](https://jobright.ai/jobs/info/6a46a3628204a812e98c94b5?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Jul 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a282ad7883c0d3be6540015?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin, US | Hybrid | Jul 02 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 02 |
