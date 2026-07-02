@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Duravant](http://www.duravant.com/)** | **[Intern - Data](https://jobright.ai/jobs/info/6a4525a43dbab558e29a04e5?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 | **[iSpot](http://www.ispot.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a281e0040ac8e329329ef9d?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Hybrid | Jul 01 |
 | **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Data Analysis Specialist Intern](https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092?utm_campaign=1066&utm_source=git)** | Mesquite, TX | On Site | Jul 01 |
-| **[Precision Castparts](https://www.pccenergy.com/)** | **[Data Analysis Co-op (Summer 2026)](https://jobright.ai/jobs/info/6a4644783dbab558e29a599d?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Jul 01 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 01 |
 | **[Aon](http://www.aon.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44aad60153061b8b3e0c77?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
