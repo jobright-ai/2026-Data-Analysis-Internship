@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a462f353dbab558e29a51da?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower, US | Hybrid | Jul 02 |
 | **[Duke University](https://forge.duke.edu/)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Fall 2026](https://jobright.ai/jobs/info/6a3aaa0c797099171917af63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jun 26 |
 | **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 26 |
+| **[Easterseals Southern California](http://www.easterseals.com/southerncal/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/6a462eba3dbab558e29a5185?utm_campaign=1066&utm_source=git)** | US-CA-Northridge, US | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2ff20feace377055eb3b56?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Intelligence Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a210003ca8f0b365d7a4733?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 25 |
