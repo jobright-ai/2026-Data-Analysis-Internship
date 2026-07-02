@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
-| **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jul 01 |
 | **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
 | ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
@@ -132,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e7f811a043696080c9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | ↳ | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a03c31122395b6dc6d97ad2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a3d0b4778237a036d5dfd66?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
