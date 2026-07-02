@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Brkthru](https://brkthru.com)** | **[Analytics & Measurement Intern - Fall 2026](https://jobright.ai/jobs/info/6a46507b0dd56c76cc2f7f1f?utm_campaign=1066&utm_source=git)** | Michigan | Hybrid | Jun 26 |
 | **[Easterseals Southern California](http://www.easterseals.com/southerncal/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/6a462eba3dbab558e29a5185?utm_campaign=1066&utm_source=git)** | US-CA-Northridge, US | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2ff20feace377055eb3b56?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
