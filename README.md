@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CirrusLabs](https://www.cirruslabs.io/)** | **[Bioinformatician](https://jobright.ai/jobs/info/6a46b642c2d11a6a46670385?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jul 02 |
+| **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | **[Integrity](https://www.integrity.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a46a6103dbab558e29a80a5?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Data Science & Predictive Lead Intelligence Internship](https://jobright.ai/jobs/info/6a46a3628204a812e98c94b5?utm_campaign=1066&utm_source=git)** | Miami, FL | Remote | Jul 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a282ad7883c0d3be6540015?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin, US | Hybrid | Jul 02 |
