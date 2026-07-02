@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 02 |
 | **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a462f353dbab558e29a51da?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower, US | Hybrid | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
 | ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
 | **[Seven Research, LLC](sevenresearch.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d64a?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 01 |
-| **[Sarah Cannon Research Institute](https://www.scri.com)** | **[Clinical Research Data Entry Intern - Remote US](https://jobright.ai/jobs/info/6a456b714f64ba41dcb4d53f?utm_campaign=1066&utm_source=git)** | Tennessee, United States | Remote | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
 | ↳ | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 01 |
 | **[Aon](http://www.aon.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44aad60153061b8b3e0c77?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
-| ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 30 |
 | **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 | **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jun 30 |
@@ -133,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Fall 2026](https://jobright.ai/jobs/info/6a3aaa0c797099171917af63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jun 26 |
 | **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 26 |
+| **[Brkthru](https://brkthru.com)** | **[Analytics & Measurement Intern - Fall 2026](https://jobright.ai/jobs/info/6a46507b0dd56c76cc2f7f1f?utm_campaign=1066&utm_source=git)** | Michigan | Hybrid | Jun 26 |
 | **[Easterseals Southern California](http://www.easterseals.com/southerncal/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/6a462eba3dbab558e29a5185?utm_campaign=1066&utm_source=git)** | US-CA-Northridge, US | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2ff20feace377055eb3b56?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Jun 25 |
