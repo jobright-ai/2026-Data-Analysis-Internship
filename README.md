@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duke University](https://forge.duke.edu/)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
 | **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a45f80a076271587529f36e?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Jul 01 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343b9b649fdf16292f4c85?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 30 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
+| **[The Home Depot](https://www.homedepot.com)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6a462b4a971cd25b06f8c5af?utm_campaign=1066&utm_source=git)** | CANADA STORE SUPPORT CENTER - 7000, CA | Remote | Jun 30 |
 | **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a461824076271587529f919?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 30 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a4613d34f64ba41dcb4f9a5?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203, US | On Site | Jun 30 |
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
