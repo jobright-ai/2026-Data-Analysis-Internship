@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[Digital Transformation and Analytics Intern Job Details / JLR](https://jobright.ai/jobs/info/6a330894f6b55d12c79176f9?utm_campaign=1066&utm_source=git)** | Mahwah, NJ, US | Hybrid | Jul 01 |
 | **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
@@ -135,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data and Content Research Intern at Cato Institute](https://jobright.ai/jobs/info/6a3d0b07882f121f56a3608b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 25 |
 | **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf73a5f0145f4c14d6f?utm_campaign=1066&utm_source=git)** | Evansville, IN, US | On Site | Jun 25 |
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a207bf93a5f0145f4c14d70?utm_campaign=1066&utm_source=git)** | US-IN-Evansville | On Site | Jun 25 |
-| **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
-| ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
-| ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
