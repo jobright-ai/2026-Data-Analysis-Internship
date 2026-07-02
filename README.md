@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 02 |
 | **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a462f353dbab558e29a51da?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower, US | Hybrid | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[State of Tennessee](https://www.tn.gov/didd.html)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
 | **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
-| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 29 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Jun 29 |
 | **[ABS Global Investments](http://www.absinv.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a42e4d9a5e15b106837a981?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Jun 29 |
 | **[Faurecia](https://www.forvia.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a42c03a1cc9cc2b12fecb5d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 29 |
