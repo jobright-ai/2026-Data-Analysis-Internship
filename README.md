@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
+| **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a45f80a076271587529f36e?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Jul 01 |
 | **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
 | ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Intelligence Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a210003ca8f0b365d7a4733?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 25 |
 | **[Lumerate](https://lumerate.com)** | **[Data Intern](https://jobright.ai/jobs/info/6a3d4bb14d047136e0932ced?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 25 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst (Power Control Center), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a0419e7f811a043696080c9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
