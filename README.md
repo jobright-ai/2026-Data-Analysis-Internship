@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship - Student Data Analyst](https://jobright.ai/jobs/info/6a46ef088204a812e98ca98b?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jul 02 |
+| **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 02 |
 | **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a46d4fcc2d11a6a46670b1c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a46d474971cd25b06f905fa?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 02 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jul 02 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a282ad7883c0d3be6540015?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin, US | Hybrid | Jul 02 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
+| **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Active Public Markets (September 2026 - December 2026)](https://jobright.ai/jobs/info/6a46e2400dd56c76cc2fb510?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 02 |
 | **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a462f353dbab558e29a51da?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower, US | Hybrid | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
