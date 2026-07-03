@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Six Technologies](https://twosixtech.com/)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a470bb0c2d11a6a46671692?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jul 02 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a346b85f6b55d12c791cbc1?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Jul 02 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship - Student Data Analyst](https://jobright.ai/jobs/info/6a46ef088204a812e98ca98b?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jul 02 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[CATCH Intelligence](www.CATCHintelligence.com)** | **[Data Science Internship-Local Candidates Only](https://jobright.ai/jobs/info/6a3edade122f340d29cf4e18?utm_campaign=1066&utm_source=git)** | Omaha, Nebraska, 68154 | On Site | Jun 26 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 26 |
 | **[Brkthru](https://brkthru.com)** | **[Analytics & Measurement Intern - Fall 2026](https://jobright.ai/jobs/info/6a46507b0dd56c76cc2f7f1f?utm_campaign=1066&utm_source=git)** | Michigan | Hybrid | Jun 26 |
-| **[Easterseals Southern California](http://www.easterseals.com/southerncal/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/6a462eba3dbab558e29a5185?utm_campaign=1066&utm_source=git)** | US-CA-Northridge, US | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
