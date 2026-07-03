@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69eb93994b0fa35a7077cec1?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06d6e14f290f7450ea3879?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jun 27 |
-| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Researcher - Summer Internship](https://jobright.ai/jobs/info/6a41c60a3bfa967791ec16f3?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
