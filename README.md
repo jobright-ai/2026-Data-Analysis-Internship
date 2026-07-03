@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Jul 03 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6a4327c578fcb767e2755fea?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jul 03 |
-| ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce0a093df201d07b2b36?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d8e8461b9b613a624602?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d9321f90bd6ae23d1d7c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 | **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a47723d4f64ba41dcb56b3e?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Jul 03 |
@@ -141,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69eb93994b0fa35a7077cec1?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06d6e14f290f7450ea3879?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jun 27 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Researcher - Summer Internship](https://jobright.ai/jobs/info/6a41c60a3bfa967791ec16f3?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
