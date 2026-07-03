@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a06d6e14f290f7450ea3879?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jun 27 |
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Researcher - Summer Internship](https://jobright.ai/jobs/info/6a41c60a3bfa967791ec16f3?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jun 26 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jun 26 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern - Fall Recruitment MD/DC/VA (Remote)](https://jobright.ai/jobs/info/6a3eedde4d047136e09384f7?utm_campaign=1066&utm_source=git)** | Columbia, MD, United States | Remote | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
