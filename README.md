@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/6a48157f3dbab558e29abeb2?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Jul 03 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Jul 03 |
+| **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Training & Internship Program](https://jobright.ai/jobs/info/6a481fe03dbab558e29ac0ab?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jul 03 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/69d6937f48f0c8161d2f8b0d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6a4327c578fcb767e2755fea?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jul 03 |
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
