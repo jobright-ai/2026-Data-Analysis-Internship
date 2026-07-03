@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jul 02 |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a346b85f6b55d12c791cbc1?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Jul 02 |
 | **[State of Colorado](https://dpo.colorado.gov/)** | **[Internship - Student Data Analyst](https://jobright.ai/jobs/info/6a46ef088204a812e98ca98b?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jul 02 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 02 |
 | **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a46d4fcc2d11a6a46670b1c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a46d474971cd25b06f905fa?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 02 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jul 02 |
+| **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a45f80a076271587529f36e?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Jul 02 |
 | **[CirrusLabs](https://www.cirruslabs.io/)** | **[Bioinformatician](https://jobright.ai/jobs/info/6a46b642c2d11a6a46670385?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jul 02 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a282ad7883c0d3be6540015?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin, US | Hybrid | Jul 02 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
-| **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/6a45f80a076271587529f36e?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Jul 01 |
 | **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
 | ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 01 |
