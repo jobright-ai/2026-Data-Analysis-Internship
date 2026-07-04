@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoW SkillBridge) with Security Clearance](https://jobright.ai/jobs/info/6a46d6f68204a812e98ca2d9?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Jun 27 |
 | **[Ascend Performance Materials](https://www.ascendmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69f10e5462b48c683879356d?utm_campaign=1066&utm_source=git)** | Houston, TX, US | On Site | Jun 27 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69eb93994b0fa35a7077cec1?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
