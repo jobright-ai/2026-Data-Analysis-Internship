@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
+| **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafc?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Jul 04 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jul 04 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jul 04 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 04 |
@@ -143,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Analyst Intern at Omnium](https://jobright.ai/jobs/info/6a40ee34d528ac2915f97074?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Jun 28 |
 | **[Quadrillion Labs](https://quadrillion.io/)** | **[Research Intern](https://jobright.ai/jobs/info/6a40a4a716b1493953283876?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
-| **[Wall Street Quants](https://www.thewallstreetquants.com)** | **[Quantitative Trader Intern](https://jobright.ai/jobs/info/6a4062d9b526a24fc3130c69?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
