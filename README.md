@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jul 04 |
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Jul 04 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 04 |
