@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vectech, Inc. (Techstars '23)](https://www.vectech.io/)** | **[Entomology and Biostatistics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a49f4baf9cbb100d1ab45bd?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 04 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
@@ -141,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6a2a28a30c4972328e7e72c1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[ECS](https://www.ecstech.com)** | **[BD & AI Analysis Intern](https://jobright.ai/jobs/info/6a2f8a13afabbe533fb879fa?utm_campaign=1066&utm_source=git)** | Fairfax, VA | Hybrid | Jun 29 |
 | **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
