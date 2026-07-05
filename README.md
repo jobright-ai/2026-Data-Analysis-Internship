@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProCogia](http://procogia.com/)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6a3190ac0ff23769fdb1eaeb?utm_campaign=1066&utm_source=git)** | Vancouver, BC (on-site) | On Site | Jul 05 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 05 |
 | **[Vectech, Inc. (Techstars '23)](https://www.vectech.io/)** | **[Entomology and Biostatistics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a49f4baf9cbb100d1ab45bd?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
