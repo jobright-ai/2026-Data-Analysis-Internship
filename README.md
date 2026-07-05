@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 05 |
+| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ad46ec2d11a6a46676f96?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 05 |
+| ↳ | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6a4ad46d5d7b097d2df3c77c?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Jul 05 |
 | **[ProCogia](http://procogia.com/)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6a3190ac0ff23769fdb1eaeb?utm_campaign=1066&utm_source=git)** | Vancouver, BC (on-site) | On Site | Jul 05 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 05 |
 | **[Vectech, Inc. (Techstars '23)](https://www.vectech.io/)** | **[Entomology and Biostatistics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a49f4baf9cbb100d1ab45bd?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
