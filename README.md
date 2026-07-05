@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 04 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
