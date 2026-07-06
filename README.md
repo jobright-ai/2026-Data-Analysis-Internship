@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jun 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a290542883c0d3be6545609?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jun 29 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2a6cb50c4972328e7e8b6e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jun 29 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/6a428fac6faf756060967180?utm_campaign=1066&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
