@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
+| **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York | Hybrid | Jul 06 |
+| **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 06 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Lucy Summer Intern](https://jobright.ai/jobs/info/6a4bedcac2d11a6a46679433?utm_campaign=1066&utm_source=git)** | Notre Dame, IN | On Site | Jul 06 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern/Co-op](https://jobright.ai/jobs/info/6a2eb4ca7cd40a338faea962?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jul 05 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 05 |
@@ -108,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Seven Research, LLC](sevenresearch.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d64a?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
-| ↳ | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
+| **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jul 01 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 01 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Management Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a45529f971cd25b06f88751?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 01 |
 | **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis Job Details / VIA HFR - VIA TGF Inc](https://jobright.ai/jobs/info/6a4546e5c2d11a6a46668a2e?utm_campaign=1066&utm_source=git)** | Montreal, Québec, Canada | Hybrid | Jul 01 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a289eef7061b51a3a5f6ffc?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 01 |
@@ -123,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Innovaccer](https://www.innovaccer.com)** | **[Data Ops -Intern](https://jobright.ai/jobs/info/6a43f71c0153061b8b3decc0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 30 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jun 30 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2b0681c07d4b6ae1c48c4c?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jun 30 |
-| **[Vatic Outsourcing](https://vatic-outsourcing.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a43d4c1105260150b71e500?utm_campaign=1066&utm_source=git)** | Marietta, Georgia, United States | On Site | Jun 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343b9b649fdf16292f4c85?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 30 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a46379d0dd56c76cc2f76f7?utm_campaign=1066&utm_source=git)** | Cleveland, Ohio, USA | On Site | Jun 30 |
@@ -133,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
 | **[State of Tennessee](http://www.comptroller.tn.gov)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
 | **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a4b3244c2d11a6a466775dd?utm_campaign=1066&utm_source=git)** | Columbus, OH | Remote | Jun 29 |
-| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona Corporate Temco - Pomona, CA 91766 | On Site | Jun 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
