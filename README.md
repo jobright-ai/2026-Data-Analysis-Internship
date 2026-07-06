@@ -146,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a29053c7061b51a3a5f92f3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jun 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6a2a28a30c4972328e7e72c1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[ECS](https://www.ecstech.com)** | **[BD & AI Analysis Intern](https://jobright.ai/jobs/info/6a2f8a13afabbe533fb879fa?utm_campaign=1066&utm_source=git)** | Fairfax, VA | Hybrid | Jun 29 |
-| **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a42662aadab21425e9fd70f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
