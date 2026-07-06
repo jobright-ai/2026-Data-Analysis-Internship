@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a4c1792c2d11a6a46679f7f?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 06 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Data Science Intern - REMOTE (US)](https://jobright.ai/jobs/info/6a4c1388971cd25b06f99830?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a4c0273c2d11a6a466799a9?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
@@ -137,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a4613d34f64ba41dcb4f9a5?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203, US | On Site | Jun 30 |
 | **[Trinity Industries, Inc.](http://www.trin.net/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a43638dcbf92c7bcd37009a?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Jun 29 |
 | **[State of Tennessee](http://www.comptroller.tn.gov)** | **[RESEARCH INTERN (FALL 2026) INTERN - 78884](https://jobright.ai/jobs/info/6a438d2d8208843cea1f1f4b?utm_campaign=1066&utm_source=git)** | Davidson County, TN | Hybrid | Jun 29 |
-| **[Educational Service Center of Central Ohio](https://www.escco.org/)** | **[Intern: Information and Data Management](https://jobright.ai/jobs/info/6a4b3244c2d11a6a466775dd?utm_campaign=1066&utm_source=git)** | Columbus, OH | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
