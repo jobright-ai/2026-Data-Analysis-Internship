@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics](https://jobright.ai/jobs/info/6a4c24bc4eb370649b27c6dd?utm_campaign=1066&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
 | **[ICCU](https://iccu.com)** | **[IT Intern- Business Intelligence](https://jobright.ai/jobs/info/6a4c2c3c4f64ba41dcb5ec79?utm_campaign=1066&utm_source=git)** | Chubbuck, Idaho, United States | On Site | Jul 06 |
 | **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a4c1792c2d11a6a46679f7f?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a4c0273c2d11a6a466799a9?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York | Hybrid | Jul 06 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 06 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Lucy Summer Intern](https://jobright.ai/jobs/info/6a4bedcac2d11a6a46679433?utm_campaign=1066&utm_source=git)** | Notre Dame, IN | On Site | Jul 06 |
@@ -77,6 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Vectech, Inc. (Techstars '23)](https://www.vectech.io/)** | **[Entomology and Biostatistics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a49f4baf9cbb100d1ab45bd?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[FunnelCake](https://www.getfunnelcake.com/)** | **[Technical Analyst - 12-14 Month Co-Op](https://jobright.ai/jobs/info/6a4b0c81f9cbb100d1ab52a8?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 04 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
+| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a2a484cd3ec8317fe14305c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
 | **[Wealthspire](https://www.wealthspire.com/)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44c82565e80d3c99f2d320?utm_campaign=1066&utm_source=git)** | Chicago, IL, US | On Site | Jul 04 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
@@ -135,6 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/6a2b0681c07d4b6ae1c48c4c?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jun 30 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343b9b649fdf16292f4c85?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jun 30 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
-| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a46379d0dd56c76cc2f76f7?utm_campaign=1066&utm_source=git)** | Cleveland, Ohio, USA | On Site | Jun 30 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6a462b4a971cd25b06f8c5af?utm_campaign=1066&utm_source=git)** | CANADA STORE SUPPORT CENTER - 7000, CA | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
