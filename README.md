@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics](https://jobright.ai/jobs/info/6a4c24bc4eb370649b27c6dd?utm_campaign=1066&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
 | **[ICCU](https://iccu.com)** | **[IT Intern- Business Intelligence](https://jobright.ai/jobs/info/6a4c2c3c4f64ba41dcb5ec79?utm_campaign=1066&utm_source=git)** | Chubbuck, Idaho, United States | On Site | Jul 06 |
 | **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a4c1792c2d11a6a46679f7f?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 06 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a4c0273c2d11a6a466799a9?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
@@ -137,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York | On Site | Jun 30 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a46379d0dd56c76cc2f76f7?utm_campaign=1066&utm_source=git)** | Cleveland, Ohio, USA | On Site | Jun 30 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6a462b4a971cd25b06f8c5af?utm_campaign=1066&utm_source=git)** | CANADA STORE SUPPORT CENTER - 7000, CA | Remote | Jun 30 |
-| **[Vitalant](https://www.vitalant.org/)** | **[Data Analytics Internship - On-site in Scottsdale, AZ](https://jobright.ai/jobs/info/6a461824076271587529f919?utm_campaign=1066&utm_source=git)** | AZ Scottsdale Corporate, US | On Site | Jun 30 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6a4613d34f64ba41dcb4f9a5?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
