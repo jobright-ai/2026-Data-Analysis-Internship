@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Operation Digitalization and Quality Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d37ffc643fd23fed3c286?utm_campaign=1066&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jul 07 |
+| **[Donna Ai](www.donnaai.net)** | **[Intern](https://jobright.ai/jobs/info/6a4d372f3122a76a8fd54a8b?utm_campaign=1066&utm_source=git)** | Laguna Beach, CA, United States | Remote | Jul 07 |
+| **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a4d346d35e45603c4bb306d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 07 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a4d1a8235e45603c4bb2912?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 07 |
