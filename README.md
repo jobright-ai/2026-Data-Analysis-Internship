@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d4aacd27b2c4dda9b6fdd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
+| ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d46b699523700cbff505d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
+| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 07 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 07 |
+| ↳ | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3e29d27b2c4dda9b6c4b?utm_campaign=1066&utm_source=git)** | New Orleans, LA | Hybrid | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Operation Digitalization and Quality Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d37ffc643fd23fed3c286?utm_campaign=1066&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jul 07 |
 | **[Donna Ai](www.donnaai.net)** | **[Intern](https://jobright.ai/jobs/info/6a4d372f3122a76a8fd54a8b?utm_campaign=1066&utm_source=git)** | Laguna Beach, CA, United States | Remote | Jul 07 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a4d346d35e45603c4bb306d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 07 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6a4ad46d5d7b097d2df3c77c?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Jul 05 |
 | **[ProCogia](http://procogia.com/)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6a3190ac0ff23769fdb1eaeb?utm_campaign=1066&utm_source=git)** | Vancouver, BC (on-site) | On Site | Jul 05 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 05 |
-| **[Vectech, Inc. (Techstars '23)](https://www.vectech.io/)** | **[Entomology and Biostatistics Intern (Summer 2026)](https://jobright.ai/jobs/info/6a49f4baf9cbb100d1ab45bd?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Jul 04 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[FunnelCake](https://www.getfunnelcake.com/)** | **[Technical Analyst - 12-14 Month Co-Op](https://jobright.ai/jobs/info/6a4b0c81f9cbb100d1ab52a8?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 04 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
