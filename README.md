@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a4d1a8235e45603c4bb2912?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a4d0779d27b2c4dda9b5c89?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a4d01383122a76a8fd53c7f?utm_campaign=1066&utm_source=git)** | La Crosse, WI, United States | Hybrid | Jul 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4c8633c643fd23fed3a8f2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
@@ -131,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[iSpot](http://www.ispot.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a281e0040ac8e329329ef9d?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Hybrid | Jul 01 |
 | **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Data Analysis Specialist Intern](https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092?utm_campaign=1066&utm_source=git)** | Mesquite, TX | On Site | Jul 01 |
 | **[Aon](http://www.aon.com)** | **[AI and BI Data Intern](https://jobright.ai/jobs/info/6a44aad60153061b8b3e0c77?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 30 |
-| **[tms](https://themarketingstore.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6a442a76ef17a815538a33f3?utm_campaign=1066&utm_source=git)** | Chicago - 345 North Morgan | On Site | Jun 30 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
