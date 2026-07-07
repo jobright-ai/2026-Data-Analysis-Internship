@@ -57,19 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a4d0779d27b2c4dda9b5c89?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a4d01383122a76a8fd53c7f?utm_campaign=1066&utm_source=git)** | La Crosse, WI, United States | Hybrid | Jul 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4c8633c643fd23fed3a8f2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4c85fc3122a76a8fd5313b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics](https://jobright.ai/jobs/info/6a4c24bc4eb370649b27c6dd?utm_campaign=1066&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
 | **[ICCU](https://iccu.com)** | **[IT Intern- Business Intelligence](https://jobright.ai/jobs/info/6a4c2c3c4f64ba41dcb5ec79?utm_campaign=1066&utm_source=git)** | Chubbuck, Idaho, United States | On Site | Jul 06 |
-| **[Pomerleau](http://www.pomerleau.ca/)** | **[Estimation - Intern](https://jobright.ai/jobs/info/6a4c8b55d27b2c4dda9b5054?utm_campaign=1066&utm_source=git)** | Laval, Quebec, Canada | On Site | Jul 06 |
 | **[BMO](http://www.bmo.com)** | **[Technical Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a4c1792c2d11a6a46679f7f?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a4c0273c2d11a6a466799a9?utm_campaign=1066&utm_source=git)** | Richland County, SC | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3d3db1882f121f56a368e4?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 06 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York | Hybrid | Jul 06 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[Data Quality & AI Readiness Intern (Summer 2026)](https://jobright.ai/jobs/info/6a3344ac29c90c607e4dae58?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 06 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Lucy Summer Intern](https://jobright.ai/jobs/info/6a4bedcac2d11a6a46679433?utm_campaign=1066&utm_source=git)** | Notre Dame, IN | On Site | Jul 06 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern/Co-op](https://jobright.ai/jobs/info/6a2eb4ca7cd40a338faea962?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jul 06 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jul 05 |
 | **[Faire](https://fiare.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a32e250f6b55d12c791622d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 05 |
