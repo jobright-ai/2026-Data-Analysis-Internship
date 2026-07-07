@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4c8633c643fd23fed3a8f2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
+| ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4c85fc3122a76a8fd5313b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Services](https://jobright.ai/jobs/info/6a4c138f971cd25b06f99834?utm_campaign=1066&utm_source=git)** | Tempe, AZ, US | Hybrid | Jul 06 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics](https://jobright.ai/jobs/info/6a4c24bc4eb370649b27c6dd?utm_campaign=1066&utm_source=git)** | Madera, CA, United States of America | On Site | Jul 06 |
