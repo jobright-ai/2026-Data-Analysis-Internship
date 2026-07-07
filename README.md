@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a4d0779d27b2c4dda9b5c89?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d4aacd27b2c4dda9b6fdd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
 | ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d46b699523700cbff505d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 07 |
 | ↳ | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3e29d27b2c4dda9b6c4b?utm_campaign=1066&utm_source=git)** | New Orleans, LA | Hybrid | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Operation Digitalization and Quality Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d37ffc643fd23fed3c286?utm_campaign=1066&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jul 07 |
-| **[Donna Ai](www.donnaai.net)** | **[Intern](https://jobright.ai/jobs/info/6a4d372f3122a76a8fd54a8b?utm_campaign=1066&utm_source=git)** | Laguna Beach, CA, United States | Remote | Jul 07 |
 | **[AUMOVIO](https://www.aumovio.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/6a4d346d35e45603c4bb306d?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 07 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a4d1a8235e45603c4bb2912?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a4d0779d27b2c4dda9b5c89?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a4d01383122a76a8fd53c7f?utm_campaign=1066&utm_source=git)** | La Crosse, WI, United States | Hybrid | Jul 07 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 07 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4c8633c643fd23fed3a8f2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 06 |
