@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Business Analyst, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a43205638fa63084105046e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Jun 30 |
 | **[VWH Capital Management, LP](https://www.vwhcapital.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a137e769fdbf21f36cb90de?utm_campaign=1066&utm_source=git)** | 500 Crescent Ct, Dallas, TX 75201, USA | On Site | Jun 30 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a4444b5b156014e414bc165?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jun 30 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
