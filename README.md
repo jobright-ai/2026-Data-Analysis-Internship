@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d687135e45603c4bb3d98?utm_campaign=1066&utm_source=git)** | Scarborough, ON, Canada | Hybrid | Jul 07 |
+| ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d682c35e45603c4bb3d73?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6a4d0779d27b2c4dda9b5c89?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d4aacd27b2c4dda9b6fdd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
 | ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d46b699523700cbff505d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
