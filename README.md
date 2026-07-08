@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
 | **[Precision Castparts](https://www.pccenergy.com/)** | **[Data Analysis Co-op (Summer 2026)](https://jobright.ai/jobs/info/6a4879643dbab558e29acd65?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Jul 01 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2027 Summer]](https://jobright.ai/jobs/info/6a45c6a60dd56c76cc2f43f8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 01 |
-| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
