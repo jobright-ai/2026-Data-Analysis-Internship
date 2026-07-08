@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Puig](https://www.puig.com/en/)** | **[Consumer Insights Internship](https://jobright.ai/jobs/info/6a4ea86b15b4965afd58427e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/6a4ea26815b4965afd584178?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Plant Conservation and Data Intern](https://jobright.ai/jobs/info/6a4e9e89fc327f422fef38a4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Ontic](https://www.ontic.co)** | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e91bcfc327f422fef34b5?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | ↳ | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e8f419469c0662034bc6d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 08 |
-| **[MSQ Ventures](https://msqventures.com)** | **[Healthcare Analyst Internship](https://jobright.ai/jobs/info/6a4e84661544d7246c0d327f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 08 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jul 08 |
 | **[ProCogia](http://procogia.com/)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6a3190ac0ff23769fdb1eaeb?utm_campaign=1066&utm_source=git)** | Vancouver, BC (on-site) | On Site | Jul 08 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Active Public Markets (September 2026 - December 2026)](https://jobright.ai/jobs/info/6a46e2400dd56c76cc2fb510?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 02 |
 | **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 01 |
-| **[Precision Castparts](https://www.pccenergy.com/)** | **[Data Analysis Co-op (Summer 2026)](https://jobright.ai/jobs/info/6a4879643dbab558e29acd65?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
