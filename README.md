@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ideal Media Pro](https://idealmediapro.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a4dc0b84c6c9f7a619f890d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4db6ff4c6c9f7a619f87d4?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Data and Coding Internship](https://jobright.ai/jobs/info/6a4d94384c6c9f7a619f834b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a4d849c0209ea6fd68529a3?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
