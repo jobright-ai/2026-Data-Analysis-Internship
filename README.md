@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mphasis](https://www.mphasis.com)** | **[Trainee / Intern](https://jobright.ai/jobs/info/6a4eb7acfc327f422fef3f25?utm_campaign=1066&utm_source=git)** | Toronto, Canada | On Site | Jul 08 |
+| **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
+| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a4eada2397d8d353c289e61?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 08 |
 | **[Puig](https://www.puig.com/en/)** | **[Consumer Insights Internship](https://jobright.ai/jobs/info/6a4ea86b15b4965afd58427e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/6a4ea26815b4965afd584178?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Plant Conservation and Data Intern](https://jobright.ai/jobs/info/6a4e9e89fc327f422fef38a4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Ontic](https://www.ontic.co)** | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e91bcfc327f422fef34b5?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | ↳ | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e8f419469c0662034bc6d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
