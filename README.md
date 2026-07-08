@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4db6ff4c6c9f7a619f87d4?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Data and Coding Internship](https://jobright.ai/jobs/info/6a4d94384c6c9f7a619f834b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
@@ -141,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis Job Details / VIA HFR - VIA TGF Inc](https://jobright.ai/jobs/info/6a4546e5c2d11a6a46668a2e?utm_campaign=1066&utm_source=git)** | Montreal, Québec, Canada | Hybrid | Jul 01 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a289eef7061b51a3a5f6ffc?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 01 |
 | **[Duravant](http://www.duravant.com/)** | **[Intern - Data](https://jobright.ai/jobs/info/6a4525a43dbab558e29a04e5?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
-| **[iSpot](http://www.ispot.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a281e0040ac8e329329ef9d?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Hybrid | Jul 01 |
-| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[Data Analysis Specialist Intern](https://jobright.ai/jobs/info/6a45120c9b6dfb6da322c092?utm_campaign=1066&utm_source=git)** | Mesquite, TX | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
