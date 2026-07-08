@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Management Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a45529f971cd25b06f88751?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 01 |
 | **[Alto](https://www.altotrain.ca)** | **[Intern, Data Analysis Job Details / VIA HFR - VIA TGF Inc](https://jobright.ai/jobs/info/6a4546e5c2d11a6a46668a2e?utm_campaign=1066&utm_source=git)** | Montreal, Québec, Canada | Hybrid | Jul 01 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a289eef7061b51a3a5f6ffc?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 01 |
-| **[Duravant](http://www.duravant.com/)** | **[Intern - Data](https://jobright.ai/jobs/info/6a4525a43dbab558e29a04e5?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
