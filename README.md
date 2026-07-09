@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
 | **[Canada's Children's Hospital Foundations](https://www.childrenshospitals.ca/)** | **[Intern, Data & Analytics (8 Month Contract)](https://jobright.ai/jobs/info/6a5008309469c0662034fe84?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
+| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[Quantum Design](http://www.qdusa.com)** | **[Business Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6a4ff26f4649561ec08afa89?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 09 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Technology and National Security, Fall 2026](https://jobright.ai/jobs/info/6a4fed8df57ed168c3417597?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
