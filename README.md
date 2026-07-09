@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 08 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a4d849c0209ea6fd68529a3?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Quantitative Researcher, UG/MS (Intern)](https://jobright.ai/jobs/info/6a4ec9b51544d7246c0d434b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 | **[Nuro](https://nuro.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a4ec98b0ea38951a6ff47a2?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Jul 08 |
 | **[Mphasis](https://www.mphasis.com)** | **[Trainee / Intern](https://jobright.ai/jobs/info/6a4eb7acfc327f422fef3f25?utm_campaign=1066&utm_source=git)** | Toronto, Canada | On Site | Jul 08 |
-| **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a4eada2397d8d353c289e61?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 08 |
 | **[Puig](https://www.puig.com/en/)** | **[Consumer Insights Internship](https://jobright.ai/jobs/info/6a4ea86b15b4965afd58427e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Plant Conservation and Data Intern](https://jobright.ai/jobs/info/6a4e9e89fc327f422fef38a4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
@@ -84,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Jul 08 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6a4ad46d5d7b097d2df3c77c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 08 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
+| **[American Heart Association](https://www.empoweredtoserve.org/en/business-accelerator-program/maryland-black-farmers)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jul 08 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher - Internship - Summer 2027](https://jobright.ai/jobs/info/6a335fcace501060b5ced3fe?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Jul 08 |
@@ -142,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a46d4fcc2d11a6a46670b1c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a46d474971cd25b06f905fa?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 02 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jul 02 |
-| **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
-| **[Integrity](https://www.integrity.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a4759cf8204a812e98cb931?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
