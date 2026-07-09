@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a4d849c0209ea6fd68529a3?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
+| **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
+| **[American Prime Sustainable Solutions](https://americanprime.co)** | **[Agricultural Intelligence & Communications Intern](https://jobright.ai/jobs/info/6a3c75954d047136e0930e5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
+| **[ActivSignal](https://www.activsignal.com)** | **[Computational Biology Scientist/Data Scientist Intern](https://jobright.ai/jobs/info/6a4f1b961544d7246c0d4f29?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Jul 08 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[Ottawa Sports and Entertainment Group (OSEG)](http://www.tdplace.ca)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6a4ed80a9469c0662034cdee?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 08 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, PhD (Intern)](https://jobright.ai/jobs/info/6a4ec9c39469c0662034cac8?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 08 |
 | ↳ | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6a4ec9b80ea38951a6ff47c4?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
@@ -68,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Puig](https://www.puig.com/en/)** | **[Consumer Insights Internship](https://jobright.ai/jobs/info/6a4ea86b15b4965afd58427e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Plant Conservation and Data Intern](https://jobright.ai/jobs/info/6a4e9e89fc327f422fef38a4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 08 |
 | **[Ontic](https://www.ontic.co)** | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e91bcfc327f422fef34b5?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
-| ↳ | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e8f419469c0662034bc6d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
+| **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 08 |
+| **[Ontic](https://www.ontic.co)** | **[Data Migration Analyst - Intern](https://jobright.ai/jobs/info/6a4e8f419469c0662034bc6d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ba0e7c2d11a6a4667825e?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 08 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 08 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jul 08 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Data and Coding Internship](https://jobright.ai/jobs/info/6a4d94384c6c9f7a619f834b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Operation Digitalization and Quality Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d37ffc643fd23fed3c286?utm_campaign=1066&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jul 07 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a4d849c0209ea6fd68529a3?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d687135e45603c4bb3d98?utm_campaign=1066&utm_source=git)** | Scarborough, ON, Canada | Hybrid | Jul 07 |
 | ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d682c35e45603c4bb3d73?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d4aacd27b2c4dda9b6fdd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a2a484cd3ec8317fe14305c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
-| **[Abaka AI](https://www.abaka.ai/)** | **[Summer Research Intern](https://jobright.ai/jobs/info/699e4504e0bddb6acacdaafc?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Jul 04 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6a2cbb59a1d15e3c552fcfff?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jul 04 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 04 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 03 |
@@ -141,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | **[Integrity](https://www.integrity.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a4759cf8204a812e98cb931?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
 | **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
-| **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Active Public Markets (September 2026 - December 2026)](https://jobright.ai/jobs/info/6a46e2400dd56c76cc2fb510?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 02 |
-| **[Duke University](http://ceint.duke.edu)** | **[NONDUKE STUDENT/INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a4628500dd56c76cc2f6d75?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
