@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 09 |
-| ↳ | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Jul 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Science Internship](https://jobright.ai/jobs/info/6a4fb439f57ed168c341669b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 09 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Science Internship](https://jobright.ai/jobs/info/6a4fb439f57ed168c341669b?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jul 09 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Jul 09 |
+| ↳ | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 09 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fa9d8f57ed168c34163a2?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607, United States | Hybrid | Jul 09 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Data Science & Predictive Intelligence Intern](https://jobright.ai/jobs/info/6a4fb1d3397d8d353c28c2af?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 09 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a4fb13e397d8d353c28c29a?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 09 |
 | **[TMX Group](http://www.tmx.com)** | **[Systems Business Analyst Intern](https://jobright.ai/jobs/info/6a4fa6629469c0662034e537?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 09 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a4fb13e397d8d353c28c29a?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 09 |
 | **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2?utm_campaign=1066&utm_source=git)** | Arvada Office - Arvada, CO 80003 | Remote | Jul 09 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 08 |
