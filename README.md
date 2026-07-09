@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jul 02 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall GIS Intern](https://jobright.ai/jobs/info/6a46b403971cd25b06f8fd98?utm_campaign=1066&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 02 |
 | **[Integrity](https://www.integrity.com)** | **[Research Intern](https://jobright.ai/jobs/info/6a4759cf8204a812e98cb931?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 02 |
-| **[Evolver](https://www.evolver.ai)** | **[Applied Data Science Intern](https://jobright.ai/jobs/info/6a4324b45f5e0208c5c24e72?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
