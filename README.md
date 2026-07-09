@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fa9d8f57ed168c34163a2?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607, United States | Hybrid | Jul 09 |
+| **[TMX Group](http://www.tmx.com)** | **[Systems Business Analyst Intern](https://jobright.ai/jobs/info/6a4fa6629469c0662034e537?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 09 |
 | **[Mark VII - Clean Cars®](http://markvii.net)** | **[Data Research & Validation Internship](https://jobright.ai/jobs/info/6a4284eb6a9c2774b3fa64b2?utm_campaign=1066&utm_source=git)** | Arvada Office - Arvada, CO 80003 | Remote | Jul 09 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 08 |
@@ -138,8 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Two Six Technologies](https://twosixtech.com/)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a470bb0c2d11a6a46671692?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a2ab24bc07d4b6ae1c46c7f?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Jul 02 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a4720724f64ba41dcb55f62?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Jul 02 |
-| **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 02 |
-| **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a46d4fcc2d11a6a46670b1c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 02 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a46d474971cd25b06f905fa?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Remote | Jul 02 |
-| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
