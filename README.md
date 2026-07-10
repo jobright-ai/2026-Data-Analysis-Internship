@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 09 |
+| **[Opus](http://opusinspection.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a5022c24649561ec08b06b9?utm_campaign=1066&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 09 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
 | **[Canada's Children's Hospital Foundations](https://www.childrenshospitals.ca/)** | **[Intern, Data & Analytics (8 Month Contract)](https://jobright.ai/jobs/info/6a5008309469c0662034fe84?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Research Intern - Temporary](https://jobright.ai/jobs/info/6a4fc6faf57ed168c3416a74?utm_campaign=1066&utm_source=git)** | Seattle, WA, US | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a460666c2d11a6a4666b409?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Science Internship](https://jobright.ai/jobs/info/6a4fb439f57ed168c341669b?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jul 09 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 09 |
-| ↳ | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Jul 09 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, US | On Site | Jul 09 |
+| ↳ | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 09 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fa9d8f57ed168c34163a2?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607, United States | Hybrid | Jul 09 |
 | **[TMX Group](http://www.tmx.com)** | **[Systems Business Analyst Intern](https://jobright.ai/jobs/info/6a4fa6629469c0662034e537?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 09 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a4fb13e397d8d353c28c29a?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 09 |
