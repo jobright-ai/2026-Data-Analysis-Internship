@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[Quantitative Research Analyst Internship](https://jobright.ai/jobs/info/6a51238ebf63b66c7997948f?utm_campaign=1066&utm_source=git)** | Radnor, PA, United States | On Site | Jul 10 |
+| **[BlueLabs](https://bluelabs.com)** | **[Reporting Fellow](https://jobright.ai/jobs/info/6a5121dc78e364789ca59285?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
+| **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | Toronto, Ontario , Canada | Remote | Jul 10 |
 | **[Sunwater Capital](http://sunwatercapital.com )** | **[Fall Congressional Research Intern](https://jobright.ai/jobs/info/6a51189a57513b72e0c63c98?utm_campaign=1066&utm_source=git)** | North Bethesda, MD, United States | Hybrid | Jul 10 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Science Internship](https://jobright.ai/jobs/info/6a4fb439f57ed168c341669b?utm_campaign=1066&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jul 10 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
@@ -154,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bumble Bee Foods](http://www.bumblebee.com/)** | **[Business Solutions & Data Analytics Intern](https://jobright.ai/jobs/info/6a2c36cda1d15e3c552fa955?utm_campaign=1066&utm_source=git)** | San Diego,CA,US | On Site | Jul 04 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 04 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 04 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4854a33dbab558e29aca33?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
