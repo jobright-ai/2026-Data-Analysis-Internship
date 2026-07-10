@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5037d0fc327f422fef837e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 09 |
 | **[Opus](http://opusinspection.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a5022c24649561ec08b06b9?utm_campaign=1066&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 09 |
+| **[Quantum Design](http://www.qdusa.com)** | **[Business Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6a4ff26f4649561ec08afa89?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 09 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
 | **[Canada's Children's Hospital Foundations](https://www.childrenshospitals.ca/)** | **[Intern, Data & Analytics (8 Month Contract)](https://jobright.ai/jobs/info/6a5008309469c0662034fe84?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
-| **[Quantum Design](http://www.qdusa.com)** | **[Business Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6a4ff26f4649561ec08afa89?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 09 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Technology and National Security, Fall 2026](https://jobright.ai/jobs/info/6a4fed8df57ed168c3417597?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 09 |
 | **[McKesson](https://mms.mckesson.com/)** | **[Data Governance Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fd7ba9469c0662034f1f4?utm_campaign=1066&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 09 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d8e8461b9b613a624602?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d9321f90bd6ae23d1d7c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 03 |
-| **[Selkirk Sport - We Are Pickleball](http://www.selkirk.com)** | **[FP&A Data Specialist (Intern)](https://jobright.ai/jobs/info/6a47723d4f64ba41dcb56b3e?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
