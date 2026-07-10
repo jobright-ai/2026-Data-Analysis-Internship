@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/6a5071cc9469c06620350f7c?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States | On Site | Jul 09 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 09 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5037d0fc327f422fef837e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 09 |
@@ -143,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4854a33dbab558e29aca33?utm_campaign=1066&utm_source=git)** | Seattle | On Site | Jul 03 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Fall 2026](https://jobright.ai/jobs/info/6a48157f3dbab558e29abeb2?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Jul 03 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Jul 03 |
-| **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6a284a442d6c332ee52e50c1?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
