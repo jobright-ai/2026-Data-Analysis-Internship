@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a5229de8ef95364ead8d1fa?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
+| **[Disc Medicine](https://www.discmedicine.com)** | **[CMC Inventory Centralization Intern](https://jobright.ai/jobs/info/6a5229dc8a74e077472f35bf?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Hybrid | Jul 11 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a5215119fbdab22fe139f0c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5214248576ec69c014a4c9?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a51f30a78e364789ca5ed0f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d682c35e45603c4bb3d73?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d4aacd27b2c4dda9b6fdd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 07 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 07 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3e29d27b2c4dda9b6c4b?utm_campaign=1066&utm_source=git)** | New Orleans, LA | Hybrid | Jul 07 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
