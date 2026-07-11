@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a5215119fbdab22fe139f0c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5214248576ec69c014a4c9?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a51f30a78e364789ca5ed0f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Anesthesiology and PeriOperative Medicine-Research](https://jobright.ai/jobs/info/6a51eeea57513b72e0c69c81?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Jul 11 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](https://ir.thehartford.com)** | **[Tech & Data Program Summer 2027 – Analytics Intern (Hartford)](https://jobright.ai/jobs/info/6a513b9bbf63b66c7997a050?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Jul 10 |
 | ↳ | **[Tech & Data Program Summer 2027 – Agile Intern (Hartford)](https://jobright.ai/jobs/info/6a513b5257513b72e0c650b1?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States of America | Hybrid | Jul 10 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Developer Intern, Summer 2027](https://jobright.ai/jobs/info/6a510b1257513b72e0c6360a?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
-| **[McKesson](https://www.chase.com/)** | **[Data Governance Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fd7ba9469c0662034f1f4?utm_campaign=1066&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 10 |
+| **[McKesson](https://mms.mckesson.com/)** | **[Data Governance Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fd7ba9469c0662034f1f4?utm_campaign=1066&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 10 |
 | **[iSpot](http://www.ispot.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a512bc7bf63b66c79979842?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | Hybrid | Jul 10 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[Quantitative Research Analyst Internship](https://jobright.ai/jobs/info/6a51238ebf63b66c7997948f?utm_campaign=1066&utm_source=git)** | Radnor, PA, United States | On Site | Jul 10 |
 | **[BlueLabs](https://bluelabs.com)** | **[Reporting Fellow](https://jobright.ai/jobs/info/6a5121dc78e364789ca59285?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3e6a39122f340d29cf32a2?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 07 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3e29d27b2c4dda9b6c4b?utm_campaign=1066&utm_source=git)** | New Orleans, LA | Hybrid | Jul 07 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
-| **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a4d1a8235e45603c4bb2912?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
