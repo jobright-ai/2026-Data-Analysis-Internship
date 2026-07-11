@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51b44a02522b5b722e9e60?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fc36c09fc67a0b39f474f0?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Jul 11 |
 | **[ZURU Edge](https://zuruedge.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a1b970b6b135014dbc8f49a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a5229de8ef95364ead8d1fa?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | **[Disc Medicine](https://www.discmedicine.com)** | **[CMC Inventory Centralization Intern](https://jobright.ai/jobs/info/6a5229dc8a74e077472f35bf?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Hybrid | Jul 11 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a51b39dae4052672fe9939d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern - Fall Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/6a51bb80bf63b66c7997bafd?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 10 |
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a3ae996dd879c60912b1033?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | On Site | Jul 10 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51b44a02522b5b722e9e60?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a51c706bf63b66c7997c886?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 10 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic – Quantitative Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51e976bf63b66c7997eb9a?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Vehicle Planning Analyst Intern – September 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6a51b9bd8d7d3e6cf1cc1c3a?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Data and Coding Internship](https://jobright.ai/jobs/info/6a4d94384c6c9f7a619f834b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 | **[ABB](https://global.abb/group/en)** | **[Operation Digitalization and Quality Intern-Fall 2026](https://jobright.ai/jobs/info/6a4d37ffc643fd23fed3c286?utm_campaign=1066&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Jul 07 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Business Analyst (Engineering) Intern (Fall 2026 / 8-12 months)](https://jobright.ai/jobs/info/6a4d687135e45603c4bb3d98?utm_campaign=1066&utm_source=git)** | Scarborough, ON, Canada | Hybrid | Jul 07 |
-| ↳ | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a4d682c35e45603c4bb3d73?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
