@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a52875fd007ee02d95f7f40?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Summer Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51b44a02522b5b722e9e60?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4db6ff4c6c9f7a619f87d4?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 07 |
 | **[Orennia](https://orennia.com/)** | **[Analytics Intern (Fall 2026 Term)](https://jobright.ai/jobs/info/6a3b1ee3dbedbf5680c72d7b?utm_campaign=1066&utm_source=git)** | Calgary Headquarters | On Site | Jul 07 |
-| **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2026 Data and Coding Internship](https://jobright.ai/jobs/info/6a4d94384c6c9f7a619f834b?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
