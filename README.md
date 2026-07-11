@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Public Health Institute](https://lphi.org)** | **[Health Data Integrity Intern](https://jobright.ai/jobs/info/6a510a96ae4052672fe9657f?utm_campaign=1066&utm_source=git)** | New Orleans, LA, United States | Hybrid | Jul 10 |
+| **[PlayCore](http://www.playcore.com/)** | **[Data Analytics Intern - PlayCore](https://jobright.ai/jobs/info/6a519c17bf63b66c7997a7f6?utm_campaign=1066&utm_source=git)** | Chattanooga, TN 37402, USA | On Site | Jul 10 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2027](https://jobright.ai/jobs/info/6a510b188d7d3e6cf1cbe6d9?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 10 |
 | **[The Hartford](https://ir.thehartford.com)** | **[Tech & Data Program Summer 2027 – Analytics Intern (Hartford)](https://jobright.ai/jobs/info/6a513b9bbf63b66c7997a050?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Jul 10 |
 | ↳ | **[Tech & Data Program Summer 2027 – Agile Intern (Hartford)](https://jobright.ai/jobs/info/6a513b5257513b72e0c650b1?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States of America | Hybrid | Jul 10 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Reporting, Mission KS](https://jobright.ai/jobs/info/6a42b8701cc9cc2b12fec950?utm_campaign=1066&utm_source=git)** | Mission, KS, US | On Site | Jul 10 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a1e3d359111f771d1a1df14?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 10 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
-| **[Louisiana Public Health Institute](https://lphi.org)** | **[Health Data Integrity Intern](https://jobright.ai/jobs/info/6a510a96ae4052672fe9657f?utm_campaign=1066&utm_source=git)** | New Orleans, LA, United States | Hybrid | Jul 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a5037d0fc327f422fef837e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Texas Democratic Party](http://www.txdemocrats.org)** | **[Intern](https://jobright.ai/jobs/info/6a5101b9ae4052672fe95f83?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 05 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a343ae9f6b55d12c791babd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jul 04 |
 | **[FunnelCake](https://www.getfunnelcake.com/)** | **[Technical Analyst - 12-14 Month Co-Op](https://jobright.ai/jobs/info/6a4b0c81f9cbb100d1ab52a8?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 04 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
