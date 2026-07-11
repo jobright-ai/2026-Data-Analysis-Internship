@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a51f30a78e364789ca5ed0f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
 | **[UT MD Anderson](https://www.mdanderson.org/)** | **[Research Intern - Anesthesiology and PeriOperative Medicine-Research](https://jobright.ai/jobs/info/6a51eeea57513b72e0c69c81?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Jul 11 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 10 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a51e1558d7d3e6cf1cc44e6?utm_campaign=1066&utm_source=git)** | DC, United States | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a4d1a8235e45603c4bb2912?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN, Canada | On Site | Jul 07 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/6a4d01383122a76a8fd53c7f?utm_campaign=1066&utm_source=git)** | La Crosse, WI, United States | Hybrid | Jul 07 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
