@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 12 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[Quantitative Research Analyst Internship](https://jobright.ai/jobs/info/6a5343558ef95364ead919b2?utm_campaign=1066&utm_source=git)** | Radnor, PA, United States | On Site | Jul 12 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a53002dd007ee02d95f9e4d?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jul 08 |
-| **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher - Internship - Summer 2027](https://jobright.ai/jobs/info/6a335fcace501060b5ced3fe?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
