@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a53002dd007ee02d95f9e4d?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Jul 11 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fa9d8f57ed168c34163a2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51b44a02522b5b722e9e60?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[TPG](http://www.tpg.com)** | **[Data Analytics and Reporting, Intern / Fall Research Assistant](https://jobright.ai/jobs/info/6a51d93f78e364789ca5dc06?utm_campaign=1066&utm_source=git)** | AZ, United States | Remote | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jul 08 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher - Internship - Summer 2027](https://jobright.ai/jobs/info/6a335fcace501060b5ced3fe?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d579093df201d07b2d50?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a346b85f6b55d12c791cbc1?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
