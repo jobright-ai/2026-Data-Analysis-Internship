@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a53002dd007ee02d95f9e4d?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Jul 11 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fa9d8f57ed168c34163a2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51b44a02522b5b722e9e60?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern - Fall Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/6a51bf1778e364789ca5c159?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 11 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Summer Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a52c8919fbdab22fe13d10e?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
-| ↳ | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
+| ↳ | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Data & Statistics Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a52a0968a74e077472f557f?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 11 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a52875fd007ee02d95f7f40?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3bb6f84d047136e092e36a?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jul 08 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher - Internship - Summer 2027](https://jobright.ai/jobs/info/6a335fcace501060b5ced3fe?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Jul 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d579093df201d07b2d50?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
