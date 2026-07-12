@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/6a5381b98576ec69c014ff12?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 12 |
 | **[Huck Adventures, Inc](http://www.huckadventures.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a5370e2e726ec56126a6d57?utm_campaign=1066&utm_source=git)** | Boulder, CO, United States | On Site | Jul 12 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, United States | On Site | Jul 12 |
@@ -125,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Data Management Intern](https://jobright.ai/jobs/info/6a50a22142c6dc326e8ea98b?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 09 |
 | **[Quantum Design](http://www.qdusa.com)** | **[Business Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6a4ff26f4649561ec08afa89?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 09 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
 | **[Canada's Children's Hospital Foundations](https://www.childrenshospitals.ca/)** | **[Intern, Data & Analytics (8 Month Contract)](https://jobright.ai/jobs/info/6a5008309469c0662034fe84?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6a4e63101544d7246c0d289d?utm_campaign=1066&utm_source=git)** | Dublin, GA, United States | On Site | Jul 08 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6a4ad46d5d7b097d2df3c77c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2027 – Summer Analyst Internship - Corporate Functions, Technology](https://jobright.ai/jobs/info/69fb321be15600084115790b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 08 |
-| **[American Heart Association](https://www.goredforwomen.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/6a3a9556dd879c60912af712?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
