@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086f4119652ff3862cf8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086af2c46727285ef454?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/6a55020b268af95237be8a02?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a54f9e1268af95237be86bf?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
+| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jul 13 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 13 |
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a54f23bae07d60a8d00de97?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | On Site | Jul 13 |
@@ -78,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[RevNet](http://revnet.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3b96d6882f121f56a31e50?utm_campaign=1066&utm_source=git)** | Pompano Beach, FL, United States | Remote | Jul 12 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business and Data Analyst Intern](https://jobright.ai/jobs/info/6a53b03de726ec56126a7aea?utm_campaign=1066&utm_source=git)** | West Hartford, CT, US | On Site | Jul 12 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 12 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/6a5381b98576ec69c014ff12?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 12 |
 | **[Huck Adventures, Inc](http://www.huckadventures.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6a5370e2e726ec56126a6d57?utm_campaign=1066&utm_source=git)** | Boulder, CO, United States | On Site | Jul 12 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/6a5071cc9469c06620350f7c?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States | On Site | Jul 09 |
 | **[VOX ATL](https://voxatl.org)** | **[VOX ATL Data Management Intern](https://jobright.ai/jobs/info/6a50a22142c6dc326e8ea98b?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 09 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Analytical Department Intern](https://jobright.ai/jobs/info/6a46ba29c2d11a6a46670446?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 09 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[Intern](https://jobright.ai/jobs/info/6a500d38fc327f422fef7acf?utm_campaign=1066&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 09 |
 | **[Canada's Children's Hospital Foundations](https://www.childrenshospitals.ca/)** | **[Intern, Data & Analytics (8 Month Contract)](https://jobright.ai/jobs/info/6a5008309469c0662034fe84?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 09 |
 | **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 09 |
 | **[Matthews™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6a2cd981f1751b183c819fc8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quantum Design](http://www.qdusa.com)** | **[Business Intelligence & Data Automation Intern](https://jobright.ai/jobs/info/6a4ff26f4649561ec08afa89?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d548093df201d07b2d49?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 09 |
 | **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a4eb4981544d7246c0d3e87?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 09 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2026 - Research Intern, Vera Louisiana](https://jobright.ai/jobs/info/6a4d3f0a3122a76a8fd54bd7?utm_campaign=1066&utm_source=git)** | New Orleans, Louisiana, United States | Hybrid | Jul 08 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary](https://jobright.ai/jobs/info/6a4d849c0209ea6fd68529a3?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
