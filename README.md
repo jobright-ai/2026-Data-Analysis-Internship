@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a54650ac8eb0843027afc00?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5455e58a74e077472fb777?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Lee Spring](http://leespring.com)** | **[Part time Intern](https://jobright.ai/jobs/info/6a5434fcc8eb0843027af238?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
 | **[Velinsa](https://velinsa.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6a542b57e726ec56126a9512?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Data Analytics Intern - Fall Recruitment MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/6a51bf1778e364789ca5c159?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 11 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Data Scientist Summer Internship](https://jobright.ai/jobs/info/6a4befba4eb370649b27b995?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 11 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a52c8919fbdab22fe13d10e?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
-| ↳ | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/6a4e6be21544d7246c0d2a9d?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
+| ↳ | **[BUSINESS DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6a4e8087fc327f422fef3139?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Jul 11 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Data & Statistics Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a52a0968a74e077472f557f?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 11 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a52875fd007ee02d95f7f40?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Quantitative Researcher, UG/MS (Intern)](https://jobright.ai/jobs/info/6a4ec9b51544d7246c0d434b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 | **[Nuro](https://nuro.ai)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a4ec98b0ea38951a6ff47a2?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Jul 08 |
 | **[Mphasis](https://www.mphasis.com)** | **[Trainee / Intern](https://jobright.ai/jobs/info/6a4eb7acfc327f422fef3f25?utm_campaign=1066&utm_source=git)** | Toronto, Canada | On Site | Jul 08 |
-| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a4eada2397d8d353c289e61?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
