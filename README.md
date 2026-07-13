@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[PCF](https://pcfcorp.com)** | **[Geographic Information Systems Internship](https://jobright.ai/jobs/info/6a548a6b8ef95364ead95e69?utm_campaign=1066&utm_source=git)** | Belleville, NJ, United States | On Site | Jul 12 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science AI-&I (Master's degree level)](https://jobright.ai/jobs/info/6a5467bf8576ec69c0153063?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Jul 12 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a54650ac8eb0843027afc00?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 12 |
-| **[Big Tech Company](https://www.bigtech.company)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a547da8e726ec56126aa68c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5455e58a74e077472fb777?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Lee Spring](http://leespring.com)** | **[Part time Intern](https://jobright.ai/jobs/info/6a5434fcc8eb0843027af238?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
 | **[Velinsa](https://velinsa.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6a542b57e726ec56126a9512?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Phamily](https://phamily.com/)** | **[Business Intelligence & Data Analytics Intern (Undergraduate)](https://jobright.ai/jobs/info/6a3c8cbe4d047136e09311ae?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 08 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, PhD (Intern)](https://jobright.ai/jobs/info/6a4ec9c39469c0662034cac8?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 08 |
+| ↳ | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6a4ec9b80ea38951a6ff47c4?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
