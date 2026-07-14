@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Finning](http://www.finning.com)** | **[Data Quality Analyst Intern](https://jobright.ai/jobs/info/6a555ccd4119652ff38653a3?utm_campaign=1066&utm_source=git)** | Calgary, AB, CA | Hybrid | Jul 13 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[2026 Fall Digital Transformation Intern](https://jobright.ai/jobs/info/6a55647a2084cd792b478475?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Jul 13 |
+| **[Finning](http://www.finning.com)** | **[Data Quality Analyst Intern](https://jobright.ai/jobs/info/6a555ccd4119652ff38653a3?utm_campaign=1066&utm_source=git)** | Calgary, AB, CA | Hybrid | Jul 13 |
 | **[XPV Water Partners](http://www.xpvwaterpartners.com/)** | **[AI & Data Analyst Intern- Fall 2026](https://jobright.ai/jobs/info/6a55609aae07d60a8d010ed1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 13 |
 | **[Los Angeles Chargers](http://www.chargers.com/)** | **[Business Intelligence & Data Integration Intern](https://jobright.ai/jobs/info/6a5557d02084cd792b477ea7?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | On Site | Jul 13 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2027](https://jobright.ai/jobs/info/6a553193268af95237bea01b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/6a55020b268af95237be8a02?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a54f9e1268af95237be86bf?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 13 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jul 13 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d579093df201d07b2d50?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a54f23bae07d60a8d00de97?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | On Site | Jul 13 |
 | **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Data Analyst/Business Intelligence Co-op Student - Fort Edward, NY - Fall 2026 to Winter 2027](https://jobright.ai/jobs/info/6a54e44871848b0020433d2a?utm_campaign=1066&utm_source=git)** | Fort Edward, NY, United States | On Site | Jul 13 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a54650ac8eb0843027afc00?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 12 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5455e58a74e077472fb777?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 12 |
 | **[Lee Spring](http://leespring.com)** | **[Part time Intern](https://jobright.ai/jobs/info/6a5434fcc8eb0843027af238?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
-| **[Velinsa](https://velinsa.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6a542b57e726ec56126a9512?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a5422a9d007ee02d95fdd1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 12 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[RevNet](http://revnet.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3b96d6882f121f56a31e50?utm_campaign=1066&utm_source=git)** | Pompano Beach, FL, United States | Remote | Jul 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ad46ec2d11a6a46676f96?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 10 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 10 |
+| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/6a5071cc9469c06620350f7c?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
