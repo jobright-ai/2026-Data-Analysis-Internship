@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aday](http://www.thisisaday.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6a55ba82fdf4fa71202b4410?utm_campaign=1066&utm_source=git)** | NY, United States | Remote | Jul 13 |
+| **[Info Resume Edge](https://www.inforesumeedge.com/)** | **[Perations Research Science Internship](https://jobright.ai/jobs/info/6a55b5fbfdf4fa71202b3cb3?utm_campaign=1066&utm_source=git)** | California, California, United States | Remote | Jul 13 |
 | **[Snowflake](https://www.snowflake.com)** | **[AI-Powered BI Intern: Fall 2026](https://jobright.ai/jobs/info/6a559c6f13cd7d29d5e32deb?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Jul 13 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[2026 Fall Digital Transformation Intern](https://jobright.ai/jobs/info/6a55647a2084cd792b478475?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Jul 13 |
 | **[Finning](http://www.finning.com)** | **[Data Quality Analyst Intern](https://jobright.ai/jobs/info/6a555ccd4119652ff38653a3?utm_campaign=1066&utm_source=git)** | Calgary, AB, CA | Hybrid | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Database Analyst Intern](https://jobright.ai/jobs/info/6a50f9dabf63b66c79977bf2?utm_campaign=1066&utm_source=git)** | Warminster, PA, United States | Hybrid | Jul 10 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | Jul 10 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ad46ec2d11a6a46676f96?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 10 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
