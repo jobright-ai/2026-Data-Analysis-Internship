@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a5229de8ef95364ead8d1fa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[DEUNA](https://www.deuna.com)** | **[Data Science intern](https://jobright.ai/jobs/info/6a42b55ea5e15b1068379df4?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 14 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/6a4651708204a812e98c71ae?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Central Equity Quant Research (CEQR) Intern (Summer 2027)](https://jobright.ai/jobs/info/6a56d9b210c4d945d864c4c9?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Jul 14 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WBG Pioneer - Enterprise Analysis Intern](https://jobright.ai/jobs/info/6a567b6aefb06a45240d60b9?utm_campaign=1066&utm_source=git)** | Washington, DC, , US | On Site | Jul 14 |
 | ↳ | **[WBG Pioneer - Geospatial Data Analysis Intern](https://jobright.ai/jobs/info/6a567b6ae9b77f668bd63967?utm_campaign=1066&utm_source=git)** | Washington, DC, , US | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2027](https://jobright.ai/jobs/info/6a553193268af95237bea01b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jul 14 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a511d458d7d3e6cf1cbf0c8?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Jul 14 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a511d458d7d3e6cf1cbf0c8?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Jul 14 |
+| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6a1dbde7c2a87d6cd3e0d5d7?utm_campaign=1066&utm_source=git)** | Golden, CO, US | On Site | Jul 14 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a5666ffe9b77f668bd6323d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jul 14 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/6a56658a10c4d945d86494c4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 14 |
 | **[Bosch](http://www.bosch.com)** | **[Business Intelligence Intern - Fall](https://jobright.ai/jobs/info/6a56547ff7517b519ad54f9a?utm_campaign=1066&utm_source=git)** | Watertown, MA, United States | On Site | Jul 14 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/6a55020b268af95237be8a02?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a54f9e1268af95237be86bf?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b416243320e8d161fe9?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Jul 13 |
+| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a184b306243320e8d161fdd?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
 | ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 13 |
-| ↳ | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a06f1a64a0a6a7e7d81c6f4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d579093df201d07b2d50?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a54f23bae07d60a8d00de97?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | On Site | Jul 13 |
 | **[Free the Slaves](https://www.freetheslaves.net)** | **[Research Intern - Middle East and North Africa (MENA)](https://jobright.ai/jobs/info/6a54de4b71848b0020433a79?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a52875fd007ee02d95f7f40?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69fc36c09fc67a0b39f474f0?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Jul 11 |
 | **[ZURU Edge](https://zuruedge.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a1b970b6b135014dbc8f49a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 11 |
-| **[AXQ](https://www.linkedin.com/company/108970537)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a5229de8ef95364ead8d1fa?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
