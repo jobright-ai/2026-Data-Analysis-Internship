@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Business Insights & Analytics Co-op/Intern Fall 2026](https://jobright.ai/jobs/info/6a637e08979290281c7026de?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
+| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Cancer Disparity Research Intern](https://jobright.ai/jobs/info/6a637be55c7e2d715ebac385?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 24 |
+| **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Business Intelligence & Data Analytics Intern- OH](https://jobright.ai/jobs/info/6a637af487cef057612c8dc4?utm_campaign=1066&utm_source=git)** | Mentor, OH, United States | On Site | Jul 24 |
+| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Student Intern US - Seasonal (Export Control)](https://jobright.ai/jobs/info/6a637142e8d8d22e32928b59?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 24 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 24 |
@@ -101,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 23 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 23 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, United States | On Site | Jul 23 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 23 |
 | **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a51c706bf63b66c7997c886?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 23 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Fall 2026](https://jobright.ai/jobs/info/6a61cc347196365a6f00c6c1?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a53002dd007ee02d95f9e4d?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Jul 21 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern - Summer 2027](https://jobright.ai/jobs/info/6a4ad46ec2d11a6a46676f96?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6a51e1558d7d3e6cf1cc44e6?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 21 |
-| **[Truveta](https://www.truveta.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/6a52504a8576ec69c014b611?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 21 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 21 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5214248576ec69c014a4c9?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
