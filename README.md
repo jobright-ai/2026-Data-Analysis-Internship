@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Student Intern US - Seasonal (Export Control)](https://jobright.ai/jobs/info/6a637142e8d8d22e32928b59?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 24 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 24 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086af2c46727285ef454?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a627ef107e15f1ab0e46b6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Technology and Data Internship](https://jobright.ai/jobs/info/6a627e44d5caab4af8bae56e?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Governance)](https://jobright.ai/jobs/info/6a627d27f805ef6ff4233342?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
-| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/690b1733d046ab6061ce2b6a?utm_campaign=1066&utm_source=git)** | New Jersey | On Site | Jul 23 |
-| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a55b6c52ce8bf79a139fb69?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jul 23 |
+| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a55b6c52ce8bf79a139fb69?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jul 23 |
+| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/690b1733d046ab6061ce2b6a?utm_campaign=1066&utm_source=git)** | New Jersey | On Site | Jul 23 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a509f02d5d2a327b664c595?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Data Analysis Intern](https://jobright.ai/jobs/info/6a62585bd5caab4af8bad50f?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
@@ -120,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Analyst Intern](https://jobright.ai/jobs/info/6a56658a10c4d945d86494c4?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a60a97da4c799127e993a80?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Jul 22 |
 | **[Pennant](https://www.pinnaclesl.com)** | **[Home Health & Hospice Data Analysis Intern](https://jobright.ai/jobs/info/6a60dd8e11edf44d7915e374?utm_campaign=1066&utm_source=git)** | Eagle, ID, United States | On Site | Jul 22 |
+| **[COUNTRY Financial®](https://www.countryfinancial.com/)** | **[DigitaLab Intern](https://jobright.ai/jobs/info/6a636cb65c7e2d715ebabe96?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[Free the Slaves](https://www.freetheslaves.net)** | **[Research Intern - Middle East and North Africa (MENA)](https://jobright.ai/jobs/info/6a54de4b71848b0020433a79?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Jul 22 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quant Research (Undergrad)](https://jobright.ai/jobs/info/6a3ebe87ce7cce40b3421936?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Eurofins](http://eurofins.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a6098c3a4b66100689cbbab?utm_campaign=1066&utm_source=git)** | Lancaster, PA, United States | Hybrid | Jul 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Jul 21 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a5214248576ec69c014a4c9?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a084e233b54ed42d74d6142?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Jul 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Jul 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
