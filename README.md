@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a5422a9d007ee02d95fdd1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
+| **[CHEManager International](https://www.chemanager-online.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a64fd810c8e2b4f36dd2e10?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 25 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a63d6aa87cef057612caebf?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 25 |
+| **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6a284a442d6c332ee52e50c1?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
+| **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a2c5f29fc06447490549999?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 25 |
+| ↳ | **[Research Intern, Inference (Fall 2026)](https://jobright.ai/jobs/info/6a5422a9d007ee02d95fdd1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Fall 2026](https://jobright.ai/jobs/info/6a4327c578fcb767e2755fea?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Jul 25 |
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate - Intern (North America - University Students)](https://jobright.ai/jobs/info/6a56d155e9b77f668bd65e06?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 | **[PMA Companies](https://www.pmacompanies.com/)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e8bc9f3674a0545d29d7a?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Jul 24 |
@@ -74,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Intern, I-Intern](https://jobright.ai/jobs/info/6a63985b979290281c703124?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Jul 24 |
 | **[REJIS](https://www.rejis.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a63b1605c7e2d715ebad620?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Jul 24 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Data Analytics / Data Science Intern](https://jobright.ai/jobs/info/6a63a3ed8d5360344960374e?utm_campaign=1066&utm_source=git)** | Lake Success, NY, United States | On Site | Jul 24 |
-| **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a55c2ae05c65f7c8f4c7340?utm_campaign=1066&utm_source=git)** | Greenville, SC, United States | On Site | Jul 24 |
+| **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Jul 24 |
+| ↳ | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6a55c2ae05c65f7c8f4c7340?utm_campaign=1066&utm_source=git)** | Greenville, SC, United States | On Site | Jul 24 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a54650ac8eb0843027afc00?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 24 |
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Business Intelligence & Data Analytics Intern- OH](https://jobright.ai/jobs/info/6a637af487cef057612c8dc4?utm_campaign=1066&utm_source=git)** | Mentor, OH, United States | On Site | Jul 24 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -112,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Data Analysis Intern](https://jobright.ai/jobs/info/6a62585bd5caab4af8bad50f?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Intern [2027 Summer]](https://jobright.ai/jobs/info/6a622a8007e15f1ab0e44a0c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Business Intelligence (Mission, KS)](https://jobright.ai/jobs/info/6a621f3b07e15f1ab0e44584?utm_campaign=1066&utm_source=git)** | Mission, KS, United States | On Site | Jul 23 |
-| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
+| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 23 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 23 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[Quantitative Research Analyst Internship](https://jobright.ai/jobs/info/6a5343558ef95364ead919b2?utm_campaign=1066&utm_source=git)** | Radnor, PA, United States | On Site | Jul 22 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - PhD Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51bfb857513b72e0c6734e?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[Medscape](http://www.medscape.com)** | **[BI Intern](https://jobright.ai/jobs/info/6a5856ef9838a11e5d8378be?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | On Site | Jul 21 |
-| **[GSA](http://www.gsacapital.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a539291d007ee02d95fbd49?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
-| **[Expatiate Communications](https://excomweb.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a5fd5fc6e0c3c7c7d3d94b5?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 21 |
-| **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a5215119fbdab22fe139f0c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
-| **[Temco Logistics](https://temcologistics.com)** | **[BI Intern - Carson, CA](https://jobright.ai/jobs/info/6a4330ad501d340b4a82e243?utm_campaign=1066&utm_source=git)** | Pomona, CA, United States | On Site | Jul 21 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Analytics](https://jobright.ai/jobs/info/6a5fbdcdf68dd368023e8695?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
-| **[RevNet](http://revnet.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a3b96d6882f121f56a31e50?utm_campaign=1066&utm_source=git)** | Pompano Beach, FL, United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
