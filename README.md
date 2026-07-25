@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PMA Companies](https://www.pmacompanies.com/)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e8bc9f3674a0545d29d7a?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Jul 24 |
 | **[Sunwater Capital](http://sunwatercapital.com )** | **[Fall Congressional Research Intern](https://jobright.ai/jobs/info/6a51189a57513b72e0c63c98?utm_campaign=1066&utm_source=git)** | North Bethesda, MD, United States | Hybrid | Jul 24 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Data Integration & Reporting Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1e98d53603449605287?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a548e768ef95364ead95f4d?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 24 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Data Analysis Intern](https://jobright.ai/jobs/info/6a62585bd5caab4af8bad50f?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Intern [2027 Summer]](https://jobright.ai/jobs/info/6a622a8007e15f1ab0e44a0c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Business Intelligence (Mission, KS)](https://jobright.ai/jobs/info/6a621f3b07e15f1ab0e44584?utm_campaign=1066&utm_source=git)** | Mission, KS, United States | On Site | Jul 23 |
-| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
+| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 23 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 23 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic – Quantitative Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51e976bf63b66c7997eb9a?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 21 |
 | **[BMO](http://www.bmo.com)** | **[Data Scientist, Fall 2026 ( Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a5fd46533ef5c58b40004d9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 21 |
 | **[Bradesco Bank](https://bradescobank.com )** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a5fd29f8c7fd835513bb418?utm_campaign=1066&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 21 |
-| **[Find Community Connection Project](https://www.findccproject.org)** | **[Data Analyst Intern/Volunteer](https://jobright.ai/jobs/info/6a6010646e0c3c7c7d3da94e?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
