@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Data Integration & Reporting Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1e98d53603449605287?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 24 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(FALL) Research Analyst Intern](https://jobright.ai/jobs/info/6a52c8919fbdab22fe13d10e?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Jul 24 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Research Intern](https://jobright.ai/jobs/info/6a63dfe75c7e2d715ebae6a2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 24 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Intern, I-Intern](https://jobright.ai/jobs/info/6a63985b979290281c703124?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Jul 24 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a4fb13e397d8d353c28c29a?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Technology and Data Internship](https://jobright.ai/jobs/info/6a627e44d5caab4af8bae56e?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Governance)](https://jobright.ai/jobs/info/6a627d27f805ef6ff4233342?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
-| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/690b1733d046ab6061ce2b6a?utm_campaign=1066&utm_source=git)** | New Jersey | On Site | Jul 23 |
-| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a55b6c52ce8bf79a139fb69?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jul 23 |
+| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a55b6c52ce8bf79a139fb69?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jul 23 |
+| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/690b1733d046ab6061ce2b6a?utm_campaign=1066&utm_source=git)** | New Jersey | On Site | Jul 23 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Data Analysis Intern](https://jobright.ai/jobs/info/6a62585bd5caab4af8bad50f?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 23 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Intern [2027 Summer]](https://jobright.ai/jobs/info/6a622a8007e15f1ab0e44a0c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a4eada2397d8d353c289e61?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 21 |
 | **[Hirevue](https://www.hirevue.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a5e8c0d050c423c792f00cd?utm_campaign=1066&utm_source=git)** | Sandy, UT, United States | On Site | Jul 21 |
-| **[HealthCorps](https://www.HealthCorps.org)** | **[Monitoring & Evaluation Intern](https://jobright.ai/jobs/info/6a5fa920f68dd368023e7d4a?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
