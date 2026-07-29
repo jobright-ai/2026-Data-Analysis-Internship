@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PureSkill.gg](http://pureskill.gg/)** | **[Remote Data Science Intern, 4 weeks, CS2 Knowledge Required](https://jobright.ai/jobs/info/6a693b745d01972698ee7249?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern - BS degree level (On-site)](https://jobright.ai/jobs/info/6a68eede36d36c1ff29970e3?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Jul 28 |
 | **[Zurich Canada](https://zurichcanada.com)** | **[Fall 2026 Internship/Co-op - Data Analytics & AI](https://jobright.ai/jobs/info/6a691e7b3b549b0b531d403e?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 28 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a68e44fb22f1b56a60296f9?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 28 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a68c13a53f0806be6cff92f?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Jul 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a5637a5efb06a45240d45a4?utm_campaign=1066&utm_source=git)** | Evansville, IN, United States | On Site | Jul 28 |
 | **[FIRST](https://firstagency.com/)** | **[IT Data Operations Intern (Hybrid - NY office)](https://jobright.ai/jobs/info/6a67e5f85d2a117fb9cedf4e?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
-| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d6b22bda4d2842855f0c?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
+| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d5e82bf1fb2b7192735a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
 | **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a61f2afab14335fc0f1ac95?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Database Coordinator](https://jobright.ai/jobs/info/6a55cc2205c65f7c8f4c7ae3?utm_campaign=1066&utm_source=git)** | Champaign, IL, United States | On Site | Jul 27 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Student Intern US - Seasonal (Export Control)](https://jobright.ai/jobs/info/6a637142e8d8d22e32928b59?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 24 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a470bb0c2d11a6a46671692?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Trusted Concepts, Inc.](http://trustedconcepts.com)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a46dfe8c2d11a6a46670d71?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jul 24 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 24 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 24 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/6a2a7cfec07d4b6ae1c460df?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086af2c46727285ef454?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d8e8461b9b613a624602?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 24 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Intern [2027 Summer]](https://jobright.ai/jobs/info/6a622a8007e15f1ab0e44a0c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 23 |
 | **[Mercury Fiber](https://mercurybroadband.com)** | **[Intern - Business Intelligence (Mission, KS)](https://jobright.ai/jobs/info/6a621f3b07e15f1ab0e44584?utm_campaign=1066&utm_source=git)** | Mission, KS, United States | On Site | Jul 23 |
-| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a4576edc2d11a6a4666943e?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Remote | Jul 23 |
+| **[Duravant](http://www.duravant.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6a4dd5a835e45603c4bb4e0f?utm_campaign=1066&utm_source=git)** | Downers Grove, IL 60515, United States | Remote | Jul 23 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6a60667e193c4d692385e13d?utm_campaign=1066&utm_source=git)** | Downers Grove, IL, United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
