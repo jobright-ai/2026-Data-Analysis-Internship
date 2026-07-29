@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simular](https://simular.ai)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a69fdef16c69119640fbbfa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 29 |
+| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
+| **[PlusAI](https://www.plus.ai)** | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a51c706bf63b66c7997c886?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 29 |
+| ↳ | **[Research Engineer Intern](https://jobright.ai/jobs/info/6a19d799c2a87d6cd3dfbdec?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Jul 29 |
 | **[Aday](http://www.thisisaday.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6a55ba82fdf4fa71202b4410?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/6a66c319e8d8d22e3293098b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 29 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a5751bc21f64463ad358b7a?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 29 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 29 |
 | ↳ | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a5d9eefc8e3a473cb8b49f3?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 29 |
 | **[East Penn Manufacturing Co.](https://www.eastpennmanufacturing.com/)** | **[Power BI & Analytics Intern](https://jobright.ai/jobs/info/6a679e7b2bf1fb2b71926021?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[PureSkill.gg](http://pureskill.gg/)** | **[Remote Data Science Intern, 4 weeks, CS2 Knowledge Required](https://jobright.ai/jobs/info/6a699e2b47d8280e2784ff7b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
@@ -101,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern/Co-op](https://jobright.ai/jobs/info/6a5dc1dd686b4755d1e1efca?utm_campaign=1066&utm_source=git)** | 695 Atlantic Avenue, Boston, MA,02111 | On Site | Jul 26 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a5839e19838a11e5d8375b6?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 26 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
+| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a2a484cd3ec8317fe14305c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 26 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69e0ba676c20aa114953d536?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Jul 24 |
 | **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a54650ac8eb0843027afc00?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 24 |
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Business Intelligence & Data Analytics Intern- OH](https://jobright.ai/jobs/info/6a637af487cef057612c8dc4?utm_campaign=1066&utm_source=git)** | Mentor, OH, United States | On Site | Jul 24 |
-| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Student Intern US - Seasonal (Export Control)](https://jobright.ai/jobs/info/6a637142e8d8d22e32928b59?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Jul 24 |
 | **[Two Six Technologies](https://twosixtech.com/)** | **[China Subject Matter Expert Intern](https://jobright.ai/jobs/info/6a470bb0c2d11a6a46671692?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WebMD](https://www.webmd.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6a629378f805ef6ff4233c00?utm_campaign=1066&utm_source=git)** | Newark, NJ, United States | Hybrid | Jul 23 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/6a625c87846162391c935554?utm_campaign=1066&utm_source=git)** | Stamford, CT, United States | Hybrid | Jul 23 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Data Science Internship (Data Platforms)](https://jobright.ai/jobs/info/6a4fb13e397d8d353c28c29a?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
-| ↳ | **[Data Science Internship (Governance)](https://jobright.ai/jobs/info/6a627d27f805ef6ff4233342?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Jul 23 |
-| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a55b6c52ce8bf79a139fb69?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Jul 23 |
-| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/690b1733d046ab6061ce2b6a?utm_campaign=1066&utm_source=git)** | New Jersey | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
