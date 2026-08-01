@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Star Investment Group](https://nsigcapital.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a6e58c5cd3bac13d37070e8?utm_campaign=1066&utm_source=git)** | Chelsea, New York, United States | Hybrid | Aug 01 |
+| **[New York Life](https://www.newyorklife.com/amn)** | **[2027 Technology, Data, AI & Ventures Summer Internship Program - Analyst Intern](https://jobright.ai/jobs/info/6a6e56d1ad0fe2053db9dbef?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
+| ↳ | **[2027 Technology, Data, AI & Ventures Summer Internship Program - Data Scientist Intern](https://jobright.ai/jobs/info/6a6e56c7ad0fe2053db9dbea?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[McKesson](http://www.mckesson.com)** | **[Data Governance Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fd7ba9469c0662034f1f4?utm_campaign=1066&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Aug 01 |
 | **[Blue Ventis](blueventis.com)** | **[Quantitative Finance Internship](https://jobright.ai/jobs/info/6a6df234c56c0956e8ada684?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Aug 01 |
@@ -138,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a68c13a53f0806be6cff92f?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Jul 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a5637a5efb06a45240d45a4?utm_campaign=1066&utm_source=git)** | Evansville, IN, United States | On Site | Jul 28 |
 | **[Eide Bailly](http://www.eidebailly.com)** | **[Data Analytics Intern (Remote - Fall 2026)](https://jobright.ai/jobs/info/6a6aed9357120971bf3a3a9e?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | Remote | Jul 27 |
-| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d6b22bda4d2842855f0c?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
+| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d5e82bf1fb2b7192735a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
 | **[AARP](http://www.aarp.org)** | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a310d0feace377055eb84d9?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | ↳ | **[Data Science and Advanced Analytics Intern](https://jobright.ai/jobs/info/6a61f2afab14335fc0f1ac95?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Database Coordinator](https://jobright.ai/jobs/info/6a55cc2205c65f7c8f4c7ae3?utm_campaign=1066&utm_source=git)** | Champaign, IL, United States | On Site | Jul 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a553f10ae07d60a8d00fece?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern/Co-op](https://jobright.ai/jobs/info/6a5dc1dd686b4755d1e1efca?utm_campaign=1066&utm_source=git)** | 695 Atlantic Avenue, Boston, MA,02111 | On Site | Jul 26 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Center on Opportunity and Social Mobility](https://jobright.ai/jobs/info/6a5839e19838a11e5d8375b6?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Jul 26 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Jul 26 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
