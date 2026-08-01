@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.com)** | **[Quantitative Finance Internship](https://jobright.ai/jobs/info/6a6df234c56c0956e8ada684?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Aug 01 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a6de955160eda5948e89f3f?utm_campaign=1066&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 01 |
+| **[The D. E. Shaw Group](https://www.deshaw.com)** | **[Quantitative Analyst Intern (New York) – Summer 2027](https://jobright.ai/jobs/info/6a6de583cd3bac13d3706385?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Hirevue](https://www.hirevue.com)** | **[Data Science Intern / Fully Remote US](https://jobright.ai/jobs/info/6a5e8d3427bf767ea68f79b6?utm_campaign=1066&utm_source=git)** | Sandy, UT, United States | Remote | Aug 01 |
 | **[New York State Homes & Community Renewal](https://hcr.ny.gov)** | **[Research and Strategic Analysis Intern](https://jobright.ai/jobs/info/6a6d8b9a66158d7ef887dc3d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[UF Health](https://ufhealth.org/)** | **[Student / Intern / IT Data - Analytics](https://jobright.ai/jobs/info/6a6d577332f9300c3a3e7e91?utm_campaign=1066&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 31 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Bioinformatics Applications Internship](https://jobright.ai/jobs/info/6a6cd5e857120971bf3ad79c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Jul 31 |
 | **[Danaher](https://www.danaher.com)** | **[Bioinformatics Applications Internship](https://jobright.ai/jobs/info/6a6cc2975c54bc4752cef170?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | Jul 31 |
-| ↳ | **[Data Processing Intern](https://jobright.ai/jobs/info/6a61e8e7eaa37f43e758ae2a?utm_campaign=1066&utm_source=git)** | Fowler, California, United States | On Site | Jul 31 |
+| **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a61e8e7eaa37f43e758ae2a?utm_campaign=1066&utm_source=git)** | Fowler, California, United States | On Site | Jul 31 |
+| ↳ | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Informatics Grad Intern](https://jobright.ai/jobs/info/6a6cb191ca1f93384660004e?utm_campaign=1066&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 31 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a6b89035c54bc4752ce994f?utm_campaign=1066&utm_source=git)** | Toronto, Canada | Hybrid | Jul 31 |
@@ -90,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a6be5e35c54bc4752ceb901?utm_campaign=1066&utm_source=git)** | Appleton, WI, United States | On Site | Jul 30 |
 | **[IGEN](https://www.complyiq.io/)** | **[Data Intelligence Intern – Breakthrough](https://jobright.ai/jobs/info/6a6be5d8c00ae03109f8684b?utm_campaign=1066&utm_source=git)** | Green Bay, WI, United States | On Site | Jul 30 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Analytics Intern Fall 2026 (Part-time) - CMH Health](https://jobright.ai/jobs/info/6a6b88665c54bc4752ce9926?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | Remote | Jul 30 |
-| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a61cd7aab14335fc0f19bc7?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
+| **[AARP](http://www.aarp.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a33fd89f6b55d12c791a4ba?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a61cd7aab14335fc0f19bc7?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern - Career Data and Analytics](https://jobright.ai/jobs/info/6a6bd2ae57120971bf3a90cf?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/6a6bb0c3acb0a61f9dbc24ce?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 30 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Intelligence Internship/Co-Op (8-months) - Fall 2026](https://jobright.ai/jobs/info/6a6b673aca1f9338465fa269?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Audactus](www.audactus.com)** | **[Intern Analyst](https://jobright.ai/jobs/info/6a5824a468d16a30e2411e47?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/6a6abad32674685f04abff5f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | On Site | Jul 29 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Fall 2026: Data Integration & Reporting Intern (Unpaid)](https://jobright.ai/jobs/info/6a63f1e98d53603449605287?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 29 |
-| **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Fall 2026 (CMH Health)](https://jobright.ai/jobs/info/6a6a763148355b3f12bf11ed?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Remote | Jul 29 |
 | **[Mercy Corps](http://www.mercycorps.org)** | **[Geospatial Analytics & Mapping Intern (US-Based Applicants ONLY)](https://jobright.ai/jobs/info/6a6a79b40b42f866b6198eb9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Technology and Innovation - Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/6a6a778d48355b3f12bf1227?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA, United States | On Site | Jul 29 |
 | **[Leidos](https://www.leidos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a6a62420b42f866b6198615?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Jul 29 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Simular](https://simular.ai)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a69fdef16c69119640fbbfa?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 29 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Aday](http://www.thisisaday.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6a55ba82fdf4fa71202b4410?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a5751bc21f64463ad358b7a?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 29 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a305e03093df201d07b104f?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jul 29 |
 | ↳ | **[Reporting Specialist - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a5d9eefc8e3a473cb8b49f3?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Jul 29 |
 | **[East Penn Manufacturing Co.](http://www.dekabatteries.com)** | **[Power BI & Analytics Intern](https://jobright.ai/jobs/info/6a679e7b2bf1fb2b71926021?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[Valuable Insight](valuable-insight.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/6a56d09af7517b519ad58392?utm_campaign=1066&utm_source=git)** | Coral Springs, FL, United States | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a28e9e640ac8e32932a443d?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Jul 26 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a2a484cd3ec8317fe14305c?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Jul 26 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Analytics](https://jobright.ai/jobs/info/6a5fbdcdf68dd368023e8695?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 25 |
-| **[Brilent](http://www.brilent.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a589a630304e26a7e7e702b?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
