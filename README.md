@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Actuarial Intern - Summer 2027](https://jobright.ai/jobs/info/6a70e8f81003bd7b70d6d6ca?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Aug 03 |
+| **[Impulse Space](https://www.impulsespace.com)** | **[Manufacturing Data Analytics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a70e5b2cb96192a3684658b?utm_campaign=1066&utm_source=git)** | Redondo Beach, CA, United States | On Site | Aug 03 |
+| **[Regency Centers](https://www.regencycenters.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6a70e3e0357dfc6ff2b3bbf9?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 03 |
+| **[Xpress Boats](https://xpressboats.com/)** | **[I.S. Intern](https://jobright.ai/jobs/info/6a70e1fb02d93145bf88ce38?utm_campaign=1066&utm_source=git)** | Hot Springs, AR, United States | On Site | Aug 03 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D Intern - Optimization (Spring 2027)](https://jobright.ai/jobs/info/6a70e16502d93145bf88cde5?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 03 |
 | **[Netsmart](https://www.ntst.com)** | **[Technical Analyst Intern  (Summer 2027 Internship)](https://jobright.ai/jobs/info/6a70ca4b357dfc6ff2b3b17d?utm_campaign=1066&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Markets - Summer Internship - Associate- United States](https://jobright.ai/jobs/info/6a70abed1003bd7b70d6bdae?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | ↳ | **[2027 Quantitative Research - Markets - Summer Internship - Analyst - United States](https://jobright.ai/jobs/info/6a70abe502d93145bf88b7a8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
@@ -73,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Glatfelter](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a58d64d686b4755d1e0c975?utm_campaign=1066&utm_source=git)** | Evansville, IN, United States | On Site | Aug 02 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern - Career Data and Analytics](https://jobright.ai/jobs/info/6a6bd2ae57120971bf3a90cf?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 02 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Aug 02 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Aug 02 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic - PhD Quantitative Researcher Intern (Summer 2027)](https://jobright.ai/jobs/info/6a51bfb857513b72e0c6734e?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Aug 01 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[McKesson](http://www.mckesson.com)** | **[Data Governance Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4fd7ba9469c0662034f1f4?utm_campaign=1066&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Aug 01 |
@@ -97,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Bioinformatics Applications Internship](https://jobright.ai/jobs/info/6a6cd5e857120971bf3ad79c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Jul 31 |
 | **[Danaher](https://www.danaher.com)** | **[Bioinformatics Applications Internship](https://jobright.ai/jobs/info/6a6cc2975c54bc4752cef170?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2027)](https://jobright.ai/jobs/info/6a3c5592982bb239f812f56a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | Jul 31 |
-| ↳ | **[Data Processing Intern](https://jobright.ai/jobs/info/6a61e8e7eaa37f43e758ae2a?utm_campaign=1066&utm_source=git)** | Fowler, California, United States | On Site | Jul 31 |
+| **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a61e8e7eaa37f43e758ae2a?utm_campaign=1066&utm_source=git)** | Fowler, California, United States | On Site | Jul 31 |
+| ↳ | **[Data Processing Intern](https://jobright.ai/jobs/info/6a19e0382b206f3955eb14a9?utm_campaign=1066&utm_source=git)** | Fowler, CA | On Site | Jul 31 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Informatics Grad Intern](https://jobright.ai/jobs/info/6a6cb191ca1f93384660004e?utm_campaign=1066&utm_source=git)** | Tacoma, WA, United States | On Site | Jul 31 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[ALM Scripting & Reporting Intern](https://jobright.ai/jobs/info/6a6b89035c54bc4752ce994f?utm_campaign=1066&utm_source=git)** | Toronto, Canada | Hybrid | Jul 31 |
@@ -148,5 +153,5 @@ For a complete list, click the following sortable link below:
 | **[Navitas Systems, LLC](http://navitassys.com)** | **[Power BI & Analytics Intern](https://jobright.ai/jobs/info/6a68e05e36d36c1ff2996c0f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Jul 28 |
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/6a68c13a53f0806be6cff92f?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Jul 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6a5637a5efb06a45240d45a4?utm_campaign=1066&utm_source=git)** | Evansville, IN, United States | On Site | Jul 28 |
-| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d6b22bda4d2842855f0c?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
+| **[Enverus](https://www.enverus.com)** | **[GIS Intern - 26293](https://jobright.ai/jobs/info/6a67d5e82bf1fb2b7192735a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
