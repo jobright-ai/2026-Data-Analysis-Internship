@@ -1,6 +1,9 @@
 
 # Daily Intern Jobs in Data Analysis by Jobright.ai
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
 
 
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Data Analysis.
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, PhD (Intern)](https://jobright.ai/jobs/info/6a4ec9c39469c0662034cac8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Chase](https://www.chase.com/)** | **[2027 Data for Good Hackathon - Data & AI Program - Summer Internship](https://jobright.ai/jobs/info/6a74b8b9972ac843c6996c67?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Data for Good Hackathon - Data & AI Program - Summer Internship](https://jobright.ai/jobs/info/6a74bb92bb6ca93ae560b9bf?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a38d37da8525e8cd99d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
-| ↳ | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a39c7b3417772ade0a7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a38d37da8525e8cd99d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
+| ↳ | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a39c7b3417772ade0a7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 06 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a6ae2d0c00ae03109f807e2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Aug 06 |
