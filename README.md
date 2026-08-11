@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Partners LP](http://www.globalp.com/)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/6a7a08a6b17cba5690365091?utm_campaign=1066&utm_source=git)** | Newton, United States | On Site | Aug 10 |
 | **[Mortenson](https://www.mortenson.com)** | **[Data Analytics & Insights Intern](https://jobright.ai/jobs/info/6a7a0ae1b17cba569036514c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 10 |
 | **[CARE](http://www.care.org/)** | **[INTERN, GENDER-BASED VIOLENCE DIGITAL MINIMUM STANDARDS](https://jobright.ai/jobs/info/6a7a374e67a1ad0bc53d2385?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 10 |
 | **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a7a309bb17cba5690365d44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 10 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Newton, June 2027)](https://jobright.ai/jobs/info/6a7a3f70bb6ca93ae561ad0c?utm_campaign=1066&utm_source=git)** | Newton, MA, United States | On Site | Aug 09 |
 | ↳ | **[Analyst Intern (SF, June 2027)](https://jobright.ai/jobs/info/6a7a3f2d9ee17f276dbf22e6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 09 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[SIU Winter Intern](https://jobright.ai/jobs/info/6a7a3096bb6ca93ae561a55b?utm_campaign=1066&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 09 |
-| **[Global Partners LP](http://www.globalp.com/)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/6a7a08a6b17cba5690365091?utm_campaign=1066&utm_source=git)** | Newton, United States | On Site | Aug 09 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a57b17cefb06a45240dc7db?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a7841077b3417772adeb68f?utm_campaign=1066&utm_source=git)** | Durham, NC, United States | On Site | Aug 09 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a73488e8dc3d52d8ed9e651?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Aug 08 |
@@ -101,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Aug 07 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6a4ec9b80ea38951a6ff47c4?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Fall 2026)](https://jobright.ai/jobs/info/6a63d6aa87cef057612caebf?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 06 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a577927a791c6211befe5b4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a58930168d16a30e241411b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern/Co-op](https://jobright.ai/jobs/info/6a57d4eba791c6211bf0161e?utm_campaign=1066&utm_source=git)** | Red Oak, TX, United States | On Site | Aug 06 |
@@ -112,12 +112,12 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a38d37da8525e8cd99d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | ↳ | **[Summer 2027 Jr. Research Analyst Internship   ](https://jobright.ai/jobs/info/6a74a39c7b3417772ade0a7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Medpace](http://www.medpace.com)** | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a20b2b2ca8f0b365d7a2f3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 06 |
+| ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a6af8072674685f04ac18d4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a2fc044093df201d07ae643?utm_campaign=1066&utm_source=git)** | Cincinnati,Ohio,United States | On Site | Aug 06 |
-| ↳ | **[Feasibility Informatics Internship/Co-Op Spring 2027](https://jobright.ai/jobs/info/6a6ae2d0c00ae03109f807e2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | ↳ | **[Clinical Informatics Intern - Spring 2027](https://jobright.ai/jobs/info/6a28627d7061b51a3a5f55e3?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a56a04b10c4d945d864aed8?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | On Site | Aug 06 |
-| **[Canva](http://www.canva.com)** | **[PhD Research Scientist Intern](https://jobright.ai/jobs/info/6a73e67532ebbc14ffb51537?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
-| ↳ | **[PhD Research Scientist Intern](https://jobright.ai/jobs/info/6a742846972ac843c6994b29?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
+| **[Canva](http://www.canva.com)** | **[PhD Research Scientist Intern](https://jobright.ai/jobs/info/6a742846972ac843c6994b29?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
+| ↳ | **[PhD Research Scientist Intern](https://jobright.ai/jobs/info/6a73e67532ebbc14ffb51537?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/6a73c0978cd88e7ccbf5a62e?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Aug 05 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 05 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086f4119652ff3862cf8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[PNC](http://www.pnc.com)** | **[Data, Modeling, and Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6a721b9171acd469eeda60c7?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 04 |
 | **[Scorecard](https://www.scorecard.io)** | **[Research Intern](https://jobright.ai/jobs/info/6a729b5eee751e0c79349937?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 04 |
-| **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/6a4356fee09ecb49596443b6?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 04 |
-| ↳ | **[CLINICAL RESEARCH INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31ba112ee3ac1b4bef0d85?utm_campaign=1066&utm_source=git)** | Durham, NC, US | On Site | Aug 04 |
+| **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN Job Details / Duke Careers](https://jobright.ai/jobs/info/6a31ba112ee3ac1b4bef0d85?utm_campaign=1066&utm_source=git)** | Durham, NC, US | On Site | Aug 04 |
+| ↳ | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/6a4356fee09ecb49596443b6?utm_campaign=1066&utm_source=git)** | Durham, NC, US, 27710 | On Site | Aug 04 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analyst (Power), Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a7246a9cb96192a3684d14a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Leger](http://leger360.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6a724918ee751e0c7934801a?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 04 |
 | **[Anto Bio (YC F25)](https://www.anto.bio/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/6a7257b602d93145bf894417?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 04 |
