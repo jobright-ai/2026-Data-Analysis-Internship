@@ -81,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18d9b933773d16be5384?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 11 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18dc3b399d106e4d4548?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Aug 11 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a723bcdcb96192a3684cdb5?utm_campaign=1066&utm_source=git)** | Allentown, PA, United States | On Site | Aug 11 |
+| ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e926c050c423c792f02a9?utm_campaign=1066&utm_source=git)** | Norristown, PA, United States | On Site | Aug 11 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e9262f29acc1a11748797?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 11 |
 | **[Feed Energy](http://feedenergy.com)** | **[AI & Data Intern](https://jobright.ai/jobs/info/6a7a3b0bb17cba56903662d6?utm_campaign=1066&utm_source=git)** | Pleasant Hill, IA, United States | On Site | Aug 11 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 10 |
@@ -131,9 +132,9 @@ For a complete list, click the following sortable link below:
 | **[Drishti Works](https://drishti.works)** | **[DATA ANALYST](https://jobright.ai/jobs/info/6a76d189b17cba569035f2c6?utm_campaign=1066&utm_source=git)** | York, Ontario, Canada | On Site | Aug 07 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Aug 07 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6a4ec9b80ea38951a6ff47c4?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
-| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a577927a791c6211befe5b4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a58930168d16a30e241411b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Block](https://block.xyz)** | **[Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)](https://jobright.ai/jobs/info/6a5121acbf63b66c79979321?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern/Co-op](https://jobright.ai/jobs/info/6a57d4eba791c6211bf0161e?utm_campaign=1066&utm_source=git)** | Red Oak, TX, United States | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rho](https://rho.co)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6a7369fae55c73319eb171bd?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Family History Research Project Intern](https://jobright.ai/jobs/info/6a748035bb6ca93ae560a591?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 05 |
 | **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic – Quantitative Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6a735f7be55c73319eb16cac?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Aug 05 |
-| **[HGS BioScience](https://humicgrowth.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a7354b68dc3d52d8ed9ebc9?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
