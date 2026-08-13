@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/6a7cd49777d5f033c4b90d5e?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Aug 12 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Data Scientist)](https://jobright.ai/jobs/info/6a7ce0cf77d5f033c4b9122f?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Aug 12 |
 | **[Delta Air Lines](https://www.delta.com)** | **[Graduate Intern, Data Scientist (Spring 2027)](https://jobright.ai/jobs/info/6a7d1219d77e8156a8e35be0?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 12 |
 | **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern - Global Sourcing](https://jobright.ai/jobs/info/6a7cf0387c52154b59f5d4ee?utm_campaign=1066&utm_source=git)** | Tallahassee, FL, United States | On Site | Aug 12 |
 | **[IES Infrastructure](http://iesinfrastructure.com/)** | **[Data Analytics - Intern](https://jobright.ai/jobs/info/6a7ce51bd77e8156a8e34f83?utm_campaign=1066&utm_source=git)** | Manitowoc, WI, United States | On Site | Aug 12 |
@@ -74,16 +74,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a61fdfcab9bd4676324e124?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c7f8fa2f3ec32a8d83?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Aug 12 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c47820c036924d7821?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Aug 12 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a553f10ae07d60a8d00fece?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Aug 12 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7ddc03aa0c4796439c30d?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Aug 12 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Aug 12 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a51b39dae4052672fe9939d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a084e233b54ed42d74d6142?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Aug 12 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Aug 12 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a7b86afecf5194164fbeaaa?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 11 |
 | **[Commence](https://commence.ai)** | **[Health Data Analyst Intern](https://jobright.ai/jobs/info/6a7b2e7777e6b569c61bedf4?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA, United States | Remote | Aug 11 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Intern - SIU- Winter 2026](https://jobright.ai/jobs/info/6a7c8020d77e8156a8e3215f?utm_campaign=1066&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 11 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Drishti Works](https://drishti.works)** | **[DATA ANALYST](https://jobright.ai/jobs/info/6a76d189b17cba569035f2c6?utm_campaign=1066&utm_source=git)** | York, Ontario, Canada | On Site | Aug 07 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a3d5805d261407de97ffe01?utm_campaign=1066&utm_source=git)** | Richmond,Virginia,United States | On Site | Aug 07 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6a4ec9b80ea38951a6ff47c4?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 06 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a577927a791c6211befe5b4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
