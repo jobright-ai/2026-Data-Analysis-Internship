@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRG](http://www.thinkbrg.com)** | **[Chicago Office Health Analytics Practice Intern](https://jobright.ai/jobs/info/6a88b5874afae74a0834d20e?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 21 |
+| **[Mayo Clinic Rochester](https://www.mayoclinic.org)** | **[Data Science Intern - AI&I (Bachelor degree level)](https://jobright.ai/jobs/info/6a88b289cde3717f9e9b69bb?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 21 |
+| **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a88b0fdcde3717f9e9b6946?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 21 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Winter Intern 2027 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/6a88b583e8b6601d1290834e?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Aug 21 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Data Science Intern - AI&I (Bachelor degree level)](https://jobright.ai/jobs/info/6a88ac03cde3717f9e9b67c2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 21 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science Intern - AI&I (Bachelor degree level)](https://jobright.ai/jobs/info/6a88a8a1cde3717f9e9b663c?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 21 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Tech Ops Analytics & Business Intelligence (Summer 2027)](https://jobright.ai/jobs/info/6a88a0f9e8b6601d12907c30?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 21 |
 | **[AMD](http://www.amd.com)** | **[2027 Masters Data Analyst Intern/co-op](https://jobright.ai/jobs/info/6a87955125fc4e7ae3dadd82?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | Hybrid | Aug 21 |
@@ -94,9 +99,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Key Technology & Services: Data Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834cde1081a745e970e43d?utm_campaign=1066&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Information Systems](https://jobright.ai/jobs/info/6a878377cde3717f9e9b2865?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Aug 20 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a58930168d16a30e241411b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6372c15c7e2d715ebabffa?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a58930168d16a30e241411b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Competitive Intelligence Intern II, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a8778c8e8b6601d12903c6d?utm_campaign=1066&utm_source=git)** | Endicott, NY, United States | Remote | Aug 20 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Research Intern - Healthcare/Data Analysis: PRN](https://jobright.ai/jobs/info/6a8767434afae74a08348673?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 20 |
 | **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Data Analytics and Data Catalog Intern](https://jobright.ai/jobs/info/6a8764cb680f314a29d38980?utm_campaign=1066&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/6a848d31e459fa3baa85f212?utm_campaign=1066&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6a4ad46d5d7b097d2df3c77c?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 18 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analyst Intern](https://jobright.ai/jobs/info/6a848d2858ded76ad8fe7f1b?utm_campaign=1066&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
-| **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/6a848c3258ded76ad8fe7eaa?utm_campaign=1066&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
-| ↳ | **[Strategic Data Analyst Intern](https://jobright.ai/jobs/info/6a848c237b33d72276256ac0?utm_campaign=1066&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 18 |
-| **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - West Coast Remote](https://jobright.ai/jobs/info/6a71f606ee751e0c79345db3?utm_campaign=1066&utm_source=git)** | West Coast, United States | Remote | Aug 18 |
-| **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher - Internship - Summer 2027](https://jobright.ai/jobs/info/6a7dccf5b56bea5779c01c47?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d66eda346cb6c8d5f2380?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
