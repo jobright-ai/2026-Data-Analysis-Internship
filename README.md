@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Planning, Research and Statistics Intern, DOC (College)](https://jobright.ai/jobs/info/6a87e27ae8b6601d12905523?utm_campaign=1066&utm_source=git)** | Cumberland County, Pennsylvania, United States | On Site | Aug 20 |
+| **[Washington National Insurance Company](http://www.washingtonnational.com/)** | **[Summer 2027 Reporting Analyst Intern 2027 - REMOTE from any US based location](https://jobright.ai/jobs/info/6a87e4ac4afae74a0834a41e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate IT Internship - Data Analyst (NC)](https://jobright.ai/jobs/info/6a876b1dd34f700f87fc55ce?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 20 |
 | **[AMD](http://www.amd.com)** | **[2027 Masters Data Analyst Intern/co-op](https://jobright.ai/jobs/info/6a87954b4afae74a083492f8?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
 | ↳ | **[2027 Undergrad Data Analyst Intern/co-op](https://jobright.ai/jobs/info/6a87a820e8b6601d12904d71?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 20 |
@@ -69,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp)** | **[2027 Summer Key Technology & Services: Data Track Internship- Cleveland](https://jobright.ai/jobs/info/6a833c0e3eeac101cfa9e74d?utm_campaign=1066&utm_source=git)** | Brooklyn, Ohio, United States | Hybrid | Aug 20 |
 | ↳ | **[2027 Summer Key Technology & Services: Data Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834cde1081a745e970e43d?utm_campaign=1066&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Information Systems](https://jobright.ai/jobs/info/6a878377cde3717f9e9b2865?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Aug 20 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a577927a791c6211befe5b4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
-| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6c58aeacb0a61f9dbc558f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
+| ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a6588e90c8e2b4f36dd3d63?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a58930168d16a30e241411b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Competitive Intelligence Intern II, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a8778c8e8b6601d12903c6d?utm_campaign=1066&utm_source=git)** | Endicott, NY, United States | Remote | Aug 20 |
 | **[University Hospitals](https://www.uhhospitals.org/)** | **[Research Intern - Healthcare/Data Analysis: PRN](https://jobright.ai/jobs/info/6a8767434afae74a08348673?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 20 |
@@ -122,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Fellow Bill Drexel, Fall 2026](https://jobright.ai/jobs/info/6a85c0f274e02153f14581dd?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8533cdc1a3fd7120f749b8?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 19 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a853f0ee12474455273de51?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 18 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - GRM, Data Scientist Intern (8 Months)](https://jobright.ai/jobs/info/6a84cbb3e12474455273cc45?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 18 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - GRM, Data Scientist Intern (8 Months)](https://jobright.ai/jobs/info/6a84cc04e459fa3baa860e79?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 18 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[BI Software Engineer Intern - Orlando](https://jobright.ai/jobs/info/6a85f57b2f4f0014cae27359?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | On Site | Aug 18 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a84c4c5e12474455273c818?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Aug 18 |
 | **[CTR Cryo](https://www.ctrcryo.com)** | **[TTG Business Data Analyst Intern](https://jobright.ai/jobs/info/6a84ae877b33d72276257870?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a853afc2f4f0014cae24444?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 17 |
 | **[BMO](http://www.bmo.com)** | **[Data Analytics Intern, Winter 2027 (Co-op/Internship) - 8 months](https://jobright.ai/jobs/info/6a84ba12e459fa3baa860438?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 17 |
 | **[Gallagher](https://www.ajg.com/)** | **[U.S. Internship - Data Analytics](https://jobright.ai/jobs/info/6a8392483eeac101cfaa0d88?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Aug 17 |
-| **[Lloyd Bedford Cox, Inc.](https://lbcinc.com)** | **[U.S. Internship - Data Analytics](https://jobright.ai/jobs/info/6a8398f2b5a0ac0e84a26f55?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Aug 17 |
-| **[Strata Solicitors - A Gallagher Bassett Company](https://www.gallagherbassett.com/uk/)** | **[U.S. Internship - Data Analytics](https://jobright.ai/jobs/info/6a8388d4b5a0ac0e84a2691f?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
