@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern - BS degree level (On-site)](https://jobright.ai/jobs/info/6a8c68c6cde3717f9e9bcd24?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 24 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Focused Analytics Solutions Team Program (USA)](https://jobright.ai/jobs/info/6a8c8183cde3717f9e9bd8ee?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Aug 24 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/6a8c7fac2f736c304f2a61e4?utm_campaign=1066&utm_source=git)** | Los Altos, CA, United States | On Site | Aug 24 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern - BS degree level (On-site)](https://jobright.ai/jobs/info/6a8c5f83d34f700f87fd00fc?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 24 |
 | **[Myers & Stauffer](https://myersandstauffer.com/)** | **[Analyst Intern - Kansas City, MO (Summer 2027)](https://jobright.ai/jobs/info/6a8c7516cde3717f9e9bd31a?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 24 |
 | **[Markondo](https://www.markondo.com)** | **[Data Intern](https://jobright.ai/jobs/info/6a8c7157d34f700f87fd0706?utm_campaign=1066&utm_source=git)** | Surfside, FL, United States | Hybrid | Aug 24 |
 | **[Myers & Stauffer](https://myersandstauffer.com/)** | **[Analyst Intern - Kansas City, MO (Spring 2027)](https://jobright.ai/jobs/info/6a8c644acde3717f9e9bcc02?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 24 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Wealth Management, Winter Data Analyst (4-16 months)](https://jobright.ai/jobs/info/6a8bc7e94afae74a08351639?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 23 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Analytics & Insights Internship (Advanced Analytics)](https://jobright.ai/jobs/info/6a8c232a581f2d7bfdfe2409?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 23 |
 | ↳ | **[Analytics & Insights Internship](https://jobright.ai/jobs/info/6a8c23291d96e6541c8bf702?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 23 |
+| **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Winter Intern 2027 - Analytics & Reporting Department](https://jobright.ai/jobs/info/6a8c7839581f2d7bfdfe3d15?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Aug 23 |
 | **[Everstream Analytics](https://www.everstream.ai)** | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/6a3f13d1ce7cce40b3422f46?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
 | ↳ | **[Intelligence Solutions Intern](https://jobright.ai/jobs/info/69fe0dc2f363bc4dc339b522?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | Aug 23 |
 | **[Cresta](https://www.cresta.com)** | **[Data Science Intern (Customer Success)](https://jobright.ai/jobs/info/6a0f7ea712f8b43cf397fb33?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
@@ -118,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Two Chairs](https://www.twochairs.com/)** | **[Clinical Innovation and Research Intern](https://jobright.ai/jobs/info/6a887dbcd34f700f87fc8d47?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 21 |
 | **[IG Wealth Management](https://www.ig.ca)** | **[Winter Intern 2027 - Data Science (Winnipeg Office)](https://jobright.ai/jobs/info/6a88dfbf25fc4e7ae3db2bf6?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Aug 21 |
 | ↳ | **[Winter Intern 2027 - Business and Data Platforms](https://jobright.ai/jobs/info/6a88dfa0e8b6601d12909118?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Aug 21 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science Intern - AI&I (Bachelor degree level)](https://jobright.ai/jobs/info/6a88a8a1cde3717f9e9b663c?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 21 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science Intern - AI&I (Bachelor degree level)](https://jobright.ai/jobs/info/6a88a703680f314a29d3d184?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Aug 21 |
 | **[BMO](http://www.bmo.com)** | **[Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a8886ad680f314a29d3c731?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
 | **[Tigerlily Foundation](https://www.tigerlilyfoundation.org)** | **[Research & Data Analytics Intern](https://jobright.ai/jobs/info/6a88befbd34f700f87fca5da?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 21 |
 | **[BRG](http://www.thinkbrg.com)** | **[Chicago Office Health Analytics Practice Intern](https://jobright.ai/jobs/info/6a88b5874afae74a0834d20e?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Intern 2027 - Data Science (Winnipeg Office)](https://jobright.ai/jobs/info/6a8a02a7d34f700f87fcc3b1?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Aug 20 |
 | **[Humber River Health](https://www.hrh.ca)** | **[Research, Summer Student (2)](https://jobright.ai/jobs/info/6a623397846162391c934618?utm_campaign=1066&utm_source=git)** | Greater Toronto, Ontario, Canada | On Site | Aug 20 |
 | **[KeyBank](https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp)** | **[2027 Summer Key Technology & Services: Data Track Internship- Cleveland](https://jobright.ai/jobs/info/6a833c0e3eeac101cfa9e74d?utm_campaign=1066&utm_source=git)** | Brooklyn, Ohio, United States | Hybrid | Aug 20 |
-| ↳ | **[2027 Summer Key Technology & Services: Data Track Internship- Cleveland](https://jobright.ai/jobs/info/6a834cde1081a745e970e43d?utm_campaign=1066&utm_source=git)** | Brooklyn, OH, United States | Hybrid | Aug 20 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Information Systems](https://jobright.ai/jobs/info/6a878377cde3717f9e9b2865?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Aug 20 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6a4ee79c397d8d353c28aae9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
