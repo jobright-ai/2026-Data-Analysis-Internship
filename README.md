@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a97362fe4e60e4b8da5cb9d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6a97d96cc8ed473c5c761621?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Sep 02 |
 | **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 02 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Quantitative Data Analytics Summer Analyst Program - 2027](https://jobright.ai/jobs/info/6a97bea0d356304a02687fdc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Research Algorithm & Data Science Intern](https://jobright.ai/jobs/info/6a97759ed13b4819f39e115c?utm_campaign=1066&utm_source=git)** | Arden Hills, MN, United States | On Site | Sep 01 |
@@ -72,8 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a978d95e4e60e4b8da5e798?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 01 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Digital & IT Intern, Analyst, Enterprise Data Management - Summer 2027](https://jobright.ai/jobs/info/6a978d01246d697dcee05ad3?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 01 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a978b67d13b4819f39e13f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
-| **[Lambda Capital](https://www.lambdavp.com/)** | **[Quantitative Developer - Fall Intern](https://jobright.ai/jobs/info/6a97b582c8ed473c5c7610a7?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974a0a246d697dcee04b46?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974c69b22f636c8141738a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Data Science Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6a96ed5ab22f636c814148cc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Data Management Intern](https://jobright.ai/jobs/info/6a971ea2455eaf6a08c1acb1?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2027)](https://jobright.ai/jobs/info/6a9740d2d13b4819f39e02f8?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Sep 01 |
@@ -94,8 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Data Advisory Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/6a9737fad13b4819f39dfcec?utm_campaign=1066&utm_source=git)** | Rosemont, IL, United States | Hybrid | Sep 01 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/6a973aea455eaf6a08c1b846?utm_campaign=1066&utm_source=git)** | Bel Air, MD, United States | On Site | Sep 01 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern - OneIT - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6a97386ff5337b2cf7320c35?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Sep 01 |
-| **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a97362fe4e60e4b8da5cb9d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
-| ↳ | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a973572455eaf6a08c1b4c4?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
+| **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a973572455eaf6a08c1b4c4?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
 | ↳ | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a97355c246d697dcee03fd5?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | **[UPS](http://www.ups.com)** | **[IE Intern](https://jobright.ai/jobs/info/6a88014f680f314a29d3aa78?utm_campaign=1066&utm_source=git)** | Shanghai, VA, United States | On Site | Sep 01 |
 | **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, February 2027 Start](https://jobright.ai/jobs/info/6a972e1fd13b4819f39df7f9?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
