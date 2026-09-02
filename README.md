@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a1eac778049156781163e9b?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
+| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68804e999f72804245709287?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
+| ↳ | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3d1a804d047136e0932307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
+| **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[GTG Intern - Data Science](https://jobright.ai/jobs/info/6a978dc5d13b4819f39e16ec?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
+| ↳ | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/6a978d9cb22f636c81418370?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a978d95e4e60e4b8da5e798?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 01 |
+| **[Corning Incorporated](https://www.corning.com/)** | **[Digital & IT Intern, Analyst, Enterprise Data Management - Summer 2027](https://jobright.ai/jobs/info/6a978d01246d697dcee05ad3?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 01 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a978b67d13b4819f39e13f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974a0a246d697dcee04b46?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974c69b22f636c8141738a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Data Science Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6a96ed5ab22f636c814148cc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Data Management Intern](https://jobright.ai/jobs/info/6a971ea2455eaf6a08c1acb1?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
@@ -93,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Enterprise Excellence](https://jobright.ai/jobs/info/6a9726cd455eaf6a08c1af4f?utm_campaign=1066&utm_source=git)** | Owensboro, KY, United States | On Site | Sep 01 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/6a96f7f4246d697dcee02443?utm_campaign=1066&utm_source=git)** | Alpharetta, GA, United States | On Site | Sep 01 |
 | **[Riverside Natural Foods Ltd. (Home of MadeGood)](https://riversidenaturalfoods.com)** | **[Junior Data Analyst Intern/Co-op](https://jobright.ai/jobs/info/6a971cde246d697dcee03735?utm_campaign=1066&utm_source=git)** | Canada | Remote | Sep 01 |
+| **[University of Oklahoma](http://www.ou.edu)** | **[Student Data Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a978d32246d697dcee05b12?utm_campaign=1066&utm_source=git)** | Norman, OK, United States | On Site | Sep 01 |
 | **[The Conservation Fund](https://www.conservationfund.org/)** | **[Impact Analytics & Conservation Data Intern](https://jobright.ai/jobs/info/6a9720c4455eaf6a08c1ad75?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, United States | Remote | Sep 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Current Master's - Data Science Internship - Summer 2027](https://jobright.ai/jobs/info/6a5e1efa050c423c792ed587?utm_campaign=1066&utm_source=git)** | McLean, VA, United States of America | Hybrid | Sep 01 |
 | **[The Home Depot](https://www.homedepot.com)** | **[2027 Summer Internship - PhD Data Science](https://jobright.ai/jobs/info/6a9711eaf5337b2cf731fd24?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2027 Internship - Associate Business Analyst, Parts](https://jobright.ai/jobs/info/6a96642d455eaf6a08c17222?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | ↳ | **[2027 Internship - Data Analyst - Parts](https://jobright.ai/jobs/info/6a966430455eaf6a08c17237?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18d9b933773d16be5384?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2027 Internship - Data Analyst - Customer Service](https://jobright.ai/jobs/info/6a966431d13b4819f39db8cf?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
-| ↳ | **[2027 Internship - Information Technology (Data Analyst)](https://jobright.ai/jobs/info/6a96642ed13b4819f39db8c8?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
-| **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a723bcdcb96192a3684cdb5?utm_campaign=1066&utm_source=git)** | Allentown, PA, United States | On Site | Sep 01 |
-| ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e9262f29acc1a11748797?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 01 |
-| **[AMD](http://www.amd.com)** | **[Short Term 2027 Data Analyst Intern/Co-Op](https://jobright.ai/jobs/info/6a968284455eaf6a08c17ca0?utm_campaign=1066&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 01 |
-| **[PwC](http://pwc.com)** | **[Deals - DTDS - Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608dacabc9f6703e1bcba?utm_campaign=1066&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
-| ↳ | **[Deals - DTDS - Contracts Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d94c22023a07937b70?utm_campaign=1066&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
-| ↳ | **[Digital Assurance & Transparency (DAT) - Data - Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8f28891320e85fd7a?utm_campaign=1066&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
-| **[Association of American Railroads](https://www.aar.org)** | **[2027 Internship Opportunity: Research & Innovation Support Intern](https://jobright.ai/jobs/info/6a9677dab22f636c81412c70?utm_campaign=1066&utm_source=git)** | Pueblo, CO, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
