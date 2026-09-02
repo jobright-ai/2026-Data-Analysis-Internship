@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a1eac778049156781163e9b?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
-| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68804e999f72804245709287?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
-| ↳ | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3d1a804d047136e0932307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| **[Siemens](https://www.siemens.com)** | **[Data Analysis Internship- Customer Service (Summer 2027)](https://jobright.ai/jobs/info/6a97a95ed356304a02687d18?utm_campaign=1066&utm_source=git)** | New Castle, DE, United States | On Site | Sep 01 |
+| ↳ | **[Data Analysis Internship- Customer Service (Summer 2027)](https://jobright.ai/jobs/info/6a97a7f972b96b1c436f1099?utm_campaign=1066&utm_source=git)** | Wilmington, DE, United States | On Site | Sep 01 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Statistical Programming - California](https://jobright.ai/jobs/info/6a9756f0455eaf6a08c1c429?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States | On Site | Sep 01 |
+| **[Point72](https://www.point72.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68804e999f72804245709287?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
+| ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a1eac778049156781163e9b?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
 | ↳ | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6a510f34bf63b66c79978802?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 01 |
+| ↳ | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3d1a804d047136e0932307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
 | **[The Global Institute for Health and Human Rights](http://www.albany.edu/gihhr/)** | **[GTG Intern - Data Science](https://jobright.ai/jobs/info/6a978dc5d13b4819f39e16ec?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | ↳ | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/6a978d9cb22f636c81418370?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a978d95e4e60e4b8da5e798?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 01 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Digital & IT Intern, Analyst, Enterprise Data Management - Summer 2027](https://jobright.ai/jobs/info/6a978d01246d697dcee05ad3?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 01 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6a978b67d13b4819f39e13f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 01 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974c69b22f636c8141738a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/6a974a0a246d697dcee04b46?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 01 |
 | **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2027 Analytics Internship](https://jobright.ai/jobs/info/6a973991e4e60e4b8da5cddc?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Data Science Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/6a96ed5ab22f636c814148cc?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | ↳ | **[Summer 2027 Data Management Intern](https://jobright.ai/jobs/info/6a971ea2455eaf6a08c1acb1?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship - Data Analytics/Science/Applied Math - (Pomona/Rosemead) 1](https://jobright.ai/jobs/info/6a96ac0a246d697dcee00ef5?utm_campaign=1066&utm_source=git)** | Rosemead, CA, United States | Remote | Sep 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertisement Team) - 2026 Start](https://jobright.ai/jobs/info/6a8419418d793736c6133bf1?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 01 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18dc3b399d106e4d4548?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2027 Internship - Associate Business Analyst, Parts](https://jobright.ai/jobs/info/6a96642d455eaf6a08c17222?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
-| ↳ | **[2027 Internship - Data Analyst - Parts](https://jobright.ai/jobs/info/6a966430455eaf6a08c17237?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
-| **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18d9b933773d16be5384?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
