@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6a9e2848a7ba386c5d670e59?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
+| **[IBM](http://www.ibm.com)** | **[Intern Data Scientist 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6a9e2db02c964816f65ebd7d?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 06 |
+| ↳ | **[Intern Data Scientist 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6a9e2d5068f82b4036738c96?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 06 |
+| ↳ | **[Intern Data Scientist 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6a9e2d4275edfa11b4710708?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 06 |
+| ↳ | **[Data Scientist Intern - Poughkeepsie, NY - 2027](https://jobright.ai/jobs/info/6a9e2848a7ba386c5d670e59?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Data Scientist Intern - OneIT - 2027](https://jobright.ai/jobs/info/6a9e28382c964816f65ebd21?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Data and AI Intern 2027](https://jobright.ai/jobs/info/6a9e267c75edfa11b471067f?utm_campaign=1066&utm_source=git)** | Armonk, NY, United States | Hybrid | Sep 06 |
 | ↳ | **[Cost & Asset Optimization - Data Science Analyst Intern 2027](https://jobright.ai/jobs/info/6a9e267027c94c3d5a1cb594?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 06 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[KPMG Canada](https://www.kpmg.se)** | **[QC - Intern Forensic - 2027](https://jobright.ai/jobs/info/6a7f2ddae51a1e18a2410be1?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Sep 05 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/6a96696b455eaf6a08c17354?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 05 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d9321f90bd6ae23d1d7c?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 05 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a73488e8dc3d52d8ed9e651?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
-| ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 05 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 05 |
+| ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a73488e8dc3d52d8ed9e651?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 05 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 05 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Enterprise Power BI Reporting Intern](https://jobright.ai/jobs/info/6a9bcd90c1d6f91bc3883679?utm_campaign=1066&utm_source=git)** | Hamel, MN, United States | On Site | Sep 05 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a9bb2c52c964816f65e866a?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 04 |
 | ↳ | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a7a308fbb6ca93ae561a556?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[National Futures Association](https://www.nfa.futures.org/)** | **[Summer 2027 Centralized Data Science and Analytics Intern Job Details / National Futures Association](https://jobright.ai/jobs/info/6a9ba10e2c964816f65e8477?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2027 PhD Quantitative Research Intern](https://jobright.ai/jobs/info/6a9b3d6390a313642c659549?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 04 |
-| ↳ | **[2027 PhD Quantitative Research Intern](https://jobright.ai/jobs/info/6a9b3d65d5ff1f3f1c39e625?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2027 PhD Quantitative Research Intern](https://jobright.ai/jobs/info/6a9b3d65d5ff1f3f1c39e625?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| ↳ | **[2027 PhD Quantitative Research Intern](https://jobright.ai/jobs/info/6a9b3d6390a313642c659549?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 04 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/6a9b74af9c24314c35f9945f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 04 |
 | **[Sargento](http://www.sargento.com)** | **[Data, Analytics, & AI Intern](https://jobright.ai/jobs/info/6a9b07dcfe45b8490f6067fe?utm_campaign=1066&utm_source=git)** | Plymouth, WI, United States | Hybrid | Sep 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Spring 2027](https://jobright.ai/jobs/info/6a9b58829c24314c35f98fe8?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](https://www.perryhomes.com)** | **[2027 Summer Internship - Estimating Analyst](https://jobright.ai/jobs/info/6a9ad770d5ff1f3f1c39b6fb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 04 |
 | **[AArete](http://aarete.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a9adc77fe45b8490f604a69?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 04 |
 | **[Ragle Inc](https://ragleinc.com/)** | **[Data Analytics Intern- Summer 2027](https://jobright.ai/jobs/info/6a9ad7db9c24314c35f958cd?utm_campaign=1066&utm_source=git)** | North Richland Hills, TX, United States | On Site | Sep 04 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0fe0b56bea5779c03663?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Sep 04 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6a99f78a040e5c3d07599f1d?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Sep 04 |
-| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Quantitative Development Intern at DL Trading](https://jobright.ai/jobs/info/6a9aa4ccfe45b8490f604263?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
