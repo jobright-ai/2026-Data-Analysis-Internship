@@ -133,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[AI2 Business Intelligence Co-op/Intern (WINTER 2027)](https://jobright.ai/jobs/info/6a9ff769500b01124c7763a4?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 08 |
 | ↳ | **[Data Science Intern/Co-op (WINTER 2027)](https://jobright.ai/jobs/info/6a9ff6f35b2d5633ef3bbd70?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 08 |
 | ↳ | **[Business Insights & Analytics Co-op/Intern Winter 2027](https://jobright.ai/jobs/info/6a9ff7cfdbc0e60e37e0ad93?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 08 |
-| **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a8c01474afae74a08351dfa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 08 |
+| **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a9fc7d668f82b403673dbeb?utm_campaign=1066&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 08 |
 | ↳ | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a8c016625fc4e7ae3db6b5f?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 08 |
-| ↳ | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a9fc7d668f82b403673dbeb?utm_campaign=1066&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 08 |
+| ↳ | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a8c01474afae74a08351dfa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 08 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Biostatistics](https://jobright.ai/jobs/info/6a9fe4395bf5fa48b83b793b?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Sep 08 |
 | ↳ | **[Intern - Research - Data Sciences](https://jobright.ai/jobs/info/6a9fe4375bf5fa48b83b7939?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Sep 08 |
 | ↳ | **[Intern - Development - Biostatistics Oncology](https://jobright.ai/jobs/info/6a9fe4225b2d5633ef3bb905?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Sep 08 |
