@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 16 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Post Doctoral Fellow - Epidemiology](https://jobright.ai/jobs/info/6a6bf88832f9300c3a3e1cf9?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 16 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/6aab60b540807b73bd394d9b?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Sep 16 |
 | **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6aab794276707040fb085621?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 16 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab700076707040fb0854b2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 16 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Control Tower Intern](https://jobright.ai/jobs/info/6aab163df6bd9d2d17c1b5e4?utm_campaign=1066&utm_source=git)** | Scarborough, ME, United States | Hybrid | Sep 16 |
 | ↳ | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6aab1631c85610f4a48437fc?utm_campaign=1066&utm_source=git)** | Carlisle, PA, United States | Hybrid | Sep 16 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab1536c85610f4a48437b2?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6aab134c76707040fb084048?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Sep 16 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab108676707040fb083fba?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship - Data Science (Remote)](https://jobright.ai/jobs/info/6aab0bebc85610f4a48433bb?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | Remote | Sep 16 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Information Analyst Co-op Student - Winter 2027](https://jobright.ai/jobs/info/6aab0b0276707040fb083d1b?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 16 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Internship - Information Technology (Data Analyst)](https://jobright.ai/jobs/info/6a97ead969d7730385d6cdfb?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 16 |
 | ↳ | **[2027 Internship - Data Analyst - Parts](https://jobright.ai/jobs/info/6a97eadfd356304a026886c1?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 16 |
 | **[HF Sinclair](https://www.hfsinclair.com)** | **[Reporting & Analytics Intern Job Details / HF Sinclair](https://jobright.ai/jobs/info/6aaa5af8db0df577bd2b1e33?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 16 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa94b4deff87f571fc98eee?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
-| ↳ | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa9479c6d0edc2d91b08d58?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa9479c6d0edc2d91b08d58?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
+| ↳ | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa94b4deff87f571fc98eee?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
 | **[CBI Bank & Trust](https://www.linkedin.com/company/479174)** | **[Enterprise Data & Analytics Intern Summer 2027](https://jobright.ai/jobs/info/6aa9ba376d0edc2d91b0af70?utm_campaign=1066&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 16 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Data & Statistics Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a52a0968a74e077472f557f?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 15 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6aaa30ef120c360b6bd4ad39?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MS Fraud & Risk Intern](https://jobright.ai/jobs/info/6aa82775930bff471a2a58aa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Fall 2026 (CMH Health)](https://jobright.ai/jobs/info/6aa992c36d0edc2d91b0a41b?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | Remote | Sep 15 |
-| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
