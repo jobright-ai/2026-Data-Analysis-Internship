@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6aaba091f6bd9d2d17c1cd25?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Sep 17 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 16 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Post Doctoral Fellow - Epidemiology](https://jobright.ai/jobs/info/6a6bf88832f9300c3a3e1cf9?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 16 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/6aab60b540807b73bd394d9b?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Sep 16 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 16 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
 | **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab194976707040fb084281?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
+| **[BCI](https://www.bci.ca/)** | **[Investment Risk Analytics Solutions Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9ad476707040fb0858eb?utm_campaign=1066&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Student, Data Analyst (Valuations)](https://jobright.ai/jobs/info/6aaaea82c85610f4a4842713?utm_campaign=1066&utm_source=git)** | Regina, SK, Canada | On Site | Sep 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Ops Strat Analytics (Summer 2027)](https://jobright.ai/jobs/info/6aab1bc58e1bf0f764af88a8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | ↳ | **[Intern - Air Traffic Strategy Data Analytics (Summer 2027)](https://jobright.ai/jobs/info/6aab1b564be87a72913a355b?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL, United States | On Site | Sep 16 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Internship - Information Technology (Data Analyst)](https://jobright.ai/jobs/info/6a97ead969d7730385d6cdfb?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 16 |
 | ↳ | **[2027 Internship - Data Analyst - Parts](https://jobright.ai/jobs/info/6a97eadfd356304a026886c1?utm_campaign=1066&utm_source=git)** | Wichita, KS, United States | On Site | Sep 16 |
 | **[HF Sinclair](https://www.hfsinclair.com)** | **[Reporting & Analytics Intern Job Details / HF Sinclair](https://jobright.ai/jobs/info/6aaa5af8db0df577bd2b1e33?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 16 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa9479c6d0edc2d91b08d58?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
-| ↳ | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa94b4deff87f571fc98eee?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa94b4deff87f571fc98eee?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
+| ↳ | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa9479c6d0edc2d91b08d58?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 16 |
 | **[CBI Bank & Trust](https://www.linkedin.com/company/479174)** | **[Enterprise Data & Analytics Intern Summer 2027](https://jobright.ai/jobs/info/6aa9ba376d0edc2d91b0af70?utm_campaign=1066&utm_source=git)** | Muscatine, IA, United States | On Site | Sep 16 |
 | **[Arroyo Seco Saints](https://arroyosecosaints.com)** | **[Baseball Data & Statistics Intern (California Collegiate League)](https://jobright.ai/jobs/info/6a52a0968a74e077472f557f?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 15 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6aaa30ef120c360b6bd4ad39?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Food Lion](https://www.foodlion.com)** | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6aab002ef6bd9d2d17c1ad69?utm_campaign=1066&utm_source=git)** | Carlisle, PA, United States | Hybrid | Sep 15 |
 | **[Dallas Fort Worth International Airport (DFW)](https://dfwcareerexpo.com)** | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9b43e09ae03adcacde818?utm_campaign=1066&utm_source=git)** | Dallas–Fort Worth, Texas, United States | On Site | Sep 15 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 15 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2027: MS Fraud & Risk Intern](https://jobright.ai/jobs/info/6aa82775930bff471a2a58aa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
-| **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Fall 2026 (CMH Health)](https://jobright.ai/jobs/info/6aa992c36d0edc2d91b0a41b?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | Remote | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
