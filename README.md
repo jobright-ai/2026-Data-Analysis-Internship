@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/6aab60b540807b73bd394d9b?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Sep 16 |
+| **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6aab794276707040fb085621?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 16 |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab700076707040fb0854b2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 16 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2027 - Data and Visualization Intern](https://jobright.ai/jobs/info/6aab2ffc8e1bf0f764af8d10?utm_campaign=1066&utm_source=git)** | Hopewell Junction, NY, United States | On Site | Sep 16 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Analytics Administrator Intern](https://jobright.ai/jobs/info/6aab5d0776707040fb0851fc?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
 | ↳ | **[Data Science Intern (Intern Graduate Support Technician) - STR Division - Austin, TX](https://jobright.ai/jobs/info/6aab5c9e76707040fb0851f2?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
@@ -67,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Internship - MIS End User Analyst- Site Locations](https://jobright.ai/jobs/info/6aab0f3d40807b73bd393a45?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 16 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 16 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
-| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab166640807b73bd393cb5?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
+| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab194976707040fb084281?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Student, Data Analyst (Valuations)](https://jobright.ai/jobs/info/6aaaea82c85610f4a4842713?utm_campaign=1066&utm_source=git)** | Regina, SK, Canada | On Site | Sep 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Ops Strat Analytics (Summer 2027)](https://jobright.ai/jobs/info/6aab1bc58e1bf0f764af88a8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
 | ↳ | **[Intern - Air Traffic Strategy Data Analytics (Summer 2027)](https://jobright.ai/jobs/info/6aab1b564be87a72913a355b?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL, United States | On Site | Sep 16 |
@@ -144,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Lids](https://www.lids.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6aa9b3e96d0edc2d91b0abec?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 15 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9e10a09ae03adcacdff12?utm_campaign=1066&utm_source=git)** | Livermore, CA, United States | Hybrid | Sep 15 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Technology and Data Internship](https://jobright.ai/jobs/info/6aaa2a033387a3d9b67d9308?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Sep 15 |
-| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/6aab60b540807b73bd394d9b?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Sep 15 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/6aab23de8e1bf0f764af8b2f?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Sep 15 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aaadf60c85610f4a48422ff?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
 | **[Louisiana Blue](https://lablue.com)** | **[CW Healthcare Data Science Intern (Spring 2027)](https://jobright.ai/jobs/info/6aaaf4b0c85610f4a4842aac?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 15 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MS Fraud & Risk Intern](https://jobright.ai/jobs/info/6aa82775930bff471a2a58aa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Fall 2026 (CMH Health)](https://jobright.ai/jobs/info/6aa992c36d0edc2d91b0a41b?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | Remote | Sep 15 |
-| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics Job Details / John Deere](https://jobright.ai/jobs/info/6aa632d282e82a31997c0a5b?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
-| ↳ | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
-| **[Organic Valley](https://www.organicvalley.coop)** | **[Farm Supply and Forecasting Intern](https://jobright.ai/jobs/info/6aa9ba3309ae03adcacdeb8e?utm_campaign=1066&utm_source=git)** | La Farge, WI, United States | Hybrid | Sep 15 |
+| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
