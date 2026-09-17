@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Science Intern (Intern Graduate Support Technician) - STR Division - Austin, TX](https://jobright.ai/jobs/info/6aab5c9e76707040fb0851f2?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
+| ↳ | **[Data Management Intern](https://jobright.ai/jobs/info/6aab5c9276707040fb0851f0?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 16 |
+| **[CBRE](https://www.cbre.com)** | **[Digital & Technology Intern - Summer 2027 (Richardson, TX)](https://jobright.ai/jobs/info/6aab562bf6bd9d2d17c1c4e7?utm_campaign=1066&utm_source=git)** | Richardson, TX, United States | On Site | Sep 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok LIVE) - 2027 Summer](https://jobright.ai/jobs/info/6a71a40d02d93145bf890236?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 16 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 16 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 16 |
-| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab194976707040fb084281?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
+| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab108ec85610f4a4843647?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 16 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2027 - Data and Visualization Intern](https://jobright.ai/jobs/info/6aab2ffc8e1bf0f764af8d10?utm_campaign=1066&utm_source=git)** | Hopewell Junction, NY, United States | On Site | Sep 16 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Student, Data Analyst (Valuations)](https://jobright.ai/jobs/info/6aaaea82c85610f4a4842713?utm_campaign=1066&utm_source=git)** | Regina, SK, Canada | On Site | Sep 16 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2027 Summer Internship - MIS End User Analyst- Site Locations](https://jobright.ai/jobs/info/6aab0f3d40807b73bd393a45?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 16 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 15 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MS Fraud & Risk Intern](https://jobright.ai/jobs/info/6aa82775930bff471a2a58aa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Fall 2026 (CMH Health)](https://jobright.ai/jobs/info/6aa992c36d0edc2d91b0a41b?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | Remote | Sep 15 |
-| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
-| ↳ | **[2027 Intern - Data & Analytics Job Details / John Deere](https://jobright.ai/jobs/info/6aa632d282e82a31997c0a5b?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
+| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics Job Details / John Deere](https://jobright.ai/jobs/info/6aa632d282e82a31997c0a5b?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
+| ↳ | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 15 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Farm Supply and Forecasting Intern](https://jobright.ai/jobs/info/6aa9ba3309ae03adcacdeb8e?utm_campaign=1066&utm_source=git)** | La Farge, WI, United States | Hybrid | Sep 15 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6a9b0f1ad5ff1f3f1c39d6e9?utm_campaign=1066&utm_source=git)** | Canada | Remote | Sep 15 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[SIU Analyst Intern](https://jobright.ai/jobs/info/6aa9c2953387a3d9b67d6a4f?utm_campaign=1066&utm_source=git)** | Trenton, NJ, United States | On Site | Sep 15 |
-| **[Activision Blizzard](https://activisionblizzard.com)** | **[Activision 2027 Summer Internships - User Research Data Analytics](https://jobright.ai/jobs/info/6aa1c73e3272060a8e3f21a5?utm_campaign=1066&utm_source=git)** | Sherman Oaks, CA, United States | On Site | Sep 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a84a4a92f4f0014cae21dd6?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 15 |
-| **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6aa9e5f109ae03adcace0115?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 15 |
-| **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, GIS Analyst](https://jobright.ai/jobs/info/6a9726ce455eaf6a08c1af50?utm_campaign=1066&utm_source=git)** | Owensboro, KY, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
