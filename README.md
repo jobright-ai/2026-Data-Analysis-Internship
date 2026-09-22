@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equipment & Controls, Inc.](http://eci.us)** | **[IT Data & AI Analytics Intern](https://jobright.ai/jobs/info/6ab166b2f9692ca98b0495f1?utm_campaign=1066&utm_source=git)** | Lawrence, PA, United States | On Site | Sep 22 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027](https://jobright.ai/jobs/info/6ab1d379d43eb922ca0c133e?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | Sep 21 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Generalist (2027 Start Date)](https://jobright.ai/jobs/info/6a7b0a3377e6b569c61be026?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Undergraduate Intern, Spring 2027](https://jobright.ai/jobs/info/6ab1a93832552369083e3a39?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Sep 21 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a4572a6c2d11a6a4666932e?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 21 |
 | ↳ | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6a73488e8dc3d52d8ed9e651?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 21 |
 | **[1KOMMA5°](https://1komma5.com)** | **[Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)](https://jobright.ai/jobs/info/6ab12462d43eb922ca0bd2c6?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 21 |
-| **[Equipment & Controls, Inc.](http://eci.us)** | **[IT Data & AI Analytics Intern](https://jobright.ai/jobs/info/6ab166b2f9692ca98b0495f1?utm_campaign=1066&utm_source=git)** | Lawrence, PA, United States | On Site | Sep 21 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a40c5cc9dd7f954cafe85b8?utm_campaign=1066&utm_source=git)** | Culver City, CA, United States | On Site | Sep 21 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6a5ae336856af468ab00a823?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quantitative Researcher (PhD)](https://jobright.ai/jobs/info/6a62c7d8426d415f66360688?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Spring Co-op mRNA Drug Substance Process Characterization Data Analytics and Visualization, Waltham, MA](https://jobright.ai/jobs/info/6ab1607f32552369083e1b85?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Sep 20 |
 | **[Premier Inc.](https://premierinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ab199e723005eee3545b778?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 20 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2027 Intern: Data Science](https://jobright.ai/jobs/info/6ab19081191d8c340dbdb721?utm_campaign=1066&utm_source=git)** | Wilmington, NC, United States | On Site | Sep 20 |
-| **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Winter Intern 2027 - Analytics & Reporting Department](https://jobright.ai/jobs/info/6ab1639c32552369083e1d52?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Sep 20 |
-| ↳ | **[Winter Intern 2027 - Data Science (Winnipeg Office)](https://jobright.ai/jobs/info/6ab1638023005eee3545a1c9?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Sep 20 |
+| **[IG Gestion de patrimoine](https://www.ig.ca/fr)** | **[Winter Intern 2027 - Data Science (Winnipeg Office)](https://jobright.ai/jobs/info/6ab1638023005eee3545a1c9?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Sep 20 |
+| ↳ | **[Winter Intern 2027 - Analytics & Reporting Department](https://jobright.ai/jobs/info/6ab1639c32552369083e1d52?utm_campaign=1066&utm_source=git)** | Winnipeg, MB, Canada | Hybrid | Sep 20 |
 | ↳ | **[Winter Intern 2027 - Business and Data Platforms](https://jobright.ai/jobs/info/6ab16351191d8c340dbda5be?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Sep 20 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Quantitative Analysis (Raleigh, North Carolina)](https://jobright.ai/jobs/info/6ab19b2832552369083e34e7?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 20 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Data Science](https://jobright.ai/jobs/info/6ab15f6ad43eb922ca0be6bd?utm_campaign=1066&utm_source=git)** | Iowa, United States | Remote | Sep 20 |
