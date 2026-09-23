@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Squarepoint](http://www.squarepoint-capital.com/)** | **[Intern Quant Researcher](https://jobright.ai/jobs/info/6a6759465d2a117fb9ceb07c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
+| **[John Deere](https://www.deere.com)** | **[2027 Intern - Data & Analytics](https://jobright.ai/jobs/info/6a96de40f5337b2cf731e53e?utm_campaign=1066&utm_source=git)** | Moline, IL, United States | On Site | Sep 23 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c7f8fa2f3ec32a8d83?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Sep 23 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 23 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c47820c036924d7821?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Sep 23 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 23 |
 | **[Google](https://www.google.com)** | **[Data Scientist, Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa80551654b2a9424cfa1ec?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 23 |
 | **[Logistics Plus Inc.](https://www.logisticsplus.com/)** | **[Internship: Business Intelligence](https://jobright.ai/jobs/info/6ab3592f16511e254891becf?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Sep 23 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Quantitative Analyst](https://jobright.ai/jobs/info/6a9622293843db0159909b05?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Risk](https://jobright.ai/jobs/info/6a958928cabc9f6703e183d2?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a723bcdcb96192a3684cdb5?utm_campaign=1066&utm_source=git)** | Allentown, PA, United States | On Site | Sep 22 |
-| ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18dc3b399d106e4d4548?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Sep 22 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a960609cabc9f6703e1bb10?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Sep 22 |
-| ↳ | **[Winter Co-op 2027 - Data & Analytics](https://jobright.ai/jobs/info/6a96060b3843db0159909047?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| **[Fuyao Group](http://www.fuyaogroup.com)** | **[Onsite Intern - Data Control](https://jobright.ai/jobs/info/6ab2872f1e4847ddae914a66?utm_campaign=1066&utm_source=git)** | Fountain Inn, SC, United States | On Site | Sep 22 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Data & Analytics](https://jobright.ai/jobs/info/6a96060c9fcec54423730ea9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| **[Invariant](http://www.invariantgr.com/)** | **[Spring 2027 Insights and Intelligence Intern (DC)](https://jobright.ai/jobs/info/6ab292e61508734c1530a525?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
