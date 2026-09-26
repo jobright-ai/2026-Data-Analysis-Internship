@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwire Company](http://southwire.com)** | **[Spark Research Intern](https://jobright.ai/jobs/info/6ab705f662bb1fbd451dceea?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Remote | Sep 25 |
+| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote)](https://jobright.ai/jobs/info/6ab6e38362bb1fbd451dc68e?utm_campaign=1066&utm_source=git)** | Reston, VA, United States | Remote | Sep 25 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Internship - Market Data Analyst](https://jobright.ai/jobs/info/6ab6ecfc62bb1fbd451dc8ee?utm_campaign=1066&utm_source=git)** | Holyoke, MA, United States | On Site | Sep 25 |
 | ↳ | **[Student Internship - Mitigation Enhancement Analyst](https://jobright.ai/jobs/info/6ab6ece3ba1c25652c610a88?utm_campaign=1066&utm_source=git)** | Holyoke, MA, United States | On Site | Sep 25 |
 | ↳ | **[Student Internship - Dynamic Dashboard Development & Energy Market Analyst](https://jobright.ai/jobs/info/6ab6ecdf81e327c4bf201db6?utm_campaign=1066&utm_source=git)** | Holyoke, MA, United States | On Site | Sep 25 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6ab66420c6fe0dec811a4a66?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99dee9551435518ebf1c98?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
 | ↳ | **[Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99def78a8b765bc55f6121?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
 | **[Demonware](http://www.demonware.net)** | **[2027 Winter Co-Ops - Data Analytics - Demonware (Vancouver)](https://jobright.ai/jobs/info/6a99dcff551435518ebf1b81?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
@@ -115,13 +117,12 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 24 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 24 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab5c062634ec6aa7c0d1174?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Sep 24 |
-| **[TD](https://www.td.com)** | **[Data Science Intern/Co-op (WINTER 2027)](https://jobright.ai/jobs/info/6ab6c3d2c6fe0dec811a6a69?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 24 |
+| **[TD](https://www.td.com)** | **[AI2 Data Science Co-op (WINTER 2027)](https://jobright.ai/jobs/info/6ab6c3d64873fd3fd852f243?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
+| ↳ | **[Data Science Intern/Co-op (WINTER 2027)](https://jobright.ai/jobs/info/6ab6c3d2c6fe0dec811a6a69?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 24 |
 | ↳ | **[AI2 Business Intelligence Co-op/Intern (WINTER 2027)](https://jobright.ai/jobs/info/6ab6c3e2c6fe0dec811a6a7a?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
-| ↳ | **[AI2 Data Science Co-op (WINTER 2027)](https://jobright.ai/jobs/info/6ab6c3d64873fd3fd852f243?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Finance Data Analytics Intern 1 #799](https://jobright.ai/jobs/info/6ab694b6d85922de20ce561d?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Sep 24 |
 | ↳ | **[Finance Data Analytics Intern](https://jobright.ai/jobs/info/6ab694b2d85922de20ce561c?utm_campaign=1066&utm_source=git)** | Onalaska, WI, United States | On Site | Sep 24 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ab6a9c64873fd3fd852e831?utm_campaign=1066&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 24 |
-| **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Data Scientist (Reston, VA; Denver, CO; Remote)](https://jobright.ai/jobs/info/6ab6e38362bb1fbd451dc68e?utm_campaign=1066&utm_source=git)** | Reston, VA, United States | Remote | Sep 24 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Analyst (Summer 2027)](https://jobright.ai/jobs/info/6ab6b009b3db59402d101c10?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Data Science & AI Innovation](https://jobright.ai/jobs/info/6ab69246634ec6aa7c0d321a?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data Science - Intern](https://jobright.ai/jobs/info/6ab5717bd85922de20ce11cd?utm_campaign=1066&utm_source=git)** | West Point, Pennsylvania, United States | On Site | Sep 24 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Health Economics Intern](https://jobright.ai/jobs/info/6ab535d54873fd3fd852835b?utm_campaign=1066&utm_source=git)** | Bloomington, IN, United States | Hybrid | Sep 24 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science](https://jobright.ai/jobs/info/6a9930d850bfe8474621ee8f?utm_campaign=1066&utm_source=git)** | Niskayuna, NY, United States | On Site | Sep 24 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6ab5636d4873fd3fd8529466?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 24 |
-| **[Dallas Fort Worth International Airport (DFW)](https://dfwcareerexpo.com)** | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9b43e09ae03adcacde818?utm_campaign=1066&utm_source=git)** | Dallas–Fort Worth, Texas, United States | On Site | Sep 24 |
-| ↳ | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9d97310b1cd4f41608561?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 24 |
+| **[Dallas Fort Worth International Airport (DFW)](https://dfwcareerexpo.com)** | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9d97310b1cd4f41608561?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 24 |
+| ↳ | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9b43e09ae03adcacde818?utm_campaign=1066&utm_source=git)** | Dallas–Fort Worth, Texas, United States | On Site | Sep 24 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Management Intern](https://jobright.ai/jobs/info/6ab55dee4873fd3fd8529320?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 24 |
 | ↳ | **[Data Analytics Administrator Intern](https://jobright.ai/jobs/info/6ab55d434873fd3fd85292fb?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 24 |
 | ↳ | **[Data Science Intern (Intern Graduate Support Technician) - STR Division - Austin, TX](https://jobright.ai/jobs/info/6ab55d40d85922de20ce0b80?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Geospatial Tech & Data - Vendor Mgmt Intern - MN, CO](https://jobright.ai/jobs/info/6ab553a4b3db59402d0fc0a8?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area, United States | Hybrid | Sep 24 |
 | ↳ | **[Geospatial Tech & Data - Vendor Mgmt Intern - MN, CO](https://jobright.ai/jobs/info/6a9e544449f4604c7894e914?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 24 |
 | **[Wurl](http://www.wurl.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ab5171bd85922de20cdf517?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 24 |
-| **[The MJ Companies](https://themjcos.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/6aa5c385a77a53f5a1571e58?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
