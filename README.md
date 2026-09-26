@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/6ab761163a2ec87116e2601b?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Sep 25 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[Business Intelligence Intern Job Details / bestseller](https://jobright.ai/jobs/info/6ab752323a2ec87116e25f4c?utm_campaign=1066&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 25 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Data Sciences - AI](https://jobright.ai/jobs/info/6ab73d2b39fd8792cb73de38?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 25 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis and Modeling, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab74542d7fde2c08ec8b654?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | ↳ | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6ab7453e39fd8792cb73df4b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Geographic Information Systems (Summer 2027)](https://jobright.ai/jobs/info/6ab7448439fd8792cb73dee2?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 25 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6aa51b64930bff471a29d259?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Sep 25 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
-| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
+| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Internship: Gas Compressor Data Analyst](https://jobright.ai/jobs/info/6ab72ef63a2ec87116e25adb?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Sep 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab7268c39fd8792cb73db31?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
 | ↳ | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab726abd7fde2c08ec8b1c8?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Sustainability Analytics (Spring 2027)](https://jobright.ai/jobs/info/6a99bf9513883870605900b2?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99dee9551435518ebf1c98?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
 | ↳ | **[Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99def78a8b765bc55f6121?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | **[Demonware](http://www.demonware.net)** | **[2027 Winter Co-Ops - Data Analytics - Demonware (Vancouver)](https://jobright.ai/jobs/info/6a99dcff551435518ebf1b81?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Health Economics Intern](https://jobright.ai/jobs/info/6ab535d54873fd3fd852835b?utm_campaign=1066&utm_source=git)** | Bloomington, IN, United States | Hybrid | Sep 24 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science](https://jobright.ai/jobs/info/6a9930d850bfe8474621ee8f?utm_campaign=1066&utm_source=git)** | Niskayuna, NY, United States | On Site | Sep 24 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/6ab5636d4873fd3fd8529466?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Sep 24 |
-| **[Dallas Fort Worth International Airport (DFW)](https://dfwcareerexpo.com)** | **[2027 Undergraduate Internship - Geospatial Data](https://jobright.ai/jobs/info/6aa9d97310b1cd4f41608561?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
