@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate Data Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7271388387060590c95?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 26 |
@@ -116,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Sustainability Analytics (Spring 2027)](https://jobright.ai/jobs/info/6a99bf9513883870605900b2?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99dee9551435518ebf1c98?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
 | ↳ | **[Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99def78a8b765bc55f6121?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | **[Demonware](http://www.demonware.net)** | **[2027 Winter Co-Ops - Data Analytics - Demonware (Vancouver)](https://jobright.ai/jobs/info/6a99dcff551435518ebf1b81?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab63458634ec6aa7c0d23cc?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
 | ↳ | **[GTG Intern - Data Science Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab6344dd85922de20ce46f9?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Oncology](http://www.texasoncology.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ab585b69d4843569fe4a3c3?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Sep 24 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - GIS](https://jobright.ai/jobs/info/6ab2affb8254c44790e56a93?utm_campaign=1066&utm_source=git)** | Cayce, SC, United States | On Site | Sep 24 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Research and Development](https://jobright.ai/jobs/info/6ab580b3634ec6aa7c0cf31d?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL, United States | On Site | Sep 24 |
-| **[Women of the Vine & Spirits](https://www.womenofthevine.com)** | **[2027 Summer Internship Data Scientist/ Analyst (OneTech)- Miramar, FL](https://jobright.ai/jobs/info/6ab57d69c6fe0dec811a14dc?utm_campaign=1066&utm_source=git)** | Miramar, FL, United States | On Site | Sep 24 |
 | **[United States Attorneys'​ Offices](http://www.justice.gov/usao)** | **[Data Analyst Student Intern (Student Volunteer) (Spring 2027)](https://jobright.ai/jobs/info/6ab57d33b3db59402d0fce7e?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Sep 24 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Graduate I Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/6a996774551435518ebee272?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
