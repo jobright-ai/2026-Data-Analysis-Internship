@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6ab80e87ba1c25652c612c0f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Spring Co-op Bioinformatic Digital Data Scientist - Global Immunology, Waltham, MA](https://jobright.ai/jobs/info/6ab728aaba1c25652c611a37?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Sep 26 |
 | **[IBM](http://www.ibm.com)** | **[Co-Op Data Scientist 2027](https://jobright.ai/jobs/info/6a9e2506a7ba386c5d670e20?utm_campaign=1066&utm_source=git)** | University Park, PA, United States | On Site | Sep 26 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 24 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 24 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab5c062634ec6aa7c0d1174?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Sep 24 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Finance Data Analytics Intern](https://jobright.ai/jobs/info/6ab694b2d85922de20ce561c?utm_campaign=1066&utm_source=git)** | Onalaska, WI, United States | On Site | Sep 24 |
-| ↳ | **[Finance Data Analytics Intern 1 #799](https://jobright.ai/jobs/info/6ab694b6d85922de20ce561d?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Sep 24 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Finance Data Analytics Intern 1 #799](https://jobright.ai/jobs/info/6ab694b6d85922de20ce561d?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Sep 24 |
+| ↳ | **[Finance Data Analytics Intern](https://jobright.ai/jobs/info/6ab694b2d85922de20ce561c?utm_campaign=1066&utm_source=git)** | Onalaska, WI, United States | On Site | Sep 24 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ab6a9c64873fd3fd852e831?utm_campaign=1066&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 24 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Analyst (Summer 2027)](https://jobright.ai/jobs/info/6ab6b009b3db59402d101c10?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Data Science & AI Innovation](https://jobright.ai/jobs/info/6ab69246634ec6aa7c0d321a?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quant Performance Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a90af5d0bd89e205d24bd35?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
 | **[Super.com](https://www.super.com)** | **[Data Analytics Intern (8 months)](https://jobright.ai/jobs/info/6ab422ef0e0ae54eeea46dae?utm_campaign=1066&utm_source=git)** | Canada | Remote | Sep 24 |
 | **[HSAD North America](http://hsadusa.com)** | **[AX Transformation Intern](https://jobright.ai/jobs/info/6ab5a428d85922de20ce2c98?utm_campaign=1066&utm_source=git)** | Englewood Cliffs, NJ, United States | On Site | Sep 24 |
-| **[Syngenta](http://www.syngenta.com)** | **[Bioinformatics Intern - Protein Design](https://jobright.ai/jobs/info/6ab5a2a34873fd3fd852b3a0?utm_campaign=1066&utm_source=git)** | Durham, NC, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
