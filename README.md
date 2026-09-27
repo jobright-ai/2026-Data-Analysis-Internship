@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Data) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a35462bb1fbd451dfce7?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
 | **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6ab8985081e327c4bf205134?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 26 |
-| ↳ | **[ESG-Intern](https://jobright.ai/jobs/info/6ab853893a2ec87116e270b3?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 26 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Sep 26 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Qishi Club](https://www.qishicpc.com)** | **[GenAI Research Intern](https://jobright.ai/jobs/info/6ab87ddc81e327c4bf2046a2?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | On Site | Sep 26 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a456b460dd56c76cc2f35f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69f3d9321f90bd6ae23d1d7c?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 26 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate Data Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7271388387060590c95?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 26 |
-| ↳ | **[2027 Summer Intern: Associate Data Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7361388387060590c9b?utm_campaign=1066&utm_source=git)** | Stamford, CT, United States | On Site | Sep 26 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate Data Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7361388387060590c9b?utm_campaign=1066&utm_source=git)** | Stamford, CT, United States | On Site | Sep 26 |
+| ↳ | **[2027 Summer Intern: Associate Data Analyst​ (Customer Operations)](https://jobright.ai/jobs/info/6a99d7271388387060590c95?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 26 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS) - Summer 2027](https://jobright.ai/jobs/info/6a4556f24f64ba41dcb4d0e5?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 26 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Commercial Analytics](https://jobright.ai/jobs/info/6ab5e8de634ec6aa7c0d184a?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 26 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[Business Intelligence Intern Job Details / bestseller](https://jobright.ai/jobs/info/6ab752323a2ec87116e25f4c?utm_campaign=1066&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 25 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 24 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 24 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab5c062634ec6aa7c0d1174?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Sep 24 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Finance Data Analytics Intern](https://jobright.ai/jobs/info/6ab694b2d85922de20ce561c?utm_campaign=1066&utm_source=git)** | Onalaska, WI, United States | On Site | Sep 24 |
-| ↳ | **[Finance Data Analytics Intern 1 #799](https://jobright.ai/jobs/info/6ab694b6d85922de20ce561d?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Sep 24 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Finance Data Analytics Intern 1 #799](https://jobright.ai/jobs/info/6ab694b6d85922de20ce561d?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Sep 24 |
+| ↳ | **[Finance Data Analytics Intern](https://jobright.ai/jobs/info/6ab694b2d85922de20ce561c?utm_campaign=1066&utm_source=git)** | Onalaska, WI, United States | On Site | Sep 24 |
 | **[JACK & JONES](http://www.jackjones.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ab6a9c64873fd3fd852e831?utm_campaign=1066&utm_source=git)** | Montréal, QC, Canada | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
