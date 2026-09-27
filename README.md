@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Planning Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7f62c4ad9ff00c26bade11?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Sep 27 |
+| **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6ab8f685d7fde2c08ec8da7f?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 27 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 27 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/6a96696b455eaf6a08c17354?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 27 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Data) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a35462bb1fbd451dfce7?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
-| **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6ab8985081e327c4bf205134?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 26 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Sep 26 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6ab7453e39fd8792cb73df4b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Geographic Information Systems (Summer 2027)](https://jobright.ai/jobs/info/6ab7448439fd8792cb73dee2?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 25 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6aa51b64930bff471a29d259?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Sep 25 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
-| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
+| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Internship: Gas Compressor Data Analyst](https://jobright.ai/jobs/info/6ab72ef63a2ec87116e25adb?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Sep 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab7268c39fd8792cb73db31?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
 | ↳ | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab726abd7fde2c08ec8b1c8?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Intern, IT Data Analytics (2027)](https://jobright.ai/jobs/info/6ab6a194c6fe0dec811a5aec?utm_campaign=1066&utm_source=git)** | Libertyville, IL, United States | On Site | Sep 24 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Sep 24 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 24 |
-| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab5c062634ec6aa7c0d1174?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
