@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
+| **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Sep 26 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 26 |
 | **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a9b96802cdc5958f53eca1a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Sep 26 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ridership Analysis & Modeling, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6ab7453e39fd8792cb73df4b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Geographic Information Systems (Summer 2027)](https://jobright.ai/jobs/info/6ab7448439fd8792cb73dee2?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 25 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Enterprise Analytics Intern](https://jobright.ai/jobs/info/6aa51b64930bff471a29d259?utm_campaign=1066&utm_source=git)** | Camden, NJ, United States | On Site | Sep 25 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
-| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Sep 25 |
+| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Internship: Gas Compressor Data Analyst](https://jobright.ai/jobs/info/6ab72ef63a2ec87116e25adb?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Sep 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab7268c39fd8792cb73db31?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
 | ↳ | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6ab726abd7fde2c08ec8b1c8?utm_campaign=1066&utm_source=git)** | Perrysburg, OH, United States | On Site | Sep 25 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa46ddd1d92e2d05d114bbf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Sep 25 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Asian Economics](https://jobright.ai/jobs/info/6ab6b5ad4873fd3fd852ec6a?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Sep 25 |
 | **[Premier Inc.](https://premierinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ab199e723005eee3545b778?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 25 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 25 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ab5733db3db59402d0fcbed?utm_campaign=1066&utm_source=git)** | Inver Grove Heights, MN, United States | Hybrid | Sep 25 |
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 25 |
 | **[IBM](http://www.ibm.com)** | **[2027 Masters or PhD Intern — Marketing Data Science & Data Analytics](https://jobright.ai/jobs/info/6aa1fb53500b01124c77ff78?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Sep 25 |
@@ -130,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Sustainability Analytics (Spring 2027)](https://jobright.ai/jobs/info/6a99bf9513883870605900b2?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99dee9551435518ebf1c98?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
 | ↳ | **[Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a99def78a8b765bc55f6121?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Sep 25 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 25 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 25 |
 | **[Demonware](http://www.demonware.net)** | **[2027 Winter Co-Ops - Data Analytics - Demonware (Vancouver)](https://jobright.ai/jobs/info/6a99dcff551435518ebf1b81?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab63458634ec6aa7c0d23cc?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
 | ↳ | **[GTG Intern - Data Science Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab6344dd85922de20ce46f9?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Analyst (Summer 2027)](https://jobright.ai/jobs/info/6ab6b009b3db59402d101c10?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Co-op, Data Science & AI Innovation](https://jobright.ai/jobs/info/6ab69246634ec6aa7c0d321a?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data Science - Intern](https://jobright.ai/jobs/info/6ab5717bd85922de20ce11cd?utm_campaign=1066&utm_source=git)** | West Point, Pennsylvania, United States | On Site | Sep 24 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quant Performance Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6a90af5d0bd89e205d24bd35?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
