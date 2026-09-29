@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6abaa954ee0b348be729ac1b?utm_campaign=1066&utm_source=git)** | Middletown, RI, United States | On Site | Sep 29 |
+| **[Verizon](https://www.verizon.com)** | **[Irving V Teamer for a Day: Verizon Data Science Summer 2027 Internship](https://jobright.ai/jobs/info/6abb744c7220f52e62aec6de?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | Hybrid | Sep 29 |
+| ↳ | **[Verizon Network and Technology: Data Science Summer 2027 Internship](https://jobright.ai/jobs/info/6abb744b9186b455fcc604e3?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | Hybrid | Sep 29 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship 2027 - Data Analytics - Operational Excellence](https://jobright.ai/jobs/info/6abaa00aee0b348be729a8ee?utm_campaign=1066&utm_source=git)** | Mobile, AL, United States | On Site | Sep 28 |
 | **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6abb56a9d2914e9273ef1743?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 28 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern - PhD in progress](https://jobright.ai/jobs/info/6aa074a35b2d5633ef3bebca?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Sep 28 |
@@ -94,10 +97,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Intern - Data Science / Biostatistician](https://jobright.ai/jobs/info/6aba8135ad8589219ef7d955?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Sep 28 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Business Intelligence Analyst Summer 2027 Intern](https://jobright.ai/jobs/info/6a9e48a749f4604c7894e754?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States | On Site | Sep 28 |
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3d1a804d047136e0932307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
-| **[SAIC](http://www.saic.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6abaa954ee0b348be729ac1b?utm_campaign=1066&utm_source=git)** | Middletown, RI, United States | On Site | Sep 28 |
 | **[ASARCO](https://asarco.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6abaa418d2914e9273eec6dd?utm_campaign=1066&utm_source=git)** | Mesa, AZ, United States | On Site | Sep 28 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Reliability Data Analyst Intern- CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1d?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
-| ↳ | **[Gas Data Intern- CO](https://jobright.ai/jobs/info/6a9e543f49f4604c7894e911?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Data Intern- CO](https://jobright.ai/jobs/info/6a9e543f49f4604c7894e911?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
+| ↳ | **[Reliability Data Analyst Intern- CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1d?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
 | ↳ | **[Data Scientist Intern - MN, CO](https://jobright.ai/jobs/info/6a9e544027c94c3d5a1cc3c2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 28 |
 | ↳ | **[Data Science Intern CO, MN](https://jobright.ai/jobs/info/6a9e543ddacf777321a91820?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://jobright.ai/jobs/info/6aba9d71d2914e9273eec49e?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 28 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Planning Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7f62c4ad9ff00c26bade11?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Sep 27 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 27 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/6a96696b455eaf6a08c17354?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Sep 27 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 27 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Sep 27 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Data) Job Details / Erie Insurance](https://jobright.ai/jobs/info/6ab8a35462bb1fbd451dfce7?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Sep 26 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 26 |
 | **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a9b96802cdc5958f53eca1a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Aircraft Software Integration Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9b20891388387060596b8f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Sep 26 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Researcher Internship](https://jobright.ai/jobs/info/6a5affc7c8e3a473cb8ae712?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 26 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2e532cdc5958f53eb3b8?utm_campaign=1066&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 26 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[IT Data & Analytics Intern Job Details / Mitsubishi Heavy Industries, Ltd.](https://jobright.ai/jobs/info/6ab7bdf662bb1fbd451de3ee?utm_campaign=1066&utm_source=git)** | Lake Mary, FL, United States | On Site | Sep 26 |
-| **[Perry Homes](https://www.perryhomes.com)** | **[2027 Summer Internship - Estimating Analyst](https://jobright.ai/jobs/info/6a9ad770d5ff1f3f1c39b6fb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
