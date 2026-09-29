@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Quest Analytics®,LLC](https://questanalytics.com)** | **[Quest Analytics Internship Program - Summer 2027 in Kansas City](https://jobright.ai/jobs/info/6aa9495610b1cd4f4160531f?utm_campaign=1066&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 29 |
 | **[Google](https://www.google.com)** | **[Data Scientist, Product Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa7ff38930bff471a2a48e6?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 29 |
+| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Sep 29 |
+| **[The Decision Lab](https://thedecisionlab.com/)** | **[Applied Research Fellow - January 2027 cohort (Montreal)](https://jobright.ai/jobs/info/6abbd04aa9a644f96568828a?utm_campaign=1066&utm_source=git)** | Montreal, QC, Canada | Remote | Sep 29 |
+| **[Quest Analytics®,LLC](https://questanalytics.com)** | **[Quest Analytics Internship Program - Summer 2027 in Kansas City](https://jobright.ai/jobs/info/6aa9495610b1cd4f4160531f?utm_campaign=1066&utm_source=git)** | Overland Park, KS, United States | On Site | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertisement Team) - 2026 Start](https://jobright.ai/jobs/info/6a8419418d793736c6133bf1?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 29 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Business Intelligence - Intern](https://jobright.ai/jobs/info/6a9f5b08352f093fc756e29c?utm_campaign=1066&utm_source=git)** | North Wales, PA, United States | Hybrid | Sep 29 |
 | ↳ | **[2027 Future Talent Program – Translational Sciences and Outsourcing – Co-op](https://jobright.ai/jobs/info/6a9f5b042c964816f65efe5c?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 29 |
@@ -114,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Point72](https://www.point72.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6a3d1a804d047136e0932307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 28 |
 | **[ASARCO](https://asarco.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6abaa418d2914e9273eec6dd?utm_campaign=1066&utm_source=git)** | Mesa, AZ, United States | On Site | Sep 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Scientist Intern - MN, CO](https://jobright.ai/jobs/info/6a9e544027c94c3d5a1cc3c2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 28 |
-| ↳ | **[Gas Data Intern- CO](https://jobright.ai/jobs/info/6a9e543f49f4604c7894e911?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
 | ↳ | **[Reliability Data Analyst Intern- CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1d?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
+| ↳ | **[Gas Data Intern- CO](https://jobright.ai/jobs/info/6a9e543f49f4604c7894e911?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
 | ↳ | **[Data Science Intern CO, MN](https://jobright.ai/jobs/info/6a9e543ddacf777321a91820?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 28 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://jobright.ai/jobs/info/6aba9d71d2914e9273eec49e?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 28 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Information Technology Internship Summer 2027 (Grice)](https://jobright.ai/jobs/info/6aba9cb07220f52e62ae73c3?utm_campaign=1066&utm_source=git)** | Hartsville, SC, United States | Hybrid | Sep 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 27 |
 | **[Vendelux](https://vendelux.com)** | **[Fall Data Intern](https://jobright.ai/jobs/info/6a7f3e56927c79391ad074ed?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Intern [2027 Summer]](https://jobright.ai/jobs/info/6a622a8007e15f1ab0e44a0c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 27 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Planning Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7f62c4ad9ff00c26bade11?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Sep 27 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
