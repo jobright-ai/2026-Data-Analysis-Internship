@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6abc46e03217d1d13329e1bb?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Sep 29 |
+| **[Google](https://www.google.com)** | **[Data Scientist, Product Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa7ff38930bff471a2a48e6?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 29 |
 | **[Craftwater](https://www.craftwater.com/)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6aa49533c1928370a285e8de?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Sep 29 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6abc26bc7119e56191cebc07?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Analyst Intern, Global Security Control Center, Spring 2027](https://jobright.ai/jobs/info/6ab97ac381e327c4bf205ba3?utm_campaign=1066&utm_source=git)** | Burbank, CA, United States | On Site | Sep 29 |
@@ -81,16 +83,16 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6abbf94692b2612ef0f8c08a?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 29 |
 | **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6abbf69eb23c6fb2b81a4273?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Sep 29 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6abbf3a2b23c6fb2b81a405c?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 29 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a57b17cefb06a45240dc7db?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a9bb28ca7ba386c5d66d73f?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 29 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6aae44523dbb1f8967cf0757?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 | ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a5df46395356634d79e2de8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a449386b156014e414bcc00?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a89218625fc4e7ae3db301f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a9bb2c52c964816f65e866a?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 29 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6aae44523dbb1f8967cf0757?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 | ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6a66f6c0e8d8d22e32930f19?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 | **[GigFinder.ai](https://www.GigFinder.ai)** | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2027 Start Date)](https://jobright.ai/jobs/info/6abbf2baa9a644f965689136?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Sep 29 |
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6aaa0e0109ae03adcace0f74?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 29 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6aa9c00310b1cd4f41607869?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Sep 29 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6aa9c3b909ae03adcacdefff?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6aa9c4f8eff87f571fc9b644?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Commercial - Health Economics and Outcomes Research](https://jobright.ai/jobs/info/6a9fe4265bf5fa48b83b792b?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  Data Scientist  Technology, AI & Data (Summer 2027)](https://jobright.ai/jobs/info/6abbee1e3217d1d13329be8a?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Sep 29 |
 | ↳ | **[Undergrad Intern  Data Scientist  Technology, AI & Data (Summer 2027)](https://jobright.ai/jobs/info/6abbede092b2612ef0f8baec?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Sep 29 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[PMO Project Intelligence Intern](https://jobright.ai/jobs/info/6abba322de8f79e124276cbd?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | On Site | Sep 29 |
 | **[Gallagher](https://www.ajg.com/)** | **[U.S. Internship - Data Analytics](https://jobright.ai/jobs/info/6a8392483eeac101cfaa0d88?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL, United States | Hybrid | Sep 29 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6abbe9017119e56191ce9f92?utm_campaign=1066&utm_source=git)** | Canada | Remote | Sep 29 |
-| **[Google](https://www.google.com)** | **[Data Scientist, Product Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa7ff38930bff471a2a48e6?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 29 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Analysis Intern](https://jobright.ai/jobs/info/6abbbec8a9a644f965687d05?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 29 |
 | **[Moderna](http://www.modernatx.com)** | **[Intern, Infectious Disease Epidemiology](https://jobright.ai/jobs/info/6abbe3a292b2612ef0f8b38a?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Sep 29 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Business Intelligence & Insights Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6a9f942ea7ba386c5d67569a?utm_campaign=1066&utm_source=git)** | Branchville, NJ, United States | Hybrid | Sep 29 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Sep 29 |
 | ↳ | **[Data Science Intern (Advertisement Team) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d66eda346cb6c8d5f2380?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 29 |
 | ↳ | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Sep 29 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa01a3aea127c3794694f47?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 29 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a7b2456b933773d16be573d?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 29 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a7b2456b933773d16be573d?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 29 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6aa01a3aea127c3794694f47?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 29 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6a5dc1dd686b4755d1e1efca?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Sep 29 |
 | **[SAIC](http://www.saic.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6abaa954ee0b348be729ac1b?utm_campaign=1066&utm_source=git)** | Middletown, RI, United States | On Site | Sep 29 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship 2027 - Data Analytics - Operational Excellence](https://jobright.ai/jobs/info/6abaa00aee0b348be729a8ee?utm_campaign=1066&utm_source=git)** | Mobile, AL, United States | On Site | Sep 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 - IE / Data Analytics Intern](https://jobright.ai/jobs/info/6abad45a3db4ca81fc7c4c63?utm_campaign=1066&utm_source=git)** | Hopewell Junction, NY, United States | On Site | Sep 28 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aba9cca7220f52e62ae73cf?utm_campaign=1066&utm_source=git)** | Champaign, IL, United States | Hybrid | Sep 28 |
 | **[Cencora](http://www.cencora.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aba8614be5f1e9325115dd4?utm_campaign=1066&utm_source=git)** | Conshohocken, PA, United States | On Site | Sep 28 |
-| **[Syngenta](http://www.syngenta.com)** | **[Functional Genomics Intern](https://jobright.ai/jobs/info/6abaca1ad2914e9273eed44f?utm_campaign=1066&utm_source=git)** | Durham, NC, United States | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
