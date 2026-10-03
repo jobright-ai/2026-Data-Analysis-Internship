@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Solaria Labs Data Science Co-op (January - June 2027)](https://jobright.ai/jobs/info/6aa4a371c1928370a285ec45?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 03 |
+| ↳ | **[Solaria Labs Data Science Co-op (January - June 2027)](https://jobright.ai/jobs/info/6aa4cd67930bff471a29ba72?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 03 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aa47a77c1928370a285e18f?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 03 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 02 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6abfbdb48ff3fb9b3bc78967?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 02 |
 | **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3e647422289703bd63f38?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
-| **[CHEManager International](https://www.chemanager-online.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6abfed24372c01f6cd72990d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[GALLO](http://www.gallocareers.com)** | **[IT Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a82cbf02dbaf907b0764e65?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6abfe7b7372c01f6cd7296a5?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | Hybrid | Oct 02 |
 | ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6abfe7a94ac55253f5d6662e?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | Hybrid | Oct 02 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Engineering Graduate Associate, Spring 2027](https://jobright.ai/jobs/info/6abeaf2e4ac55253f5d61f70?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Oct 01 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[2027 Intern - Statistics](https://jobright.ai/jobs/info/6ac0767f8ff3fb9b3bc7c1f6?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 01 |
-| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Supply Chain Data & Analytics Intern at Ulta Beauty](https://jobright.ai/jobs/info/6abefd8a064da25272e03ea6?utm_campaign=1066&utm_source=git)** | Tohatchi, NM, United States | Hybrid | Oct 01 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[SCS - Advanced Analytics Intern - 2027](https://jobright.ai/jobs/info/6abea1eb372c01f6cd724a7a?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 01 |
 | ↳ | **[Summer 2027 Intern-Data Science and Business Analytics](https://jobright.ai/jobs/info/6abeca3f8ff3fb9b3bc75f3b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 01 |
 | **[Precision Castparts](http://precast.com)** | **[2027 Spring/Summer Data Co-op](https://jobright.ai/jobs/info/6abef722372c01f6cd726b1a?utm_campaign=1066&utm_source=git)** | Toronto, Ohio, United States | On Site | Oct 01 |
