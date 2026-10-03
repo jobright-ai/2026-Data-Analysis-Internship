@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Friedkin Group](https://www.friedkin.com/)** | **[Summer Intern - IT Data Analytics - Business Systems & AI](https://jobright.ai/jobs/info/6ac14a9dd9621c5b28398eca?utm_campaign=1066&utm_source=git)** | Greater Houston, United States | On Site | Oct 03 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Intern Trainee](https://jobright.ai/jobs/info/6aa4e49a42411952ff9a6005?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
+| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6a44937c0153061b8b3e0a44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
+| ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ac14567372c01f6cd72d2ac?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[BRG](http://www.thinkbrg.com)** | **[Chicago Office Health Analytics Practice Intern](https://jobright.ai/jobs/info/6a88b5874afae74a0834d20e?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa486e61d92e2d05d115156?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | ↳ | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa44380f7baf881567ce177?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 03 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Solaria Labs Data Science Co-op (January - June 2027)](https://jobright.ai/jobs/info/6aa4a371c1928370a285ec45?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Engineering Graduate Associate, Spring 2027](https://jobright.ai/jobs/info/6abeaf2e4ac55253f5d61f70?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Oct 01 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[2027 Intern - Statistics](https://jobright.ai/jobs/info/6ac0767f8ff3fb9b3bc7c1f6?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 01 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[SCS - Advanced Analytics Intern - 2027](https://jobright.ai/jobs/info/6abea1eb372c01f6cd724a7a?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 01 |
-| ↳ | **[Summer 2027 Intern-Data Science and Business Analytics](https://jobright.ai/jobs/info/6abeca3f8ff3fb9b3bc75f3b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 01 |
-| **[Precision Castparts](http://precast.com)** | **[2027 Spring/Summer Data Co-op](https://jobright.ai/jobs/info/6abef722372c01f6cd726b1a?utm_campaign=1066&utm_source=git)** | Toronto, Ohio, United States | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
