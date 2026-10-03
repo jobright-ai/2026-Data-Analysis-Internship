@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entergy](https://www.entergy.com)** | **[Student, Intern, Power Delivery Performance & Analytics, Spring 2027 Job Details / Entergy](https://jobright.ai/jobs/info/6ac08e074ac55253f5d69450?utm_campaign=1066&utm_source=git)** | The Woodlands, TX, United States | Hybrid | Oct 02 |
 | **[USAA](https://www.usaa.com)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6aa4aca2422289703bd67834?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | ↳ | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6aa4e90982e82a31997bb347?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ac03f68372c01f6cd72b636?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 02 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Covestro](https://www.covestro.com)** | **[Digital Analyst & Project Management Intern](https://jobright.ai/jobs/info/6aa3b524959a10d7230d3635?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 02 |
 | **[Husky Technologies](https://www.husky.co/en)** | **[ESG-Intern](https://jobright.ai/jobs/info/6ac005c8064da25272e07537?utm_campaign=1066&utm_source=git)** | Bolton, Ontario, Canada | On Site | Oct 02 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa3a082c5a856ac7e33a88d?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 02 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa38e57c5a856ac7e33a063?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 02 |
 | **[Amway](http://www.amway.com)** | **[Supply Chain Analytics Intern, Summer 2027 (REQ#43451)](https://jobright.ai/jobs/info/6aa383fc626f9945308b12d9?utm_campaign=1066&utm_source=git)** | Ada, MI, United States | Hybrid | Oct 02 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Kite Development - Clinical Development (Data Management)](https://jobright.ai/jobs/info/6aa3c9f1626f9945308b338a?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | Hybrid | Oct 02 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Oct 02 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa473d91d92e2d05d114d09?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Knowledge Management Data Analyst Intern](https://jobright.ai/jobs/info/6abec872372c01f6cd725c6e?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 01 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77a2372c01f6cd723ae2?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 01 |
-| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6abe77990e027c0f3b398e88?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 01 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6abe7797064da25272e00d79?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6abe77990e027c0f3b398e88?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 01 |
 | **[Rodan Energy Solutions Inc.](http://rodanenergy.com)** | **[Data Science - Co-op Student (Winter 2027)](https://jobright.ai/jobs/info/6abec4950e027c0f3b39ac1c?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 01 |
 | **[Coveo](http://www.coveo.com)** | **[Corporate Business Intelligence Intern, Winter 2027](https://jobright.ai/jobs/info/6abec164064da25272e029a3?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Oct 01 |
 | ↳ | **[Corporate Business Intelligence Intern, Winter 2027](https://jobright.ai/jobs/info/6abec14e8ff3fb9b3bc758ba?utm_campaign=1066&utm_source=git)** | Quebec City, QC, Canada | Hybrid | Oct 01 |
-| **[SeatGeek](https://seatgeek.com)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/6abeb14b0e027c0f3b39a329?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
