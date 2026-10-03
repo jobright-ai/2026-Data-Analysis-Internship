@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a7a309bb17cba5690365d44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Graduate Associate, Data Analytics, Spring 2027](https://jobright.ai/jobs/info/6ac00d7e8ff3fb9b3bc7a5f8?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Oct 02 |
 | **[Entergy](https://www.entergy.com)** | **[Student, Intern, Power Delivery Performance & Analytics, Spring 2027 Job Details / Entergy](https://jobright.ai/jobs/info/6ac08e074ac55253f5d69450?utm_campaign=1066&utm_source=git)** | The Woodlands, TX, United States | Hybrid | Oct 02 |
 | **[USAA](https://www.usaa.com)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6aa4aca2422289703bd67834?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Notion](https://www.notion.com)** | **[Data Science Intern (Winter 2027)](https://jobright.ai/jobs/info/6a86304f74e02153f145b08f?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 02 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 02 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 02 |
-| **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a9b96802cdc5958f53eca1a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 02 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Oct 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Visualization (Winter 2027)](https://jobright.ai/jobs/info/6aa3fa0ff3aa936e2cdaf139?utm_campaign=1066&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 02 |
@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2027 Start Date)](https://jobright.ai/jobs/info/6abff4eb4ac55253f5d66b33?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 02 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 02 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6abfbdb48ff3fb9b3bc78967?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 02 |
-| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3b801c5a856ac7e33b2db?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3e647422289703bd63f38?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
 | **[CHEManager International](https://www.chemanager-online.com)** | **[Quantitative Researcher - Intern](https://jobright.ai/jobs/info/6abfed24372c01f6cd72990d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6abfe7b7372c01f6cd7296a5?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | Hybrid | Oct 02 |
 | ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6abfe7a94ac55253f5d6662e?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | Hybrid | Oct 02 |
