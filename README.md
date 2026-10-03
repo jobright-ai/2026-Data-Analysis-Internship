@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAA](https://www.usaa.com)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6aa4aca2422289703bd67834?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
+| ↳ | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6aa4e90982e82a31997bb347?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 02 |
+| **[Cboe Global Markets](https://fx.cboe.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ac03f68372c01f6cd72b636?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d66eda346cb6c8d5f2380?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 02 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Intern - Statistics](https://jobright.ai/jobs/info/6ac02876d9621c5b28396af5?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 02 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Intern Shrink Analytics](https://jobright.ai/jobs/info/6abff53a064da25272e06ee3?utm_campaign=1066&utm_source=git)** | Quincy, MA, United States | Hybrid | Oct 02 |
@@ -125,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Kite Development - Clinical Development (Data Management)](https://jobright.ai/jobs/info/6aa3c9f1626f9945308b338a?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | Hybrid | Oct 02 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6ab597c4b3db59402d0fe163?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Engineering Graduate Associate, Spring 2027](https://jobright.ai/jobs/info/6abeaf2e4ac55253f5d61f70?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, United States | On Site | Oct 01 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[2027 Intern - Statistics](https://jobright.ai/jobs/info/6ac0767f8ff3fb9b3bc7c1f6?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 01 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Supply Chain Data & Analytics Intern at Ulta Beauty](https://jobright.ai/jobs/info/6abefd8a064da25272e03ea6?utm_campaign=1066&utm_source=git)** | Tohatchi, NM, United States | Hybrid | Oct 01 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[SCS - Advanced Analytics Intern - 2027](https://jobright.ai/jobs/info/6abea1eb372c01f6cd724a7a?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 01 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Moody's Analytics](https://www.moodys.com)** | **[Analytics & Modeling Summer Intern](https://jobright.ai/jobs/info/6abf37f5064da25272e04b45?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Intern - Biostatistics](https://jobright.ai/jobs/info/6ac00b2a0e027c0f3b39f772?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 01 |
 | **[Food Lion](https://www.foodlion.com)** | **[Intern Shrink Analytics](https://jobright.ai/jobs/info/6abfe0944ac55253f5d662b5?utm_campaign=1066&utm_source=git)** | Quincy, MA, United States | Hybrid | Oct 01 |
-| **[Cboe Global Markets](https://fx.cboe.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ac03f68372c01f6cd72b636?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 01 |
 | **[CBRE](https://www.cbre.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ac0475b0e027c0f3b3a0a91?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 01 |
 | **[TRACTIAN](https://tractian.com)** | **[Analytics Intern - GTM](https://jobright.ai/jobs/info/6abed9ebd9621c5b28391e63?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 01 |
 | **[GALLO](http://www.gallocareers.com)** | **[IT Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a82cbf02dbaf907b0764e65?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rodan Energy Solutions Inc.](http://rodanenergy.com)** | **[Data Science - Co-op Student (Winter 2027)](https://jobright.ai/jobs/info/6abec4950e027c0f3b39ac1c?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 01 |
 | **[Coveo](http://www.coveo.com)** | **[Corporate Business Intelligence Intern, Winter 2027](https://jobright.ai/jobs/info/6abec164064da25272e029a3?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Oct 01 |
 | ↳ | **[Corporate Business Intelligence Intern, Winter 2027](https://jobright.ai/jobs/info/6abec14e8ff3fb9b3bc758ba?utm_campaign=1066&utm_source=git)** | Quebec City, QC, Canada | Hybrid | Oct 01 |
-| **[SeatGeek](https://seatgeek.com)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/6abeb14b0e027c0f3b39a329?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa163263272060a8e3ef873?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111a7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
