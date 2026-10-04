@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086af2c46727285ef454?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6ac01e06d9621c5b2839674f?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 04 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Technology, Data, AI & Ventures Summer Internship Program - Data Scientist Intern](https://jobright.ai/jobs/info/6a83e36629c715662f4b4c51?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | ↳ | **[2027 Technology, Data, AI & Ventures Summer Internship Program - Analyst Intern](https://jobright.ai/jobs/info/6a7231bd02d93145bf8932b0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 04 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Data Science Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ab6344dd85922de20ce46f9?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 04 |
-| **[ByteDance](http://bytedance.com)** | **[Immigration Data Analyst Project Intern (HROPs) - 2026 Start](https://jobright.ai/jobs/info/6ac22d56372c01f6cd72e2ff?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 04 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Consumer Business Unit - AI Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd825fc4e7ae3db3ae0?utm_campaign=1066&utm_source=git)** | Middleton, WI, United States | On Site | Oct 04 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Data Scientist (Master's Degree) Internship](https://jobright.ai/jobs/info/6a8ca1de2f736c304f2a6ece?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 04 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Data Analytics Intern](https://jobright.ai/jobs/info/6ac1dea6372c01f6cd72df42?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 03 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa46ddd1d92e2d05d114bbf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6aa4c3782ed333b4ea5c3ee2?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Oct 03 |
-| **[PING](http://ping.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa37ac9b47caa3aec72c42e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | ↳ | **[Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa380354233a2201a2b19fa?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 | **[IBM](http://www.ibm.com)** | **[Data and AI Intern 2027](https://jobright.ai/jobs/info/6a9e267c75edfa11b471067f?utm_campaign=1066&utm_source=git)** | Armonk, NY, United States | Hybrid | Oct 02 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analyst (Part-Time Fall 2026 & Spring 2027) Job Details / Epiroc Careers](https://jobright.ai/jobs/info/6aa8cb1783a6750b1adfa39f?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
