@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Libra Sentinel](https://libra-sentinel.com/)** | **[Research Intern - Children’s Digital Privacy & AI Governance](https://jobright.ai/jobs/info/6ac2abcd064da25272e0d3c1?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 04 |
 | **[ByteDance](http://bytedance.com)** | **[Immigration Data Analyst Project Intern (HROPs) - 2026 Start](https://jobright.ai/jobs/info/6ac29dda372c01f6cd72fefe?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 04 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027](https://jobright.ai/jobs/info/6a55086af2c46727285ef454?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6ac01e06d9621c5b2839674f?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 04 |
@@ -93,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa46ddd1d92e2d05d114bbf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6aa4c3782ed333b4ea5c3ee2?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Oct 03 |
-| **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
-| ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| **[PING](http://ping.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
@@ -144,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2027 Start Date)](https://jobright.ai/jobs/info/6abff4eb4ac55253f5d66b33?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 02 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 02 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6abfbdb48ff3fb9b3bc78967?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 02 |
-| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3a50f4238ea18d430d246?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3b801c5a856ac7e33b2db?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
 | **[GALLO](http://www.gallocareers.com)** | **[IT Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a82cbf02dbaf907b0764e65?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6abfe7b7372c01f6cd7296a5?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | Hybrid | Oct 02 |
 | ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6abfe7a94ac55253f5d6662e?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | Hybrid | Oct 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](https://www.moodys.com)** | **[Analytics & Modeling Summer Intern](https://jobright.ai/jobs/info/6abf50ae4ac55253f5d649ee?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - West Coast Remote](https://jobright.ai/jobs/info/6a71f606ee751e0c79345db3?utm_campaign=1066&utm_source=git)** | West Coast, United States | Remote | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa37ac9b47caa3aec72c42e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
+| ↳ | **[Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa380354233a2201a2b19fa?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
