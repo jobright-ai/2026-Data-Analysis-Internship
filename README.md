@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 03 |
+| **[Amazon](https://amazon.com)** | **[2027 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/6ab2e0ce326574570a0038d5?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Intern:: Data Science III](https://jobright.ai/jobs/info/6abbf057d6acfd3dd29fadc8?utm_campaign=1066&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 03 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 03 |
 | **[Notion](https://www.notion.com)** | **[Data Science Intern (Winter 2027)](https://jobright.ai/jobs/info/6a86304f74e02153f145b08f?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 03 |
 | **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 03 |
 | **[RoShay Services](https://www.linkedin.com/company/109419302)** | **[Information Technology/Data Analytics Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6ac17a3a372c01f6cd72d64f?utm_campaign=1066&utm_source=git)** | Marysville, OH, United States | On Site | Oct 03 |
-| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 03 |
 | **[VertoTech](vertotech.net)** | **[Computational Science & Digital R&D Intern](https://jobright.ai/jobs/info/6ac15a430e027c0f3b3a2932?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Remote | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - Toronto)](https://jobright.ai/jobs/info/6aa45932c1928370a285d9f1?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 03 |
 | **[The Friedkin Group](https://www.friedkin.com/)** | **[Summer Intern - IT Data Analytics - Business Systems & AI](https://jobright.ai/jobs/info/6ac14a9dd9621c5b28398eca?utm_campaign=1066&utm_source=git)** | Greater Houston, United States | On Site | Oct 03 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa46ddd1d92e2d05d114bbf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6aa4c3782ed333b4ea5c3ee2?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Oct 03 |
-| **[PING](http://ping.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ketjen Corporation](https://ketjen.com)** | **[Ketjen Summer 2027 Data Science Internship](https://jobright.ai/jobs/info/6aa38956626f9945308b15cb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 02 |
 | **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey at McKinsey & Company](https://jobright.ai/jobs/info/6abf909d0e027c0f3b39d50f?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Oct 02 |
 | **[Covestro](https://www.covestro.com)** | **[Digital Analyst & Project Management Intern](https://jobright.ai/jobs/info/6aa3b524959a10d7230d3635?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
