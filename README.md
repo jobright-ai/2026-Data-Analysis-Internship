@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Propopia](www.propopia.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac314bc372c01f6cd730859?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 04 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Data Scientist (Master's Degree) Internship](https://jobright.ai/jobs/info/6a8ca1de2f736c304f2a6ece?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 04 |
 | **[Google](https://www.google.com)** | **[Data Scientist, Product Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa7ff38930bff471a2a48e6?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 04 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa46ddd1d92e2d05d114bbf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 03 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6aa4c3782ed333b4ea5c3ee2?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Oct 03 |
-| **[PING](http://ping.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
+| ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6aa4d6ad654b2a9424cf1851?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Quantitative Modeling Analyst](https://jobright.ai/jobs/info/6ac02d42372c01f6cd72b0e2?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 02 |
 | **[SERVPRO](http://servpro.com)** | **[Data & Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2fe4636cddf7396f2bee?utm_campaign=1066&utm_source=git)** | Gallatin, TN, United States | On Site | Oct 02 |
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2027 Summer Intern- Information Technology](https://jobright.ai/jobs/info/6ac029dd4ac55253f5d67f6d?utm_campaign=1066&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 02 |
-| **[Tharp Consulting](https://www.linkedin.com/company/109378307)** | **[Information Technology/Data Analytics Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6ac0230b8ff3fb9b3bc7af2b?utm_campaign=1066&utm_source=git)** | Marysville, OH, United States | On Site | Oct 02 |
 | **[Centene Corporation](http://centene.com)** | **[Medical Economics Intern (Undergraduate - Summer 2027)](https://jobright.ai/jobs/info/6ac01364064da25272e0797b?utm_campaign=1066&utm_source=git)** | Missouri, United States | Remote | Oct 02 |
 | **[American Forest Management, Inc.](http://americanforestmanagement.com)** | **[2027 Resource Planning and Biometrics Intern](https://jobright.ai/jobs/info/6a9af60e2cdc5958f53e9a61?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Remote | Oct 02 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/6ac00678372c01f6cd72a2f0?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 02 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2027 Start Date)](https://jobright.ai/jobs/info/6abff4eb4ac55253f5d66b33?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 02 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 02 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6abfbdb48ff3fb9b3bc78967?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 02 |
-| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3e647422289703bd63f38?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3b801c5a856ac7e33b2db?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
 | **[GALLO](http://www.gallocareers.com)** | **[IT Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a82cbf02dbaf907b0764e65?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6abfe7b7372c01f6cd7296a5?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | Hybrid | Oct 02 |
 | ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6abfe7a94ac55253f5d6662e?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | Hybrid | Oct 02 |
