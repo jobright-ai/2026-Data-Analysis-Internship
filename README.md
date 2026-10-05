@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Propopia](www.propopia.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac314bc372c01f6cd730859?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 04 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac334e4064da25272e0df4e?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 04 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6ac3350b064da25272e0df57?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 04 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Data Scientist (Master's Degree) Internship](https://jobright.ai/jobs/info/6a8ca1de2f736c304f2a6ece?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 04 |
 | **[Google](https://www.google.com)** | **[Data Scientist, Product Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa7ff38930bff471a2a48e6?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 04 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 04 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 03 |
 | **[Notion](https://www.notion.com)** | **[Data Science Intern (Winter 2027)](https://jobright.ai/jobs/info/6a86304f74e02153f145b08f?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 03 |
 | **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 03 |
-| **[RoShay Services](https://www.linkedin.com/company/109419302)** | **[Information Technology/Data Analytics Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6ac17a3a372c01f6cd72d64f?utm_campaign=1066&utm_source=git)** | Marysville, OH, United States | On Site | Oct 03 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - Toronto)](https://jobright.ai/jobs/info/6aa45932c1928370a285d9f1?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 03 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Intern Trainee](https://jobright.ai/jobs/info/6aa4e49a42411952ff9a6005?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
 | ↳ | **[Bioinformatics Intern Trainee](https://jobright.ai/jobs/info/6aa4d9fd82e82a31997bafd7?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 03 |
@@ -143,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2027 Start Date)](https://jobright.ai/jobs/info/6abff4eb4ac55253f5d66b33?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 02 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 02 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6abfbdb48ff3fb9b3bc78967?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 02 |
-| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3e647422289703bd63f38?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
+| **[Smith Seckman Reid, Inc.](http://www.ssr-inc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6aa3b801c5a856ac7e33b2db?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Oct 02 |
 | **[GALLO](http://www.gallocareers.com)** | **[IT Data Analyst Internship 2027](https://jobright.ai/jobs/info/6a82cbf02dbaf907b0764e65?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | Hybrid | Oct 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 3](https://jobright.ai/jobs/info/6abfe7b7372c01f6cd7296a5?utm_campaign=1066&utm_source=git)** | Broomfield, CO, United States | Hybrid | Oct 02 |
 | ↳ | **[Technical Intern 3](https://jobright.ai/jobs/info/6abfe7a94ac55253f5d6662e?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | Hybrid | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](https://www.moodys.com)** | **[Analytics & Modeling Summer Intern](https://jobright.ai/jobs/info/6abf50ae4ac55253f5d649ee?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 02 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship - West Coast Remote](https://jobright.ai/jobs/info/6a71f606ee751e0c79345db3?utm_campaign=1066&utm_source=git)** | West Coast, United States | Remote | Oct 02 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa37ac9b47caa3aec72c42e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
-| ↳ | **[Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa380354233a2201a2b19fa?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
