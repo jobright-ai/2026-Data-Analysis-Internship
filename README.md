@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science & AI Innovation Postdoctoral Fellow](https://jobright.ai/jobs/info/6ab822aad7fde2c08ec8c5d9?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 03 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Solaria Labs Data Science Co-op (January - June 2027)](https://jobright.ai/jobs/info/6aa4a371c1928370a285ec45?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
