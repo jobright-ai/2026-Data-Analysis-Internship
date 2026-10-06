@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2027 Co-op Data Science & Computational Biology (Research)](https://jobright.ai/jobs/info/6ac47c3c4ac55253f5d72b7b?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 05 |
+| ↳ | **[2027 Co-op Data Analytics & Digital Tools (IOPS)](https://jobright.ai/jobs/info/6ac47c3a4ac55253f5d72b7a?utm_campaign=1066&utm_source=git)** | Rensselaer, NY, United States | On Site | Oct 05 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Data Sciences](https://jobright.ai/jobs/info/6a9fe4473586ed4b17f219d9?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | On Site | Oct 05 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6ac4106f372c01f6cd733ce5?utm_campaign=1066&utm_source=git)** | Remote City, CT, United States | Remote | Oct 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac41ce0372c01f6cd7340bb?utm_campaign=1066&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 05 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Business Intelligence and Automation Intern](https://jobright.ai/jobs/info/6ac42e7c4ac55253f5d715d4?utm_campaign=1066&utm_source=git)** | Katy, TX, United States | On Site | Oct 05 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2027 Data Science Summer Internship Program - Current Master's](https://jobright.ai/jobs/info/6ac3dc96064da25272e0fd4d?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 05 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IMM Computational Intern](https://jobright.ai/jobs/info/6ac419d50e027c0f3b3a9473?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States | Hybrid | Oct 05 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Data Scientist Intern - 2027](https://jobright.ai/jobs/info/6ac4178bd9621c5b2839fa02?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
-| **[Jain Global](https://www.jainglobal.com)** | **[Quant Research Intern, Systematic Trading](https://jobright.ai/jobs/info/6ac3cd38064da25272e0f65c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
+| **[Jain Global](https://www.jainglobal.com)** | **[Quant Research Intern, Systematic Trading](https://jobright.ai/jobs/info/6ac3d819064da25272e0fb90?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab17fc232552369083e28a9?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Oct 05 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2027 Summer Internship - MIS End User Analyst- Site Locations](https://jobright.ai/jobs/info/6aab0f3d40807b73bd393a45?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 05 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa486e61d92e2d05d115156?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PING](http://ping.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6aa491b1422289703bd6713e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6aa49232c1928370a285e7d0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 03 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 03 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 03 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 03 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science & AI Innovation Postdoctoral Fellow](https://jobright.ai/jobs/info/6ab822aad7fde2c08ec8c5d9?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 03 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Solaria Labs Data Science Co-op (January - June 2027)](https://jobright.ai/jobs/info/6aa4a371c1928370a285ec45?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 03 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Oct 03 |
-| **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 03 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aa47a77c1928370a285e18f?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
