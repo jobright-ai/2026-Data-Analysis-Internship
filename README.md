@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Tableau Analytics and Business Intelligence](https://jobright.ai/jobs/info/6aa9684909ae03adcacdd3b2?utm_campaign=1066&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 07 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 07 |
 | **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6a8c01474afae74a08351dfa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 07 |
 | **[Cisco](http://www.cisco.com)** | **[Splunk Solutions Engineer (Intern) - United States](https://jobright.ai/jobs/info/6ac65cdd0e027c0f3b3b20b0?utm_campaign=1066&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 07 |
 | **[Trove Brands](https://trovebrands.com)** | **[Data & Analytics Internships- Summer 2027](https://jobright.ai/jobs/info/6ac66a638ff3fb9b3bc8cf70?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Oct 07 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Propopia](www.propopia.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac660e4d9621c5b283a883d?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa95da028e24cb38513a037?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 07 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2027 - Bedford, MA](https://jobright.ai/jobs/info/6aa9bc6528e24cb38513bc90?utm_campaign=1066&utm_source=git)** | Bedford, MA, United States | Hybrid | Oct 07 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Governance, Visualization and Automation Intern](https://jobright.ai/jobs/info/6aa9c42228e24cb38513c03f?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa9660509ae03adcacdd2f0?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: MS Fraud & Risk Intern](https://jobright.ai/jobs/info/6aa82775930bff471a2a58aa?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 07 |
 | **[Google](https://www.google.com)** | **[Data Scientist, Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa80551654b2a9424cfa1ec?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 07 |
@@ -84,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[AltaGas Ltd.](http://altagas.ca/)** | **[2027 Data Analytics & AltaGas - 2027 Process Automation Co-op Student](https://jobright.ai/jobs/info/6ac57dbf064da25272e1749c?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 06 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 06 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Intern - Statistics](https://jobright.ai/jobs/info/6ac02876d9621c5b28396af5?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 06 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Summer 2027 Data Analytics Intern](https://jobright.ai/jobs/info/6ac680d80e027c0f3b3b2c1b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 06 |
+| **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Corporate Intelligence Analyst](https://jobright.ai/jobs/info/6ac6768e372c01f6cd73d43e?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Oct 06 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Intelligence Engineering Intern - Summer 2027](https://jobright.ai/jobs/info/6ac65d99d9621c5b283a8781?utm_campaign=1066&utm_source=git)** | Lansing, MI, United States | On Site | Oct 06 |
 | **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[TECO Spring 2027 Internship - ADI Data Intern](https://jobright.ai/jobs/info/6ab4056eef911c35dffa2c78?utm_campaign=1066&utm_source=git)** | Brandon, Florida, United States | On Site | Oct 06 |
@@ -97,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Oct 06 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 06 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa486e61d92e2d05d115156?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 06 |
-| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac53db5372c01f6cd7386b1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 06 |
+| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac54cc0d9621c5b283a489e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 06 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6ac544354ac55253f5d75880?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 06 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6ac55adc0e027c0f3b3ae88b?utm_campaign=1066&utm_source=git)** | Alaska, United States | Remote | Oct 06 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/6a8dfcabcc0cf27068526768?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6ac4106f372c01f6cd733ce5?utm_campaign=1066&utm_source=git)** | Remote City, CT, United States | Remote | Oct 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac41ce0372c01f6cd7340bb?utm_campaign=1066&utm_source=git)** | Alpharetta, GA, United States | On Site | Oct 05 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[Business Intelligence and Automation Intern](https://jobright.ai/jobs/info/6ac42e7c4ac55253f5d715d4?utm_campaign=1066&utm_source=git)** | Katy, TX, United States | On Site | Oct 05 |
-| **[UHS Physician Careers](https://www.uhsinc.com/careers/physician-career-opportunities/)** | **[Application Analyst Intern - Clinical Systems*](https://jobright.ai/jobs/info/6a9e447768f82b4036739802?utm_campaign=1066&utm_source=git)** | King of Prussia, PA, United States | On Site | Oct 05 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Sience internship](https://jobright.ai/jobs/info/6ac5341dd9621c5b283a3d7b?utm_campaign=1066&utm_source=git)** | Aguadilla, PR, United States | Hybrid | Oct 05 |
-| **[Danaher](https://www.danaher.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/6ac55b460e027c0f3b3ae8c8?utm_campaign=1066&utm_source=git)** | Brea, CA, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
