@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 08 |
+| **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Student, Data Analyst (Valuations)](https://jobright.ai/jobs/info/6aaaea82c85610f4a4842713?utm_campaign=1066&utm_source=git)** | Regina, SK, Canada | On Site | Oct 08 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6aad50682e757fcb5c8b7a6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Oct 08 |
 | ↳ | **[Quantum Data Scientist Intern - 2027](https://jobright.ai/jobs/info/6ab1457a23005eee354594d3?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 08 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Internship - 2027 (US)](https://jobright.ai/jobs/info/6ac6dfb10e027c0f3b3b4b5c?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 08 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 08 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2027 Quantitative Prediction Markets Research Summer Analyst](https://jobright.ai/jobs/info/6a7b79a2b933773d16be79ec?utm_campaign=1066&utm_source=git)** | Greenwich, CT, United States | On Site | Oct 08 |
 | ↳ | **[2027 Research and Portfolio Management Engineering Summer Analyst](https://jobright.ai/jobs/info/6a48a2b7c2d11a6a46674d8a?utm_campaign=1066&utm_source=git)** | Greenwich, CT, United States | On Site | Oct 08 |
 | **[IBM](http://www.ibm.com)** | **[Intern Data Specialist - AI & Analytics - 2027](https://jobright.ai/jobs/info/6a9e2d41a7ba386c5d670eae?utm_campaign=1066&utm_source=git)** | Baton Rouge, Louisiana, United States | Hybrid | Oct 08 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-Op Data Scientist 2027](https://jobright.ai/jobs/info/6a9e2506a7ba386c5d670e20?utm_campaign=1066&utm_source=git)** | University Park, PA, United States | On Site | Oct 08 |
 | ↳ | **[AI & Automation Data Scientist Intern (January 2027 - 4 Months - Toronto or Montreal)](https://jobright.ai/jobs/info/6a994f66f6de551aa0aaf422?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Markets - Summer Internship - Analyst - United States](https://jobright.ai/jobs/info/6ac7655333afc44bca0eb83f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
-| ↳ | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac7457f0e027c0f3b3b5c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | **[Dell Technologies](https://www.dell.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/6ac72cb68ff3fb9b3bc903cd?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Co-op Data Science & Computational Biology (Research)](https://jobright.ai/jobs/info/6ac71fbad9621c5b283abcb8?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 07 |
@@ -145,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 06 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa486e61d92e2d05d115156?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 06 |
-| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac54cc0d9621c5b283a489e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 06 |
+| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac53db5372c01f6cd7386b1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 06 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/6ac544354ac55253f5d75880?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | Hybrid | Oct 06 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/6ac55adc0e027c0f3b3ae88b?utm_campaign=1066&utm_source=git)** | Alaska, United States | Remote | Oct 06 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/6a8dfcabcc0cf27068526768?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 06 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Health informatics Intern](https://jobright.ai/jobs/info/6ac54a7b0e027c0f3b3ae1f1?utm_campaign=1066&utm_source=git)** | Alberta, Canada | Remote | Oct 06 |
 | **[Myers & Stauffer](https://myersandstauffer.com/)** | **[Analyst Intern - Kansas City, MO (Summer 2027)](https://jobright.ai/jobs/info/6a8c7516cde3717f9e9bd31a?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 06 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6aa020f9dbc0e60e37e0b921?utm_campaign=1066&utm_source=git)** | Wilmington, DE, United States | Hybrid | Oct 06 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa3a082c5a856ac7e33a88d?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa38e57c5a856ac7e33a063?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6ac4f92f372c01f6cd736d23?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 06 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Data Science](https://jobright.ai/jobs/info/6aa9676f3387a3d9b67d4ed2?utm_campaign=1066&utm_source=git)** | South Sioux City, NE, United States | On Site | Oct 06 |
-| **[ICD Portal](http://icdportal.com)** | **[Summer 2027 Data Management Internship](https://jobright.ai/jobs/info/6ac506b4064da25272e14493?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
