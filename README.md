@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac710cbd9621c5b283ab983?utm_campaign=1066&utm_source=git)** | De Forest, WI, United States | On Site | Oct 07 |
+| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://jobright.ai/jobs/info/6ac5a902372c01f6cd73aaf7?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 07 |
 | **[PDT Partners](https://www.pdtpartners.com/)** | **[Summer 2027 Quantitative Research Intern](https://jobright.ai/jobs/info/6ac6a8fa064da25272e1bad7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Tableau Research](https://jobright.ai/jobs/info/6ac6f2334ac55253f5d7ca84?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 07 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Tableau Research](https://jobright.ai/jobs/info/6ac6f4a14ac55253f5d7cace?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 07 |
 | **[Apple Bank](https://www.applebank.com)** | **[2027 Summer Intern- IT Data, Analytics, & Automation](https://jobright.ai/jobs/info/6ac6bb398ff3fb9b3bc8ecd5?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[2027 Corporate Intern - Business Data Reporting Analyst](https://jobright.ai/jobs/info/6ac6cf71372c01f6cd73f54d?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Knowledge Management Data Analyst Intern](https://jobright.ai/jobs/info/6abec872372c01f6cd725c6e?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 07 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Health informatics Intern](https://jobright.ai/jobs/info/6ac54a7b0e027c0f3b3ae1f1?utm_campaign=1066&utm_source=git)** | Alberta, Canada | Remote | Oct 06 |
 | **[Myers & Stauffer](https://myersandstauffer.com/)** | **[Analyst Intern - Kansas City, MO (Summer 2027)](https://jobright.ai/jobs/info/6a8c7516cde3717f9e9bd31a?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 06 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6aa020f9dbc0e60e37e0b921?utm_campaign=1066&utm_source=git)** | Wilmington, DE, United States | Hybrid | Oct 06 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa38e57c5a856ac7e33a063?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Business Intelligence Professional - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa3a082c5a856ac7e33a88d?utm_campaign=1066&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Oct 06 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Epidemiology / Biostatistics](https://jobright.ai/jobs/info/6ac4f92f372c01f6cd736d23?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 06 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Data Science](https://jobright.ai/jobs/info/6aa9676f3387a3d9b67d4ed2?utm_campaign=1066&utm_source=git)** | South Sioux City, NE, United States | On Site | Oct 06 |
 | **[ICD Portal](http://icdportal.com)** | **[Summer 2027 Data Management Internship](https://jobright.ai/jobs/info/6ac506b4064da25272e14493?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ab29b0778c69ff506c3f2d0?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 06 |
 | **[Point72](https://www.point72.com)** | **[Summer 2027 Quantitative Research Internship](https://jobright.ai/jobs/info/6a51f30a78e364789ca5ed0f?utm_campaign=1066&utm_source=git)** | New York | On Site | Oct 06 |
 | **[Ergon Inc.](http://ergon.com)** | **[Data Analytics Intern - Energy & Specialty Solutions (E&SS)](https://jobright.ai/jobs/info/6aa86c6c82e82a31997c5d7b?utm_campaign=1066&utm_source=git)** | Flowood, MS, United States | Remote | Oct 06 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[AI & Data Analytics Intern -  Supply Resilience 2027 internship](https://jobright.ai/jobs/info/6aa862f4a77a53f5a15792f8?utm_campaign=1066&utm_source=git)** | Greater Chicago Area, United States | On Site | Oct 06 |
-| **[Procter & Gamble](https://us.pg.com)** | **[Data Scientist (Master's Degree) Internship](https://jobright.ai/jobs/info/6a8ca1de2f736c304f2a6ece?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
