@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Internship in Data Management and Digitalization (International Student)](https://jobright.ai/jobs/info/6ab5c062634ec6aa7c0d1174?utm_campaign=1066&utm_source=git)** | Vance, AL, United States | On Site | Oct 08 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6ac8305dfe8f33a85d4ff6ce?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/6ac7e8950e573df8adc750ca?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 08 |
@@ -106,15 +107,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI & Automation Data Scientist Intern (January 2027 - 4 Months - Toronto or Montreal)](https://jobright.ai/jobs/info/6a994f66f6de551aa0aaf422?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Markets - Summer Internship - Associate- United States](https://jobright.ai/jobs/info/6a72f9a3f2974919f967abbe?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[2027 Quantitative Research - Markets - Summer Internship - Analyst - United States](https://jobright.ai/jobs/info/6ac7655333afc44bca0eb83f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| ↳ | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac7457f0e027c0f3b3b5c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | **[Dell Technologies](https://www.dell.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/6ac72cb68ff3fb9b3bc903cd?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Co-op Data Science & Computational Biology (Research)](https://jobright.ai/jobs/info/6ac71fbad9621c5b283abcb8?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 07 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac710cbd9621c5b283ab983?utm_campaign=1066&utm_source=git)** | De Forest, WI, United States | On Site | Oct 07 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://jobright.ai/jobs/info/6ac5a902372c01f6cd73aaf7?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 07 |
 | **[PDT Partners](https://www.pdtpartners.com/)** | **[Summer 2027 Quantitative Research Intern](https://jobright.ai/jobs/info/6ac6a8fa064da25272e1bad7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Tableau Research](https://jobright.ai/jobs/info/6ac6f4a14ac55253f5d7cace?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 07 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Tableau Research](https://jobright.ai/jobs/info/6ac6f2334ac55253f5d7ca84?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 07 |
 | **[Apple Bank](https://www.applebank.com)** | **[2027 Summer Intern- IT Data, Analytics, & Automation](https://jobright.ai/jobs/info/6ac6bb398ff3fb9b3bc8ecd5?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[2027 Corporate Intern - Business Data Reporting Analyst](https://jobright.ai/jobs/info/6ac6cf71372c01f6cd73f54d?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Knowledge Management Data Analyst Intern](https://jobright.ai/jobs/info/6abec872372c01f6cd725c6e?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Data Scientist, Winter 2027](https://jobright.ai/jobs/info/6aa9b1d810b1cd4f416070f4?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 07 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/6aa51fcd42411952ff9a72f5?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 07 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ac538d4372c01f6cd7384d5?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 07 |
-| **[Leidos](https://www.leidos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ac561bf4ac55253f5d766aa?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
