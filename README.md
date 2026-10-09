@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Pricing & Data Analyst Internship](https://jobright.ai/jobs/info/6aa3f437c1928370a285b95e?utm_campaign=1066&utm_source=git)** | Greene, NY, United States | Hybrid | Oct 08 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 08 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Intern](https://jobright.ai/jobs/info/6ac8025d51a1b3e4219efea4?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, People Products (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ac6c194064da25272e1c2bf?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 08 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[EPA Internship: Mode-of-Action Inference from High-Throughput Transcriptomics and Phenotypic Profiling Data](https://jobright.ai/jobs/info/6ac80011fe8f33a85d4fe781?utm_campaign=1066&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 08 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/6ac7cb42a444ac5d36f85c7b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 08 |
-| **[Enervexa PowerLabs](enervexapowerlabs.com)** | **[Computational Science Intern](https://jobright.ai/jobs/info/6ac7d900fcdafb60c6a4632c?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | On Site | Oct 08 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/6a973aea455eaf6a08c1b846?utm_campaign=1066&utm_source=git)** | Bel Air, MD, United States | On Site | Oct 08 |
 | **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab108ec85610f4a4843647?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 08 |
 | **[Roblox](https://corp.roblox.com)** | **[[2027] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/6ac7bfebfcdafb60c6a457e2?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Oct 08 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI & Automation Data Scientist Intern (January 2027 - 4 Months - Toronto or Montreal)](https://jobright.ai/jobs/info/6a994f66f6de551aa0aaf422?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Markets - Summer Internship - Associate- United States](https://jobright.ai/jobs/info/6a72f9a3f2974919f967abbe?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
 | ↳ | **[2027 Quantitative Research - Markets - Summer Internship - Analyst - United States](https://jobright.ai/jobs/info/6ac7655333afc44bca0eb83f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
-| ↳ | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Data Analyst NCG](https://jobright.ai/jobs/info/6ac74580316e89f61e8af3d2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ac745800e027c0f3b3b5c41?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ac7457f0e027c0f3b3b5c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 08 |
 | **[Dell Technologies](https://www.dell.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/6ac72cb68ff3fb9b3bc903cd?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 07 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Co-op Data Science & Computational Biology (Research)](https://jobright.ai/jobs/info/6ac71fbad9621c5b283abcb8?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 07 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Moderna](http://www.modernatx.com)** | **[Co-Op, Clinical Biomarker Biostatistics](https://jobright.ai/jobs/info/6ac6c1a7d9621c5b283aa93f?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 07 |
 | **[Elevate](https://www.oneelevate.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ac6c1f9d9621c5b283aa95a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6a5038ff3fb9b3bc8e541?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
-| ↳ | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6ac6a51b064da25272e1b969?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | ↳ | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6aa8b2baeff87f571fc973f6?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
+| ↳ | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6ac6a51b064da25272e1b969?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Penta Group](https://pentagroup.com)** | **[Monitoring & Insights Internship](https://jobright.ai/jobs/info/6ac69e734ac55253f5d7b3ae?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Nassau Financial Group](https://nfg.com)** | **[Intern - IT Data Analytics](https://jobright.ai/jobs/info/6ac686894ac55253f5d7a979?utm_campaign=1066&utm_source=git)** | Albany, NY, United States | On Site | Oct 07 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Corporate Intelligence Analyst](https://jobright.ai/jobs/info/6ac6768e372c01f6cd73d43e?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Oct 07 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Field Trips Data Intern](https://jobright.ai/jobs/info/6ac5f520064da25272e18bb5?utm_campaign=1066&utm_source=git)** | St. Paul, MN, United States | On Site | Oct 07 |
 | **[CARE](http://www.care.org/)** | **[INTERN, FARMER FIELD AND BUSINESS SCHOOL](https://jobright.ai/jobs/info/6ac5e9db064da25272e18b38?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2027 Student Internship - ADI Data Analysis](https://jobright.ai/jobs/info/6ab4056eef911c35dffa2c78?utm_campaign=1066&utm_source=git)** | Brandon, Florida, United States | On Site | Oct 06 |
-| **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6f0108ff3fb9b3bc8f9de?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 06 |
+| **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6f00f4ac55253f5d7c9eb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 06 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac727340e027c0f3b3b581c?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
