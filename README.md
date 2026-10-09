@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BTG Pactual](http://www.btgpactual.com)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/6ac8255ffcdafb60c6a47d86?utm_campaign=1066&utm_source=git)** | Lufkin, TX, United States | On Site | Oct 08 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Super Day - Data Science Internship](https://jobright.ai/jobs/info/6ac7ddebfe8f33a85d4fdbf6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 08 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Pricing & Data Analyst Internship](https://jobright.ai/jobs/info/6aa3f437c1928370a285b95e?utm_campaign=1066&utm_source=git)** | Greene, NY, United States | Hybrid | Oct 08 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Data Scientist Intern - QuantumBlack, AI by McKinsey](https://jobright.ai/jobs/info/6ab667594873fd3fd852d2ae?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 08 |
 | **[StrategyCorp](https://strategycorp.com)** | **[Intern](https://jobright.ai/jobs/info/6ac8025d51a1b3e4219efea4?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, People Products (Winter/Spring 2027)](https://jobright.ai/jobs/info/6ac6c194064da25272e1c2bf?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa486e61d92e2d05d115156?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 08 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Intern:: Data Science III](https://jobright.ai/jobs/info/6abbf057d6acfd3dd29fadc8?utm_campaign=1066&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 08 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Super Day - Data Science Internship](https://jobright.ai/jobs/info/6ac7ddebfe8f33a85d4fdbf6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 08 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Data Intern](https://jobright.ai/jobs/info/6ac7bbeca444ac5d36f85612?utm_campaign=1066&utm_source=git)** | Albany, NY, United States | Hybrid | Oct 08 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Intern - Columbus, OH](https://jobright.ai/jobs/info/6ac7e05351a1b3e4219ef246?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Oct 08 |
 | **[Wing](https://www.wing.com)** | **[Data Scientist Intern, Summer 2027](https://jobright.ai/jobs/info/6ac7f208a444ac5d36f86c19?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 08 |
@@ -78,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/6ac7cb42a444ac5d36f85c7b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 08 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/6a973aea455eaf6a08c1b846?utm_campaign=1066&utm_source=git)** | Bel Air, MD, United States | On Site | Oct 08 |
-| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab108ec85610f4a4843647?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 08 |
+| **[LCS](https://www.lcsnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aab194976707040fb084281?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 08 |
 | **[Roblox](https://corp.roblox.com)** | **[[2027] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/6ac7bfebfcdafb60c6a457e2?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Oct 08 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Data Science Internship - Atlanta, GA (Summer 2027)](https://jobright.ai/jobs/info/6ac7cf56fe8f33a85d4fd4a8?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 08 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Student, Data Analyst (Valuations)](https://jobright.ai/jobs/info/6aaaea82c85610f4a4842713?utm_campaign=1066&utm_source=git)** | Regina, SK, Canada | On Site | Oct 08 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Knowledge Management Data Analyst Intern](https://jobright.ai/jobs/info/6abec872372c01f6cd725c6e?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 07 |
 | **[USAA](https://www.usaa.com)** | **[Future Leaders Program - Data Intern](https://jobright.ai/jobs/info/6ac7ca13a444ac5d36f85bf0?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 07 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[National and Regional Carflow Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac7bd6ffe8f33a85d4fcd33?utm_campaign=1066&utm_source=git)** | Franklin, TN, United States | On Site | Oct 07 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - GRIT](https://jobright.ai/jobs/info/6ac82584a444ac5d36f87e10?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 07 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6abbfb53d6acfd3dd29fb394?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | On Site | Oct 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[SCS Commercial Intern - :  AI Data Mining Agent](https://jobright.ai/jobs/info/6ac690dc0e027c0f3b3b3192?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 07 |
 | **[ICF](https://www.icf.com)** | **[2027 Summer Intern, Data Analytics (Reston, VA or Remote)](https://jobright.ai/jobs/info/6ac6938a8ff3fb9b3bc8def3?utm_campaign=1066&utm_source=git)** | Reston, VA, United States | Remote | Oct 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - Field Trips Data Intern](https://jobright.ai/jobs/info/6ac5f520064da25272e18bb5?utm_campaign=1066&utm_source=git)** | St. Paul, MN, United States | On Site | Oct 07 |
 | **[CARE](http://www.care.org/)** | **[INTERN, FARMER FIELD AND BUSINESS SCHOOL](https://jobright.ai/jobs/info/6ac5e9db064da25272e18b38?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2027 Student Internship - ADI Data Analysis](https://jobright.ai/jobs/info/6ab4056eef911c35dffa2c78?utm_campaign=1066&utm_source=git)** | Brandon, Florida, United States | On Site | Oct 06 |
-| **[News Corp](https://newscorp.com/)** | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6f00f4ac55253f5d7c9eb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 06 |
-| **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac727340e027c0f3b3b581c?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
