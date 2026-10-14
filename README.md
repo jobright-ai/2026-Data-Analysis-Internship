@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6aceedb4680c80c8753bf37d?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Oct 13 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Fuel Pricing Data Scientist Intern](https://jobright.ai/jobs/info/6aceedb4680c80c8753bf37d?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Oct 14 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6acf13564391691a335af766?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IDAR Summer Intern (EASE)](https://jobright.ai/jobs/info/6acefa174f3229123da3eb95?utm_campaign=1066&utm_source=git)** | Titusville, NJ, United States | Hybrid | Oct 13 |
 | **[Expatiate Communications](https://excomweb.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ace9919ba99f15ef4125e48?utm_campaign=1066&utm_source=git)** | Pasadena, CA, United States | On Site | Oct 13 |
@@ -120,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6ace049bee9da536dc21b81d?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 13 |
 | **[Epic Games](https://epicgames.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ab1c439191d8c340dbdcc70?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 13 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Intern (Summer 2027)](https://jobright.ai/jobs/info/6acdfb20ab6cf97cf137ba81?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 13 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Catastrophe Modeling & GIS Research Co-op (January - June 2027)](https://jobright.ai/jobs/info/6acdfa46ee9da536dc21b75b?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)](https://jobright.ai/jobs/info/6acdfa4630e54149b59cbb23?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
+| ↳ | **[Catastrophe Modeling & GIS Research Co-op (January - June 2027)](https://jobright.ai/jobs/info/6acdfa46ee9da536dc21b75b?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | ↳ | **[2027 Data Science Summer Internship Program - Current Master's](https://jobright.ai/jobs/info/6acdfa46ab6cf97cf137ba6e?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
-| ↳ | **[Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)](https://jobright.ai/jobs/info/6acdfa4630e54149b59cbb23?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 13 |
 | **[New Mountain Capital](http://www.newmountaincapital.com)** | **[Intern, Credit Data & Analytics](https://jobright.ai/jobs/info/6acdf91730e54149b59cbaf5?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4db6ff4c6c9f7a619f87d4?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 12 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6acd95963c831dc4086c2bab?utm_campaign=1066&utm_source=git)** | Louisville, CO, United States | On Site | Oct 12 |
