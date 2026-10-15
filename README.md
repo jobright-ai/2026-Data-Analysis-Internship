@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Moody's Corporation](https://www.moodys.com)** | **[Data Strategy Summer Intern](https://jobright.ai/jobs/info/6ad04b08c8ae22bb47ef6906?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[Cystic Fibrosis Foundation](https://www.cff.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ad02a8378d51ae69ce09e9a?utm_campaign=1066&utm_source=git)** | Bethesda, MD, United States | Hybrid | Oct 14 |
+| **[Moody's Corporation](https://www.moodys.com)** | **[Data Strategy Summer Intern](https://jobright.ai/jobs/info/6ad04b08c8ae22bb47ef6906?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Spring 2026](https://jobright.ai/jobs/info/6ad0143112303667b98a1e11?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 14 |
 | **[Qishi Club](https://www.qishicpc.com)** | **[GenAI Research Intern](https://jobright.ai/jobs/info/6ad037822cc4e9d17e90c790?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | On Site | Oct 14 |
 | **[MetOx International](http://www.metoxtech.com)** | **[Data Science Co-Op/Intern (Spring/Summer 2027)](https://jobright.ai/jobs/info/6acfe78512303667b98a0eec?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 14 |
@@ -100,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Data Governance Intern](https://jobright.ai/jobs/info/6aa8144d3a9f0a4fe6f17072?utm_campaign=1066&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 14 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/6ab2fdd38254c44790e5898d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 14 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2027)](https://jobright.ai/jobs/info/6a95c32dcabc9f6703e19b03?utm_campaign=1066&utm_source=git)** | Redwood City, CA, United States | On Site | Oct 14 |
-| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: IT Analytics Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957f84dfb52f4cf300f7ca?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 14 |
+| **[PepsiCo](http://www.pepsico.com)** | **[PepsiCo Canada: IT Analytics Winter 2027 Co-op](https://jobright.ai/jobs/info/6a957dfc0924ae4764cadc2b?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 14 |
 | **[The Brattle Group](http://www.brattle.com)** | **[Research Associate Intern](https://jobright.ai/jobs/info/6acf8340fe7a9bd5a6b98651?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 14 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a96264ff28891320e8608ff?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 14 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a9627443843db0159909dea?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Oct 14 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Enterprise Intelligence Intern](https://jobright.ai/jobs/info/6a974552246d697dcee04983?utm_campaign=1066&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 14 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data Science Intern - Summer 2027 - Smyrna, TN](https://jobright.ai/jobs/info/6acd57b9a56e5406e57c0e61?utm_campaign=1066&utm_source=git)** | Smyrna, TN, United States | On Site | Oct 14 |
 | ↳ | **[Data Science Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6acd1e16ddd23cce28a10b91?utm_campaign=1066&utm_source=git)** | Franklin, TN, United States | On Site | Oct 14 |
@@ -115,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e9262f29acc1a11748797?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 14 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a75864e7b3417772ade492e?utm_campaign=1066&utm_source=git)** | Doylestown, PA, United States | On Site | Oct 14 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c7f8fa2f3ec32a8d83?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Oct 14 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 14 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7a2c47820c036924d7821?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 14 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5363b48576ec69c014f983?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 14 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18dc3b399d106e4d4548?utm_campaign=1066&utm_source=git)** | Blue Bell, PA, United States | On Site | Oct 14 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a723bcdcb96192a3684cdb5?utm_campaign=1066&utm_source=git)** | Allentown, PA, United States | On Site | Oct 14 |
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate - PEY Intern](https://jobright.ai/jobs/info/6acfe8f0c0dd9da253cf5469?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 14 |
