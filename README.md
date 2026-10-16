@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c5ccbf92c7bcd36df20?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 15 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP 2027 Summer Internship; Causal Inference (Master's/Phd)](https://jobright.ai/jobs/info/6ad1b683b4df11f9224ef6e6?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Oct 15 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Oct 15 |
 | **[SAS](http://www.sas.com)** | **[JMP 2027 Summer Internship; Causal Inference (Master's/Phd)](https://jobright.ai/jobs/info/6ad1993b09182f49edf4c8d7?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Oct 15 |
@@ -127,9 +128,9 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.toro.com.au/)** | **[IBP ISC Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/6ace5f4c4f3229123da3baa3?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 15 |
 | **[Merrick & Company](http://www.merrick.com)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/6a9881addd171c7285792972?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 15 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a974102b22f636c81416f8f?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Oct 15 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 15 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a51b39dae4052672fe9939d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7ddc03aa0c4796439c30d?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Oct 15 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a51b39dae4052672fe9939d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 15 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb1?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 15 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18d9b933773d16be5384?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 14 |
 | **[JEA](https://www.jea.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/6ad0658752a37835d5e3fdec?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 14 |
 | **[DO & CO AG](http://www.doco.com/en/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ad0f531e2d41540d4a6cc93?utm_campaign=1066&utm_source=git)** | Jamaica, New York, United States | On Site | Oct 14 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Notion](https://www.notion.com)** | **[Data Science Intern (Winter 2027)](https://jobright.ai/jobs/info/6a86304f74e02153f145b08f?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 14 |
 | **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6a7a309bb17cba5690365d44?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[2027 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/6ab2e0ce326574570a0038d5?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 14 |
-| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Oct 14 |
-| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Oct 14 |
-| **[Insperity](http://www.insperity.com)** | **[Rotational Data Analytics Intern](https://jobright.ai/jobs/info/6acec196680c80c8753be916?utm_campaign=1066&utm_source=git)** | Kingwood, TX, United States | On Site | Oct 14 |
+| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Oct 14 |
+| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
