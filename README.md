@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L.E.K. Consulting](http://www.lek.com)** | **[Summer DDA Associate - 2027](https://jobright.ai/jobs/info/6ab70ea881e327c4bf2024a4?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 17 |
 | **[Perry Homes](https://www.perryhomes.com)** | **[2027 Summer Internship - Estimating Analyst](https://jobright.ai/jobs/info/6a9ad770d5ff1f3f1c39b6fb?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 17 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Oct 17 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/6a9b74af9c24314c35f9945f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 17 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Commercial Analytics](https://jobright.ai/jobs/info/6ab5e8de634ec6aa7c0d184a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Associate Data Analyst (Customer Operations)](https://jobright.ai/jobs/info/6ad34079810010ec72f5b60c?utm_campaign=1066&utm_source=git)** | Stamford, CT, United States | On Site | Oct 17 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, UG/MS (Intern)](https://jobright.ai/jobs/info/6a4ec9b51544d7246c0d434b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 17 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 17 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a084e233b54ed42d74d6142?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 17 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a5537952084cd792b477001?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 17 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a53eec38a74e077472fa101?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6a084e233b54ed42d74d6142?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 17 |
 | **[Linea Energy](https://www.lineaenergy.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6ad240f0f04335fc70ed3fd5?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 17 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Oct 16 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 16 |
@@ -120,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Ecosystem Analyst Intern (TikTok Live) - 2027 Summer](https://jobright.ai/jobs/info/6a983c2811f73b6462c8d5a7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 16 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Data Analyst Intern, Summer 2027](https://jobright.ai/jobs/info/6a984785af954907d6572506?utm_campaign=1066&utm_source=git)** | Waller, TX, United States | On Site | Oct 16 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 16 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a59ea99686b4755d1e124be?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a50de6201740136c2142053?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 16 |
+| ↳ | **[Quantitative Research Intern, PhD (Summer 2027)](https://jobright.ai/jobs/info/6a4572ac3dbab558e29a149a?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 16 |
 | **[Wurl](http://www.wurl.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ab5171bd85922de20cdf517?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7de0e58811370cb11edb6?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Oct 16 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/69e7ddcd0a6e09555302c9b9?utm_campaign=1066&utm_source=git)** | Bala Cynwyd (Philadelphia Area), PA, US | On Site | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Data Intern](https://jobright.ai/jobs/info/6ad1382e256e49282e653898?utm_campaign=1066&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 15 |
 | **[Rodan Energy Solutions Inc.](http://rodanenergy.com)** | **[Data Science - Co-op Student (Winter 2027)](https://jobright.ai/jobs/info/6abec4950e027c0f3b39ac1c?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | On Site | Oct 15 |
 | **[Pasa Sustainable Agriculture](https://pasafarming.org)** | **[Farm Data Intern](https://jobright.ai/jobs/info/6ad138dae2d41540d4a6f241?utm_campaign=1066&utm_source=git)** | Harrisburg, PA, United States | Hybrid | Oct 15 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Underwriting Research Intern, Summer 2027](https://jobright.ai/jobs/info/6ad1186a18608b6f36f81665?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
