@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Systems Planning & Analysis](http://www.spa.com)** | **[Hiring our Heroes Skillbridge  - Data Scientist](https://jobright.ai/jobs/info/6a9e222e68f82b4036738bcd?utm_campaign=1066&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 20 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6abad3421acb8fc6f09c1c11?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 20 |
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6abac8a6be5f1e93251174d0?utm_campaign=1066&utm_source=git)** | Folsom, NJ, United States | Hybrid | Oct 20 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Claims - Data Analytics](https://jobright.ai/jobs/info/6ad791ff52aa6152bb69cccf?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Oct 20 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Business Analytics](https://jobright.ai/jobs/info/6ad683de67bec1d0d9c6fde6?utm_campaign=1066&utm_source=git)** | Holtsville, NY, United States | Hybrid | Oct 19 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Business Intelligence & Analytics Internship- Summer 2027](https://jobright.ai/jobs/info/6ad6b8f8950ef68d5183c731?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Oct 19 |
 | **[The Hartford](https://www.thehartford.com)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ad76c29950ef68d5183fd4d?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 19 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Field Service Data Analyst Intern](https://jobright.ai/jobs/info/6ad79a7b67bec1d0d9c76e40?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 19 |
 | **[Genmab](https://www.genmab.com)** | **[US CORE Graduate Intern](https://jobright.ai/jobs/info/6ad6633567bec1d0d9c6e5b5?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Oct 19 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate II Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/6a96e44ee4e60e4b8da5a8fe?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
 | ↳ | **[Campus Graduate I Summer Internship Program - 2027 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/6a996774551435518ebee272?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graviton Research Capital](https://www.gravitontrading.com/)** | **[Quantitative Researcher - 2027 Summer Internship](https://jobright.ai/jobs/info/6ad5e516950ef68d51833745?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | ↳ | **[Quantitative Researcher PhD - 2027 Internship](https://jobright.ai/jobs/info/6ad5e3a6e4b94611ab838433?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Summer 2027 Internship - Data Science - Remote](https://jobright.ai/jobs/info/6a97441cb22f636c814170c4?utm_campaign=1066&utm_source=git)** | Florida, United States | Remote | Oct 19 |
-| **[Virtu Financial](https://www.virtu.com/)** | **[2027 Internship - Quantitative Researcher (PhD)](https://jobright.ai/jobs/info/6a62c7d8426d415f66360688?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6ad5d0cdb0d1ea25e9f7a67a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
