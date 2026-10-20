@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science - Forward Deployed Engineer: PhD Internship Opportunities](https://jobright.ai/jobs/info/6ad7213b54bbabbab06fcd45?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 20 |
+| **[Budget Rent A Car of Utah](https://www.budgetutah.com)** | **[AI Project Intern – Revenue Management & Data Analytics](https://jobright.ai/jobs/info/6ad65a6f54bbabbab06f73ac?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 20 |
 | **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - Technology and Data Intern](https://jobright.ai/jobs/info/6ad6819be4b94611ab83f8ea?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | ↳ | **[Undergraduate - Data & Analytics Intern](https://jobright.ai/jobs/info/6ad6819f950ef68d5183aa9f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Summer 2027 Data Science Intern](https://jobright.ai/jobs/info/6a762287bb6ca93ae56111cd?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 19 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Patient Data Insights Intern](https://jobright.ai/jobs/info/6ad6a26b3dc655658d8e81c2?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Oct 19 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b5?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 19 |
 | **[Ciena](http://www.ciena.com)** | **[Services Business Intelligence & Analytics Intern](https://jobright.ai/jobs/info/6ad652ca52aa6152bb693e85?utm_campaign=1066&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 19 |
-| **[Budget Rent A Car of Utah](https://www.budgetutah.com)** | **[AI Project Intern – Revenue Management & Data Analytics](https://jobright.ai/jobs/info/6ad65a6f54bbabbab06f73ac?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 19 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Behavior Post-training](https://jobright.ai/jobs/info/6ad63e4d67bec1d0d9c6c682?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2027 Summer](https://jobright.ai/jobs/info/6a72f51b6ffeee418e5b7eac?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, PhD (Intern)](https://jobright.ai/jobs/info/6a4ec9c39469c0662034cac8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 17 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC)](https://jobright.ai/jobs/info/6ad3b44f25289a0b3bf5b3bd?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
-| **[Craftwater](https://www.craftwater.com/)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6aa49533c1928370a285e8de?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
