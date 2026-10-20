@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Summer 2027 Data Science Intern](https://jobright.ai/jobs/info/6a762287bb6ca93ae56111cd?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 19 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Business Intelligence Developer (Spring 2027) Job Details / Volvo Group](https://jobright.ai/jobs/info/6ad6f16f67bec1d0d9c72bad?utm_campaign=1066&utm_source=git)** | Dublin, Virginia, United States | On Site | Oct 19 |
 | **[Flagship Pioneering](http://flagshippioneering.com)** | **[Metaphore: Data Science Co-Op](https://jobright.ai/jobs/info/6ab1d9a3f9692ca98b04c029?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 19 |
 | **[Figma](https://www.figma.com)** | **[PhD Intern, Data Science (2027)](https://jobright.ai/jobs/info/6ab1d1f0f9692ca98b04beb6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 19 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Data Visualization)](https://jobright.ai/jobs/info/6ad53290810010ec72f5fd4c?utm_campaign=1066&utm_source=git)** | Fremont, MI, United States | Hybrid | Oct 18 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Intelligence Developer (Spring 2027)](https://jobright.ai/jobs/info/6ad6485d54bbabbab06f633b?utm_campaign=1066&utm_source=git)** | Dublin, Virginia, United States | On Site | Oct 18 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2027 TFS Data Science Internship](https://jobright.ai/jobs/info/6ad69a6052aa6152bb69713b?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Oct 18 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - Technology and Data Intern](https://jobright.ai/jobs/info/6ad6819be4b94611ab83f8ea?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 18 |
-| ↳ | **[Undergraduate - Data & Analytics Intern](https://jobright.ai/jobs/info/6ad6819f950ef68d5183aa9f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 18 |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Data & Analytics Intern](https://jobright.ai/jobs/info/6ad6819f950ef68d5183aa9f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 18 |
+| ↳ | **[Graduate - Technology and Data Intern](https://jobright.ai/jobs/info/6ad6819be4b94611ab83f8ea?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 18 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/6ad66f00e4b94611ab83eaf4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Oct 18 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Warranty Data Analyst Intern](https://jobright.ai/jobs/info/6ad6815354bbabbab06f8f73?utm_campaign=1066&utm_source=git)** | Renton, WA, United States | On Site | Oct 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Data Science Co-Op , Summer 2027](https://jobright.ai/jobs/info/6ad5ab3fc4290cef14133d68?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jump Trading](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher, PhD (Intern)](https://jobright.ai/jobs/info/6a4ec9c39469c0662034cac8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 17 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Procurement Data & Analytics Intern (Raleigh, NC)](https://jobright.ai/jobs/info/6ad3b44f25289a0b3bf5b3bd?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 17 |
 | **[Craftwater](https://www.craftwater.com/)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6aa49533c1928370a285e8de?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 17 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ac14567372c01f6cd72d2ac?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
