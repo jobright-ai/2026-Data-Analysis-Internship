@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible](https://jobright.ai/jobs/info/6acd1350ddd23cce28a107d9?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 20 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6aba8bac7220f52e62ae6cc6?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
+| **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/6ad66f00e4b94611ab83eaf4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Oct 20 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2027 Intern - Data Science / Biostatistician](https://jobright.ai/jobs/info/6aba8135ad8589219ef7d955?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 20 |
 | ↳ | **[2027 Summer Intern - Data Analytics, HEDIS](https://jobright.ai/jobs/info/6aba8132d2914e9273eeba08?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 20 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Intern, Predictive Insights - Real-time Monitoring & Analytics](https://jobright.ai/jobs/info/6abb05e4ee0b348be729c838?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | Hybrid | Oct 20 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Data Visualization)](https://jobright.ai/jobs/info/6ad53290810010ec72f5fd4c?utm_campaign=1066&utm_source=git)** | Fremont, MI, United States | Hybrid | Oct 18 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Intelligence Developer (Spring 2027)](https://jobright.ai/jobs/info/6ad6485d54bbabbab06f633b?utm_campaign=1066&utm_source=git)** | Dublin, Virginia, United States | On Site | Oct 18 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[2027 TFS Data Science Internship](https://jobright.ai/jobs/info/6ad69a6052aa6152bb69713b?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Oct 18 |
-| **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/6ad66f00e4b94611ab83eaf4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Oct 18 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Warranty Data Analyst Intern](https://jobright.ai/jobs/info/6ad6815354bbabbab06f8f73?utm_campaign=1066&utm_source=git)** | Renton, WA, United States | On Site | Oct 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Data Science Co-Op , Summer 2027](https://jobright.ai/jobs/info/6ad5ab3fc4290cef14133d68?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 18 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Patient Data Insights Intern](https://jobright.ai/jobs/info/6ad66dc154bbabbab06f8155?utm_campaign=1066&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Aircraft Software Integration Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9b20891388387060596b8f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Planning Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7f62c4ad9ff00c26bade11?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Oct 18 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Intern / Data Science](https://jobright.ai/jobs/info/6aa9676f3387a3d9b67d4ed2?utm_campaign=1066&utm_source=git)** | South Sioux City, NE, United States | On Site | Oct 18 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9a5d36d0edc2d91b0a823?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 18 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2026](https://jobright.ai/jobs/info/6a96696b455eaf6a08c17354?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
