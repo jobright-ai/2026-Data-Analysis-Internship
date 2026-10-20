@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flagship Pioneering](http://flagshippioneering.com)** | **[Metaphore: Data Science Co-Op](https://jobright.ai/jobs/info/6ab1d9a3f9692ca98b04c029?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 19 |
+| **[Figma](https://www.figma.com)** | **[PhD Intern, Data Science (2027)](https://jobright.ai/jobs/info/6ab1d1f0f9692ca98b04beb6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 19 |
 | **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Summer 2027 Intern - Data Analyst - Aftermarket](https://jobright.ai/jobs/info/6ad682b667bec1d0d9c6fcd1?utm_campaign=1066&utm_source=git)** | Shady Grove, PA, United States | On Site | Oct 19 |
 | **[Casey's](https://www.caseys.com/)** | **[Data & Analytics Internship- Summer 2027](https://jobright.ai/jobs/info/6a99a6188a8b765bc55f48e8?utm_campaign=1066&utm_source=git)** | Ankeny, IA, United States | On Site | Oct 19 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Business Analytics](https://jobright.ai/jobs/info/6ad683de67bec1d0d9c6fde6?utm_campaign=1066&utm_source=git)** | Holtsville, NY, United States | Hybrid | Oct 19 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Behavior Post-training](https://jobright.ai/jobs/info/6ad63e4d67bec1d0d9c6c682?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 19 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[CAA ICON Data Analytics Intern – Summer 2027 (Denver, CO)](https://jobright.ai/jobs/info/6ad682e5e4b94611ab83fa3a?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | On Site | Oct 19 |
-| **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/6ad65512e4b94611ab83d747?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
+| **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/6ad64aa2e4b94611ab83cd5d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Recording Media R&D Intern, AI & Data Science](https://jobright.ai/jobs/info/6ad689c052aa6152bb696909?utm_campaign=1066&utm_source=git)** | Fremont, CA, United States | On Site | Oct 19 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](https://cclfg.cclgroup.com/)** | **[Intern, Investment Analytics Engineering](https://jobright.ai/jobs/info/6ab1962332552369083e31cf?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 19 |
 | ↳ | **[Intern, Investment Analytics Engineering](https://jobright.ai/jobs/info/6ab19620d43eb922ca0bfd77?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Craftwater](https://www.craftwater.com/)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6aa49533c1928370a285e8de?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 17 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ac14567372c01f6cd72d2ac?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 17 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6aaeb43bde327d3e210d5df7?utm_campaign=1066&utm_source=git)** | New York | On Site | Oct 17 |
-| **[Red Ventures](http://www.redventures.com)** | **[2027 Launch Program: Data Science Intern](https://jobright.ai/jobs/info/6ab69cb6b3db59402d101248?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Hybrid | Oct 17 |
-| **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2e532cdc5958f53eb3b8?utm_campaign=1066&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
