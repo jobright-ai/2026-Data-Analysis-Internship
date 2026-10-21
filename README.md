@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6aa0553fa2266b538d22fb2f?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Oct 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 21 |
+| ↳ | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
+| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 21 |
+| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 21 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aa054ab500b01124c778516?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Oct 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertisement Team) - 2026 Start](https://jobright.ai/jobs/info/6a8419418d793736c6133bf1?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
+| ↳ | **[Data Science Intern (Advertisement Team) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a7d66eda346cb6c8d5f2380?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 21 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Data Science Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad881c254bbabbab0707080?utm_campaign=1066&utm_source=git)** | Buford, GA, United States | On Site | Oct 21 |
 | **[Shield AI](http://www.shield.ai)** | **[Summer 2027 - Data Science Intern (R6324)](https://jobright.ai/jobs/info/6ad80a2554bbabbab0704d13?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Oct 20 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/6a8dfcabcc0cf27068526768?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 20 |
@@ -71,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 20 |
 | **[Omnicom](https://www.omc.com)** | **[Research Intern](https://jobright.ai/jobs/info/6ad7b96952aa6152bb69eb3c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6ad6b40552aa6152bb697da6?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 20 |
-| ↳ | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6ad7cd46e4b94611ab848eb0?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 20 |
+| ↳ | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6ad7cd473dc655658d8f03aa?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 20 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/6ab2fdd38254c44790e5898d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 20 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Spring 2027 Data Science Intern](https://jobright.ai/jobs/info/6a7622897b3417772ade6e1c?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 20 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Intern - Columbus, OH](https://jobright.ai/jobs/info/6ad7c501950ef68d51843a42?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Oct 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Services Business Intelligence & Analytics Intern](https://jobright.ai/jobs/info/6ad652ca52aa6152bb693e85?utm_campaign=1066&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 19 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Behavior Post-training](https://jobright.ai/jobs/info/6ad63e4d67bec1d0d9c6c682?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 19 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: People Services Data Analytics](https://jobright.ai/jobs/info/6ad65843950ef68d51838d03?utm_campaign=1066&utm_source=git)** | Ashburn, Virginia, United States | On Site | Oct 19 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a51cb8b8d7d3e6cf1cc30af?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6a5314668a74e077472f729c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[CAA ICON Data Analytics Intern – Summer 2027 (Denver, CO)](https://jobright.ai/jobs/info/6ad682e5e4b94611ab83fa3a?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | On Site | Oct 19 |
-| **[Jain Global](https://www.jainglobal.com)** | **[Quantitative Research Intern – Equity Arbitrage](https://jobright.ai/jobs/info/6ad64aa2e4b94611ab83cd5d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Recording Media R&D Intern, AI & Data Science](https://jobright.ai/jobs/info/6ad689c052aa6152bb696909?utm_campaign=1066&utm_source=git)** | Fremont, CA, United States | On Site | Oct 19 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](https://cclfg.cclgroup.com/)** | **[Intern, Investment Analytics Engineering](https://jobright.ai/jobs/info/6ab1962332552369083e31cf?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 19 |
-| ↳ | **[Intern, Investment Analytics Engineering](https://jobright.ai/jobs/info/6ab19620d43eb922ca0bfd77?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
-| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Data Governance Intern](https://jobright.ai/jobs/info/6aa8144d3a9f0a4fe6f17072?utm_campaign=1066&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
