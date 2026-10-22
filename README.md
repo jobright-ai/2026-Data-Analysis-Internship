@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Data and Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa053f4a2266b538d22fabe?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Oct 22 |
+| **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6aabff0195c707f49dfeedd3?utm_campaign=1066&utm_source=git)** | Carmel, Indiana, United States | On Site | Oct 22 |
+| **[FedEx Freight](https://www.fedexfreight.com)** | **[Intern-Data Scientist](https://jobright.ai/jobs/info/6ada0620e4b94611ab8586b1?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | On Site | Oct 22 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6ada00043a69033df2254b62?utm_campaign=1066&utm_source=git)** | Andover, MA, United States | On Site | Oct 22 |
 | **[Aon](http://www.aon.com)** | **[2027 Performance Analytics Intern - Chicago, IL](https://jobright.ai/jobs/info/6ad8f95f39284cd52428228e?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 22 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Summer 2027 Data Science Intern](https://jobright.ai/jobs/info/6a762287bb6ca93ae56111cd?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 22 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Geographic Information Systems (Summer 2027)](https://jobright.ai/jobs/info/6ab7456062bb1fbd451ddc08?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 22 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/6aa1799c0ffb3d4fea6b4e55?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 22 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetics and Genomics Intern: Beef](https://jobright.ai/jobs/info/6ad9dfca54bbabbab0711028?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Oct 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)](https://jobright.ai/jobs/info/6ad9df6072a77caf574653cb?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
-| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2027 Summer Intern - Data Science](https://jobright.ai/jobs/info/6a9ff2165b2d5633ef3bbc71?utm_campaign=1066&utm_source=git)** | Carmel, IN, United States | On Site | Oct 22 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ad9db24950ef68d51852583?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/6aa054dfea127c37946966f3?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Oct 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok LIVE) - 2027 Summer](https://jobright.ai/jobs/info/6a71a40d02d93145bf890236?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seven Research, LLC](https://sevenresearch.com)** | **[Quantitative Researcher - Summer Intern](https://jobright.ai/jobs/info/6a4572614f64ba41dcb4d64a?utm_campaign=1066&utm_source=git)** | New York | On Site | Oct 20 |
 | **[Penn State University](http://www.psu.edu/)** | **[Part time Research Assistant - Public Health Sciences](https://jobright.ai/jobs/info/6a5a0f9a63a8f619507c51d2?utm_campaign=1066&utm_source=git)** | Hershey, PA, United States | On Site | Oct 20 |
 | **[Omnicom](https://www.omc.com)** | **[Research Intern](https://jobright.ai/jobs/info/6ad7b96952aa6152bb69eb3c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6ad7cd473dc655658d8f03aa?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 20 |
-| ↳ | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6ad6b40552aa6152bb697da6?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 20 |
-| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/6ab2fdd38254c44790e5898d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
