@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6ad9b676950ef68d51851e76?utm_campaign=1066&utm_source=git)** | Andover, MA, United States | Remote | Oct 22 |
 | **[Rockefeller Capital Management](http://www.rockco.com)** | **[Summer Analyst - Core Platforms](https://jobright.ai/jobs/info/6ab4857d0e0ae54eeea48b64?utm_campaign=1066&utm_source=git)** | Hamilton, NJ, United States | On Site | Oct 21 |
 | **[Boston Celtics](http://www.nba.com/celtics)** | **[Intern, Business Intelligence & Operations - Spring 2027](https://jobright.ai/jobs/info/6ad9949a54bbabbab0710124?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2027 Co-op Data Analytics & Digital Tools (IOPS)](https://jobright.ai/jobs/info/6ad99468b0725dc268ddd382?utm_campaign=1066&utm_source=git)** | Rensselaer, NY, United States | On Site | Oct 21 |
@@ -119,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6aa0553fa2266b538d22fb2f?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Oct 21 |
 | ↳ | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
-| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 21 |
-| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 21 |
+| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 21 |
+| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 21 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aa054ab500b01124c778516?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertisement Team) - 2026 Start](https://jobright.ai/jobs/info/6a8419418d793736c6133bf1?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 21 |
 | ↳ | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Data Trading Analyst Summer Internship - 2027 [New York]](https://jobright.ai/jobs/info/6a7b255eecf5194164fbc2d4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
 | ↳ | **[Quantitative Researcher Internship - 2027 [New York]](https://jobright.ai/jobs/info/6a7b25573b399d106e4d4981?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 20 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/6a95d3734c22023a07936273?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 20 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Analytics Intern (Summer 2027) - Hagerstown, MD](https://jobright.ai/jobs/info/6ad78213e4b94611ab845a55?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
