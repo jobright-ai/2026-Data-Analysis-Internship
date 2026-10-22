@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM Global](https://asmglobal.com/)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a40c5cc9dd7f954cafe85b8?utm_campaign=1066&utm_source=git)** | Culver City, CA, United States | On Site | Oct 22 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/6aa1799c0ffb3d4fea6b4e55?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 22 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetics and Genomics Intern: Beef](https://jobright.ai/jobs/info/6ad9dfca54bbabbab0711028?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Oct 22 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Plano, TX/Seattle, WA (Summer 2027)](https://jobright.ai/jobs/info/6ad9df6072a77caf574653cb?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Oct 22 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2027 Summer Intern - Data Science](https://jobright.ai/jobs/info/6a9ff2165b2d5633ef3bbc71?utm_campaign=1066&utm_source=git)** | Carmel, IN, United States | On Site | Oct 22 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[EAM Analyst, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6a8f0f7f309e5f224870a180?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 21 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Science Intern (Summer 2027) - Memphis, TN](https://jobright.ai/jobs/info/6ad92f39b0725dc268ddabe3?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | On Site | Oct 21 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Spring 2027](https://jobright.ai/jobs/info/6ad94ea3e4b94611ab85511c?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 21 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern- Summer 2027](https://jobright.ai/jobs/info/6acee3964f3229123da3e4f4?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 21 |
-| ↳ | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6a92c1f6d18f75674827c2f8?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 21 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6a92c1f6d18f75674827c2f8?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 21 |
+| ↳ | **[Data Analyst Intern- Summer 2027](https://jobright.ai/jobs/info/6acee3964f3229123da3e4f4?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 21 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, SCM Data Analyst](https://jobright.ai/jobs/info/6ad8f183e4b94611ab850af7?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 21 |
 | **[Genworth](https://www.genworth.com)** | **[Risk Modeling Intern](https://jobright.ai/jobs/info/6ad9282c54bbabbab070d4c8?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 21 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Data Governance Intern](https://jobright.ai/jobs/info/6aa8144d3a9f0a4fe6f17072?utm_campaign=1066&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[(Year-Round) Graduate Intern - Marine Hydrokinetic Data Curation](https://jobright.ai/jobs/info/6ad7cd0554bbabbab0702663?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | On Site | Oct 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer 2027 - Field Service Data Analyst Intern](https://jobright.ai/jobs/info/6ad784973dc655658d8ed02c?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 20 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Evaluation Analytics Graduate Intern](https://jobright.ai/jobs/info/6ad7b73852aa6152bb69e91f?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Oct 20 |
-| **[Nintendo](http://nintendo.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b5?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Oct 20 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Business Intelligence & Insights Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6a9f942ea7ba386c5d67569a?utm_campaign=1066&utm_source=git)** | Branchville, NJ, United States | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
