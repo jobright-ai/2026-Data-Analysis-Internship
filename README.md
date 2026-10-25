@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6a7d505377d5f033c4b92935?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Oct 25 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - Toronto)](https://jobright.ai/jobs/info/6aa45932c1928370a285d9f1?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 25 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ade34b046a8cabdc1ffb234?utm_campaign=1066&utm_source=git)** | Canada | Remote | Oct 25 |
 | **[BRG](http://www.thinkbrg.com)** | **[Chicago Office Health Analytics Practice Intern](https://jobright.ai/jobs/info/6a88b5874afae74a0834d20e?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Oct 25 |
@@ -130,19 +129,19 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6adbbcaa9e3e874dbfba174d?utm_campaign=1066&utm_source=git)** | Charlestown, MA, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abea4ca4ac55253f5d61b84?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern](https://jobright.ai/jobs/info/6adb964ec5c64fa3d9cb031d?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 23 |
-| **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa3a8d0c5a856ac7e33ac0b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 23 |
-| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6accdae1e7a1d9333210ecfd?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
-| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa37a3fe38fb65a7df5355b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
+| **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6accdae1e7a1d9333210ecfd?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
+| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
+| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa3a8d0c5a856ac7e33ac0b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 23 |
 | ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa387f14238ea18d430c51e?utm_campaign=1066&utm_source=git)** | Winton Hill Bus Center, United States | On Site | Oct 23 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e8?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa17f47ef23570cae244141?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1631fef23570cae2439ce?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16828500b01124c77c787?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16836dbc0e60e37e111c2?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168b0500b01124c77c7b4?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168ba500b01124c77c7bd?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1630aef23570cae2439c3?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)](https://jobright.ai/jobs/info/6aa163283272060a8e3ef875?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa17f47ef23570cae244141?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e8?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
+| ↳ | **[Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)](https://jobright.ai/jobs/info/6aa168483272060a8e3ef959?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111a7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa168b6500b01124c77c7b9?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 23 |
 | ↳ | **[PhD Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe9244064da25272e01935?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern, SCM Data Analyst Job Details / Celestica International LP](https://jobright.ai/jobs/info/6adb9560389e06bb41ad2cb5?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 23 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Spring Co op Process and CMC Data Science Waltham MA](https://jobright.ai/jobs/info/6ada9efe3a69033df225ae68?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Oct 23 |
 | **[Tractian](https://tractian.com)** | **[Analytics Intern - GTM](https://jobright.ai/jobs/info/6abed9ebd9621c5b28391e63?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Remote | Oct 23 |
+| **[Constellation](https://www.constellationenergy.com/)** | **[2027 Data & Digital Transformation Intern - Geysers](https://jobright.ai/jobs/info/6adb8e7f0a4cc7090f973858?utm_campaign=1066&utm_source=git)** | Middletown, California, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
