@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 25 |
 | **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 25 |
 | ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 25 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Consumer Business Unit - AI Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd825fc4e7ae3db3ae0?utm_campaign=1066&utm_source=git)** | Middleton, WI, United States | On Site | Oct 25 |
@@ -122,20 +123,19 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6adbbcaa9e3e874dbfba174d?utm_campaign=1066&utm_source=git)** | Charlestown, MA, United States | On Site | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abea4ca4ac55253f5d61b84?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern](https://jobright.ai/jobs/info/6adb964ec5c64fa3d9cb031d?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 23 |
-| **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
-| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6accdae1e7a1d9333210ecfd?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
+| **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6accdae1e7a1d9333210ecfd?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
 | ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa387f14238ea18d430c51e?utm_campaign=1066&utm_source=git)** | Winton Hill Bus Center, United States | On Site | Oct 23 |
+| ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 23 |
 | ↳ | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6aa3a8d0c5a856ac7e33ac0b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168ba500b01124c77c7bd?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16314ef23570cae2439c9?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168b0500b01124c77c7b4?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16828500b01124c77c787?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e8?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
-| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1630aef23570cae2439c3?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1631fef23570cae2439ce?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16836dbc0e60e37e111c2?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Oct 23 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa17f47ef23570cae244141?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)](https://jobright.ai/jobs/info/6aa168483272060a8e3ef959?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Oct 23 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16307ef23570cae2439c2?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111a7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 23 |
 | ↳ | **[PhD Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe9244064da25272e01935?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 23 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77a2372c01f6cd723ae2?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 23 |
