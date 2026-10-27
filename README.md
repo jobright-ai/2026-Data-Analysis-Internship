@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a4db6ff4c6c9f7a619f87d4?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Oct 27 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Launch Intern - Summer 2027](https://jobright.ai/jobs/info/6adff7f69a8c91d5c358b12b?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 26 |
 | **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Data Analytics & Governance Internship](https://jobright.ai/jobs/info/6aa8b72f17ddad6a8a47ce17?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 26 |
 | **[Zillow](http://www.zillow.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae017cc9a8c91d5c358ba4f?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 26 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Lex Products](https://lexproducts.com/)** | **[Corporate Intern - Analytics](https://jobright.ai/jobs/info/6adfa5db9e3e874dbfbaeaee?utm_campaign=1066&utm_source=git)** | Shelton, CT, United States | On Site | Oct 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6adf903dc5c64fa3d9cbcf84?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Oct 26 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Social Media Analytics Intern (Fall 2026/Spring 2027)](https://jobright.ai/jobs/info/6ac92268af788e6ad3b5a0c7?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 26 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Graduate-Data Analytics- Temporary](https://jobright.ai/jobs/info/6adf65439e3e874dbfbabc68?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Oct 26 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Graduate-Data Analytics- Temporary](https://jobright.ai/jobs/info/6adf57ec5dc7953215a3e048?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Oct 26 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Data Quality & Reporting](https://jobright.ai/jobs/info/6adf9179c5c64fa3d9cbd0d3?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 26 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Spring 2027](https://jobright.ai/jobs/info/6adf9157c5c64fa3d9cbd0a9?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 26 |
 | **[RPI Group, Inc.](https://www.rpigroupinc.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6adf8d61065c4e77efaf8c7b?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | On Site | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2027 Future Talent Program - Data, AI, and Genome Sciences - Intern](https://jobright.ai/jobs/info/6adbc7b69e3e874dbfba1b0f?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 23 |
 | **[Sequoia](http://elevatetosequoia.com)** | **[S&T Analyst Intern](https://jobright.ai/jobs/info/6adbfc3d9e3e874dbfba2da3?utm_campaign=1066&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 23 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Data Science Intern](https://jobright.ai/jobs/info/6adbc32e5dc7953215a34522?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
-| ↳ | **[Summer Internship Program 2027 - Quantitative Research Intern](https://jobright.ai/jobs/info/6adbc326389e06bb41ad3ae3?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
