@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Launch Intern - Summer 2027](https://jobright.ai/jobs/info/6adff7f69a8c91d5c358b12b?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 26 |
+| **[Wellmark Blue Cross and Blue Shield](https://www.wellmark.com/)** | **[Data Analytics & Governance Internship](https://jobright.ai/jobs/info/6aa8b72f17ddad6a8a47ce17?utm_campaign=1066&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 26 |
 | **[Zillow](http://www.zillow.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae017cc9a8c91d5c358ba4f?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 26 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Consumer Insights & Analytics Intern](https://jobright.ai/jobs/info/6ae02ad1c5c64fa3d9cc2568?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | Hybrid | Oct 26 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Predictive Modeling & Data Science Graduate Intern](https://jobright.ai/jobs/info/6ae016a55dc7953215a454a6?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Oct 26 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6aac1bf62e757fcb5c8b3c3c?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Operations Data Analytics Intern](https://jobright.ai/jobs/info/6adfc6ec5dc7953215a42dc2?utm_campaign=1066&utm_source=git)** | Logan, UT, United States | On Site | Oct 25 |
 | **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Analyst Interns - US](https://jobright.ai/jobs/info/6adfbe570a4cc7090f982b38?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 25 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Launch Intern - Summer 2027](https://jobright.ai/jobs/info/6adff7f69a8c91d5c358b12b?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Oct 25 |
 | **[Centene Corporation](http://centene.com)** | **[Medical Economics Analyst Intern (Undergraduate - Summer 2027)](https://jobright.ai/jobs/info/6adfdf385dc7953215a43cfe?utm_campaign=1066&utm_source=git)** | Missouri, United States | Remote | Oct 25 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics (Summer 2027)](https://jobright.ai/jobs/info/6adfd8f0065c4e77efafc395?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 25 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - Toronto)](https://jobright.ai/jobs/info/6aa45932c1928370a285d9f1?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 25 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Data Analytics Intern](https://jobright.ai/jobs/info/6ad2adc9f04335fc70ed6fa7?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 25 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Data Science Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ad8b3b3b0725dc268dd52f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 25 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 25 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 25 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 25 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 25 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 25 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Consumer Business Unit - AI Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd825fc4e7ae3db3ae0?utm_campaign=1066&utm_source=git)** | Middleton, WI, United States | On Site | Oct 25 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Oct 25 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aa47a77c1928370a285e18f?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 25 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sequoia](http://elevatetosequoia.com)** | **[S&T Analyst Intern](https://jobright.ai/jobs/info/6adbfc3d9e3e874dbfba2da3?utm_campaign=1066&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 23 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Data Science Intern](https://jobright.ai/jobs/info/6adbc32e5dc7953215a34522?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 23 |
 | ↳ | **[Summer Internship Program 2027 - Quantitative Research Intern](https://jobright.ai/jobs/info/6adbc326389e06bb41ad3ae3?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern - Summer 2027 Intern](https://jobright.ai/jobs/info/6adbebe7389e06bb41ad4cfb?utm_campaign=1066&utm_source=git)** | Wellesley Hills, MA, United States | Hybrid | Oct 23 |
-| **[Genuine Parts Company](http://genpt.com)** | **[Supply Chain Transportation Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc55746a8cabdc1ff4a10?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern - Summer 2027 Intern](https://jobright.ai/jobs/info/6adbe2a7389e06bb41ad4a7e?utm_campaign=1066&utm_source=git)** | Wellesley Hills, MA, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
