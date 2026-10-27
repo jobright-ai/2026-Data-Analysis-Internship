@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae0c44e5a5afc94bd2c6c7d?utm_campaign=1066&utm_source=git)** | Deerfield, IL, United States | On Site | Oct 27 |
 | **[Propopia](www.propopia.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae0bf955a5afc94bd2c6aa7?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[TDQ Intern](https://jobright.ai/jobs/info/6ae0bf371f9d9308370a37f3?utm_campaign=1066&utm_source=git)** | Horsham, PA, United States | Hybrid | Oct 27 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Super Day - Data Science Internship](https://jobright.ai/jobs/info/6ac7ddebfe8f33a85d4fdbf6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 27 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Data Analytics Intern](https://jobright.ai/jobs/info/6ad2adc9f04335fc70ed6fa7?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | Hybrid | Oct 25 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Data Science Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ad8b3b3b0725dc268dd52f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 25 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Oct 25 |
-| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 25 |
-| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 25 |
+| **[Nokia](http://www.nokia.com)** | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa44509f7baf881567ce1e2?utm_campaign=1066&utm_source=git)** | Ottawa, ON, United States | Hybrid | Oct 25 |
+| ↳ | **[Data Science Co-op/Intern](https://jobright.ai/jobs/info/6aa48b60422289703bd66fd3?utm_campaign=1066&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 25 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Consumer Business Unit - AI Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd825fc4e7ae3db3ae0?utm_campaign=1066&utm_source=git)** | Middleton, WI, United States | On Site | Oct 25 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Oct 25 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aa47a77c1928370a285e18f?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2027](https://jobright.ai/jobs/info/6a3b8f08882f121f56a31d10?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Oct 24 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Information Technology Analyst Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6aa544d182e82a31997bd0cc?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa37ac9b47caa3aec72c42e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 24 |
-| **[DV Trading LLC](https://www.dvtrading.co)** | **[Quantitative Research Intern - Summer 2027 (DV Equities)](https://jobright.ai/jobs/info/6aa42b23422289703bd656bb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
