@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab619ffb3db59402d0ffe85?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Oct 29 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac727340e027c0f3b3b581c?utm_campaign=1066&utm_source=git)** | DeForest, WI, United States | On Site | Oct 29 |
+| **[Munich Re](https://www.munichre.com)** | **[Data Science Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d9c10bfb83a4afc346?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
+| ↳ | **[Business Intelligence Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308c2ae910d11c3ae907b?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok LIVE) - 2027 Summer](https://jobright.ai/jobs/info/6a71a40d02d93145bf890236?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae2e8ede37c39926d3b4250?utm_campaign=1066&utm_source=git)** | Canada | Remote | Oct 28 |
 | **[Motorola Mobility (a Lenovo Company)](http://www.motorola.com/)** | **[Knowledge Management Data Analyst Intern](https://jobright.ai/jobs/info/6ae2b83705a39c3e2c71c4f6?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Oct 28 |
@@ -125,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Relativity Space](http://relativityspace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ac532ea064da25272e15683?utm_campaign=1066&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 28 |
 | **[42dot](https://42dot.ai)** | **[Internship, Foundation Models](https://jobright.ai/jobs/info/6ae0e37167c31ab34899e388?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA, United States | On Site | Oct 28 |
 | **[Google](https://www.google.com)** | **[Business Data Scientist Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa8013682e82a31997c32e7?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 28 |
-| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac54cc0d9621c5b283a489e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 28 |
+| **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6ac53db5372c01f6cd7386b1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Oct 28 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics (Summer 2027)](https://jobright.ai/jobs/info/6adfd8f0065c4e77efafc395?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 28 |
 | **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Oct 28 |
 | ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 28 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[USAA](https://www.usaa.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ae248cd6679108488c49a2f?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Oct 27 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6ae2328feb7e8f715a60b706?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 27 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Data Science Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ae22cb91f9d9308370af296?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Oct 27 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2027 Summer Games Data Scientist Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ae25948829a3bada1603de7?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 27 |
-| ↳ | **[University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://jobright.ai/jobs/info/6ae2596d05a39c3e2c719443?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | On Site | Oct 27 |
-| ↳ | **[University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO](https://jobright.ai/jobs/info/6ae25977de23f466ec8c5679?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO, United States | On Site | Oct 27 |
-| ↳ | **[University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://jobright.ai/jobs/info/6ae259416679108488c4a42b?utm_campaign=1066&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 27 |
-| ↳ | **[University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://jobright.ai/jobs/info/6ae2593c1f9d9308370b0e95?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 27 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://jobright.ai/jobs/info/6ae259416679108488c4a42b?utm_campaign=1066&utm_source=git)** | Honolulu, HI, United States | On Site | Oct 27 |
 | ↳ | **[University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL](https://jobright.ai/jobs/info/6ae26f8d1f9d9308370b20f5?utm_campaign=1066&utm_source=git)** | Fort Walton Beach, FL, United States | On Site | Oct 27 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/6ae262e96679108488c4aec1?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 27 |
-| ↳ | **[Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/6ae262ebde23f466ec8c60d6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Oct 27 |
-| ↳ | **[Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/6ae262e96679108488c4aec2?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 27 |
+| ↳ | **[University, 2027 Summer Games Data Scientist Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ae25948829a3bada1603de7?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 27 |
+| ↳ | **[University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://jobright.ai/jobs/info/6ae2596d05a39c3e2c719443?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | On Site | Oct 27 |
+| ↳ | **[University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://jobright.ai/jobs/info/6ae2593c1f9d9308370b0e95?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
