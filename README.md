@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6ae4a202fb2cd420ace58421?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Oct 30 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[National and Regional Carflow Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac7bd6ffe8f33a85d4fcd33?utm_campaign=1066&utm_source=git)** | Franklin, TN, United States | On Site | Oct 30 |
+| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern US Advanced Analytics Cambridge MA](https://jobright.ai/jobs/info/6ae36a3fd7424a2a828df869?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 30 |
 | **[Chase](https://www.chase.com/)** | **[2027 Quantitative Research – Markets – Summer Internship - Analyst – United States](https://jobright.ai/jobs/info/6a7219b645b6af1c30dbca26?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6aabf8b13dbb1f8967ce80d6?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 30 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa95da028e24cb38513a037?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 29 |
 | **[Bee Sweet Citrus, Inc.](https://www.beesweetcitrus.com)** | **[Data Processing Intern](https://jobright.ai/jobs/info/6a61e8e7eaa37f43e758ae2a?utm_campaign=1066&utm_source=git)** | Fowler, California, United States | On Site | Oct 29 |
 | **[Cisco](http://www.cisco.com)** | **[Splunk Solutions Engineer (Intern) - United States](https://jobright.ai/jobs/info/6ac65cdd0e027c0f3b3b20b0?utm_campaign=1066&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Oct 29 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aab16db40807b73bd393cf1?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 29 |
 | **[Moderna](http://www.modernatx.com)** | **[Co-Op, Clinical Biomarker Biostatistics](https://jobright.ai/jobs/info/6ac6c1a7d9621c5b283aa93f?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Oct 29 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Client Setup Analyst](https://jobright.ai/jobs/info/6ae3431cc3139b475b5ab9b0?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | ↳ | **[Summer Intern: Population Health Analyst](https://jobright.ai/jobs/info/6ae2ac7ade23f466ec8c81c5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
@@ -129,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab619ffb3db59402d0ffe85?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Oct 29 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac710cbd9621c5b283ab983?utm_campaign=1066&utm_source=git)** | De Forest, WI, United States | On Site | Oct 29 |
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a54f9e1268af95237be86bf?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 29 |
-| **[Munich Re](https://www.munichre.com)** | **[Data Science Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d9c10bfb83a4afc346?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
-| ↳ | **[Business Intelligence Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308c2ae910d11c3ae907b?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
+| **[Munich Re](https://www.munichre.com)** | **[Business Intelligence Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308c2ae910d11c3ae907b?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok LIVE) - 2027 Summer](https://jobright.ai/jobs/info/6a71a40d02d93145bf890236?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae2e8ede37c39926d3b4250?utm_campaign=1066&utm_source=git)** | Canada | Remote | Oct 28 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Data Governance Intern](https://jobright.ai/jobs/info/6aa8144d3a9f0a4fe6f17072?utm_campaign=1066&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern Data Science & Digital Innovation (IOPS)](https://jobright.ai/jobs/info/6ae21a21de23f466ec8c2a1e?utm_campaign=1066&utm_source=git)** | Rensselaer, Indiana, United States | On Site | Oct 28 |
 | ↳ | **[2027 Summer Intern Data Analytics, Dashboards & Business Process Automation](https://jobright.ai/jobs/info/6ae21a29829a3bada16010a5?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 28 |
 | **[Zillow](http://www.zillow.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae017cc9a8c91d5c358ba4f?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 28 |
-| **[Visa](https://www.visa.com)** | **[Data Science Intern, Data and AI Team – Summer 2027](https://jobright.ai/jobs/info/6ae06e2b5dc7953215a4700d?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
