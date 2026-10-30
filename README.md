@@ -57,10 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[2027 Summer Intern Data Analytics, Dashboards & Business Process Automation](https://jobright.ai/jobs/info/6ae42e9cd7424a2a828e56d3?utm_campaign=1066&utm_source=git)** | Warren, NJ, United States | On Site | Oct 29 |
-| ↳ | **[2027 Summer Intern Biostatistics & Statistical Programming](https://jobright.ai/jobs/info/6ae42e77eab1f967309799de?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 29 |
-| ↳ | **[2027 Summer Intern Genomics, Computational Biology & Translational Data Science](https://jobright.ai/jobs/info/6ae42e6ac3139b475b5b2a9b?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 29 |
-| ↳ | **[Grad Intern - Biostatistics (Summer 2027)](https://jobright.ai/jobs/info/6ae42e3477c09cb3bd4ab86b?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 29 |
 | **[Donaldson](http://donaldson.com)** | **[Graduate Intern - Modeling and Data Science](https://jobright.ai/jobs/info/6ae4015ed45dc30fb7d2e4f1?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 29 |
 | **[SAS](http://www.sas.com)** | **[JMP 2027 Summer Internship; Causal Inference (Master's/Phd)](https://jobright.ai/jobs/info/6ad1993b09182f49edf4c8d7?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Oct 29 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Reporting Analyst Co-op - Spring 2027](https://jobright.ai/jobs/info/6ae3c979eab1f96730977239?utm_campaign=1066&utm_source=git)** | Wellesley Hills, MA, United States | On Site | Oct 29 |
@@ -126,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Quantitative Research - Markets - Summer Internship - Associate- United States](https://jobright.ai/jobs/info/6a72f9a3f2974919f967abbe?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[Intel](http://www.intel.com)** | **[Data Science and Analytics - PhD Intern](https://jobright.ai/jobs/info/6ac69758d9621c5b283a9baf?utm_campaign=1066&utm_source=git)** | Hillsboro, OR, United States | On Site | Oct 29 |
 | **[Chase](https://www.chase.com/)** | **[2027 Quantitative Research – Markets – Summer Internship - Associate– United States](https://jobright.ai/jobs/info/6a722989e2b7476e7b2119ac?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
-| **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa946a409ae03adcacdc877?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Oct 29 |
+| **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab619ffb3db59402d0ffe85?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Oct 29 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Applications Intern](https://jobright.ai/jobs/info/6ac710cbd9621c5b283ab983?utm_campaign=1066&utm_source=git)** | De Forest, WI, United States | On Site | Oct 29 |
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6a54f9e1268af95237be86bf?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 29 |
 | **[Munich Re](https://www.munichre.com)** | **[Data Science Intern Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d9c10bfb83a4afc346?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 29 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern Data Analytics, Dashboards & Business Process Automation](https://jobright.ai/jobs/info/6ae21a29829a3bada16010a5?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 28 |
 | **[Zillow](http://www.zillow.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae017cc9a8c91d5c358ba4f?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 28 |
 | **[Visa](https://www.visa.com)** | **[Data Science Intern, Data and AI Team – Summer 2027](https://jobright.ai/jobs/info/6ae06e2b5dc7953215a4700d?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 28 |
+| **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 28 |
+| **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2027 Start)](https://jobright.ai/jobs/info/6ada6b94e4b94611ab85c2df?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 28 |
+| **[Citadel](https://www.citadel.com)** | **[Sector Data Scientist – 2027 Intern (US)](https://jobright.ai/jobs/info/6ada8bac4c3adc437cece307?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data ITSM Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae24110de23f466ec8c470b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
