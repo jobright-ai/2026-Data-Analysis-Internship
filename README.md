@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern US Advanced Analytics Cambridge MA](https://jobright.ai/jobs/info/6ae36a3fd7424a2a828df869?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 30 |
 | **[Chase](https://www.chase.com/)** | **[2027 Quantitative Research – Markets – Summer Internship - Analyst – United States](https://jobright.ai/jobs/info/6a7219b645b6af1c30dbca26?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6aabf8b13dbb1f8967ce80d6?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Oct 30 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2027 Summer Intern - Service Analytics & Insights](https://jobright.ai/jobs/info/6ac7e8950e573df8adc750ca?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Oct 30 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6ae2594a6679108488c4a43b?utm_campaign=1066&utm_source=git)** | Boca Raton, FL, United States | On Site | Oct 28 |
 | **[MITRE](http://www.mitre.org)** | **[National and Defense Intelligence Intern](https://jobright.ai/jobs/info/6ae15062829a3bada15fc46b?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | On Site | Oct 28 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Summer 2027 Corporate Intern:  Data & Tech Transformation intern](https://jobright.ai/jobs/info/6ae378c2d7424a2a828e0010?utm_campaign=1066&utm_source=git)** | Bentonville, AR, United States | On Site | Oct 28 |
-| **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern US Advanced Analytics Cambridge MA](https://jobright.ai/jobs/info/6ae36a3fd7424a2a828df869?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 28 |
+| **[Seagate Technology](http://www.seagate.com)** | **[R&D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)](https://jobright.ai/jobs/info/6ae492d8fb2cd420ace57d48?utm_campaign=1066&utm_source=git)** | Edina, MN, United States | On Site | Oct 28 |
 | **[RTX](http://rtx.com/)** | **[Sustainment Data and Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae3879a77c09cb3bd4a6b4b?utm_campaign=1066&utm_source=git)** | East Hartford, CT, United States | On Site | Oct 28 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate Intern – Power Data Analysis for AI Data Centers](https://jobright.ai/jobs/info/6ae27ca6de23f466ec8c7102?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | On Site | Oct 28 |
 | **[Cencora](http://www.cencora.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ae23124de23f466ec8c3d99?utm_campaign=1066&utm_source=git)** | Corona, CA, United States | Remote | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Intern Data Analytics, Dashboards & Business Process Automation](https://jobright.ai/jobs/info/6ae21a29829a3bada16010a5?utm_campaign=1066&utm_source=git)** | Tarrytown, NY, United States | On Site | Oct 28 |
 | **[Zillow](http://www.zillow.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae017cc9a8c91d5c358ba4f?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 28 |
 | **[Visa](https://www.visa.com)** | **[Data Science Intern, Data and AI Team – Summer 2027](https://jobright.ai/jobs/info/6ae06e2b5dc7953215a4700d?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Oct 28 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
