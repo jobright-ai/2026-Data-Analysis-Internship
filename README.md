@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Post Training](https://jobright.ai/jobs/info/6ac977fefcdafb60c6a4c781?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 31 |
+| **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Data Science & Analytics Intern - Fall 2026](https://jobright.ai/jobs/info/6a9059b90bd89e205d249c6a?utm_campaign=1066&utm_source=git)** | Middletown, Pennsylvania, United States | Hybrid | Oct 31 |
+| **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Product Data Science](https://jobright.ai/jobs/info/6aad85453dbb1f8967cee008?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 31 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Product Data Decision Science Intern](https://jobright.ai/jobs/info/6ae03960c5c64fa3d9cc2a9e?utm_campaign=1066&utm_source=git)** | Van Wert, OH, United States | On Site | Oct 31 |
 | **[General Motors](https://www.gm.com)** | **[2027 Summer Intern,  Data Scaling, Embodied AI](https://jobright.ai/jobs/info/6ac90d69d4a5a0370741072d?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Oct 31 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[SCS - Advanced Analytics Intern - 2027](https://jobright.ai/jobs/info/6abea1eb372c01f6cd724a7a?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 31 |
@@ -75,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6ac6a51b064da25272e1b969?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6a518064da25272e1b967?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 30 |
-| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5103ed7424a2a828eb593?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 30 |
+| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae51045c3139b475b5b88a5?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 30 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2027 Business Intelligence Intern](https://jobright.ai/jobs/info/6ae51e7277c09cb3bd4b1f80?utm_campaign=1066&utm_source=git)** | Torrance, CA, United States | On Site | Oct 30 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6ae4ca7777c09cb3bd4aebde?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 30 |
@@ -108,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Donaldson](http://donaldson.com)** | **[Graduate Intern - Modeling and Data Science](https://jobright.ai/jobs/info/6ae4015ed45dc30fb7d2e4f1?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 29 |
 | **[SAS](http://www.sas.com)** | **[JMP 2027 Summer Internship; Causal Inference (Master's/Phd)](https://jobright.ai/jobs/info/6ad1993b09182f49edf4c8d7?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Oct 29 |
 | **[Google](https://www.google.com)** | **[Business Data Scientist Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa8013682e82a31997c32e7?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
-| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5547f77c09cb3bd4b31be?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Oct 29 |
+| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5547beab1f96730980f8d?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Oct 29 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern Product Support – Data Scientist](https://jobright.ai/jobs/info/6ae55436fb2cd420ace5e085?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Oct 29 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ae5b812c3139b475b5bb1e5?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | Hybrid | Oct 29 |
 | **[Angel City Football Club](https://angelcity.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ad15f9bae21edea94fd5d96?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, United States | On Site | Oct 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Client Setup Analyst](https://jobright.ai/jobs/info/6ae3431cc3139b475b5ab9b0?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | ↳ | **[Summer Intern: Population Health Analyst](https://jobright.ai/jobs/info/6ae2ac7ade23f466ec8c81c5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
 | ↳ | **[Summer Intern: Member Experience Insights Analyst](https://jobright.ai/jobs/info/6ae2ac7beb7e8f715a60f940?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
-| ↳ | **[Summer Intern: Data Services Analyst](https://jobright.ai/jobs/info/6ae2ac79829a3bada1606860?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 29 |
-| **[Syngenta](http://www.syngenta.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ae33f24d45dc30fb7d27eb0?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 29 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://jobright.ai/jobs/info/6ac5a902372c01f6cd73aaf7?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
