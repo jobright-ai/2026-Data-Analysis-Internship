@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageSure](https://www.sagesure.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ac95414fcdafb60c6a4bf7b?utm_campaign=1066&utm_source=git)** | Cheshire, CT, United States | On Site | Oct 31 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6ac95413d4a5a03707411f0f?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 31 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae60ad8d45dc30fb7d382b1?utm_campaign=1066&utm_source=git)** | Waller, TX, United States | On Site | Oct 31 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ac96f40af788e6ad3b5b7e9?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Oct 31 |
 | **[Papa Johns](http://www.papajohns.com)** | **[2027 Summer Intern - Data Science](https://jobright.ai/jobs/info/6ac91183fcdafb60c6a4a9c8?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
@@ -85,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Oct 30 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6ac6a51b064da25272e1b969?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | ↳ | **[Summer 2027 Internship Program – Research Analyst Intern](https://jobright.ai/jobs/info/6ac6a518064da25272e1b967?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Oct 30 |
-| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5103ed7424a2a828eb593?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 30 |
+| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae51059eab1f9673097f6ca?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 30 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2027 Business Intelligence Intern](https://jobright.ai/jobs/info/6ae51e7277c09cb3bd4b1f80?utm_campaign=1066&utm_source=git)** | Torrance, CA, United States | On Site | Oct 30 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) - United States](https://jobright.ai/jobs/info/6ae4ca7777c09cb3bd4aebde?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 30 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77a2372c01f6cd723ae2?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
 | ↳ | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6abe77990e027c0f3b398e88?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 29 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics (Summer 2027)](https://jobright.ai/jobs/info/6adfd8f0065c4e77efafc395?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Oct 29 |
-| **[Nassau Financial Group](https://nfg.com)** | **[Intern - IT Data Analytics](https://jobright.ai/jobs/info/6ac686894ac55253f5d7a979?utm_campaign=1066&utm_source=git)** | Albany, NY, United States | On Site | Oct 29 |
-| **[LIMRA](http://www.limra.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae35da7d7424a2a828df1d1?utm_campaign=1066&utm_source=git)** | Windsor, Connecticut, United States | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
