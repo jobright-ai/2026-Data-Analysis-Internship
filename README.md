@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Insights & Analytics Intern](https://jobright.ai/jobs/info/6ae7a387a2a252e219423f3f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 01 |
 | **[NextToken](https://nexttoken.co/)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6ae45a75eab1f9673097a29d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 01 |
 | **[Bunge](http://www.bunge.com)** | **[Data Science Intern Job Details / Bunge](https://jobright.ai/jobs/info/6ae76c2cbad9293a40a4237d?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 01 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, FAIR - Multimodal Foundations (PhD)](https://jobright.ai/jobs/info/6ada5069e4b94611ab85b2d8?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 31 |
 | **[SageSure](https://www.sagesure.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ac95413d4a5a03707411f0f?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Oct 31 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ac95414fcdafb60c6a4bf7b?utm_campaign=1066&utm_source=git)** | Cheshire, CT, United States | On Site | Oct 31 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Quantitative Risk Management](https://jobright.ai/jobs/info/6aac2c182e757fcb5c8b41f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 31 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ac96f40af788e6ad3b5b7e9?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Oct 31 |
 | **[Papa Johns](http://www.papajohns.com)** | **[2027 Summer Intern - Data Science](https://jobright.ai/jobs/info/6ac91183fcdafb60c6a4a9c8?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 31 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis and Modeling, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab74542d7fde2c08ec8b654?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Donaldson](http://donaldson.com)** | **[Graduate Intern - Modeling and Data Science](https://jobright.ai/jobs/info/6ae4015ed45dc30fb7d2e4f1?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 29 |
 | **[SAS](http://www.sas.com)** | **[JMP 2027 Summer Internship; Causal Inference (Master's/Phd)](https://jobright.ai/jobs/info/6ad1993b09182f49edf4c8d7?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Oct 29 |
 | **[Google](https://www.google.com)** | **[Business Data Scientist Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa8013682e82a31997c32e7?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 29 |
-| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5547f77c09cb3bd4b31be?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Oct 29 |
+| **[University of Miami](https://welcome.miami.edu)** | **[Data Science & AI Intern](https://jobright.ai/jobs/info/6ae5547beab1f96730980f8d?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Oct 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Data Analyst Intern](https://jobright.ai/jobs/info/6ae50235c3139b475b5b80dc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ae5b812c3139b475b5bb1e5?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | Hybrid | Oct 29 |
 | **[Angel City Football Club](https://angelcity.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6ad15f9bae21edea94fd5d96?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, United States | On Site | Oct 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qishi Club](https://www.qishicpc.com)** | **[GenAI Research Intern](https://jobright.ai/jobs/info/6ae3ffb3d7424a2a828e49d2?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | On Site | Oct 29 |
 | **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Data Analytics and Data Catalog Intern](https://jobright.ai/jobs/info/6ae39b78d45dc30fb7d2b078?utm_campaign=1066&utm_source=git)** | Erlanger, KY, United States | On Site | Oct 29 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sales Data Analyst Intern Job Details / Qorvo](https://jobright.ai/jobs/info/6ae3b36beab1f96730976703?utm_campaign=1066&utm_source=git)** | Hillsboro, OR, United States | On Site | Oct 29 |
-| **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern (Winter/January 2027, 12 Months)](https://jobright.ai/jobs/info/6ae3b00cc3139b475b5af57a?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Oct 29 |
-| **[AXQ Capital](https://www.axqcap.com)** | **[Quantitative Research Intern (PhD, Summer 2027)](https://jobright.ai/jobs/info/6a99c27d551435518ebf0dfe?utm_campaign=1066&utm_source=git)** | New York | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
