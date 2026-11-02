@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 01 |
 | **[NextToken](https://nexttoken.co/)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6ae45a75eab1f9673097a29d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 01 |
 | **[Bunge](http://www.bunge.com)** | **[Data Science Intern Job Details / Bunge](https://jobright.ai/jobs/info/6ae76c2cbad9293a40a4237d?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | On Site | Nov 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a73f24d8cd88e7ccbf5ae79?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 01 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University - 2027 Summer Games Data Scientist Intern - Charleston, SC](https://jobright.ai/jobs/info/6ae70711fb2cd420ace61bbd?utm_campaign=1066&utm_source=git)** | Charleston, SC, United States | Hybrid | Nov 01 |
 | ↳ | **[University, 2027 Summer Games Data Scientist Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ae7047877c09cb3bd4b6e1a?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Hybrid | Nov 01 |
 | ↳ | **[University - 2027 Summer Games Data Scientist Intern - San Diego, CA](https://jobright.ai/jobs/info/6ae7041fc3139b475b5bdbb3?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 01 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a83f074c72fae4bcc8d6591?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Nov 01 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Fall 2026](https://jobright.ai/jobs/info/6a837c5a1081a745e970fb18?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Nov 01 |
 | **[Molina Healthcare](https://investors.molinahealthcare.com/)** | **[Data Analytics Internship (Remote) – Summer 2027 (Undergraduate)](https://jobright.ai/jobs/info/6ae4ed62c3139b475b5b74db?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern Product Support – Data Scientist](https://jobright.ai/jobs/info/6ae55436fb2cd420ace5e085?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Oct 31 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Research Focus](https://jobright.ai/jobs/info/6ae78ecd03f4a1104b250c7e?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qishi Club](https://www.qishicpc.com)** | **[GenAI Research Intern](https://jobright.ai/jobs/info/6ae3ffb3d7424a2a828e49d2?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area, United States | On Site | Oct 29 |
 | **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Data Analytics and Data Catalog Intern](https://jobright.ai/jobs/info/6ae39b78d45dc30fb7d2b078?utm_campaign=1066&utm_source=git)** | Erlanger, KY, United States | On Site | Oct 29 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sales Data Analyst Intern Job Details / Qorvo](https://jobright.ai/jobs/info/6ae3b36beab1f96730976703?utm_campaign=1066&utm_source=git)** | Hillsboro, OR, United States | On Site | Oct 29 |
-| **[Geotab](http://www.geotab.com/)** | **[Data Analyst Intern (Winter/January 2027, 12 Months)](https://jobright.ai/jobs/info/6ae3b00cc3139b475b5af57a?utm_campaign=1066&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
