@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae90fef061d6d7ff3d801b3?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 02 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Summer 2027 Intern -Data Science - Biosciences R&D](https://jobright.ai/jobs/info/6ae8c299fb2cd420ace687ca?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Nov 02 |
 | **[Man Group](http://www.man.com/US/home)** | **[Systematic Quant Intern - PhD](https://jobright.ai/jobs/info/6ae93a3e43826864b0fb825f?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 02 |
 | **[Associated Medical Professionals of NY](https://www.ampofny.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6ae89c3ba2a252e21942791e?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 02 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6aa9c00310b1cd4f41607869?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8c0c0777c336eb6d65d88?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b6a54bbabbab07176d1?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b7554bbabbab07176dd?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8ba454bbabbab071770d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8bfaefb2cd420ace68544?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8baa03d2da7528916854?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Corporate Security Intern](https://jobright.ai/jobs/info/6ae88bd8061d6d7ff3d7ae14?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Procurement Business Analytics & AI Intern 2027](https://jobright.ai/jobs/info/6ae81956bad9293a40a44065?utm_campaign=1066&utm_source=git)** | Hilton Head Island, SC, United States | On Site | Nov 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com)** | **[2027 Summer Intern-Computer Science (Data Analytics)](https://jobright.ai/jobs/info/6ae7eee0a2a252e2194248ef?utm_campaign=1066&utm_source=git)** | Aiken, SC, United States | On Site | Nov 01 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Research Focus](https://jobright.ai/jobs/info/6ae78ecd03f4a1104b250c7e?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 01 |
-| **[Leidos](https://www.leidos.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ae90fef061d6d7ff3d801b3?utm_campaign=1066&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 01 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Data Science Intern – Richmond, VA (Summer 2027)](https://jobright.ai/jobs/info/6ae88e8b061d6d7ff3d7aec3?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Nov 01 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 01 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2027)](https://jobright.ai/jobs/info/6aa836052ed333b4ea5cdea6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 01 |
