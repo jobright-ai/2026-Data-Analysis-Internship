@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US](https://jobright.ai/jobs/info/6ae9b99543826864b0fba59a?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 03 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Data Analytics Intern](https://jobright.ai/jobs/info/6ae97d8532411b3e5a2e12de?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Undergraduate Intern – Artificial Intelligence & Data Analytics - SWE Conference](https://jobright.ai/jobs/info/6ae918ef777c336eb6d699b0?utm_campaign=1066&utm_source=git)** | Richland, WA, United States | Hybrid | Nov 02 |
 | ↳ | **[ NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference](https://jobright.ai/jobs/info/6ae918ea061d6d7ff3d80723?utm_campaign=1066&utm_source=git)** | Richland, WA, United States | Hybrid | Nov 02 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Charles River Laboratories](http://www.criver.com)** | **[Summer 2027 Intern -Data Science - Biosciences R&D](https://jobright.ai/jobs/info/6ae8c299fb2cd420ace687ca?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Nov 02 |
 | **[Man Group](http://www.man.com/US/home)** | **[Systematic Quant Intern - PhD](https://jobright.ai/jobs/info/6ae93a3e43826864b0fb825f?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 02 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2028 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6ae98e6a43826864b0fb9e5f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| **[Associated Medical Professionals of NY](https://www.ampofny.com/)** | **[Research Intern](https://jobright.ai/jobs/info/6ae89c3ba2a252e21942791e?utm_campaign=1066&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 02 |
 | **[PACCAR](http://www.paccar.com/)** | **[2027 Summer Internship: Demand Planning](https://jobright.ai/jobs/info/6ae933df03f4a1104b25a7f5?utm_campaign=1066&utm_source=git)** | Denton, TX, United States | On Site | Nov 02 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6ae92918a2a252e21942d41a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6ae92908777c336eb6d6a144?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 02 |
@@ -106,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[2027 Summer Intern - Enterprise Data Analyst, Data Products (Raleigh, NC)](https://jobright.ai/jobs/info/6ae897bcfb2cd420ace66cad?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 02 |
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6aa9c00310b1cd4f41607869?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8c0c0777c336eb6d65d88?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b6a54bbabbab07176d1?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8ba454bbabbab071770d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8bd403d2da752891686d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b7554bbabbab07176dd?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8bfaefb2cd420ace68544?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8baa03d2da7528916854?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8a553a69033df225a4a9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Corporate Security Intern](https://jobright.ai/jobs/info/6ae88bd8061d6d7ff3d7ae14?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | ↳ | **[Digital Ops & Analytics Intern](https://jobright.ai/jobs/info/6ae877e8fb2cd420ace66470?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ac96f40af788e6ad3b5b7e9?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Nov 02 |
