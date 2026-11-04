@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dell Technologies](https://www.dell.com)** | **[Dell Technologies Services Undergraduate Analytics Intern](https://jobright.ai/jobs/info/6aa9479c6d0edc2d91b08d58?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
 | **[FM](https://www.fm.com)** | **[Data Visualization & Reporting Summer Intern](https://jobright.ai/jobs/info/6aea30c8440b469a1c0ab921?utm_campaign=1066&utm_source=git)** | Johnston, RI, United States | On Site | Nov 03 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6aeac0d9d22d4c08ec605da7?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 03 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aeaac0a440b469a1c0af9c0?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8bfaefb2cd420ace68544?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8a553a69033df225a4a9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Corporate Security Intern](https://jobright.ai/jobs/info/6ae88bd8061d6d7ff3d7ae14?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
-| ↳ | **[Digital Ops & Analytics Intern](https://jobright.ai/jobs/info/6ae877e8fb2cd420ace66470?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
