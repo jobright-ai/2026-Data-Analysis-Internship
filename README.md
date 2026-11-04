@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[AI & Decision Science Intern](https://jobright.ai/jobs/info/6aea63a5440b469a1c0ad96c?utm_campaign=1066&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53be440b469a1c0acfff?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Healthcare Analytics Data Science Graduate Intern](https://jobright.ai/jobs/info/6aea38ed897466e69e31cda4?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Nov 03 |
 | **[Jomboy](https://jomboymedia.com)** | **[Business Intelligence Intern - Spring 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | ↳ | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[EJ](https://ej.com)** | **[Pricing & Data Analyst Intern](https://jobright.ai/jobs/info/6aea56ec897466e69e31e20e?utm_campaign=1066&utm_source=git)** | East Jordan, MI, United States | On Site | Nov 03 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern EGDS Morristown NJ](https://jobright.ai/jobs/info/6aea44de913589212b1f5332?utm_campaign=1066&utm_source=git)** | Morristown, NJ, United States | On Site | Nov 02 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Data Analyst](https://jobright.ai/jobs/info/6aea3062440b469a1c0ab8db?utm_campaign=1066&utm_source=git)** | Chesterfield, MO, United States | On Site | Nov 02 |
 | **[LSEG](https://www.lseg.com/)** | **[Intern - Quantitative Services](https://jobright.ai/jobs/info/6ae9c4c22b0b1eb5805b41db?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 02 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Healthcare Analytics Data Science Graduate Intern](https://jobright.ai/jobs/info/6aea38ed897466e69e31cda4?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Nov 02 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Data Intern - Healthcare Summer 2027](https://jobright.ai/jobs/info/6aea43531ba298c777771258?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/6ae9f73673d24ab055c59b82?utm_campaign=1066&utm_source=git)** | Farmington, CT, United States | Hybrid | Nov 02 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Research Intern, Cancer Risk Prediction](https://jobright.ai/jobs/info/6aea229a913589212b1f3ca0?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | Remote | Nov 02 |
@@ -142,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6aa9c00310b1cd4f41607869?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 02 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8c0c0777c336eb6d65d88?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8bd403d2da752891686d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b7554bbabbab07176dd?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8bb0950ef68d51858ba4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8bfaefb2cd420ace68544?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8a553a69033df225a4a9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8baa03d2da7528916854?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Corporate Security Intern](https://jobright.ai/jobs/info/6ae88bd8061d6d7ff3d7ae14?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | ↳ | **[Digital Ops & Analytics Intern](https://jobright.ai/jobs/info/6ae877e8fb2cd420ace66470?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ac96f40af788e6ad3b5b7e9?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Pharmacology Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac3eb1cd9621c5b2839e932?utm_campaign=1066&utm_source=git)** | San Diego Metropolitan Area, United States | Hybrid | Nov 02 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/6ae88527a2a252e21942719a?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 02 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - BI Analyst (Summer 2027)](https://jobright.ai/jobs/info/6ae860836c51033758f3fea3?utm_campaign=1066&utm_source=git)** | Renton, WA, United States | On Site | Nov 02 |
-| **[Envoy Air](https://www.envoyair.com/)** | **[College Intern - Reliability Technical Services](https://jobright.ai/jobs/info/6ae8447877c09cb3bd4baa2c?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
