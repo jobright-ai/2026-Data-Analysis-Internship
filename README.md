@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6aeac0d9d22d4c08ec605da7?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 03 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aeaac0a440b469a1c0af9c0?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 03 |
 | **[City of Wheaton](https://www.wheaton.il.us)** | **[GIS Intern](https://jobright.ai/jobs/info/6aeaa2bbd22d4c08ec605637?utm_campaign=1066&utm_source=git)** | Wheaton, IL, United States | On Site | Nov 03 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Business Data Analyst Intern](https://jobright.ai/jobs/info/6aea09edfc85f3a39432f171?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Scot Forge](https://www.scotforge.com/)** | **[IT Data Science and Business Intelligence Intern (Summer 2027)](https://jobright.ai/jobs/info/6aea9790fc85f3a394334d4a?utm_campaign=1066&utm_source=git)** | Spring Grove, IL, United States | On Site | Nov 03 |
 | **[Resideo](https://www.resideo.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8c44fa2a252e219429375?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[AI & Decision Science Intern](https://jobright.ai/jobs/info/6aea63a5440b469a1c0ad96c?utm_campaign=1066&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53c0440b469a1c0ad000?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53be440b469a1c0acfff?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Healthcare Analytics Data Science Graduate Intern](https://jobright.ai/jobs/info/6aea38ed897466e69e31cda4?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Nov 03 |
 | **[Jomboy](https://jomboymedia.com)** | **[Business Intelligence Intern - Spring 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | ↳ | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8b6a54bbabbab07176d1?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6ada8bb0950ef68d51858ba4?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Quantitative Researcher – PhD Intern (US)](https://jobright.ai/jobs/info/6ae8bfaefb2cd420ace68544?utm_campaign=1066&utm_source=git)** | New York City, New York, United States | On Site | Nov 02 |
-| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8a553a69033df225a4a9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6ada8baa03d2da7528916854?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Corporate Security Intern](https://jobright.ai/jobs/info/6ae88bd8061d6d7ff3d7ae14?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | ↳ | **[Digital Ops & Analytics Intern](https://jobright.ai/jobs/info/6ae877e8fb2cd420ace66470?utm_campaign=1066&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ac96f40af788e6ad3b5b7e9?utm_campaign=1066&utm_source=git)** | New York, New York, United States | Hybrid | Nov 02 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae8a6da6c51033758f414f4?utm_campaign=1066&utm_source=git)** | Sparks, NV, United States | On Site | Nov 02 |
 | **[Salt Lake City Corporation](https://www.slc.gov)** | **[Intern - Seasonal](https://jobright.ai/jobs/info/6ae0fccf05a39c3e2c70ed8d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 02 |
-| **[First Citizens Wealth](http://www.firstcitizens.com)** | **[2027 Summer Intern - Enterprise Data Analyst, Data Products (Raleigh, NC)](https://jobright.ai/jobs/info/6ae89c53061d6d7ff3d7b37f?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
