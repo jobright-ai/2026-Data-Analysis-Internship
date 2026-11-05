@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Nov 05 |
+| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6aec48418d18f1312e927430?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics (Spring)](https://jobright.ai/jobs/info/6aebce3e82f0ac077443d2e3?utm_campaign=1066&utm_source=git)** | Madera, CA, United States | On Site | Nov 04 |
 | **[HP](http://www.hp.com)** | **[Business Intelligence and Infrastructure Analysts  Intern](https://jobright.ai/jobs/info/6a9f4a54f6ea002358297bd6?utm_campaign=1066&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 04 |
@@ -144,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Scot Forge](https://www.scotforge.com/)** | **[IT Data Science and Business Intelligence Intern (Summer 2027)](https://jobright.ai/jobs/info/6aea9790fc85f3a394334d4a?utm_campaign=1066&utm_source=git)** | Spring Grove, IL, United States | On Site | Nov 03 |
 | **[Resideo](https://www.resideo.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8c44fa2a252e219429375?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[AI & Decision Science Intern](https://jobright.ai/jobs/info/6aea63a5440b469a1c0ad96c?utm_campaign=1066&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53be440b469a1c0acfff?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53c0440b469a1c0ad000?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Healthcare Analytics Data Science Graduate Intern](https://jobright.ai/jobs/info/6aea38ed897466e69e31cda4?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Nov 03 |
-| **[Jomboy](https://jomboymedia.com)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
-| ↳ | **[Business Intelligence Intern - Spring 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
+| **[Jomboy](https://jomboymedia.com)** | **[Business Intelligence Intern - Spring 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
+| ↳ | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[EJ](https://ej.com)** | **[Pricing & Data Analyst Intern](https://jobright.ai/jobs/info/6aea56ec897466e69e31e20e?utm_campaign=1066&utm_source=git)** | East Jordan, MI, United States | On Site | Nov 03 |
 | **[Waypoint Bio](https://www.waypointbio.com)** | **[Computational Biologist Intern](https://jobright.ai/jobs/info/6aea4bc21ba298c77777199e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Osmose](https://www.osmose.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6aea42051ba298c777771173?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6adbac8146a8cabdc1ff42b0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[Kentucky Science & Technology Corporation (KSTC)](https://www.ksef.kstc.org)** | **[Data Management Intern](https://jobright.ai/jobs/info/6aea358c897466e69e31cb36?utm_campaign=1066&utm_source=git)** | Kentucky, United States | Remote | Nov 03 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae9fe42440b469a1c0a8f06?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 03 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6aea1adb440b469a1c0aaa47?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 03 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6ace3a594391691a335ab500?utm_campaign=1066&utm_source=git)** | Macon, GA, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
