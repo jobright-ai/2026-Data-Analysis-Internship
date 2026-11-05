@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Filevine](http://filevine.com)** | **[Legal Research Intern (Part-Time)](https://jobright.ai/jobs/info/6aebd420a0b134121d99e534?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[BI Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aebab0d765815f7d7462aa0?utm_campaign=1066&utm_source=git)** | Memphis, Tennessee, United States | On Site | Nov 04 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6aeb861865311d97105b9837?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 04 |
 | **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Data Analyst](https://jobright.ai/jobs/info/6ab1aaeed2a93d5a97ebc30f?utm_campaign=1066&utm_source=git)** | Aurora, IL, United States | Hybrid | Nov 03 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Generalist (2027 Start Date)](https://jobright.ai/jobs/info/6a7b0a3377e6b569c61be026?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 03 |
 | **[KB Signaling](https://www.linkedin.com/company/104418543)** | **[Intern, Data Scientist (Summer 2027)](https://jobright.ai/jobs/info/6ae9c74b43826864b0fbaa3e?utm_campaign=1066&utm_source=git)** | Melbourne, FL, United States | On Site | Nov 03 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6acd95963c831dc4086c2bab?utm_campaign=1066&utm_source=git)** | Louisville, CO, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
