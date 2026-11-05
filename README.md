@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - Data Analytics (Spring)](https://jobright.ai/jobs/info/6aebce3e82f0ac077443d2e3?utm_campaign=1066&utm_source=git)** | Madera, CA, United States | On Site | Nov 04 |
-| **[HP](http://www.hp.com)** | **[Business Intelligence and Infrastructure Analysts  Intern](https://jobright.ai/jobs/info/6a9f4a54f6ea002358297bd6?utm_campaign=1066&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 04 |
-| ↳ | **[Business Intelligence and Infrastructure Analysts Intern](https://jobright.ai/jobs/info/6a9f75642c964816f65f0268?utm_campaign=1066&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 04 |
+| **[HP](http://www.hp.com)** | **[Business Intelligence and Infrastructure Analysts Intern](https://jobright.ai/jobs/info/6a9f75642c964816f65f0268?utm_campaign=1066&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 04 |
+| ↳ | **[Business Intelligence and Infrastructure Analysts  Intern](https://jobright.ai/jobs/info/6a9f4a54f6ea002358297bd6?utm_campaign=1066&utm_source=git)** | Vancouver, WA, United States | On Site | Nov 04 |
 | **[Venmo](http://venmo.com)** | **[Data Scientist Intern - Summer 2027](https://jobright.ai/jobs/info/6aebe48e765815f7d746450b?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 04 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77a2372c01f6cd723ae2?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 04 |
 | ↳ | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Scot Forge](https://www.scotforge.com/)** | **[IT Data Science and Business Intelligence Intern (Summer 2027)](https://jobright.ai/jobs/info/6aea9790fc85f3a394334d4a?utm_campaign=1066&utm_source=git)** | Spring Grove, IL, United States | On Site | Nov 03 |
 | **[Resideo](https://www.resideo.com/)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ae8c44fa2a252e219429375?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 03 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[AI & Decision Science Intern](https://jobright.ai/jobs/info/6aea63a5440b469a1c0ad96c?utm_campaign=1066&utm_source=git)** | Deerfield Beach, FL, United States | On Site | Nov 03 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53be440b469a1c0acfff?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53c0440b469a1c0ad000?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 03 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Healthcare Analytics Data Science Graduate Intern](https://jobright.ai/jobs/info/6aea38ed897466e69e31cda4?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | Remote | Nov 03 |
 | **[Jomboy](https://jomboymedia.com)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fc?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | ↳ | **[Business Intelligence Intern - Spring 2027](https://jobright.ai/jobs/info/6aea592c913589212b1f60fb?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
