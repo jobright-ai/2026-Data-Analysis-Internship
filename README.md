@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Match](http://www.lifeatmatch.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aedea74d20350c7a50761da?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 06 |
+| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/6aede94ed20350c7a507615e?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 06 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 06 |
 | **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aedda8acaf8e660b87d7ddc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Cost & Asset Optimization - Data Science Analyst Intern 2027](https://jobright.ai/jobs/info/6acfd7b7c0dd9da253cf4daf?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Nov 06 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/6aecb63ea9ea762a04091553?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | Hybrid | Nov 05 |
 | **[Shure](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/6a9a44ca90a313642c654e7c?utm_campaign=1066&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[2027] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/6ac7bfebfcdafb60c6a457e2?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Nov 05 |
-| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
-| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
+| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
+| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
 | **[Davidson Kempner Capital Management](https://www.davidsonkempner.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aecaf073a3fa7f03ea8807a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Spring 2027](https://jobright.ai/jobs/info/6aecc5cd3967d67f6359f7b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, Data IT](https://jobright.ai/jobs/info/6aeca87a3a3fa7f03ea87c5f?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 05 |
@@ -134,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quant Performance Engineer Intern - Summer 2027](https://jobright.ai/jobs/info/6aec8e9ea2661405dc2c41b1?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Performance Metrics Student Summer Intern - Mission Assurance](https://jobright.ai/jobs/info/6aecea5d3a3fa7f03ea8a5d1?utm_campaign=1066&utm_source=git)** | Aiken, SC, United States | On Site | Nov 05 |
 | **[Rippling](https://www.rippling.com)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6ab29b0778c69ff506c3f2d0?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 05 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a9623754c22023a07938531?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 05 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a96264ff28891320e8608ff?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 05 |
 | **[The Marzetti Company](http://www.marzetticompany.com)** | **[IT Analytics Internship - Summer 2027](https://jobright.ai/jobs/info/6ab1458932552369083e1007?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Nov 05 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Information Systems, IT, Data Science Intern - Summer 2027 (U.S. Person Required)](https://jobright.ai/jobs/info/6a95e9784c22023a07936de5?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Seagate Technology](http://www.seagate.com)** | **[R&D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)](https://jobright.ai/jobs/info/6aec6b92a2661405dc2c3803?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aebfba58d18f1312e926428?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Spring 2027 11](https://jobright.ai/jobs/info/6aebeb9a65311d97105bcc15?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[EAM Analyst, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6a8f0f7f309e5f224870a180?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 04 |
-| **[Filevine](http://filevine.com)** | **[Legal Research Intern (Part-Time)](https://jobright.ai/jobs/info/6aebd420a0b134121d99e534?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[BI Developer Intern (Summer 2027)](https://jobright.ai/jobs/info/6aebab0d765815f7d7462aa0?utm_campaign=1066&utm_source=git)** | Memphis, Tennessee, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
