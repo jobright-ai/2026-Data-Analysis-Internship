@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/6ad13235ae21edea94fd4557?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 06 |
+| **[SecondWind by Joveo](https://secondwind-by-joveo.vercel.app/)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aeda42ae0c9de7b05f85cc7?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
+| ↳ | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6aeda423c1491088fb86d2f4?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
+| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern (PhD)](https://jobright.ai/jobs/info/6ad1310ee2d41540d4a6ee3f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6aed99c6c1491088fb86d023?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Data Science Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad881c254bbabbab0707080?utm_campaign=1066&utm_source=git)** | Buford, GA, United States | On Site | Nov 06 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 06 |
@@ -97,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[SecondWind by Joveo](https://secondwind-by-joveo.vercel.app/)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6aecd7523a3fa7f03ea89abf?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Analytics](https://jobright.ai/jobs/info/6aecbd5e3a3fa7f03ea88b02?utm_campaign=1066&utm_source=git)** | Memphis, Tennessee, United States | Hybrid | Nov 05 |
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/6aecb63ea9ea762a04091553?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | Hybrid | Nov 05 |
-| **[Shure](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/6a9a44ca90a313642c654e7c?utm_campaign=1066&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
+| **[Shure](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/6a989de383fc633357632929?utm_campaign=1066&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[2027] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/6ac7bfebfcdafb60c6a457e2?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Nov 05 |
-| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
-| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
+| **[National Life Group](https://www.nationallife.com)** | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4e712303667b98a0219?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
+| ↳ | **[Data Science Intern – Summer 2027](https://jobright.ai/jobs/info/6acfc4f412303667b98a0226?utm_campaign=1066&utm_source=git)** | Addison, TX, United States | On Site | Nov 05 |
 | **[Davidson Kempner Capital Management](https://www.davidsonkempner.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6aecaf073a3fa7f03ea8807a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[WeVote](https://www.WeVote.US)** | **[Political Data Intern - Spring 2027](https://jobright.ai/jobs/info/6aecc5cd3967d67f6359f7b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, Data IT](https://jobright.ai/jobs/info/6aeca87a3a3fa7f03ea87c5f?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 05 |
@@ -131,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a723bcdcb96192a3684cdb5?utm_campaign=1066&utm_source=git)** | Allentown, PA, United States | On Site | Nov 05 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e9262f29acc1a11748797?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 05 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a75864e7b3417772ade492e?utm_campaign=1066&utm_source=git)** | Doylestown, PA, United States | On Site | Nov 05 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Nov 05 |
-| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
+| ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Nov 05 |
 | **[Old Republic Commercial Risk](orcommercialrisk.com)** | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a5e926c050c423c792f02a9?utm_campaign=1066&utm_source=git)** | Norristown, PA, United States | On Site | Nov 05 |
 | ↳ | **[IT Intern – AI & Data Analytics (Microsoft Fabric)](https://jobright.ai/jobs/info/6a7b18d9b933773d16be5384?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 05 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6aec48418d18f1312e927430?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Global Revenue Operations Analytics: Data Analyst Intern](https://jobright.ai/jobs/info/6aed26483a3fa7f03ea8c5d0?utm_campaign=1066&utm_source=git)** | Longmont, CO, United States | Remote | Nov 04 |
 | **[PayPal](https://www.paypal.com/home)** | **[Data Scientist Intern - Summer 2027](https://jobright.ai/jobs/info/6aec3b3bfc34fe5680abf8ea?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 04 |
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aece07bab48a7079381f3f7?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 04 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Health and Clinical Outcomes Research Intern (Master's/PhD Students)](https://jobright.ai/jobs/info/6aed08b4a9ea762a040945f1?utm_campaign=1066&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Nov 04 |
-| **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Data Analyst](https://jobright.ai/jobs/info/6aed1b4e3a3fa7f03ea8c086?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Coinbase](https://www.coinbase.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aa08bc0dbc0e60e37e0e536?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 04 |
-| **[Bank of China (Canada)](http://www.bankofchina.com/ca/en/)** | **[Data Administration Intern](https://jobright.ai/jobs/info/6aebc24f765815f7d7463746?utm_campaign=1066&utm_source=git)** | Markham, ON, Canada | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
