@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
-| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
+| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58a040b5de2d2b31054e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 07 |
+| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad29f71c4290cef1412c22a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/6aeea05040b5de2d2b30daf8?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 05 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Data Science Intern, Summer 2027](https://jobright.ai/jobs/info/6aed17a03a3fa7f03ea8bedc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2027 RIA Intern](https://jobright.ai/jobs/info/6aeb9830a0b134121d99c41c?utm_campaign=1066&utm_source=git)** | Westlake, TX, United States | On Site | Nov 05 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Geographic Information System (GIS) Intern](https://jobright.ai/jobs/info/6aece7a6a9ea762a04093339?utm_campaign=1066&utm_source=git)** | Ames, IA, United States | On Site | Nov 05 |
-| **[FirstService Residential Canada](http://www.fsresidential.com/ontario)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aed16713967d67f635a2601?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
