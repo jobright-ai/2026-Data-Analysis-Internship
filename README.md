@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6aeec2778022f8ddd319bbe2?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Operations Intern (SoundOn) - 2027 Start](https://jobright.ai/jobs/info/6aeeb54c40b5de2d2b30e0e7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 06 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Internship - Technical Content Analytics Job Details / PACCAR](https://jobright.ai/jobs/info/6aeeace50fe787d00ed18221?utm_campaign=1066&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Science Intern [Summer 2027]](https://jobright.ai/jobs/info/6aee6b06d20350c7a507d25b?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 06 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/6ae26308eb7e8f715a60d8cb?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 06 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://jobright.ai/jobs/info/6aee0669d20350c7a507770e?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee14b6caf8e660b87da64f?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee2658e0c9de7b05f8b0f9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Plusgrade](http://www.plusgrade.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aeb66b3765815f7d745ff01?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 06 |
 | **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 06 |
 | **[Galaxy](https://www.galaxy.com)** | **[2027 Research Intern - NYC](https://jobright.ai/jobs/info/6aee1b3fe0c9de7b05f8a264?utm_campaign=1066&utm_source=git)** | New York City, NY, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Analytics](https://jobright.ai/jobs/info/6aecbd5e3a3fa7f03ea88b02?utm_campaign=1066&utm_source=git)** | Memphis, Tennessee, United States | Hybrid | Nov 05 |
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/6aecb63ea9ea762a04091553?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | Hybrid | Nov 05 |
 | **[Shure](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/6a9a44ca90a313642c654e7c?utm_campaign=1066&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 05 |
-| **[Roblox](https://corp.roblox.com)** | **[[2027] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/6ac7bfebfcdafb60c6a457e2?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
