@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
+| ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0fe0b56bea5779c03663?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/6a9b74af9c24314c35f9945f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 07 |
 | **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aef15c740b5de2d2b30f4a1?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6aed399fa2661405dc2c9d83?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 07 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Winsupply](http://www.winsupply.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6a9980cc90a313642c650987?utm_campaign=1066&utm_source=git)** | Moraine, OH, United States | On Site | Nov 06 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Fellow Bill Drexel, Spring 2027](https://jobright.ai/jobs/info/6aee340ec7498922fe0ca0f6?utm_campaign=1066&utm_source=git)** | United States | On Site | Nov 06 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 06 |
-| **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aedf629c7498922fe0c60bc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Cost & Asset Optimization - Data Science Analyst Intern 2027](https://jobright.ai/jobs/info/6acfd7b7c0dd9da253cf4daf?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Nov 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Venue Analytics Intern](https://jobright.ai/jobs/info/6ad0f1c4a4f99fef8194058c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - Warp Speed](https://jobright.ai/jobs/info/6ada8afbe4b94611ab85dbb7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FirstService Residential Canada](http://www.fsresidential.com/ontario)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aed16713967d67f635a2601?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 05 |
 | **[GALLO](http://www.gallocareers.com)** | **[Geospatial Data Science Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ad0cefe3d3a5aa909b3572d?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | On Site | Nov 05 |
 | ↳ | **[Winegrowing Research Data Analyst Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ad0cebc3d3a5aa909b3570a?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | On Site | Nov 05 |
-| **[onsemi](http://www.onsemi.com)** | **[Summer 2027 - IE / Data Analytics Intern](https://jobright.ai/jobs/info/6abad45a3db4ca81fc7c4c63?utm_campaign=1066&utm_source=git)** | Hopewell Junction, NY, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
