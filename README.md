@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Data Governance](https://jobright.ai/jobs/info/6aefa33a0fe787d00ed1bf85?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 07 |
 | **[MSCI Inc.](http://msci.com)** | **[Intern – Data Transformation](https://jobright.ai/jobs/info/6aef8ed78022f8ddd319f067?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Winter 2027)](https://jobright.ai/jobs/info/6aef879d40b5de2d2b311883?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 07 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab62699634ec6aa7c0d22e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ad23adfc4290cef1412914c?utm_campaign=1066&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0fe0b56bea5779c03663?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/6ae26308eb7e8f715a60d8cb?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 06 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://jobright.ai/jobs/info/6aee0669d20350c7a507770e?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee14b6caf8e660b87da64f?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee2658e0c9de7b05f8b0f9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Plusgrade](http://www.plusgrade.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aeb66b3765815f7d745ff01?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 06 |
 | **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 06 |
 | **[Galaxy](https://www.galaxy.com)** | **[2027 Research Intern - NYC](https://jobright.ai/jobs/info/6aee1b3fe0c9de7b05f8a264?utm_campaign=1066&utm_source=git)** | New York City, NY, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/6aed1bdbab48a707938214e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | ↳ | **[Quantitative Research Analyst – Intern (US)](https://jobright.ai/jobs/info/6aed1bb1a9ea762a04094f03?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Pricing & Data Analyst Internship](https://jobright.ai/jobs/info/6aed1b93a9ea762a04094ee1?utm_campaign=1066&utm_source=git)** | Greene, NY, United States | Hybrid | Nov 05 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Researcher – Post-Doctoral Intern (US)](https://jobright.ai/jobs/info/6aed1b6fa9ea762a04094ec7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
