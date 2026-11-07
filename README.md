@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
+| **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/6a9b74af9c24314c35f9945f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 07 |
+| **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aef15c740b5de2d2b30f4a1?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6aed399fa2661405dc2c9d83?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 07 |
-| **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6aef01cd676e3f91d326a5c8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Morgan 6 LLC](http://www.morgan6.com/)** | **[Data Analyst / Data Scientist Intern](https://jobright.ai/jobs/info/6aee3297caf8e660b87dcb88?utm_campaign=1066&utm_source=git)** | Tampa, FL, United States | On Site | Nov 07 |
 | ↳ | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6aee4d2bbd2f33eea72da9cb?utm_campaign=1066&utm_source=git)** | Charleston, SC, United States | On Site | Nov 07 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis and Modeling, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab74542d7fde2c08ec8b654?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2027 - IE / Data Analytics Intern](https://jobright.ai/jobs/info/6abad45a3db4ca81fc7c4c63?utm_campaign=1066&utm_source=git)** | Hopewell Junction, NY, United States | On Site | Nov 05 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '27 Intern - Business Insights](https://jobright.ai/jobs/info/6aed0e7d465e3d2371384340?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 05 |
 | **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship - Research Analytics & Insights](https://jobright.ai/jobs/info/6aecc1043967d67f6359f4bc?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 05 |
-| **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Biostatistics and Data Management Intern](https://jobright.ai/jobs/info/6aed0806ab48a70793820b01?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
-| **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/6aecd85ca2661405dc2c6dc6?utm_campaign=1066&utm_source=git)** | Ames, IA, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
