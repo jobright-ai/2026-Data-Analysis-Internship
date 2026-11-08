@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](https://www.zipline.com)** | **[Aircraft Software Integration Intern (Summer 2027)](https://jobright.ai/jobs/info/6a9b20891388387060596b8f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 08 |
+| **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6a9b2e532cdc5958f53eb3b8?utm_campaign=1066&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 08 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0fe0b56bea5779c03663?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027)](https://jobright.ai/jobs/info/6aeb99b7765815f7d746208b?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6af052ed9f8e479a8bcffec0?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
@@ -75,11 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 07 |
 | **[MSCI Inc.](http://msci.com)** | **[Intern – Data Transformation](https://jobright.ai/jobs/info/6aef8ed78022f8ddd319f067?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Winter 2027)](https://jobright.ai/jobs/info/6aef879d40b5de2d2b311883?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 07 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ab1ce96f9692ca98b04bdbd?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 07 |
-| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af0939340b5de2d2b314795?utm_campaign=1066&utm_source=git)** | United, WV, United States | Remote | Nov 07 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
+| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/6ab1ce96f9692ca98b04bdbd?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 07 |
 | **[Red Ventures](http://www.redventures.com)** | **[2027 Launch Program: Data Science Intern](https://jobright.ai/jobs/info/6ab69cb6b3db59402d101248?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 07 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58a040b5de2d2b31054e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 07 |
-| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad2a04bc4290cef1412c250?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
+| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad29f71c4290cef1412c22a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Data Science Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6ad881c254bbabbab0707080?utm_campaign=1066&utm_source=git)** | Buford, GA, United States | On Site | Nov 06 |
 | **[Match Group](https://mtch.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aee90cad20350c7a507e256?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 05 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Economic Research, Internship – Summer 2027](https://jobright.ai/jobs/info/6aee8c77e0c9de7b05f8fa9a?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 05 |
-| **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/6aed17473a3fa7f03ea8beb3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
-| **[State Farm](https://jhannahco.com)** | **[Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist](https://jobright.ai/jobs/info/6aed0422465e3d2371383bee?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | Hybrid | Nov 05 |
-| **[Deltek](http://www.deltek.com)** | **[Business Intelligence Intern — Reporting and QA](https://jobright.ai/jobs/info/6aed53a2ab48a707938225ba?utm_campaign=1066&utm_source=git)** | Herndon, VA, United States | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
