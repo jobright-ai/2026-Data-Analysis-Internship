@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enova International](https://www.enova.com/)** | **[Analytics Internship Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6af1ec87905985ccaa406b1f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern](https://jobright.ai/jobs/info/6adf6e405dc7953215a3ec5f?utm_campaign=1066&utm_source=git)** | Washington, D.C., United States | On Site | Nov 09 |
 | **[PODS](http://www.pods.com/)** | **[Intern - Operations Data Science](https://jobright.ai/jobs/info/6af1e2dc0cb834dad9320e1a?utm_campaign=1066&utm_source=git)** | Clearwater, FL, United States | On Site | Nov 09 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[BI/Data Analyst Intern](https://jobright.ai/jobs/info/6af1ddf01aaffa49f737e5f0?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 09 |
 | **[PACCAR](http://www.paccar.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af1c637905985ccaa405d6d?utm_campaign=1066&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 09 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab62699634ec6aa7c0d22e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ad23adfc4290cef1412914c?utm_campaign=1066&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Fellow Bill Drexel, Spring 2027](https://jobright.ai/jobs/info/6aee340ec7498922fe0ca0f6?utm_campaign=1066&utm_source=git)** | United States | On Site | Nov 06 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Intern](https://jobright.ai/jobs/info/6aa83b0f654b2a9424cfb6d7?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Cost & Asset Optimization - Data Science Analyst Intern 2027](https://jobright.ai/jobs/info/6acfd7b7c0dd9da253cf4daf?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Nov 06 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Venue Analytics Intern](https://jobright.ai/jobs/info/6ad0f1c4a4f99fef8194058c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - Warp Speed](https://jobright.ai/jobs/info/6ada8afbe4b94611ab85dbb7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
