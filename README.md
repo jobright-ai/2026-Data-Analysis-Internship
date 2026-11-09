@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2027](https://jobright.ai/jobs/info/6a4556fdc2d11a6a46668d9f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 09 |
 | **[Data Robotics](https://www.datarobotics.ai)** | **[Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6af1917674116c3dddb27157?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[IT Co-Op Data Science - 2 roles Job Details / BoehringerPRD](https://jobright.ai/jobs/info/6af18b999cd5f643bc50045a?utm_campaign=1066&utm_source=git)** | Ridgefield, CT, United States | On Site | Nov 09 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2027 Internship Program: Data, Analytics & Technology - Waltham, MA](https://jobright.ai/jobs/info/6af16b19c33baf5d5e216319?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Nov 08 |
@@ -87,16 +88,16 @@ For a complete list, click the following sortable link below:
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 07 |
 | **[Summit](http://www.summitholdings.com)** | **[Data Scientist Intern 2027](https://jobright.ai/jobs/info/6af1193d40b5de2d2b315e9c?utm_campaign=1066&utm_source=git)** | Lakeland, FL, United States | Hybrid | Nov 07 |
 | **[MSCI Inc.](http://msci.com)** | **[Intern – Data Transformation](https://jobright.ai/jobs/info/6aef8ed78022f8ddd319f067?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
-| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/6ab1ce96f9692ca98b04bdbd?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 07 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ab1ce96f9692ca98b04bdbd?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 07 |
+| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
 | **[Red Ventures](http://www.redventures.com)** | **[2027 Launch Program: Data Science Intern](https://jobright.ai/jobs/info/6ab69cb6b3db59402d101248?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 07 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58a040b5de2d2b31054e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 07 |
-| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad29f71c4290cef1412c22a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
+| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad2a04bc4290cef1412c250?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab62699634ec6aa7c0d22e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ad23adfc4290cef1412914c?utm_campaign=1066&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6ad1750c256e49282e6554d1?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Nov 06 |
 | **[General Motors](https://www.gm.com)** | **[2027 Summer Intern,  Data Scaling, Embodied AI (Masters)](https://jobright.ai/jobs/info/6ad14671ae21edea94fd5047?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Nov 06 |
 | **[Daikin Comfort](http://www.daikincomfort.com)** | **[Data Analyst Intern, Summer 2027](https://jobright.ai/jobs/info/6a984785af954907d6572506?utm_campaign=1066&utm_source=git)** | Waller, TX, United States | On Site | Nov 06 |
-| **[Danaher](https://www.danaher.com)** | **[CCM Data Governance - Intern Summer 2027](https://jobright.ai/jobs/info/6ad1271c256e49282e653194?utm_campaign=1066&utm_source=git)** | Logan, UT, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
