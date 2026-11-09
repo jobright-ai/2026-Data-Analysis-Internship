@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Grid](https://www.nationalgrid.com)** | **[Summer 2027 Internship Program: Data, Analytics & Technology - Waltham, MA](https://jobright.ai/jobs/info/6af16b19c33baf5d5e216319?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Nov 08 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[ePro Business & Data Analyst Intern](https://jobright.ai/jobs/info/6af160c1457d636c09131033?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Nov 08 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 08 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 08 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://jobright.ai/jobs/info/6af0fcec40b5de2d2b3159c0?utm_campaign=1066&utm_source=git)** | Honolulu, HI, United States | Hybrid | Nov 08 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Data Science Intern - Summer 2027](https://jobright.ai/jobs/info/6aee3a13e0c9de7b05f8c9fc?utm_campaign=1066&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/6ae26308eb7e8f715a60d8cb?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 06 |
 | **[Ayar Labs](https://ayarlabs.com)** | **[Intern, Link Modeling/Architecture - Statistical Analysis & Modeling](https://jobright.ai/jobs/info/6aee0669d20350c7a507770e?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 06 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee14b6caf8e660b87da64f?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6aee2658e0c9de7b05f8b0f9?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 06 |
 | **[Plusgrade](http://www.plusgrade.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aeb66b3765815f7d745ff01?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 06 |
 | **[Procter & Gamble](https://us.pg.com)** | **[PhD Intern - Data Scientist & Generative AI in Femcare](https://jobright.ai/jobs/info/6ab5ac71b3db59402d0fea7e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 06 |
 | **[Galaxy](https://www.galaxy.com)** | **[2027 Research Intern - NYC](https://jobright.ai/jobs/info/6aee1b3fe0c9de7b05f8a264?utm_campaign=1066&utm_source=git)** | New York City, NY, United States | On Site | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Danaher](https://www.danaher.com)** | **[CCM Data Governance - Intern Summer 2027](https://jobright.ai/jobs/info/6ad1271c256e49282e653194?utm_campaign=1066&utm_source=git)** | Logan, UT, United States | On Site | Nov 06 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/6ad13235ae21edea94fd4557?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 06 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP ISC Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/6ace5f4c4f3229123da3baa3?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Nov 06 |
-| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern (PhD)](https://jobright.ai/jobs/info/6ad1310ee2d41540d4a6ee3f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6aed99c6c1491088fb86d023?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
