@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Nov 10 |
+| **[The Manitowoc Company](http://www.manitowoc.com/)** | **[Summer 2027 Intern - Data Analyst - Aftermarket](https://jobright.ai/jobs/info/6ad682b667bec1d0d9c6fcd1?utm_campaign=1066&utm_source=git)** | Shady Grove, PA, United States | On Site | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Clinical Development Data Science Intern](https://jobright.ai/jobs/info/6ad62aed54bbabbab06f5012?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Behavior Post-training](https://jobright.ai/jobs/info/6ad63e4d67bec1d0d9c6c682?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 10 |
 | **[Acres](https://www.acres.com)** | **[Data Intern](https://jobright.ai/jobs/info/6af24aea905985ccaa40b743?utm_campaign=1066&utm_source=git)** | Fayetteville, AR, United States | On Site | Nov 10 |
-| **[Genmab](https://www.genmab.com)** | **[Clinical & Statistical Programming Intern](https://jobright.ai/jobs/info/6ad64715950ef68d51837ce4?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Clinical & Statistical Programming Intern](https://jobright.ai/jobs/info/6ae8c5d06c51033758f42aaf?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58a040b5de2d2b31054e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 10 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Biostatistics Interactive Benchmarking Platform  Cambridge MA](https://jobright.ai/jobs/info/6af205d3905985ccaa407b4d?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 10 |
 | **[Genmab](https://www.genmab.com)** | **[US CORE Graduate Intern](https://jobright.ai/jobs/info/6ae8e128061d6d7ff3d7e17d?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Fortress OS](https://www.fortresstech.io)** | **[OneElm Summer Intern - Business Intelligence](https://jobright.ai/jobs/info/6af1fa7c1aaffa49f737f5a4?utm_campaign=1066&utm_source=git)** | Nashville, TN, United States | On Site | Nov 09 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Logistics Data Analyst Intern (Remote Friendly)](https://jobright.ai/jobs/info/6af1f9a41116f6f0a0763f56?utm_campaign=1066&utm_source=git)** | Lititz, PA, United States | Remote | Nov 09 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/6af1f11e0cb834dad93213de?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
-| **[PODS](http://www.pods.com/)** | **[Intern - Operations Data Science](https://jobright.ai/jobs/info/6af1e2dc0cb834dad9320e1a?utm_campaign=1066&utm_source=git)** | Clearwater, FL, United States | On Site | Nov 09 |
 | **[Enova International](https://www.enova.com/)** | **[Analytics Internship Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6af1ec87905985ccaa406b1f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern](https://jobright.ai/jobs/info/6adf6e405dc7953215a3ec5f?utm_campaign=1066&utm_source=git)** | Washington, D.C., United States | On Site | Nov 09 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Logistics Data Analyst Intern (Remote Friendly)](https://jobright.ai/jobs/info/6af1cb06905985ccaa405f0d?utm_campaign=1066&utm_source=git)** | Alaska, United States | Remote | Nov 09 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2027 Internship Program: Data, Analytics & Technology - Waltham, MA](https://jobright.ai/jobs/info/6af18b2012d6a5addb2fdfe2?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Nov 08 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Greenhouse Gas Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83c0cb834dad93218bf?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 08 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83a8cbcfef4a59d6d8c?utm_campaign=1066&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 08 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern (EASE)](https://jobright.ai/jobs/info/6af216331116f6f0a0764d0c?utm_campaign=1066&utm_source=git)** | Raritan, NJ, United States | Hybrid | Nov 08 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6af241a262fb9f5fcd896321?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 08 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Campus - MS Statistics Intern](https://jobright.ai/jobs/info/6af20e561aaffa49f738011e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | ↳ | **[Campus - PhD Statistician Intern](https://jobright.ai/jobs/info/6af20cbc1aaffa49f73800ae?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6ad2a7e383ada13a9da07292?utm_campaign=1066&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 07 |
 | ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/6ab1ce96f9692ca98b04bdbd?utm_campaign=1066&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 07 |
 | **[Red Ventures](http://www.redventures.com)** | **[2027 Launch Program: Data Science Intern](https://jobright.ai/jobs/info/6ab69cb6b3db59402d101248?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 07 |
-| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad2a04bc4290cef1412c250?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
+| **[Enverus](https://www.enverus.com)** | **[Intelligence Intern - 26410](https://jobright.ai/jobs/info/6ad29f71c4290cef1412c22a?utm_campaign=1066&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
