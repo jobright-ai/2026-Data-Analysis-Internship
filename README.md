@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics](https://www.gd.com)** | **[Ontology Data Analysis and Validation Intern, Summer 2027](https://jobright.ai/jobs/info/6af28dae6d2bd34f89adb7dc?utm_campaign=1066&utm_source=git)** | Pittsfield, MA, United States | Hybrid | Nov 09 |
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2027 - AI & Data Analytics Intern](https://jobright.ai/jobs/info/6af2817516c956f2357837f7?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 09 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship - Warp Speed](https://jobright.ai/jobs/info/6ada8afbe4b94611ab85dbb7?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 09 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2027 Graduate Internship – Data Science](https://jobright.ai/jobs/info/6af24bfb0cb834dad9325f90?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 09 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2027 Summer Intern - CSI-Assay Bioinformatics](https://jobright.ai/jobs/info/6af27f99c1c5e295b30f76f7?utm_campaign=1066&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 08 |
 | **[Philips](https://www.philips.com)** | **[Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027](https://jobright.ai/jobs/info/6af244f962fb9f5fcd89650c?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 08 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2027 Internship Program: Data, Analytics & Technology - Waltham, MA](https://jobright.ai/jobs/info/6af18b2012d6a5addb2fdfe2?utm_campaign=1066&utm_source=git)** | Waltham, MA, United States | On Site | Nov 08 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83a8cbcfef4a59d6d8c?utm_campaign=1066&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 08 |
-| ↳ | **[Summer 2027 - Greenhouse Gas Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83c0cb834dad93218bf?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 08 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Greenhouse Gas Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83c0cb834dad93218bf?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 08 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83a8cbcfef4a59d6d8c?utm_campaign=1066&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern (EASE)](https://jobright.ai/jobs/info/6af216331116f6f0a0764d0c?utm_campaign=1066&utm_source=git)** | Raritan, NJ, United States | Hybrid | Nov 08 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6af26ba362fb9f5fcd8978cd?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 08 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Campus - PhD Statistician Intern](https://jobright.ai/jobs/info/6af20cbc1aaffa49f73800ae?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2c69925289a0b3bf588a8?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab62699634ec6aa7c0d22e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ad23adfc4290cef1412914c?utm_campaign=1066&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Ridership Analysis and Modeling, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ab74542d7fde2c08ec8b654?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 07 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6aeeec870fe787d00ed18f88?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
-| **[Zoox](https://www.zoox.com/)** | **[Data Science Intern [Summer 2027]](https://jobright.ai/jobs/info/6aee6b06d20350c7a507d25b?utm_campaign=1066&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
