@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amplify](http://www.amplify.com)** | **[Summer 2027: Data Analytics Intern](https://jobright.ai/jobs/info/6ad66a85e4b94611ab83e866?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6af2e0dae2f8101c3d5bcdc4?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 10 |
 | **[Nintendo](http://nintendo.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6ad66c9a52aa6152bb6952b5?utm_campaign=1066&utm_source=git)** | Redmond, WA, United States | On Site | Nov 10 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Ontology Data Analysis and Validation Intern, Summer 2027](https://jobright.ai/jobs/info/6af2b33612ea2d46c53e2b85?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Nov 09 |
@@ -119,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2027 - Greenhouse Gas Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83c0cb834dad93218bf?utm_campaign=1066&utm_source=git)** | Kirkland, WA, United States | On Site | Nov 08 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af1f83a8cbcfef4a59d6d8c?utm_campaign=1066&utm_source=git)** | Chillicothe, OH, United States | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern (EASE)](https://jobright.ai/jobs/info/6af216331116f6f0a0764d0c?utm_campaign=1066&utm_source=git)** | Raritan, NJ, United States | Hybrid | Nov 08 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6af26ba362fb9f5fcd8978cd?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 08 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Campus - PhD Statistician Intern](https://jobright.ai/jobs/info/6af20cbc1aaffa49f73800ae?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
-| ↳ | **[Campus - MS Statistics Intern](https://jobright.ai/jobs/info/6af20e561aaffa49f738011e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6af241a262fb9f5fcd896321?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 08 |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Campus - MS Statistics Intern](https://jobright.ai/jobs/info/6af20e561aaffa49f738011e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
+| ↳ | **[Campus - PhD Statistician Intern](https://jobright.ai/jobs/info/6af20cbc1aaffa49f73800ae?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 08 |
 | **[CSAA Insurance Group](https://csaa-insurance.aaa.com)** | **[Advanced Analysis Intern](https://jobright.ai/jobs/info/6af220f21aaffa49f7381b68?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Nov 08 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://jobright.ai/jobs/info/6af0fcec40b5de2d2b3159c0?utm_campaign=1066&utm_source=git)** | Honolulu, HI, United States | Hybrid | Nov 08 |
 | **[Vendelux](https://vendelux.com)** | **[Data Intern](https://jobright.ai/jobs/info/6a7f3e56927c79391ad074ed?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 08 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2ed6c810010ec72f5a8cd?utm_campaign=1066&utm_source=git)** | Saint Louis, MO, United States | Remote | Nov 07 |
 | ↳ | **[Intern Managed Care Analytics](https://jobright.ai/jobs/info/6ad2a9dd25289a0b3bf5822e?utm_campaign=1066&utm_source=git)** | St. Louis, MO, United States | Remote | Nov 07 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6aef37578022f8ddd319d172?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
-| ↳ | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6ad2ac95c4290cef1412c651?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
+| ↳ | **[Corporate Intern - Data & Analytics Job Details / Border States](https://jobright.ai/jobs/info/6ad4f8de83ada13a9da0d21c?utm_campaign=1066&utm_source=git)** | Fargo, ND, United States | On Site | Nov 07 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2027 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/6ab62699634ec6aa7c0d22e0?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 07 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6ad23adfc4290cef1412914c?utm_campaign=1066&utm_source=git)** | Burlington, MA, United States | Hybrid | Nov 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7e0ffbb56bea5779c03686?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 07 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/6a9b74af9c24314c35f9945f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6aed399fa2661405dc2c9d83?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
