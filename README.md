@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arista Networks](http://www.arista.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6af383b480020ca3a897679b?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Remote | Nov 10 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Metadata Technician - Part-Time Internship](https://jobright.ai/jobs/info/6af3c6545b41d0b65741ff61?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | Hybrid | Nov 10 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Metadata Technician - Part-Time Internship](https://jobright.ai/jobs/info/6af3c1a9769e9374033c9967?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | Hybrid | Nov 10 |
+| **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af356bd7c81de7a524be9bb?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[State of Ohio](http://www.ong.ohio.gov)** | **[Strategic Analytics College Intern (20100184)](https://jobright.ai/jobs/info/6af226d51aaffa49f738212f?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 10 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af3a85280020ca3a89783c7?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
 | **[OnSite Partners, LLC](https://www.onsitepartners.com)** | **[Internship - Analytics - Summer 2027](https://jobright.ai/jobs/info/6af3a6ad10c7aed77861cf29?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | On Site | Nov 10 |
-| **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af356bd7c81de7a524be9bb?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
-| **[Arista Networks](http://www.arista.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6af383b480020ca3a897679b?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Remote | Nov 10 |
 | **[Vizient](https://www.vizientinc.com)** | **[2027 Summer Internship – Spend Management Insights](https://jobright.ai/jobs/info/6af368cb7c81de7a524bf312?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Nov 10 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6af39dea80020ca3a8977b4a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | ↳ | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
@@ -102,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Clinical Development Data Science Intern](https://jobright.ai/jobs/info/6ad62aed54bbabbab06f5012?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Research, Behavior Post-training](https://jobright.ai/jobs/info/6ad63e4d67bec1d0d9c6c682?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 10 |
 | **[Acres](https://www.acres.com)** | **[Data Intern](https://jobright.ai/jobs/info/6af24aea905985ccaa40b743?utm_campaign=1066&utm_source=git)** | Fayetteville, AR, United States | On Site | Nov 10 |
-| **[Genmab](https://www.genmab.com)** | **[Clinical & Statistical Programming Intern](https://jobright.ai/jobs/info/6ad64715950ef68d51837ce4?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
+| **[Genmab](https://www.genmab.com)** | **[Clinical & Statistical Programming Intern](https://jobright.ai/jobs/info/6ae8c5d06c51033758f42aaf?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Data and AI Intern - Flexible Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58a040b5de2d2b31054e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 10 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Biostatistics Interactive Benchmarking Platform  Cambridge MA](https://jobright.ai/jobs/info/6af205d3905985ccaa407b4d?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 10 |
 | **[Genmab](https://www.genmab.com)** | **[US CORE Graduate Intern](https://jobright.ai/jobs/info/6ae8e128061d6d7ff3d7e17d?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enova International](https://www.enova.com/)** | **[Analytics Internship Summer 2027 (Hybrid)](https://jobright.ai/jobs/info/6af1ec87905985ccaa406b1f?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 09 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern](https://jobright.ai/jobs/info/6adf6e405dc7953215a3ec5f?utm_campaign=1066&utm_source=git)** | Washington, D.C., United States | On Site | Nov 09 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Logistics Data Analyst Intern (Remote Friendly)](https://jobright.ai/jobs/info/6af1cb06905985ccaa405f0d?utm_campaign=1066&utm_source=git)** | Alaska, United States | Remote | Nov 09 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Planning Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7f62c4ad9ff00c26bade11?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 09 |
-| **[Summit](http://www.summitholdings.com)** | **[Data Scientist Intern 2027](https://jobright.ai/jobs/info/6af1193d40b5de2d2b315e9c?utm_campaign=1066&utm_source=git)** | Lakeland, FL, United States | Hybrid | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
