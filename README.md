@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[PhD Economics Intern – Reduced Form Causal Inference, Summer 2027](https://jobright.ai/jobs/info/6abbff3c3217d1d13329c77b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
+| **[AFL](http://www.AFLglobal.com)** | **[Business Intelligence (BI) Co-Op- Spring 2027](https://jobright.ai/jobs/info/6aa01d455b2d5633ef3bc782?utm_campaign=1066&utm_source=git)** | Duncan, SC, United States | On Site | Nov 11 |
 | **[exacare ai](https://www.exacare.com/)** | **[Data and Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6af481fb2278454e18c35a97?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 11 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Customer Insights Intern](https://jobright.ai/jobs/info/6af46f679144106c56a1e2d9?utm_campaign=1066&utm_source=git)** | El Segundo, CA, United States | Remote | Nov 11 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Winegrowing Research Data Analyst Internship 2027 Job Details / Gallo](https://jobright.ai/jobs/info/6ad0cebc3d3a5aa909b3570a?utm_campaign=1066&utm_source=git)** | Modesto, CA, United States | On Site | Nov 11 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/6ad66f00e4b94611ab83eaf4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Nov 11 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Spring 2027 Data Science Intern](https://jobright.ai/jobs/info/6a7622897b3417772ade6e1c?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 11 |
-| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Nov 11 |
-| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 11 |
+| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 11 |
+| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Nov 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 11 |
 | **[Omnicom](https://www.omc.com)** | **[Research Intern](https://jobright.ai/jobs/info/6ad7b96952aa6152bb69eb3c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aa054ab500b01124c778516?utm_campaign=1066&utm_source=git)** | Jackson, MS, United States | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PennEngineering®](http://www.pemnet.com/)** | **[AI & Data Intern](https://jobright.ai/jobs/info/6af235b2905985ccaa40aa61?utm_campaign=1066&utm_source=git)** | Danboro, Pennsylvania, United States | On Site | Nov 09 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MS/PhD, Product Data Science](https://jobright.ai/jobs/info/6aad85453dbb1f8967cee008?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 09 |
 | **[Amida Technology Solutions](https://amida.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af2168062fb9f5fcd89350e?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 09 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6af216c0905985ccaa4083e1?utm_campaign=1066&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 09 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Data Analyst Intern (Unpaid Intern)](https://jobright.ai/jobs/info/6af249b062fb9f5fcd8967b3?utm_campaign=1066&utm_source=git)** | Santa Ana, CA, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
