@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Data Visualization)](https://jobright.ai/jobs/info/6af54b1b9144106c56a24e91?utm_campaign=1066&utm_source=git)** | Saginaw, MI, United States | Hybrid | Nov 11 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Insights & Analytics Intern](https://jobright.ai/jobs/info/6af55d682278454e18c3c557?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 11 |
+| **[Encore](https://www.encoreglobal.com/)** | **[IT Data Analyst Intern– Summer 2027](https://jobright.ai/jobs/info/6af3cef4769e9374033c9dc9?utm_campaign=1066&utm_source=git)** | Schiller Park, IL, United States | On Site | Nov 11 |
 | **[McLane Company, Inc.](https://www.mclaneco.com/)** | **[Intern I](https://jobright.ai/jobs/info/6af525fecbd2ee75d155fbb4?utm_campaign=1066&utm_source=git)** | Temple, TX, United States | On Site | Nov 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Data & Quantitative Sciences Intern-Summer 2027](https://jobright.ai/jobs/info/6af51491cd7be4db20d8ada5?utm_campaign=1066&utm_source=git)** | Princeton, NJ, United States | On Site | Nov 11 |
 | **[CHAMP](http://www.champtitles.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/6af528cb9144106c56a241f2?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 11 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Metadata Technician - Part-Time Internship](https://jobright.ai/jobs/info/6af3c1a9769e9374033c9967?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | Hybrid | Nov 10 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6af2e28010c7aed778616171?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 10 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2027](https://jobright.ai/jobs/info/6af2e0dae2f8101c3d5bcdc4?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 10 |
-| **[Encore](https://www.encoreglobal.com/)** | **[IT Data Analyst Intern– Summer 2027](https://jobright.ai/jobs/info/6af3cef4769e9374033c9dc9?utm_campaign=1066&utm_source=git)** | Schiller Park, IL, United States | On Site | Nov 10 |
 | **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af356bd7c81de7a524be9bb?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Arista Networks](http://www.arista.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6af383b480020ca3a897679b?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | Remote | Nov 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Metadata Technician - Part-Time Internship](https://jobright.ai/jobs/info/6af3c6545b41d0b65741ff61?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AmericanAg®](https://www.aaic.com/)** | **[GIS/ Exposure Management Intern](https://jobright.ai/jobs/info/6af3375a4ac248020e8cec90?utm_campaign=1066&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 10 |
 | **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6af3de5a50da4f7200923503?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 10 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Optimization Intern](https://jobright.ai/jobs/info/6ad6463b67bec1d0d9c6cc35?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Nov 10 |
-| **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6a2c15cdfc064474905481cb?utm_campaign=1066&utm_source=git)** | USA - NJ - Camden, US | On Site | Nov 10 |
-| **[The New York Times](https://www.nytco.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6af249bc62fb9f5fcd8967cf?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
