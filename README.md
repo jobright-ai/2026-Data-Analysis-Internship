@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITT Inc.](http://www.itt.com)** | **[Data Analytics / AI Intern (Summer 2027)](https://jobright.ai/jobs/info/6abd85730e027c0f3b39635e?utm_campaign=1066&utm_source=git)** | Irvine, CA, United States | On Site | Nov 12 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Data Scientist Intern - Python](https://jobright.ai/jobs/info/6aa088f93b5aa83237b09c06?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 12 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-Learning & Development (Data Visualization)](https://jobright.ai/jobs/info/6af54b1b9144106c56a24e91?utm_campaign=1066&utm_source=git)** | Saginaw, MI, United States | Hybrid | Nov 11 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Insights & Analytics Intern](https://jobright.ai/jobs/info/6af55d682278454e18c3c557?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 11 |
 | **[Encore](https://www.encoreglobal.com/)** | **[IT Data Analyst Intern– Summer 2027](https://jobright.ai/jobs/info/6af3cef4769e9374033c9dc9?utm_campaign=1066&utm_source=git)** | Schiller Park, IL, United States | On Site | Nov 11 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Clinical Statistical Modeling Cambridge MA](https://jobright.ai/jobs/info/6af390ac769e9374033c7b70?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 11 |
 | **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/6ad66f00e4b94611ab83eaf4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Nov 11 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Spring 2027 Data Science Intern](https://jobright.ai/jobs/info/6a7622897b3417772ade6e1c?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 11 |
-| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Nov 11 |
-| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 11 |
+| **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 11 |
+| ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Nov 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (TikTok Shop-Supply Chain & Logistics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a33c1a4649fdf16292f2b8a?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 11 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30e12189f8f147d3737205?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 11 |
 | **[Omnicom](https://www.omc.com)** | **[Research Intern](https://jobright.ai/jobs/info/6ad7b96952aa6152bb69eb3c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Nov 11 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov)** | **[Strategic Analytics College Intern (20100184)](https://jobright.ai/jobs/info/6af226d51aaffa49f738212f?utm_campaign=1066&utm_source=git)** | Columbus, OH, United States | Hybrid | Nov 10 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af3a85280020ca3a89783c7?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
 | **[TGS](https://www.tgs.com)** | **[Data Science Intern (R&T)](https://jobright.ai/jobs/info/6af543b6cbd2ee75d15602dd?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Nov 10 |
-| **[Sanofi](https://www.sanofi.com)** | **[2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA](https://jobright.ai/jobs/info/6af4f74dcbd2ee75d155ed20?utm_campaign=1066&utm_source=git)** | Framingham, MA, United States | On Site | Nov 10 |
-| ↳ | **[2027 Summer Intern Statistical Methodology Cambridge MA](https://jobright.ai/jobs/info/6af4f0891b2c5dcbbcd65ace?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts, United States | On Site | Nov 10 |
+| **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Statistical Methodology Cambridge MA](https://jobright.ai/jobs/info/6af4f0891b2c5dcbbcd65ace?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts, United States | On Site | Nov 10 |
+| ↳ | **[2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA](https://jobright.ai/jobs/info/6af4f74dcbd2ee75d155ed20?utm_campaign=1066&utm_source=git)** | Framingham, MA, United States | On Site | Nov 10 |
 | **[Panera Bread](http://panerabread.com)** | **[Data Science & AI Analytics - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6af4d2f6cd7be4db20d88c4d?utm_campaign=1066&utm_source=git)** | United States | On Site | Nov 10 |
 | **[Genentech](http://gene.com)** | **[2027 Summer Intern - Biostatistics and Analytical Data Sciences](https://jobright.ai/jobs/info/6af4b7713a9a26aee709ffb5?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 10 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6af4ef3b1b2c5dcbbcd659fc?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Intern III, Student Support](https://jobright.ai/jobs/info/6af341df769e9374033c4495?utm_campaign=1066&utm_source=git)** | LaGrange, IL, United States | On Site | Nov 10 |
 | ↳ | **[Intern III, Student Support](https://jobright.ai/jobs/info/6af3424f80020ca3a8973a7b?utm_campaign=1066&utm_source=git)** | LaGrange, IL, United States | On Site | Nov 10 |
 | **[AmericanAg®](https://www.aaic.com/)** | **[GIS/ Exposure Management Intern](https://jobright.ai/jobs/info/6af3375a4ac248020e8cec90?utm_campaign=1066&utm_source=git)** | Schaumburg, IL, United States | On Site | Nov 10 |
-| **[KPE Research Solutions](https://kpersolutions.com)** | **[Research Assistant Intern (unpaid)](https://jobright.ai/jobs/info/6af3de5a50da4f7200923503?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 10 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Optimization Intern](https://jobright.ai/jobs/info/6ad6463b67bec1d0d9c6cc35?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Remote | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
