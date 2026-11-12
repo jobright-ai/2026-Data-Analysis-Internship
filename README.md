@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[PhD Economics Intern – Reduced Form Causal Inference, Summer 2027](https://jobright.ai/jobs/info/6abbff3c3217d1d13329c77b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 12 |
 | **[Moderna](http://www.modernatx.com)** | **[Intern, Infectious Disease Epidemiology](https://jobright.ai/jobs/info/6abbe393d6acfd3dd29fa571?utm_campaign=1066&utm_source=git)** | Cambridge, MA, United States | Hybrid | Nov 12 |
 | **[ASM Global](https://asmglobal.com/)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6a40c5cc9dd7f954cafe85b8?utm_campaign=1066&utm_source=git)** | Culver City, CA, United States | On Site | Nov 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a84a4a92f4f0014cae21dd6?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
-| ↳ | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Nov 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start](https://jobright.ai/jobs/info/6a706e07419cf50d04e41812?utm_campaign=1066&utm_source=git)** | San Jose | On Site | Nov 12 |
+| ↳ | **[Research Scientist Intern (TikTok-Data-Search-Visual Search) - 2027 Start (PhD)](https://jobright.ai/jobs/info/6a84a4a92f4f0014cae21dd6?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/6aa1799c0ffb3d4fea6b4e55?utm_campaign=1066&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2027 Summer](https://jobright.ai/jobs/info/6a72f51b6ffeee418e5b7eac?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
 | ↳ | **[Data Science Project Intern (Advertisement Team) - 2026 Start](https://jobright.ai/jobs/info/6a8419418d793736c6133bf1?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 12 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[exacare ai](https://www.exacare.com/)** | **[Data and Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6af481fb2278454e18c35a97?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 11 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[(Year-Round) Graduate Intern - Marine Hydrokinetic Data Curation](https://jobright.ai/jobs/info/6ad7cd0554bbabbab0702663?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | On Site | Nov 11 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Quantitative Analytics & Data Science Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6abad3421acb8fc6f09c1c11?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 11 |
-| **[Amazon](https://amazon.com)** | **[PhD Economics Intern – Reduced Form Causal Inference, Summer 2027](https://jobright.ai/jobs/info/6abbff3c3217d1d13329c77b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6abc26bc7119e56191cebc07?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 11 |
 | **[AFL](http://www.AFLglobal.com)** | **[Business Intelligence (BI) Co-Op- Spring 2027](https://jobright.ai/jobs/info/6aa01d455b2d5633ef3bc782?utm_campaign=1066&utm_source=git)** | Duncan, SC, United States | On Site | Nov 11 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 11 |
