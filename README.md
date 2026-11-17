@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d1006c0aac84dd97751?utm_campaign=1066&utm_source=git)** | Quincy, MA, United States | Hybrid | Nov 17 |
+| ↳ | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d16b2e06df2579760ca?utm_campaign=1066&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 17 |
+| ↳ | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d15c96cba79575c0b28?utm_campaign=1066&utm_source=git)** | Scarborough, ME, United States | Hybrid | Nov 17 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6adf903dc5c64fa3d9cbcf84?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 17 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Statistics Summer Intern](https://jobright.ai/jobs/info/6afb6cb5c96cba79575bebe3?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 17 |
+| **[Veltrana Group](veltranagroup.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6afc2b1240b855eb290c95e6?utm_campaign=1066&utm_source=git)** | Waller, TX, United States | On Site | Nov 17 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Electric Vehicle Charging Data Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6afbd641755d7cdf657fd796?utm_campaign=1066&utm_source=git)** | Idaho Falls, ID, United States | On Site | Nov 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - 2027 Summer Games Data Scientist Intern - Lexington, MA](https://jobright.ai/jobs/info/6afc1b9607bef169f5fff834?utm_campaign=1066&utm_source=git)** | Lexington, MA, United States | Hybrid | Nov 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Web Analyst](https://jobright.ai/jobs/info/6afb2cdd04af1c9f075c4a75?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
@@ -104,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6af39dea80020ca3a8977b4a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
 | **[Copper Hill](https://copper-hill-inc.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/6afb31a4484fef921e048a35?utm_campaign=1066&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 16 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Web Analyst](https://jobright.ai/jobs/info/6afb2eea04af1c9f075c4be8?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ab68f379d4843569fe4defb?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Nov 16 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6acd95963c831dc4086c2bab?utm_campaign=1066&utm_source=git)** | Louisville, CO, United States | On Site | Nov 16 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6acd95963c831dc4086c2bab?utm_campaign=1066&utm_source=git)** | Louisville, CO, United States | On Site | Nov 16 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Nov 16 |
 | **[Dell Technologies](https://www.dell.com)** | **[User Research Graduate Intern](https://jobright.ai/jobs/info/6afb24b15305ed998d91a2c9?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Data & AI Solutions (PCL)](https://jobright.ai/jobs/info/6afb2396317abe715a260e73?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Data & AI Solutions (PCL)](https://jobright.ai/jobs/info/6afb2189484fef921e047d48?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
@@ -127,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Food Lion](https://www.foodlion.com)** | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afba31cc96cba79575c0efc?utm_campaign=1066&utm_source=git)** | Quincy, MA, United States | Hybrid | Nov 15 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Data Science](https://jobright.ai/jobs/info/6afb531b5305ed998d91c7a6?utm_campaign=1066&utm_source=git)** | Rochester, NY, United States | On Site | Nov 15 |
 | ↳ | **[Intern, Data and AI Enablement](https://jobright.ai/jobs/info/6afb35a05305ed998d91b1f5?utm_campaign=1066&utm_source=git)** | Rochester, NY, United States | On Site | Nov 15 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Statistics Summer Intern](https://jobright.ai/jobs/info/6afb6cb5c96cba79575bebe3?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD, United States | Hybrid | Nov 15 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[SULI Transportation Energy Data Analysis Intern](https://jobright.ai/jobs/info/6afb8699c5917ce34b5dbe3c?utm_campaign=1066&utm_source=git)** | Lemont, IL, United States | On Site | Nov 15 |
 | **[National Laboratory of the Rockies](https://www.nlr.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6af62111f10ae27369e16dcf?utm_campaign=1066&utm_source=git)** | Golden, CO, United States | Remote | Nov 15 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://jobright.ai/jobs/info/6aa44380f7baf881567ce177?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 15 |
@@ -139,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com)** | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa37ac9b47caa3aec72c42e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 15 |
 | ↳ | **[Data Analytics Intern (Spring 2027)](https://jobright.ai/jobs/info/6aa38c6d4233a2201a2b200d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 15 |
 | **[MS Transverse](https://transverseinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6af05e88676e3f91d326f24b?utm_campaign=1066&utm_source=git)** | New York City metropolitan area, United States | On Site | Nov 15 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ada65023a69033df22587c0?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 15 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6aecdc10ab48a7079381f228?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 15 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6aecdc10ab48a7079381f228?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 15 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6ada65023a69033df22587c0?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 15 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern-RR](https://jobright.ai/jobs/info/6aa45573422289703bd66341?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2027 Corporate Analyst Development Program - Summer Analyst (DE, TX, FL)](https://jobright.ai/jobs/info/6a60ef60ab14335fc0f160ef?utm_campaign=1066&utm_source=git)** | Newark, DE, United States | On Site | Nov 15 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2027](https://jobright.ai/jobs/info/6aa47a77c1928370a285e18f?utm_campaign=1066&utm_source=git)** | Neenah, WI, United States | On Site | Nov 15 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ae53891d7424a2a828ec64b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abe99250e027c0f3b399bba?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 14 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Data Science Intern](https://jobright.ai/jobs/info/6adbc32e5dc7953215a34522?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16307ef23570cae2439c2?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)](https://jobright.ai/jobs/info/6aa163283272060a8e3ef875?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168ba500b01124c77c7bd?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa17f47ef23570cae244141?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 14 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
