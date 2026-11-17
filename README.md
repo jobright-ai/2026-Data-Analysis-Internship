@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Idaho National Laboratory](https://inl.gov)** | **[Electric Vehicle Charging Data Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6afbd641755d7cdf657fd796?utm_campaign=1066&utm_source=git)** | Idaho Falls, ID, United States | On Site | Nov 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6afba31dc96cba79575c0efd?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 16 |
 | **[Duke University](http://www.duke.edu)** | **[NonDuke Student/Intern](https://jobright.ai/jobs/info/6afba843c2bd7db01b883b58?utm_campaign=1066&utm_source=git)** | Durham, NC, United States | On Site | Nov 16 |
 | **[Gorbel](https://www.gorbel.com/)** | **[Data BI Analyst Co-Op](https://jobright.ai/jobs/info/6afb5ee15305ed998d91d1b0?utm_campaign=1066&utm_source=git)** | Victor, NY, United States | On Site | Nov 16 |
@@ -145,16 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Quant & Data Analytics Intern](https://jobright.ai/jobs/info/6ac03f68372c01f6cd72b636?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 14 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6abe99250e027c0f3b399bba?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 14 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Data Science Intern](https://jobright.ai/jobs/info/6adbc32e5dc7953215a34522?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111a7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa1c3eeef23570cae2460f6?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16828dbc0e60e37e111a7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)](https://jobright.ai/jobs/info/6aa163283272060a8e3ef875?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1631fef23570cae2439ce?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16314ef23570cae2439c9?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16828500b01124c77c787?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa17f47ef23570cae244141?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 14 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168ba500b01124c77c7bd?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16332ef23570cae2439e8?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa16836dbc0e60e37e111c2?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa1631fef23570cae2439ce?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6aa168ba500b01124c77c7bd?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Data Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620835427cce9bb2d703?utm_campaign=1066&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Fellowship 2027](https://jobright.ai/jobs/info/6a3b8f084d047136e092de2f?utm_campaign=1066&utm_source=git)** | Jupiter, FL, United States | On Site | Nov 14 |
-| **[Amway](http://www.amway.com)** | **[Data Analytics Intern, Summer 2027 (REQ#43460)](https://jobright.ai/jobs/info/6aa4130d1d92e2d05d1132d4?utm_campaign=1066&utm_source=git)** | Ada, MI, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
