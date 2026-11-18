@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Google](https://www.google.com)** | **[Business Data Scientist Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa8013682e82a31997c32e7?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 18 |
+| **[Google](https://www.google.com)** | **[Data Scientist, Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa80551654b2a9424cfa1ec?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 18 |
+| ↳ | **[Business Data Scientist Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa8013682e82a31997c32e7?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 18 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Consumer Business Unit - Data Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd74afae74a0834ee59?utm_campaign=1066&utm_source=git)** | Middleton, WI, United States | On Site | Nov 18 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Geographic Information Systems (Summer 2027)](https://jobright.ai/jobs/info/6afd7fb7806cd61967ea42c6?utm_campaign=1066&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 18 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Spatial Data R&D Intern - The Toro Company](https://jobright.ai/jobs/info/6aa4362cc1928370a285d0b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Nov 18 |
@@ -86,10 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Summer 2027)](https://jobright.ai/jobs/info/6afcb95094232f5ac42d1068?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 17 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027)](https://jobright.ai/jobs/info/6aeb99b7765815f7d746208b?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Korean Peninsula Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc727e0cdcfc91142fa86?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Middle East Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc73894232f5ac42d1be0?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
 | ↳ | **[China & Taiwan Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc74894232f5ac42d1be4?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
 | ↳ | **[Russia & Ukraine Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc75094232f5ac42d1be6?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
-| ↳ | **[Middle East Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc73894232f5ac42d1be0?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
+| ↳ | **[Korean Peninsula Intelligence Analysis Internship Spring 2027](https://jobright.ai/jobs/info/6afcc727e0cdcfc91142fa86?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Remote | Nov 17 |
 | **[TPG](http://www.tpg.com)** | **[Y Analytics, Health and Social Impact, Spring Research Assistant, Internship](https://jobright.ai/jobs/info/6afca9d994232f5ac42d0909?utm_campaign=1066&utm_source=git)** | AZ, United States | Remote | Nov 17 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Investment Management - Data Scientist - Summer Internship 2027](https://jobright.ai/jobs/info/6afc6d5e755d7cdf658006b1?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 17 |
 | **[Attain Partners](http://www.attain.com/)** | **[Summer 2027 Data Analytics Intern](https://jobright.ai/jobs/info/6afc982ee4190296fd33dcd8?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | Hybrid | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2027 Data & Process Analytics Intern](https://jobright.ai/jobs/info/6ae8f95d6c51033758f44f41?utm_campaign=1066&utm_source=git)** | Torrance, CA, United States | On Site | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Data Analytics (CCL)](https://jobright.ai/jobs/info/6afb7907c5917ce34b5db4b4?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://jobright.ai/jobs/info/6af75d56c7349029d7094f4c?utm_campaign=1066&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 16 |
-| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Samsung Care AI Data Analytic Intern](https://jobright.ai/jobs/info/6aeeaeca9f8e479a8bcfa217?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
