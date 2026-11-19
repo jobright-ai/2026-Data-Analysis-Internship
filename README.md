@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HERE Technologies](https://www.here.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6afe2c34f170d82b396722e6?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 18 |
+| **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe29f40cde47528ec1280c?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 18 |
 | **[Syngenta](http://www.syngenta.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6afe2050f3e7976cc610c203?utm_campaign=1066&utm_source=git)** | Greensboro, NC, United States | On Site | Nov 18 |
 | **[CAPITAL Services](http://capitalsvcs.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6afe15cff3e7976cc610bc64?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 18 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ada63974c3adc437cecc557?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 18 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/6afe128a0cde47528ec1183e?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Nov 17 |
 | **[Attain Partners](http://www.attain.com/)** | **[Summer 2027 Data Analytics Intern](https://jobright.ai/jobs/info/6afc982ee4190296fd33dcd8?utm_campaign=1066&utm_source=git)** | McLean, VA, United States | Hybrid | Nov 17 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/6afca839e8a9612f4e0da457?utm_campaign=1066&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 17 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aa422e8f3aa936e2cdaff28?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Nov 17 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ab68f379d4843569fe4defb?utm_campaign=1066&utm_source=git)** | Olathe, KS, United States | On Site | Nov 17 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/6acd95963c831dc4086c2bab?utm_campaign=1066&utm_source=git)** | Louisville, CO, United States | On Site | Nov 17 |
 | **[The Vertex Companies LLC](http://vertexeng.com)** | **[Intern](https://jobright.ai/jobs/info/6afccf03d86c15318a38e73b?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[The Nuclear Company](https://www.thenuclearcompany.com)** | **[Spring 2027 Data Science Intern](https://jobright.ai/jobs/info/6a7622897b3417772ade6e1c?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](https://www.moodys.com)** | **[Analytics & Modeling Summer Intern](https://jobright.ai/jobs/info/6afb86b2b2e06df2579753f8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d1006c0aac84dd97751?utm_campaign=1066&utm_source=git)** | Quincy, MA, United States | Hybrid | Nov 17 |
 | ↳ | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d16b2e06df2579760ca?utm_campaign=1066&utm_source=git)** | Carlisle, PA, United States | Hybrid | Nov 17 |
-| ↳ | **[Demand Systems Analyst Intern](https://jobright.ai/jobs/info/6afb9d15c96cba79575c0b28?utm_campaign=1066&utm_source=git)** | Scarborough, ME, United States | Hybrid | Nov 17 |
-| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6adf903dc5c64fa3d9cbcf84?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
