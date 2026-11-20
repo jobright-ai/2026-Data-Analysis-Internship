@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Data Science](https://jobright.ai/jobs/info/6b001aff0f536e0ba72724e5?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 20 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street’s Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://jobright.ai/jobs/info/6affdc4872b9be368529462d?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
 | **[UPS](http://www.ups.com)** | **[2027 Summer Engineering Intern - Cleveland OH](https://jobright.ai/jobs/info/6aee2ecbbd2f33eea72d8e50?utm_campaign=1066&utm_source=git)** | Middleburg Heights, OH, United States | On Site | Nov 19 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Bioinformatics Scientist](https://jobright.ai/jobs/info/6afe6d834ab3081626ab14d3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Engineering Data Analytics Co-op – Spring 2027](https://jobright.ai/jobs/info/6aff78a76f4ca73dfeb447b2?utm_campaign=1066&utm_source=git)** | Lewisberry, PA, United States | On Site | Nov 19 |
 | **[Docusign](http://www.docusign.com)** | **[Product Data Science Intern](https://jobright.ai/jobs/info/6aff2a8d1c42ea8f6b9fdc96?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 19 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff62bc1c42ea8f6ba00040?utm_campaign=1066&utm_source=git)** | State College, PA, United States | On Site | Nov 19 |
-| **[Emmes Group](https://theemmesgroup.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6af237a41116f6f0a0767691?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
+| **[Emmes Group](https://theemmesgroup.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6af235ec0cb834dad93250de?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[Data and Analytics Internship - Summer 2027](https://jobright.ai/jobs/info/6aed05fbab48a70793820980?utm_campaign=1066&utm_source=git)** | Red Wing, MN, United States | Hybrid | Nov 19 |
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoW SkillBridge)](https://jobright.ai/jobs/info/6aff8db3865dbcc3f26fda4f?utm_campaign=1066&utm_source=git)** | Columbia, MD, United States | On Site | Nov 19 |
 | **[A.P. Moller - Maersk](http://www.maersk.com)** | **[Intern, Insights & Analytics](https://jobright.ai/jobs/info/6aff4d5eb88323bd981bdae9?utm_campaign=1066&utm_source=git)** | Santa Fe Springs, CA, United States | On Site | Nov 19 |
@@ -133,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[MPP Data Analytics Intern](https://jobright.ai/jobs/info/6ae22b816679108488c48725?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 19 |
 | **[Q2](https://www.q2.com)** | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6aa9a82010b1cd4f41606eb6?utm_campaign=1066&utm_source=git)** | Austin, TX, United States | On Site | Nov 19 |
 | ↳ | **[2027 Summer Internship - Data Science](https://jobright.ai/jobs/info/6abbe6197119e56191ce9c38?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | On Site | Nov 19 |
-| **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab619ffb3db59402d0ffe85?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Nov 19 |
+| **[HDR](http://www.hdrinc.com)** | **[Data Science Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa93d0b09ae03adcacdc52e?utm_campaign=1066&utm_source=git)** | Omaha, NE, United States | On Site | Nov 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Fuel Market Analyst Intern (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6afeb640b88323bd981b9b61?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK, United States | On Site | Nov 19 |
 | **[BBP](http://www.bbpsales.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/6afe9e51959c7033f184c4b4?utm_campaign=1066&utm_source=git)** | Baton Rouge, LA, United States | On Site | Nov 18 |
 | **[Filevine](http://filevine.com)** | **[Legal Research Intern (Part-Time)](https://jobright.ai/jobs/info/6aebd420a0b134121d99e534?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CAPITAL Services](http://capitalsvcs.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6afe15cff3e7976cc610bc64?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 18 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ada63974c3adc437cecc557?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 18 |
 | **[ABB](https://global.abb/group/en)** | **[Power BI Intern- Summer 2027](https://jobright.ai/jobs/info/6afce0b6d163750294927cd3?utm_campaign=1066&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 18 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Analytics Internship: Summer 2027](https://jobright.ai/jobs/info/6afdfe190cde47528ec10b77?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
