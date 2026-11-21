@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Galaxy](https://www.galaxy.com)** | **[2027 Research Intern - NYC](https://jobright.ai/jobs/info/6aee1b3fe0c9de7b05f8a264?utm_campaign=1066&utm_source=git)** | New York City, NY, United States | On Site | Nov 20 |
+| **[Galaxy](https://www.galaxy.com)** | **[2027 Research Intern - NYC](https://jobright.ai/jobs/info/6aee1b3fe0c9de7b05f8a264?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Impulse Space](https://www.impulsespace.com)** | **[Supply Chain Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6b00e2eda512f514bbde135a?utm_campaign=1066&utm_source=git)** | Redondo Beach, CA, United States | On Site | Nov 20 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 PowerFolio Data Analyst Intern - Houston Office](https://jobright.ai/jobs/info/6b00ececaf6fea8c089b58fe?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
+| **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[Intern Data Scientist 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6b011665f6ef85c61a50e7dd?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov)** | **[FDA Data Science Fellowship – Development of Web Application to Support Regulatory Knowledge](https://jobright.ai/jobs/info/6b00eb19a512f514bbde17ce?utm_campaign=1066&utm_source=git)** | Jefferson, AR, United States | On Site | Nov 20 |
 | **[Zipline](https://www.zipline.com)** | **[Maps Intern (Spring 2027)](https://jobright.ai/jobs/info/6a91f363a27a2d3c9848ac4d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 20 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, AI-Powered Competitive Intelligence & Revenue Analytics](https://jobright.ai/jobs/info/6b009fea0f536e0ba7275a4d?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 20 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Constellation PowerLabs](http://www.exelonpowerlabs.com)** | **[2027 PowerFolio Data Analyst Intern - Houston Office](https://jobright.ai/jobs/info/6b00b7b4d1fe3bc162e3e4fa?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Ancillary Revenue AI & Data Automation](https://jobright.ai/jobs/info/6b00b461d1fe3bc162e3e2f0?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 20 |
 | **[eBay](https://www.ebay.com/)** | **[2027 Data Science & Analytics Internship](https://jobright.ai/jobs/info/6b00b45cd1fe3bc162e3e2e8?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 20 |
-| **[EmployStats](https://employstats.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/6b00b44689d8ca1e84958c62?utm_campaign=1066&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Information Systems Analyst (Winter 2027)](https://jobright.ai/jobs/info/6b00a352e0dc961959282c1f?utm_campaign=1066&utm_source=git)** | Dorval, QC, Canada | Hybrid | Nov 20 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, AI-Powered Competitive Intelligence & Revenue Analytics](https://jobright.ai/jobs/info/6b009d06dfa58e4c244dcded?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 20 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Information Technology Intern - Business Intelligence](https://jobright.ai/jobs/info/6b009ce33a9a0230ab028f62?utm_campaign=1066&utm_source=git)** | Bonita Springs, FL, United States | On Site | Nov 20 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ac9f1c4e904689b0e01716e?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 19 |
 | **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2027 Start)](https://jobright.ai/jobs/info/6ada6b94e4b94611ab85c2df?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Scientist Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6ab5aa8ab3db59402d0fea04?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 19 |
-| **[Dyna Robotics](https://www.dyna.co)** | **[Research Internship](https://jobright.ai/jobs/info/6a5f801833ef5c58b4ffe365?utm_campaign=1066&utm_source=git)** | Redwood City, CA, United States | On Site | Nov 19 |
+| **[Dyna Robotics](https://www.dyna.co)** | **[Research Internship](https://jobright.ai/jobs/info/6a28724c40ac8e32932a192b?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
