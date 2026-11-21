@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Process Data Analytics Intern](https://jobright.ai/jobs/info/6b01702da512f514bbde3161?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 21 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Asian Economics](https://jobright.ai/jobs/info/6ab6b5ad4873fd3fd852ec6a?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6ab6d09e62bb1fbd451dbfe8?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[Molex](http://www.molex.com)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/6b013d6e0ae14188d58c3b52?utm_campaign=1066&utm_source=git)** | Lisle, IL, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Samsung Care AI Data Analytic Intern](https://jobright.ai/jobs/info/6aeeaeca9f8e479a8bcfa217?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Nov 19 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analytics](https://jobright.ai/jobs/info/6ae91a22777c336eb6d69a69?utm_campaign=1066&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Nov 19 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2027 (USA)](https://jobright.ai/jobs/info/6abe923c8ff3fb9b3bc748ab?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 19 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2027)](https://jobright.ai/jobs/info/6ac9f1c4e904689b0e01716e?utm_campaign=1066&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
