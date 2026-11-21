@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6b01903daf6fea8c089b7471?utm_campaign=1066&utm_source=git)** | Bloomington, MN, United States | On Site | Nov 21 |
+| **[Milliman](http://www.milliman.com)** | **[Data Analytics Intern - Summer 2027 - IntelliScript](https://jobright.ai/jobs/info/6a90b6278ffa38557e6ce8a5?utm_campaign=1066&utm_source=git)** | Brookfield, WI, United States | On Site | Nov 21 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Ancillary Revenue AI & Data Automation](https://jobright.ai/jobs/info/6b00beb5e0dc961959283ea5?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 21 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Insurance Technology & AI Analytics Intern, Summer 2027](https://jobright.ai/jobs/info/6ae22a6c05a39c3e2c71762d?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern (Finance)](https://jobright.ai/jobs/info/6acfb2782cc4e9d17e909e49?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 21 |
-| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Process Data Analytics Intern](https://jobright.ai/jobs/info/6b01702da512f514bbde3161?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 21 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Spring Intern: Asian Economics](https://jobright.ai/jobs/info/6ab6b5ad4873fd3fd852ec6a?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | ↳ | **[Spring Intern: Demographics and Political Economy](https://jobright.ai/jobs/info/6ab6d09e62bb1fbd451dbfe8?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[Molex](http://www.molex.com)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/6b013d6e0ae14188d58c3b52?utm_campaign=1066&utm_source=git)** | Lisle, IL, United States | On Site | Nov 20 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Intelligence Analyst Internship](https://jobright.ai/jobs/info/6afcec86d86c15318a38fb1a?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 20 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, Ancillary Revenue AI & Data Automation](https://jobright.ai/jobs/info/6b00beb5e0dc961959283ea5?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 20 |
 | **[Danaher](https://www.danaher.com)** | **[CCM Data Governance - Intern Summer 2027](https://jobright.ai/jobs/info/6ad1271c256e49282e653194?utm_campaign=1066&utm_source=git)** | Logan, UT, United States | On Site | Nov 20 |
 | **[Constellation PowerLabs](http://www.exelonpowerlabs.com)** | **[2027 PowerFolio Data Analyst Intern - Houston Office](https://jobright.ai/jobs/info/6b00b7b4d1fe3bc162e3e4fa?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 20 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Ancillary Revenue AI & Data Automation](https://jobright.ai/jobs/info/6b00b461d1fe3bc162e3e2f0?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | On Site | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6aedf448bd2f33eea72d559b?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 19 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Workplace Experience Data and Automation Intern](https://jobright.ai/jobs/info/6aff467b72b9be3685290376?utm_campaign=1066&utm_source=git)** | Westminster, CO, United States | On Site | Nov 19 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern](https://jobright.ai/jobs/info/6af75d56c7349029d7094f4c?utm_campaign=1066&utm_source=git)** | Bentonville, AR, United States | On Site | Nov 19 |
+| **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Samsung Care AI Data Analytic Intern](https://jobright.ai/jobs/info/6aeeaeca9f8e479a8bcfa217?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
