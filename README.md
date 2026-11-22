@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solom](https://solom.earth)** | **[Geospatial Platform Engineering Intern → Full-Time Pathway](https://jobright.ai/jobs/info/6b0288299378f7b150e12615?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2027 Start)](https://jobright.ai/jobs/info/6ada6b94e4b94611ab85c2df?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 21 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6abe77908ff3fb9b3bc73d43?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 21 |
 | **[IBM](http://www.ibm.com)** | **[Intern Data Scientist 2027 – AI & Data Analytics](https://jobright.ai/jobs/info/6b00cff5a512f514bbde0c54?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com)** | **[Maps Intern (Spring 2027)](https://jobright.ai/jobs/info/6a91f363a27a2d3c9848ac4d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 20 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, AI-Powered Competitive Intelligence & Revenue Analytics](https://jobright.ai/jobs/info/6b009fea0f536e0ba7275a4d?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 20 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Food Access Data Intern](https://jobright.ai/jobs/info/6b00b8833a9a0230ab02a0df?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Nov 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Data Analyst Internship](https://jobright.ai/jobs/info/6b00dec02ad6cde5ef24fb44?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Data Analyst Internship](https://jobright.ai/jobs/info/6b00dec1f6ef85c61a50d507?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 20 |
 | **[Genworth](https://www.genworth.com)** | **[Data Analytics Intern – Summer 2027](https://jobright.ai/jobs/info/6b00badcd1fe3bc162e3e66d?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 20 |
 | **[Gusto](https://www.gusto.com)** | **[Gusto Insights Intern](https://jobright.ai/jobs/info/6b00901a3a9a0230ab0286c2?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Analytics Internship](https://jobright.ai/jobs/info/6b00baf0e0dc961959283be0?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 20 |
@@ -127,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Gallagher](https://www.ajg.com/)** | **[U.S. Internship - Data Analytics - ALL LOCATIONS](https://jobright.ai/jobs/info/6ae22e596679108488c48a0d?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL, United States | Remote | Nov 20 |
 | **[Centene Corporation](http://centene.com)** | **[Data and Analytics Summer 2027 Intern (Undergraduate)](https://jobright.ai/jobs/info/6aff71b86f4ca73dfeb442d3?utm_campaign=1066&utm_source=git)** | Remote, MO, United States | Remote | Nov 20 |
 | **[AbbVie](https://www.abbvie.com)** | **[2027 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6b00608a89d8ca1e84955925?utm_campaign=1066&utm_source=git)** | North Chicago, IL, United States | On Site | Nov 20 |
-| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US](https://jobright.ai/jobs/info/6ae9b99543826864b0fba59a?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 20 |
-| ↳ | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/6a96ccefd13b4819f39dd0b2?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 20 |
+| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/6a96ccefd13b4819f39dd0b2?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 20 |
+| ↳ | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US](https://jobright.ai/jobs/info/6ae9b99543826864b0fba59a?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 20 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6b007859d1fe3bc162e3bd8f?utm_campaign=1066&utm_source=git)** | North Chicago, IL, United States | Hybrid | Nov 20 |
 | **[RRA Capital | CRE Bridge Lender](https://rracapital.com/)** | **[Summer Analyst 2027](https://jobright.ai/jobs/info/6b0074c93a9a0230ab027558?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
 | **[Idaho National Laboratory](https://inl.gov)** | **[Electric Vehicle Charging Data Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6afbd641755d7cdf657fd796?utm_campaign=1066&utm_source=git)** | Idaho Falls, ID, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emmes Group](https://theemmesgroup.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6af237a41116f6f0a0767691?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[Data and Analytics Internship - Summer 2027](https://jobright.ai/jobs/info/6aed05fbab48a70793820980?utm_campaign=1066&utm_source=git)** | Red Wing, MN, United States | Hybrid | Nov 19 |
 | **[IntelliGenesis LLC®](http://intelligenesisllc.com)** | **[Applied Data Scientist Internship (DoW SkillBridge)](https://jobright.ai/jobs/info/6aff8db3865dbcc3f26fda4f?utm_campaign=1066&utm_source=git)** | Columbia, MD, United States | On Site | Nov 19 |
-| **[Western Governors University](http://www.wgu.edu/)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/6b009c15dfa58e4c244dcd21?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
