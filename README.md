@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PortfolioFuture](https://portfoliofuture.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6b036fa6d7d09d301fa87bdb?utm_campaign=1066&utm_source=git)** | United States | On Site | Nov 22 |
 | **[BlackRock](http://www.blackrock.com)** | **[2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://jobright.ai/jobs/info/6b0334d5c35a3d9ff8f48ebe?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 22 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Strategic Information Intern](https://jobright.ai/jobs/info/6a91a69fd18f756748279243?utm_campaign=1066&utm_source=git)** | Sheboygan, WI, United States | On Site | Nov 22 |
 | **[SageSure](https://www.sagesure.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6ac95413d4a5a03707411f0f?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Nov 22 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com)** | **[Maps Intern (Spring 2027)](https://jobright.ai/jobs/info/6a91f363a27a2d3c9848ac4d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, United States | On Site | Nov 20 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, AI-Powered Competitive Intelligence & Revenue Analytics](https://jobright.ai/jobs/info/6b009fea0f536e0ba7275a4d?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 20 |
 | **[Fund for Public Health in NYC](https://fphnyc.org)** | **[Food Access Data Intern](https://jobright.ai/jobs/info/6b00b8833a9a0230ab02a0df?utm_campaign=1066&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Nov 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Data Analyst Internship](https://jobright.ai/jobs/info/6b00dec1f6ef85c61a50d507?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Data Analyst Internship](https://jobright.ai/jobs/info/6b00dec02ad6cde5ef24fb44?utm_campaign=1066&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 20 |
 | **[Genworth](https://www.genworth.com)** | **[Data Analytics Intern – Summer 2027](https://jobright.ai/jobs/info/6b00badcd1fe3bc162e3e66d?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 20 |
 | **[Gusto](https://www.gusto.com)** | **[Gusto Insights Intern](https://jobright.ai/jobs/info/6b00901a3a9a0230ab0286c2?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Analytics Internship](https://jobright.ai/jobs/info/6b00baf0e0dc961959283be0?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street’s Model Risk Management - Quantitative Analyst - 2027 Summer Internship](https://jobright.ai/jobs/info/6affdc4872b9be368529462d?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Bioinformatics Scientist](https://jobright.ai/jobs/info/6afe6d834ab3081626ab14d3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff62bc1c42ea8f6ba00040?utm_campaign=1066&utm_source=git)** | State College, PA, United States | On Site | Nov 19 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Engineering Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6affb7f71126e09fee0921f0?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
