@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Allianz](https://www.allianz.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6b04ca9558147eafa299646d?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Conning](http://www.conning.com/)** | **[Insurance Research Intern (Summer 2027)](https://jobright.ai/jobs/info/6b04b5087bec27df08f93902?utm_campaign=1066&utm_source=git)** | Hartford, CT, United States | On Site | Nov 23 |
 | **[Vertex](tryvertex.co)** | **[Summer 2027 Internship, Biostatistics](https://jobright.ai/jobs/info/6b05ee3edbad4c4bd2502b3c?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 23 |
-| **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Digital Commerce Analytics Intern](https://jobright.ai/jobs/info/6b060d353e56157448ed2faa?utm_campaign=1066&utm_source=git)** | Stratham, NH, United States | On Site | Nov 23 |
-| ↳ | **[Digital Commerce Analytics Intern](https://jobright.ai/jobs/info/6b0613bc45a65b5da366e1a8?utm_campaign=1066&utm_source=git)** | Stratham, NH, United States | On Site | Nov 23 |
+| **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Digital Commerce Analytics Intern](https://jobright.ai/jobs/info/6b0613bc45a65b5da366e1a8?utm_campaign=1066&utm_source=git)** | Stratham, NH, United States | On Site | Nov 23 |
+| ↳ | **[Digital Commerce Analytics Intern](https://jobright.ai/jobs/info/6b060d353e56157448ed2faa?utm_campaign=1066&utm_source=git)** | Stratham, NH, United States | On Site | Nov 23 |
 | **[KLA](https://www.kla.com)** | **[PLM BI & Analytics Intern](https://jobright.ai/jobs/info/6b05d6f80a025d0ca4ff5d3d?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, United States | On Site | Nov 23 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Data and Business Intelligence Analyst, Intern](https://jobright.ai/jobs/info/6b05bd62707ad7f35053a12e?utm_campaign=1066&utm_source=git)** | Scarborough, ON, Canada | Hybrid | Nov 23 |
 | **[Danaher](https://www.danaher.com)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6b05ab8563d280053ef83d45?utm_campaign=1066&utm_source=git)** | Brea, CA, United States | On Site | Nov 23 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6b05c54ed43f730eab595fa9?utm_campaign=1066&utm_source=git)** | Brea, CA, United States | On Site | Nov 23 |
 | **[Milliman](http://www.milliman.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6b04963713646880439e33a0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 23 |
 | **[Emmes](https://www.emmes.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6af2416f0cb834dad9325760?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 23 |
-| **[SLB](https://www.slb.com)** | **[Student Intern](https://jobright.ai/jobs/info/6ab43865ef911c35dffa3fa0?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Nov 23 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6adf903dc5c64fa3d9cbcf84?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 23 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2027 - Data Innovations Intern](https://jobright.ai/jobs/info/6b04ba8a13646880439e4d39?utm_campaign=1066&utm_source=git)** | Reston, VA, United States | On Site | Nov 23 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/6b04813f4c822a415e671616?utm_campaign=1066&utm_source=git)** | Aurora, IL, United States | Hybrid | Nov 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Information Technology Analyst Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6b0150fe0ae14188d58c3cbb?utm_campaign=1066&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Data & Digital Transformation Intern - Geysers](https://jobright.ai/jobs/info/6aecc3663a3fa7f03ea88d3d?utm_campaign=1066&utm_source=git)** | Middletown, CA, United States | On Site | Nov 23 |
 | ↳ | **[2027 Summer PMO/Data Analyst Intern (Chicago, IL)](https://jobright.ai/jobs/info/6aa8239a3a9f0a4fe6f17767?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 PowerFolio Data Analyst Intern - Houston Office](https://jobright.ai/jobs/info/6b00ececaf6fea8c089b58fe?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
