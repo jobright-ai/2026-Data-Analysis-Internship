@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Synerga Partners](synergapartners.com)** | **[Insights & Analytics Intern](https://jobright.ai/jobs/info/6b07ca8e15c65ea0eb57d707?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6b0648753e56157448ed494f?utm_campaign=1066&utm_source=git)** | Mesa, AZ, United States | On Site | Nov 25 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[C2C Forward Fellow, Data Programs](https://jobright.ai/jobs/info/6ac018174ac55253f5d678bc?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Nov 25 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, League of Legends - Summer 2027](https://jobright.ai/jobs/info/6af4c7953a9a26aee70a0706?utm_campaign=1066&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 25 |
@@ -104,13 +105,13 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Immigration Data Analyst Project Intern (HROPs) - 2026 Start](https://jobright.ai/jobs/info/6b06bbc58113626fcf3d58c6?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aceab66680c80c8753be2ce?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 25 |
 | **[Insmed Incorporated](https://insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6aea1adb440b469a1c0aaa47?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 25 |
-| **[Dell Technologies](https://www.dell.com)** | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
-| ↳ | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| **[Dell Technologies](https://www.dell.com)** | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| ↳ | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6b0670ef780d96a5ccba57cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Barclays](https://home.barclays)** | **[Markets Quantitative Analyst Summer Internship Program 2028 New York](https://jobright.ai/jobs/info/6b0433c9a72582cade08be78?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6b066b5b780d96a5ccba5703?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6afe0320f170d82b3967077d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
-| ↳ | **[Intern - Real World Data Strategy](https://jobright.ai/jobs/info/6b0493c713646880439e31cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Real World Data Strategy](https://jobright.ai/jobs/info/6b0493c713646880439e31cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
+| ↳ | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6afe0320f170d82b3967077d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Business Intelligence & Data Analytics Intern- OH](https://jobright.ai/jobs/info/6aff7dca72b9be36852929f8?utm_campaign=1066&utm_source=git)** | Mentor, OH, United States | On Site | Nov 24 |
 | **[Hightower](https://hightoweraccess.com)** | **[Enterprise Data Governance and Operations Internship](https://jobright.ai/jobs/info/6b0627ba0e7eacd1ea6468c2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Summer 2027 Internship, Biostatistics](https://jobright.ai/jobs/info/6b0603ca460ce5352ae3d7ee?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allianz](https://www.allianz.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/6b04ea14b4933fb9f43623ba?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[2027 Summer Digital Transformation Intern](https://jobright.ai/jobs/info/6b04c92c58147eafa299639a?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Nov 23 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Engineering Data Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6affb7f71126e09fee0921f0?utm_campaign=1066&utm_source=git)** | Hagerstown, MD, United States | On Site | Nov 23 |
-| **[Allianz](https://www.allianz.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6b04ca9558147eafa299646d?utm_campaign=1066&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
