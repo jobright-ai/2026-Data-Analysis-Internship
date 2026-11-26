@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2027 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/6ab2e0ce326574570a0038d5?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 26 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6ace82b3bb78de94580d6a4c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 26 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Buying and Planning Data Analytics Job Details / Celestica International LP](https://jobright.ai/jobs/info/6afac7e21460f8021289d048?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 26 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Data)](https://jobright.ai/jobs/info/6af8622135427cce9bb2d72d?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Nov 26 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Supply Chain Intelligence Internship](https://jobright.ai/jobs/info/6ae24adeeb7e8f715a60c5ab?utm_campaign=1066&utm_source=git)** | Monroe, WI, United States | On Site | Nov 25 |
 | **[Tepa Companies](https://www.tepa.com/)** | **[Environmental Data Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea71951ba298c777772e82?utm_campaign=1066&utm_source=git)** | Denver, CO, United States | On Site | Nov 25 |
 | **[National Basketball Players Association (NBPA)](https://basketball-bros.org/)** | **[Data & Analytics Intern Summer](https://jobright.ai/jobs/info/6b0720206c5083822fdc6fc8?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53be440b469a1c0acfff?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 25 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6aea53c0440b469a1c0ad000?utm_campaign=1066&utm_source=git)** | Akron, OH, United States | Hybrid | Nov 25 |
 | **[Siemens](https://www.siemens.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ac565ec064da25272e16cac?utm_campaign=1066&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 25 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6ace3a594391691a335ab500?utm_campaign=1066&utm_source=git)** | Macon, GA, United States | On Site | Nov 25 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Engineering Data Analytics](https://jobright.ai/jobs/info/6b07171c08b131a5c6577a8c?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Legrand](https://www.legrand.com)** | **[IT/IS Intern](https://jobright.ai/jobs/info/6b04866b526905eb2bcf7e10?utm_campaign=1066&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 25 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6b07133efbcb892eea5e0172?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 25 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6ae1f0ea6679108488c45cec?utm_campaign=1066&utm_source=git)** | Bala Cynwyd, PA, United States | On Site | Nov 25 |
-| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US](https://jobright.ai/jobs/info/6ae9b99543826864b0fba59a?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 25 |
-| ↳ | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/6a96ccefd13b4819f39dd0b2?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 25 |
+| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/6a96ccefd13b4819f39dd0b2?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 25 |
+| ↳ | **[2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US](https://jobright.ai/jobs/info/6ae9b99543826864b0fba59a?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, United States | On Site | Nov 25 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Information Systems Analyst](https://jobright.ai/jobs/info/6b070418b624dcc57de769db?utm_campaign=1066&utm_source=git)** | Falls Church, VA, United States | On Site | Nov 25 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Scientist Intern - 2027](https://jobright.ai/jobs/info/6ae9f63f43826864b0fbba47?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Nov 25 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6b01708adf73191d2e6b1466?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 24 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 24 |
 | **[EmployStats](https://employstats.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/6b05cfa42835ccc63ff550a6?utm_campaign=1066&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 24 |
-| **[Takeda](http://www.takeda.com)** | **[2027 Summer Internship Program: Clinical Data Science Statistics Intern](https://jobright.ai/jobs/info/6b002319e0dc96195927f6e6?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Remote | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
