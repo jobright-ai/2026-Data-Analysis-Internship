@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a9627443843db0159909dea?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 26 |
+| **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Quantitative Trader Intern, PhD](https://jobright.ai/jobs/info/6ace82b3bb78de94580d6a4c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 26 |
+| **[Celestica](https://www.celestica.com)** | **[Student Intern, Buying and Planning Data Analytics Job Details / Celestica International LP](https://jobright.ai/jobs/info/6afac7e21460f8021289d048?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 26 |
+| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Intern II (Data)](https://jobright.ai/jobs/info/6af8622135427cce9bb2d72d?utm_campaign=1066&utm_source=git)** | Erie, PA, United States | On Site | Nov 26 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Master Data Management Intern](https://jobright.ai/jobs/info/6a96264ff28891320e8608ff?utm_campaign=1066&utm_source=git)** | Millsboro, DE, United States | On Site | Nov 26 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Enterprise Intelligence Intern](https://jobright.ai/jobs/info/6a974552246d697dcee04983?utm_campaign=1066&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 26 |
 | **[IBM](http://www.ibm.com)** | **[Quantum Data Analyst Intern 2027](https://jobright.ai/jobs/info/6ae9f65c43826864b0fbba54?utm_campaign=1066&utm_source=git)** | Yorktown Heights, New York, United States | On Site | Nov 26 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/6ab2fdd38254c44790e5898d?utm_campaign=1066&utm_source=git)** | Mountain View, CA, United States | Hybrid | Nov 26 |
@@ -120,13 +123,13 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Immigration Data Analyst Project Intern (HROPs) - 2026 Start](https://jobright.ai/jobs/info/6b06bbc58113626fcf3d58c6?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aceab66680c80c8753be2ce?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 25 |
 | **[Insmed Incorporated](https://insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6aea1adb440b469a1c0aaa47?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 25 |
-| **[Dell Technologies](https://www.dell.com)** | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
-| ↳ | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| **[Dell Technologies](https://www.dell.com)** | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| ↳ | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6b0670ef780d96a5ccba57cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Barclays](https://home.barclays)** | **[Markets Quantitative Analyst Summer Internship Program 2028 New York](https://jobright.ai/jobs/info/6b0433c9a72582cade08be78?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6b066b5b780d96a5ccba5703?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6afe0320f170d82b3967077d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
-| ↳ | **[Intern - Real World Data Strategy](https://jobright.ai/jobs/info/6b0493c713646880439e31cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Real World Data Strategy](https://jobright.ai/jobs/info/6b0493c713646880439e31cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
+| ↳ | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6afe0320f170d82b3967077d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Business Intelligence & Data Analytics Intern- OH](https://jobright.ai/jobs/info/6aff7dca72b9be36852929f8?utm_campaign=1066&utm_source=git)** | Mentor, OH, United States | On Site | Nov 24 |
 | **[Hightower](https://hightoweraccess.com)** | **[Enterprise Data Governance and Operations Internship](https://jobright.ai/jobs/info/6b0627ba0e7eacd1ea6468c2?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Summer 2027 Internship, Biostatistics](https://jobright.ai/jobs/info/6b0603ca460ce5352ae3d7ee?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Hybrid | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6aab03fc76707040fb083a9f?utm_campaign=1066&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 24 |
 | **[EmployStats](https://employstats.com/)** | **[Economic Research Intern](https://jobright.ai/jobs/info/6b05cfa42835ccc63ff550a6?utm_campaign=1066&utm_source=git)** | Sugar Land, TX, United States | On Site | Nov 24 |
 | **[Takeda](http://www.takeda.com)** | **[2027 Summer Internship Program: Clinical Data Science Statistics Intern](https://jobright.ai/jobs/info/6b002319e0dc96195927f6e6?utm_campaign=1066&utm_source=git)** | Boston, MA, United States | Remote | Nov 24 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2027 Data Analyst Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/6aff93a0dd029d798066d956?utm_campaign=1066&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 24 |
-| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2027 Summer Internship – Data Science](https://jobright.ai/jobs/info/6ab0d2413d96632d741b459c?utm_campaign=1066&utm_source=git)** | Memphis, TN, United States | On Site | Nov 24 |
-| **[Cadence](https://www.cadence.com)** | **[CST Intern - Data Center GTM Intern](https://jobright.ai/jobs/info/6ae904a4fb2cd420ace6b43d?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
