@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TMX Group](http://www.tmx.com)** | **[Canadian Capital Markets - Data Analyst Intern](https://jobright.ai/jobs/info/6b08bbd9aa59d5ea1da525a3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[CAE](http://www.cae.com)** | **[C-GSS-156  Supplier Data Agent Intern](https://jobright.ai/jobs/info/6b086d8503dd5bd15ba475e3?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 26 |
 | ↳ | **[C-GSS-157 Business Intelligence and Applied AI Intern - Sustainable Procurement](https://jobright.ai/jobs/info/6b086d7758da992a6cc0c715?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[HEOR Intern](https://jobright.ai/jobs/info/6b08668d03dd5bd15ba4746c?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 26 |
@@ -108,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6ac565ec064da25272e16cac?utm_campaign=1066&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 25 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/6ace3a594391691a335ab500?utm_campaign=1066&utm_source=git)** | Macon, GA, United States | On Site | Nov 25 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern, Engineering Data Analytics](https://jobright.ai/jobs/info/6b07171c08b131a5c6577a8c?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 25 |
-| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Data Privacy](https://jobright.ai/jobs/info/6b07177d08b131a5c6577ad5?utm_campaign=1066&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
+| **[Regeneron](http://www.regeneron.com)** | **[2027 Summer Intern Data Privacy](https://jobright.ai/jobs/info/6b06fe1720135524ca728d45?utm_campaign=1066&utm_source=git)** | Sleepy Hollow, NY, United States | Hybrid | Nov 25 |
 | **[FM](https://www.fm.com)** | **[Data Visualization & Reporting Summer Intern](https://jobright.ai/jobs/info/6aea30c8440b469a1c0ab921?utm_campaign=1066&utm_source=git)** | Johnston, RI, United States | On Site | Nov 25 |
 | **[Legrand](https://www.legrand.com)** | **[IT/IS Intern](https://jobright.ai/jobs/info/6b04866b526905eb2bcf7e10?utm_campaign=1066&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 25 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6b07133efbcb892eea5e0172?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL, United States | On Site | Nov 25 |
@@ -120,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Data Analytics and Automation, Finance](https://jobright.ai/jobs/info/6b01708adf73191d2e6b1466?utm_campaign=1066&utm_source=git)** | Liberty Lake, WA, United States | Hybrid | Nov 25 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Guardian Summer 2027 Digital Technology & Data Intern](https://jobright.ai/jobs/info/6ad0dffbae21edea94fd19ae?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 25 |
 | **[Figma](https://www.figma.com)** | **[PhD Intern, Data Science (2027)](https://jobright.ai/jobs/info/6ab1d1f0f9692ca98b04beb6?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 25 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[BI/Data Warehousing Student Intern - Summer 2027](https://jobright.ai/jobs/info/6ab0a6a82e757fcb5c8be2e7?utm_campaign=1066&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 25 |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[BI/Data Warehousing Student Intern - Summer 2027](https://jobright.ai/jobs/info/6ab0b0f43d96632d741b3b17?utm_campaign=1066&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data Analytics Intern (Summer 2027)](https://jobright.ai/jobs/info/6ace42314f3229123da3af6b?utm_campaign=1066&utm_source=git)** | Delaware, OH, United States | On Site | Nov 25 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6ae9fe42440b469a1c0a8f06?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 25 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[STEM Impact & Data Reporting Intern](https://jobright.ai/jobs/info/6b05e1a2460ce5352ae3c278?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Data Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6afdf7370324c008a17e3196?utm_campaign=1066&utm_source=git)** | Johns Creek, GA, United States | On Site | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Data Analyst](https://jobright.ai/jobs/info/6b05309b7c4f49a9d215f4c2?utm_campaign=1066&utm_source=git)** | San Jose, CA, United States | On Site | Nov 24 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Finance Data Analyst Intern](https://jobright.ai/jobs/info/6ad7e8da950ef68d51845484?utm_campaign=1066&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 24 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Business Continuity Data Analyst & Reporting Intern](https://jobright.ai/jobs/info/6b05b015d43f730eab595126?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
