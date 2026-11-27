@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern (PhD)](https://jobright.ai/jobs/info/6ad1310ee2d41540d4a6ee3f?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Economic Research, Internship – Summer 2027](https://jobright.ai/jobs/info/6aee8c77e0c9de7b05f8fa9a?utm_campaign=1066&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 27 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6a9741d2d13b4819f39e0372?utm_campaign=1066&utm_source=git)** | Boise, ID, United States | On Site | Nov 27 |
 | ↳ | **[Data Management & Reporting Intern](https://jobright.ai/jobs/info/6ab425eb0e0ae54eeea46e67?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2027](https://jobright.ai/jobs/info/6b00149589d8ca1e84954621?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Immigration Data Analyst Project Intern (HROPs) - 2026 Start](https://jobright.ai/jobs/info/6b06bbc58113626fcf3d58c6?utm_campaign=1066&utm_source=git)** | Seattle, WA, United States | On Site | Nov 25 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aceab66680c80c8753be2ce?utm_campaign=1066&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 25 |
 | **[Insmed Incorporated](https://insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6aea1adb440b469a1c0aaa47?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 25 |
-| **[Dell Technologies](https://www.dell.com)** | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
-| ↳ | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| **[Dell Technologies](https://www.dell.com)** | **[Services Data Science Graduate Intern](https://jobright.ai/jobs/info/6addb7145dc7953215a39cd8?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
+| ↳ | **[Services Analytics Graduate Intern](https://jobright.ai/jobs/info/6addb716389e06bb41ad94d6?utm_campaign=1066&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 25 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6b0670ef780d96a5ccba57cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Barclays](https://home.barclays)** | **[Markets Quantitative Analyst Summer Internship Program 2028 New York](https://jobright.ai/jobs/info/6b0433c9a72582cade08be78?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Nov 24 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6b066b5b780d96a5ccba5703?utm_campaign=1066&utm_source=git)** | Washington, DC, United States | On Site | Nov 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](http://www.key.com/personal/index.jsp?key=com)** | **[2027 Summer Analytics and Quantitative Modeling Internship- Cleveland](https://jobright.ai/jobs/info/6b05f1050e7eacd1ea6449d8?utm_campaign=1066&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6b0620ac45a65b5da366e86c?utm_campaign=1066&utm_source=git)** | Mesa, AZ, United States | On Site | Nov 24 |
 | **[Roche](http://www.roche.com)** | **[2027 Summer Intern - Service Data and Analytics](https://jobright.ai/jobs/info/6b05075c58147eafa29975ec?utm_campaign=1066&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 24 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Data Science / Data Analytics Intern](https://jobright.ai/jobs/info/6b0619750e7eacd1ea646118?utm_campaign=1066&utm_source=git)** | La Grange, IL, United States | On Site | Nov 24 |
-| **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/6b06196ddbad4c4bd25044f5?utm_campaign=1066&utm_source=git)** | Lisle, IL, United States | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
